@@ -4,7 +4,13 @@
 
 	type Status = 'idle' | 'loading' | 'done' | 'error';
 
-	let inputText = $state('');
+	let inputText = $state(`## Imperiet
+
+Imperiet är ett mörkt och brutalt rike som sträcker sig över tre kontinenter. Dess kejsare, **Malachar den Grymme**, har styrt med järnhand i över fyrtio år.
+
+Städerna är fyllda av *skuggor och hemligheter* — korrupta ämbetsmän, gömda rebeller och farliga kulter lurar bakom varje fasad.
+
+> "I Sandukar överlever man inte genom styrka, utan genom att veta vem man kan köpa."`);
 	let result = $state<TranslateResponse | null>(null);
 	let status = $state<Status>('idle');
 	let errorMessage = $state('');
