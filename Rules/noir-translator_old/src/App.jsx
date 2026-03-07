@@ -16,6 +16,7 @@ export default function NoirTranslator() {
   const [currentChunk, setCurrentChunk] = useState(0);
   const [errorMsg, setErrorMsg] = useState("");
   const [loadedFromStorage, setLoadedFromStorage] = useState(false);
+  const [testMode, setTestMode] = useState(false);
   const abortRef = useRef(false);
   const translatedRef = useRef([]);
 
@@ -71,7 +72,7 @@ export default function NoirTranslator() {
     return data.content[0].text;
   };
 
-  const runTranslation = useCallback(async (startIdx) => {
+  const runTranslation = useCallback(async (startIdx, isTestMode = false) => {
     abortRef.current = false;
     setStatus("running");
     setErrorMsg("");
@@ -94,6 +95,11 @@ export default function NoirTranslator() {
           localStorage.setItem("noir_translated_chunks", JSON.stringify(translatedRef.current));
         } catch {}
 
+        if (isTestMode) {
+          setStatus("paused");
+          return;
+        }
+
         await new Promise((r) => setTimeout(r, 300));
       } catch (err) {
         setErrorMsg(`Error on chunk ${i + 1}: ${err.message}`);
@@ -107,7 +113,7 @@ export default function NoirTranslator() {
 
   const handleStart = () => {
     const startIdx = translatedRef.current.length;
-    runTranslation(startIdx);
+    runTranslation(startIdx, testMode);
   };
 
   const handlePause = () => {
@@ -116,7 +122,7 @@ export default function NoirTranslator() {
 
   const handleResume = () => {
     const startIdx = translatedRef.current.length;
-    runTranslation(startIdx);
+    runTranslation(startIdx, testMode);
   };
 
   const handleReset = () => {
@@ -151,6 +157,11 @@ export default function NoirTranslator() {
           <p style={{ marginBottom: 12 }}>Load the <strong>noir_chunks.json</strong> file to begin:</p>
           <input type="file" accept=".json" onChange={handleFileLoad}
             style={{ color: "#e0d6c8", background: "#222", border: "1px solid #444", padding: "8px 12px", borderRadius: 4, cursor: "pointer" }} />
+          <label style={{ display: "flex", alignItems: "center", gap: 8, marginTop: 14, cursor: "pointer", color: "#c9a84c", fontSize: 13 }}>
+            <input type="checkbox" checked={testMode} onChange={(e) => setTestMode(e.target.checked)}
+              style={{ accentColor: "#c9a84c", width: 15, height: 15, cursor: "pointer" }} />
+            Test mode — translate only the first chunk
+          </label>
         </div>
       )}
 
@@ -177,6 +188,12 @@ export default function NoirTranslator() {
               </p>
             )}
           </div>
+
+          <label style={{ display: "flex", alignItems: "center", gap: 8, marginBottom: 14, cursor: "pointer", color: "#c9a84c", fontSize: 13 }}>
+            <input type="checkbox" checked={testMode} onChange={(e) => setTestMode(e.target.checked)}
+              style={{ accentColor: "#c9a84c", width: 15, height: 15, cursor: "pointer" }} />
+            Test mode — translate only one chunk at a time
+          </label>
 
           <div style={{ display: "flex", gap: 10, flexWrap: "wrap" }}>
             {status === "ready" && (
