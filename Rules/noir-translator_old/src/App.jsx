@@ -17,8 +17,15 @@ export default function NoirTranslator() {
   const [errorMsg, setErrorMsg] = useState("");
   const [loadedFromStorage, setLoadedFromStorage] = useState(false);
   const [testMode, setTestMode] = useState(false);
+  const [apiKey, setApiKey] = useState(() => localStorage.getItem("noir_api_key") || "");
   const abortRef = useRef(false);
   const translatedRef = useRef([]);
+
+  const handleApiKeyChange = (e) => {
+    const val = e.target.value;
+    setApiKey(val);
+    try { localStorage.setItem("noir_api_key", val); } catch {}
+  };
 
   // Load chunks JSON file
   const handleFileLoad = async (e) => {
@@ -54,14 +61,14 @@ export default function NoirTranslator() {
   };
 
   const translateChunk = async (chunkText) => {
-    const response = await fetch("/api/anthropic/v1/messages", {
+    const url = `/api/gemini/v1beta/models/gemini-2.0-flash:generateContent?key=${encodeURIComponent(apiKey)}`;
+    const response = await fetch(url, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({
-        model: "claude-sonnet-4-20250514",
-        max_tokens: 8000,
-        system: SYSTEM_PROMPT,
-        messages: [{ role: "user", content: `Translate this Swedish RPG markdown to English:\n\n${chunkText}` }],
+        systemInstruction: { parts: [{ text: SYSTEM_PROMPT }] },
+        contents: [{ parts: [{ text: `Translate this Swedish RPG markdown to English:\n\n${chunkText}` }] }],
+        generationConfig: { maxOutputTokens: 8000 },
       }),
     });
     if (!response.ok) {
@@ -69,7 +76,7 @@ export default function NoirTranslator() {
       throw new Error(`API error ${response.status}: ${err}`);
     }
     const data = await response.json();
-    return data.content[0].text;
+    return data.candidates[0].content.parts[0].text;
   };
 
   const runTranslation = useCallback(async (startIdx, isTestMode = false) => {
@@ -112,6 +119,11 @@ export default function NoirTranslator() {
   }, [chunks]);
 
   const handleStart = () => {
+    if (!apiKey.trim()) {
+      setErrorMsg("Enter your Google Gemini API key above before starting.");
+      setStatus("error");
+      return;
+    }
     const startIdx = translatedRef.current.length;
     runTranslation(startIdx, testMode);
   };
@@ -121,6 +133,11 @@ export default function NoirTranslator() {
   };
 
   const handleResume = () => {
+    if (!apiKey.trim()) {
+      setErrorMsg("Enter your Google Gemini API key above before resuming.");
+      setStatus("error");
+      return;
+    }
     const startIdx = translatedRef.current.length;
     runTranslation(startIdx, testMode);
   };
@@ -154,6 +171,17 @@ export default function NoirTranslator() {
 
       {status === "idle" && (
         <div>
+          <div style={{ marginBottom: 18 }}>
+            <label style={{ display: "block", color: "#888", fontSize: 12, marginBottom: 6 }}>Google Gemini API Key <span style={{ color: "#6a9e6a" }}>(free — no credit card needed)</span></label>
+            <input
+              type="password"
+              value={apiKey}
+              onChange={handleApiKeyChange}
+              placeholder="AIza..."
+              style={{ width: "100%", background: "#1a1a1a", border: "1px solid #444", color: "#e0d6c8", padding: "8px 12px", borderRadius: 4, fontFamily: "monospace", fontSize: 13, boxSizing: "border-box" }}
+            />
+            <p style={{ color: "#555", fontSize: 11, marginTop: 4 }}>Saved in localStorage. Get a free key at aistudio.google.com → Get API key.</p>
+          </div>
           <p style={{ marginBottom: 12 }}>Load the <strong>noir_chunks.json</strong> file to begin:</p>
           <input type="file" accept=".json" onChange={handleFileLoad}
             style={{ color: "#e0d6c8", background: "#222", border: "1px solid #444", padding: "8px 12px", borderRadius: 4, cursor: "pointer" }} />
