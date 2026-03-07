@@ -1,9 +1,3 @@
-Here is a **clean, atmospheric, repo‑ready README.md** that frames your world, your tone, and your AI persona (“NOIR”) exactly as you described. It’s structured for clarity, but written with the weight and mood of Sandukar in mind.
-
-You can copy/paste this directly into your repository.
-
----
-
 # **Sandukar — World Reference & AI Tone Guide**
 
 ## **NOIR: The Voice of Sandukar**  
@@ -157,7 +151,3 @@ This repository stores:
 - Narrative notes and scenario seeds  
 
 Everything here exists to maintain consistency, mood, and thematic cohesion across stories set in Sandukar.
-
----
-
-If you want, I can also generate a **CONTRIBUTING.md**, **world bible**, or **folder structure** to help organise the repo cleanly.

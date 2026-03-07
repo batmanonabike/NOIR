@@ -22,6 +22,17 @@ Former surveillance technician for the Ministry of Internal Order.
 Now a fugitive living in the blind spots of Sandukar—rewiring locks, checking windows, listening to walls for microphones that may or may not be there.  
 Survival is his only routine.
 
+### Combat Profile
+**Pragmatic survivor with limited formal training.**
+Marek is not a duelist; he fights to escape, protect Dmitri, and stay alive.
+
+- **Primary Weapon:** Revolver - controlled, deliberate shots under pressure.
+- **Secondary Tools:** Knife and improvised weapons - fast, dirty close-quarters defense.
+- **Operational Skills:** Restraint breaks, takedowns, and room awareness from Ministry field protocols.
+- **Tactical Edge:** Ambush avoidance, positioning, and defensive retreat over direct confrontation.
+
+In a stand-up fight he is outclassed by trained specialists, but in confined spaces and high-stress chaos he is dangerous.
+
 ---
 
 ## Strengths
@@ -29,6 +40,8 @@ Survival is his only routine.
 - **Pattern Recognition** — Sees connections others miss, even when he wishes he didn’t.  
 - **Endurance** — Survived beatings, torture, and the slow rot of guilt.  
 - **Cold Logic** — When the panic settles, he can think like a machine.
+- **Defensive Gun Handling** — Keeps composure with a sidearm when seconds matter.
+- **Close-Quarters Instinct** — Efficient, unsentimental reactions in tight spaces.
 
 ---
 
@@ -39,6 +52,8 @@ Survival is his only routine.
 - **Trauma** — Memories of state‑sanctioned horrors that claw at him in the quiet hours.  
 - **Occult Fear** — Deep unease around the manuscript Dmitri studies; terrified of what it might awaken in the man he loves.  
 - **Isolation** — Only he and Dmitri know the book exists, leaving Marek alone with the burden of its implications.
+- **Not Built for Duels** — Lacks elite fencing or formal battlefield training.
+- **Injury Legacy** — Old damage limits stamina in prolonged physical fights.
 
 ---
 

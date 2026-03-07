@@ -4,6 +4,10 @@
 **Dmitri Konstantinovich Belogradov**  
 A name once spoken in marble halls, now whispered in back‑alley safehouses.
 
+### Alias
+**Julien Marat**
+A revolutionary-sounding false name he uses while in hiding, inspired by Jean-Paul Marat.
+
 ---
 
 ## Motivations
@@ -22,6 +26,17 @@ Former heir to an industrial dynasty.
 Now a political exile, smuggler, and reluctant revolutionary.  
 His days are spent negotiating with fences, dodging informants, and navigating the secret society that shelters him.
 
+### Combat Profile
+**Aristocratic duelist trained by elite masters.**
+His technique favors precision over brute force, with disciplined footwork and controlled tempo.
+
+- **Primary Weapon:** Rapier - lightning-fast thrusts, precise targeting, formal dueling excellence.
+- **Secondary Weapon:** Main-gauche dagger - off-hand parries, blade traps, and close counters.
+- **Backup Weapon:** Flintlock pistol - one decisive shot before closing with steel.
+- **Additional Training:** Mounted combat - strong horsemanship and saber familiarity.
+
+In public as Julien Marat, he can intentionally fight rough to pass as a common revolutionary. In life-or-death moments, his noble form returns.
+
 ---
 
 ## Strengths
@@ -30,6 +45,8 @@ His days are spent negotiating with fences, dodging informants, and navigating t
 - **Defiance** — A spine that refuses to bend, even when it should.  
 - **Connections** — Knows the elite world intimately, even if he’s been cast out of it.  
 - **Occult Insight** — Fragmentary understanding of hidden lore from a forbidden text.
+- **Fencing Mastery** — Elite training in rapier technique and dueling etiquette.
+- **Duelist Composure** — Calm, tactical, and precise under pressure.
 
 ---
 
@@ -39,6 +56,7 @@ His days are spent negotiating with fences, dodging informants, and navigating t
 - **Guilt** — Believes Marek’s suffering is his fault.  
 - **Recognizable** — His face once appeared in society pages; anonymity is a luxury he doesn’t have.  
 - **Untrained Curiosity** — No mentor to guide him through the occult text, leaving him vulnerable to misinterpretation and obsession.
+- **Duelist Limits** — Deadly one-on-one, but less effective when outnumbered or pinned by sustained gunfire.
 
 ---
 
@@ -58,7 +76,10 @@ His days are spent negotiating with fences, dodging informants, and navigating t
 
 ## Possessions
 - A satchel of stolen jewelry—his mother’s last act of love.  
-- A forged identity card.  
+- A forged identity card under the name **Julien Marat**.  
+- A slim dueling rapier kept wrapped and hidden.  
+- A main-gauche dagger for off-hand defense.  
+- A single-shot flintlock pistol for emergencies.  
 - A switchblade with an ivory handle.  
 - Clothes that once belonged to a nobleman, now patched and worn thin.  
 - A **weathered, hand‑bound occult manuscript**, written in a script he can only partially decipher.  
