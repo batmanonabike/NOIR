@@ -50,13 +50,76 @@ noir_translator/
 
 **Status**: Implementation complete. Run `npm install` then `npm run dev`.
 
-### 📋 Phase 1 — Chunked Batch Translator (resumable)
+### � Phase 1 — Chunked Batch Translator (resumable)
 
-- Load `noir_chunks.json` (pre-split markdown sections from `TranslationTempFiles/`)
-- Translate chunk-by-chunk with progress bar
-- Persist progress to `localStorage` — survives credit exhaustion or tab close
-- Pause / Resume / Reset / Download controls
-- Per-chunk retry on error (not a full restart)
+**Directory**: `noir_translator/01_chunked_batch/`
+
+**Goal**: Translate all 99 chunks from `noir_chunks.json` with full pause/resume support
+so credit exhaustion or a browser close never loses work.
+
+#### Resume Mechanism
+
+Progress is stored in `localStorage` under the key `noir-translation-v1` as a
+`TranslationProgress` JSON object:
+
+```typescript
+interface ChunkProgress {
+  status: 'pending' | 'translating' | 'done' | 'error';
+  translation: string | null;  // null = not yet translated
+  error: string | null;        // null = no error
+  inputTokens: number;
+  outputTokens: number;
+}
+
+interface TranslationProgress {
+  version: 1;
+  chunkCount: number;          // must match current chunks.length (99)
+  startedAt: string;           // ISO timestamp of first run
+  updatedAt: string;           // ISO timestamp of last save
+  chunks: ChunkProgress[];     // one entry per source chunk, index-aligned
+}
+```
+
+**On page load**:
+1. Read `localStorage['noir-translation-v1']`
+2. If found AND `chunkCount === 99` → restore state, any `translating` chunks reset to `pending`
+3. Otherwise → fresh init (all chunks `pending`)
+
+**Reviewing completed work**:
+- Chunk list table shows all 99 rows with status badge: ✅ done | ⏳ pending | ❌ error
+- Click any row to expand a detail panel with source + translation side-by-side
+- Token counts per chunk + running totals in the header stats bar
+
+#### Controls
+
+| Button | When visible | Action |
+|--------|-------------|--------|
+| Start | idle | Initialise progress and begin queue |
+| Resume | paused | Continue from first non-done chunk |
+| Pause | running | Set `shouldPause` flag; finishes current in-flight request then stops |
+| Retry (per row) | error on that chunk | Re-translate that single chunk |
+| Reset | any | Confirm dialog → clear localStorage → fresh state |
+| Download | any | Merge all translations (untranslated chunks marked) → save `.md` file |
+
+#### Translation Queue
+
+- Chunks are processed sequentially (one at a time) to avoid rate limits
+- After each chunk, state is persisted to `localStorage`
+- Errors on individual chunks do not stop the queue — mark as `error`, continue
+
+#### Data Flow
+
+```
++page.server.ts  →  load()  →  readFileSync(noir_chunks.json)
+                                        ↓
+                              PageData.chunks: string[]  (99 items)
+                                        ↓
+                              +page.svelte  →  localStorage resume check
+                                        ↓
+                              runQueue()  →  POST /api/translate  →  Gemini
+                                        ↓
+                              saveProgress()  →  localStorage
+```
 
 ### 📋 Phase 2 — Page Number Remapping
 
@@ -117,6 +180,21 @@ npm run dev        # dev server → http://localhost:5173
 npm run check      # TypeScript type-check (run before committing)
 npm run build      # production build
 ```
+
+## Running Phase 1
+
+```powershell
+cd noir_translator/01_chunked_batch
+npm install        # first time only
+# Copy .env.local from Phase 0 or create a fresh one:
+#   GEMINI_API_KEY=AIza...
+npm run dev        # dev server → http://localhost:5173
+npm run check      # TypeScript type-check
+```
+
+**Resuming a previous session**: open the app — if `localStorage` contains a saved session
+matching the current 99 chunks, it will be automatically restored and the status will show
+⏸ Paused. Click **Resume** to continue from the first non-done chunk.
 
 ---
 
