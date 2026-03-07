@@ -1,0 +1,245 @@
+import { useState, useRef, useCallback } from "react";
+
+const SYSTEM_PROMPT = `You are a professional translator specializing in Swedish to English translation of tabletop RPG rulebooks.
+
+Translate the provided Swedish markdown text to English. Rules:
+1. Preserve ALL markdown formatting exactly (##, **, <!-- -->, *italics*, etc.)
+2. Keep proper nouns for places (Sandukar, Imperiet) and character names as-is
+3. Translate naturally for a native English RPG audience - use genre-appropriate terminology
+4. Keep the tone: dark, noir, dystopian
+5. Output ONLY the translated markdown, nothing else - no preamble, no explanation`;
+
+export default function NoirTranslator() {
+  const [status, setStatus] = useState("idle"); // idle | loading | running | done | error
+  const [chunks, setChunks] = useState([]);
+  const [translated, setTranslated] = useState([]);
+  const [currentChunk, setCurrentChunk] = useState(0);
+  const [errorMsg, setErrorMsg] = useState("");
+  const [loadedFromStorage, setLoadedFromStorage] = useState(false);
+  const abortRef = useRef(false);
+  const translatedRef = useRef([]);
+
+  // Load chunks JSON file
+  const handleFileLoad = async (e) => {
+    const file = e.target.files[0];
+    if (!file) return;
+    setStatus("loading");
+    try {
+      const text = await file.text();
+      const data = JSON.parse(text);
+      setChunks(data);
+
+      // Check storage for existing progress
+      try {
+        const saved = await window.storage.get("noir_translated_chunks");
+        if (saved && saved.value) {
+          const prev = JSON.parse(saved.value);
+          if (prev.length > 0 && prev.length <= data.length) {
+            translatedRef.current = prev;
+            setTranslated([...prev]);
+            setCurrentChunk(prev.length);
+            setLoadedFromStorage(true);
+            setStatus("paused");
+            return;
+          }
+        }
+      } catch {}
+
+      setStatus("ready");
+    } catch (err) {
+      setErrorMsg("Failed to parse JSON: " + err.message);
+      setStatus("error");
+    }
+  };
+
+  const translateChunk = async (chunkText) => {
+    const response = await fetch("https://api.anthropic.com/v1/messages", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        model: "claude-sonnet-4-20250514",
+        max_tokens: 8000,
+        system: SYSTEM_PROMPT,
+        messages: [{ role: "user", content: `Translate this Swedish RPG markdown to English:\n\n${chunkText}` }],
+      }),
+    });
+    if (!response.ok) {
+      const err = await response.text();
+      throw new Error(`API error ${response.status}: ${err}`);
+    }
+    const data = await response.json();
+    return data.content[0].text;
+  };
+
+  const runTranslation = useCallback(async (startIdx) => {
+    abortRef.current = false;
+    setStatus("running");
+    setErrorMsg("");
+
+    for (let i = startIdx; i < chunks.length; i++) {
+      if (abortRef.current) {
+        setStatus("paused");
+        return;
+      }
+
+      setCurrentChunk(i);
+
+      try {
+        const result = await translateChunk(chunks[i]);
+        translatedRef.current = [...translatedRef.current, result];
+        setTranslated([...translatedRef.current]);
+
+        // Save progress to storage every chunk
+        try {
+          await window.storage.set(
+            "noir_translated_chunks",
+            JSON.stringify(translatedRef.current)
+          );
+        } catch {}
+
+        await new Promise((r) => setTimeout(r, 300));
+      } catch (err) {
+        setErrorMsg(`Error on chunk ${i + 1}: ${err.message}`);
+        setStatus("error");
+        return;
+      }
+    }
+
+    setStatus("done");
+  }, [chunks]);
+
+  const handleStart = () => {
+    const startIdx = translatedRef.current.length;
+    runTranslation(startIdx);
+  };
+
+  const handlePause = () => {
+    abortRef.current = true;
+  };
+
+  const handleResume = () => {
+    const startIdx = translatedRef.current.length;
+    runTranslation(startIdx);
+  };
+
+  const handleReset = async () => {
+    abortRef.current = true;
+    translatedRef.current = [];
+    setTranslated([]);
+    setCurrentChunk(0);
+    setStatus("ready");
+    try { await window.storage.delete("noir_translated_chunks"); } catch {}
+  };
+
+  const handleDownload = () => {
+    const fullText = translatedRef.current.join("\n\n");
+    const blob = new Blob([fullText], { type: "text/markdown;charset=utf-8" });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement("a");
+    a.href = url;
+    a.download = "Noir_Player_Safe_English.md";
+    a.click();
+    URL.revokeObjectURL(url);
+  };
+
+  const pct = chunks.length > 0 ? Math.round((translated.length / chunks.length) * 100) : 0;
+
+  return (
+    <div style={{ fontFamily: "monospace", maxWidth: 700, margin: "40px auto", padding: 24, background: "#111", color: "#e0d6c8", borderRadius: 8 }}>
+      <h1 style={{ color: "#c9a84c", fontSize: 22, marginBottom: 4 }}>🕵️ Noir RPG Translator</h1>
+      <p style={{ color: "#888", marginBottom: 24, fontSize: 13 }}>Swedish → English · 99 chunks · ~283 pages</p>
+
+      {status === "idle" && (
+        <div>
+          <p style={{ marginBottom: 12 }}>Load the <strong>noir_chunks.json</strong> file to begin:</p>
+          <input type="file" accept=".json" onChange={handleFileLoad}
+            style={{ color: "#e0d6c8", background: "#222", border: "1px solid #444", padding: "8px 12px", borderRadius: 4, cursor: "pointer" }} />
+        </div>
+      )}
+
+      {status === "loading" && <p style={{ color: "#c9a84c" }}>Loading chunks...</p>}
+
+      {(status === "ready" || status === "paused" || status === "running" || status === "done" || status === "error") && chunks.length > 0 && (
+        <div>
+          <div style={{ background: "#1a1a1a", border: "1px solid #333", borderRadius: 6, padding: 16, marginBottom: 20 }}>
+            <div style={{ display: "flex", justifyContent: "space-between", marginBottom: 8 }}>
+              <span style={{ color: "#888" }}>Progress</span>
+              <span style={{ color: "#c9a84c", fontWeight: "bold" }}>{translated.length} / {chunks.length} chunks ({pct}%)</span>
+            </div>
+            <div style={{ background: "#333", borderRadius: 4, height: 12, overflow: "hidden" }}>
+              <div style={{ width: `${pct}%`, height: "100%", background: "linear-gradient(90deg, #c9a84c, #e8c96a)", transition: "width 0.4s" }} />
+            </div>
+            {status === "running" && (
+              <p style={{ color: "#888", fontSize: 12, marginTop: 8 }}>
+                Translating chunk {currentChunk + 1}...
+              </p>
+            )}
+            {loadedFromStorage && status === "paused" && (
+              <p style={{ color: "#6a9e6a", fontSize: 12, marginTop: 8 }}>
+                ✓ Resumed from saved progress ({translated.length} chunks already done)
+              </p>
+            )}
+          </div>
+
+          <div style={{ display: "flex", gap: 10, flexWrap: "wrap" }}>
+            {status === "ready" && (
+              <button onClick={handleStart}
+                style={{ background: "#c9a84c", color: "#111", border: "none", padding: "10px 20px", borderRadius: 4, cursor: "pointer", fontWeight: "bold" }}>
+                ▶ Start Translation
+              </button>
+            )}
+            {status === "paused" && (
+              <button onClick={handleResume}
+                style={{ background: "#c9a84c", color: "#111", border: "none", padding: "10px 20px", borderRadius: 4, cursor: "pointer", fontWeight: "bold" }}>
+                ▶ Resume
+              </button>
+            )}
+            {status === "running" && (
+              <button onClick={handlePause}
+                style={{ background: "#555", color: "#e0d6c8", border: "none", padding: "10px 20px", borderRadius: 4, cursor: "pointer" }}>
+                ⏸ Pause
+              </button>
+            )}
+            {(status === "done" || status === "paused" || status === "error") && translated.length > 0 && (
+              <button onClick={handleDownload}
+                style={{ background: "#2a5e2a", color: "#e0d6c8", border: "none", padding: "10px 20px", borderRadius: 4, cursor: "pointer", fontWeight: "bold" }}>
+                ⬇ Download English Markdown
+              </button>
+            )}
+            {status !== "running" && (
+              <button onClick={handleReset}
+                style={{ background: "transparent", color: "#666", border: "1px solid #444", padding: "10px 20px", borderRadius: 4, cursor: "pointer" }}>
+                ↺ Reset
+              </button>
+            )}
+          </div>
+
+          {status === "done" && (
+            <div style={{ marginTop: 20, padding: 14, background: "#1a2e1a", border: "1px solid #2a5e2a", borderRadius: 6 }}>
+              <p style={{ color: "#6abf6a", margin: 0 }}>✓ Translation complete! Click "Download English Markdown" to save your file.</p>
+            </div>
+          )}
+
+          {status === "error" && (
+            <div style={{ marginTop: 20, padding: 14, background: "#2e1a1a", border: "1px solid #5e2a2a", borderRadius: 6 }}>
+              <p style={{ color: "#bf6a6a", margin: 0 }}>⚠ {errorMsg}</p>
+              <p style={{ color: "#888", fontSize: 12, marginTop: 8 }}>Progress saved. You can resume after a moment.</p>
+              <button onClick={handleResume} style={{ marginTop: 8, background: "#c9a84c", color: "#111", border: "none", padding: "8px 16px", borderRadius: 4, cursor: "pointer" }}>
+                ↺ Retry
+              </button>
+            </div>
+          )}
+
+          {translated.length > 0 && (
+            <div style={{ marginTop: 20, background: "#1a1a1a", border: "1px solid #333", borderRadius: 6, padding: 14, maxHeight: 200, overflowY: "auto" }}>
+              <p style={{ color: "#666", fontSize: 11, margin: "0 0 8px" }}>Latest translated output preview:</p>
+              <pre style={{ color: "#a09080", fontSize: 11, margin: 0, whiteSpace: "pre-wrap", wordBreak: "break-word" }}>
+                {translated[translated.length - 1]?.slice(0, 600)}...
+              </pre>
+            </div>
+          )}
+        </div>
+      )}
+    </div>
+  );
+}
