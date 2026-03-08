@@ -4,11 +4,13 @@ Applies formatting rules from refactor_translate.md to the translated Markdown f
 """
 import re, sys, pathlib
 
-FILEPATH = pathlib.Path(r'c:\source\NOIR_03\Rules\Results\Claude.ai_artifact\noir_chunks_all_results_1.md')
+INPUT_FILE = pathlib.Path(r'c:\source\NOIR_03\Rules\Results\Claude.ai_artifact\noir_english.md')
+OUTPUT_FILE = pathlib.Path(r'c:\source\NOIR_03\Rules\Results\Claude.ai_artifact\noir_english_refactor.md')
 
-text = FILEPATH.read_text(encoding='utf-8')
+text = INPUT_FILE.read_text(encoding='utf-8')
 
-# ── Rule 5: Remove HTML page-marker comments ───────────────────────────────
+# ── Rule 5: Normalize HTML page-marker comments to English ─────────────────
+# text = re.sub(r'<!-- Sida (\d+) -->', r'<!-- Page \1 -->', text)
 text = re.sub(r'[ \t]*<!-- (?:Sida|Page) \d+ -->[ \t]*\n?', '\n', text)
 
 # ── Rule 4: Remove "NNchapter N – title" footer/header labels ─────────────
@@ -223,7 +225,7 @@ text = re.sub(r'<([^>]+)>', lambda m: '(' + m.group(1) + ')', text)
 text = re.sub(r'\n{3,}', '\n\n', text)
 
 # ── Final tidy: strip trailing spaces from lines ──────────────────────────
-text = re.sub(r'[ \t]+\n', '\n', text)
+# text = re.sub(r'[ \t]+\n', '\n', text)
 
-FILEPATH.write_text(text, encoding='utf-8')
-print("Refactoring complete.")
+OUTPUT_FILE.write_text(text, encoding='utf-8')
+print(f"Refactoring complete. Output written to: {OUTPUT_FILE.name}")
