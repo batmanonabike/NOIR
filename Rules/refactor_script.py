@@ -217,6 +217,63 @@ if toc_end_pos != -1:
 
     text = toc_section + text[toc_end_pos:]
 
+# ── Fix archive illustration index formatting ──────────────────────────────
+# Convert **Table of Contents** and **Illustration Index** to proper headings
+text = text.replace('\n**Table of Contents**\n', '\n\n### Table of Contents\n\n')
+text = text.replace('\n**Illustration Index**\n', '\n\n### Illustration Index\n\n')
+
+# ── Rule 17: Promote standalone bold headings to ### subheadings ───────────
+# **Heading** preceded by a blank line → ### Heading (with blank lines around it).
+# This converts section headings like **What Noir Is** and **Sandukar** that
+# were bolded but not given a heading level by the translator.
+# Skipped when the heading is immediately followed by another bold line
+# (which indicates a credits/label list rather than a section heading).
+text = re.sub(
+    r'\n\n\*\*([^*\n]+)\*\*\n\n?(?=\S)',
+    lambda m: f'\n\n### {m.group(1)}\n\n',
+    text
+)
+
+# Known plain-text subsection headings that weren't bolded in the source
+# and so weren't caught by the rule above — add heading markup and spacing.
+PLAIN_HEADINGS = [
+    'Mood & Setup', 'Realism',
+]
+for h in PLAIN_HEADINGS:
+    text = re.sub(
+        r'\n(' + re.escape(h) + r')\n',
+        f'\n\n### {h}\n\n',
+        text
+    )
+
+# ── Fix character stat blocks formatting ───────────────────────────────────
+# Add blank lines around stat block subheadings for proper Markdown rendering
+# (Limitations, Traits, Characteristics, Relationships sections)
+STAT_SUBHEADINGS = ['Limitations', 'Traits', 'Characteristics', 'Relationships']
+for heading in STAT_SUBHEADINGS:
+    # Add blank line before the heading if not already present
+    text = re.sub(
+        r'([^\n])\n(\*\*' + re.escape(heading) + r'\*\*)\n',
+        r'\1\n\n\2\n\n',
+        text
+    )
+    # Also handle cases where it's already on its own line but needs spacing after
+    text = re.sub(
+        r'\n(\*\*' + re.escape(heading) + r'\*\*)\n([^\n])',
+        r'\n\1\n\n\2',
+        text
+    )
+
+# ── Convert stat list items to bullet format ──────────────────────────────
+# Lines like "Item [X points]" or "Item: Description [X points]" → "- Item [X points]"
+# Match lines that contain [...points] or [...point] (may have "extra" before "points")
+text = re.sub(
+    r'^([A-Za-z][^:\n]*(?::\s*[^\[]+?)?\s*\[\d+\s*(?:extra\s+)?points?\s*\])\s*$',
+    r'- \1',
+    text,
+    flags=re.MULTILINE
+)
+
 # ── Rule 16: Replace angle-bracket placeholders with parentheses ──────────
 # Markdown parses <tag> as HTML, causing everything after to render as a link.
 text = re.sub(r'<([^>]+)>', lambda m: '(' + m.group(1) + ')', text)

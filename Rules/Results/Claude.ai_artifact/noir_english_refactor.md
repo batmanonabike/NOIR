@@ -6,7 +6,8 @@
 
 A dystopian roleplaying game by Marco Behrmann and Petter Nallo
 
-**Producer**
+### Producer
+
 **Marco Behrmann**
 Original idea & concept
 **Marco Behrmann**
@@ -341,8 +342,11 @@ www.noir.nu
 - Afterword
 - Character sheet
 - Inspiration
-**Table of Contents**
-**Illustration Index**
+
+### Table of Contents
+
+### Illustration Index
+
 Michael Gullbrandson: 8, 67, 72, 93, 118, 133, 147, 162, 165, 168, 179–180, 184, 187, 190, 194, 206, 208, 219, 249, 254, 265, 282, 286, 288, 295, 297, 302, 307, 319, 328.
 Patrik Hultén: 104–117. Alf Svensson: 12, 14, 24, 33, 86, 88, 98–101, 122, 130, 138–139, 144–145, 150–151, 156, 172–173, 196, 250, 278, 312, 346.
 
@@ -572,7 +576,8 @@ It was obvious that Lechkov had staged the whole thing, from beginning to end. A
 But that was then. That was history. When he was at his lowest he had one day lifted his gaze from the liquor glass and found her. Morgana Caravaldi would help him up again. With his help she would become an even bigger star than Sayah. And this time he had learned his lesson, he would be prepared. The revolver he constantly carried was only part of his insurance. He knew that the entertainment industry was as rotten as the underworld, with the big difference that within show business there was no honor whatsoever. He had learned from a master.
 And if anyone would try to take Morgana from him they would have to pay. Dearly.
 
-**Introduction**
+### Introduction
+
 Imagine a cocktail party in the penthouse of a black sky-scraper covered in gothic statues and vaults, to the sounds of a raging rain that frenetically drums against the tall window panes. All present are dressed from top to toe, smiling, conversing. Deals are formed and fortunes lost during the course of a few spoken words or a few sips from frosted drink glasses. The people conceal something ominous, something feverish, within themselves, which makes them uneasy and on edge, it drives them to extremes and misfortune. Welcome to Noir.
 **What roleplaying is**
 Roleplaying in the Noir vein is to build a story in a group that all group members participate in with immersion. The story is created together and takes participants to another place than our own world, where they act based on the roles they have in the story. This new world contains elements from our own, but much is also different – the sky is darker, people are more nervous and the rain is colder.
@@ -585,13 +590,16 @@ The absolutely most important thing about roleplaying is that it should be fun. 
 
 > **Character Sheet** — *This section contains a fillable print character sheet. See the original PDF for the form layout.*
 
-**What Noir Is**
+### What Noir Is
+
 Noir is a dystopian roleplaying game of darkness, violence, and death.
 The dystopia consists of a worldview that resembles our own during the early 20th century but which is nevertheless not the same. The world is darker and more dangerous—something we recoil from, something we don't want to experience for real.
 Noir is a French word meaning simply "black"
 and it's a fitting name as it encompasses darkness and light as well as the grayscale between them. The game's setting and mood is dark, bleak and hopeless—where individuals are secondary before the primary state apparatus, where bureaucrats and clans fight for power in the countless corridors of the authorities, where the State's police without cause bring in citizens for interrogation and where insane madmen, strange forces and hidden mysticism lurk in the fog-veiled alleys.
 In Noir's world, human life has little value and free will is far from self-evident. Nature is plundered of its wealth and ravaged in a reckless hunt for profit and resources. Vast wars rage against a nameless enemy and many of the Imperium's men perish in the meat grinders of war. All occurs in the State's presence and at its command. Orders shall be obeyed, not questioned. Many who live in the world fight a daily struggle for survival in the vast machinery. If you try to break societal patterns you must be prepared to fight for your cause and for your views. It's a cold and harsh world where many meet grim fates. The rich have enormous fortunes and the poor are left without any social safety nets whatsoever.
-Mood & Setup
+
+### Mood & Setup
+
 The goal with Noir is to create a setting and mood where exciting, dramatic and entertaining stories can be born and driven forward by players and narrator together. What follows is a number of highly stylistic and general thoughts on how Noir can be played, even though it naturally supports other types of stories as well. The below should be seen as a very generalizing description, where multitudes of exceptions from common conventions exist side by side.
 The idea is that Noir shall contain elements to create precisely that game world that both players and narrator want to experience adventures in. A melancholic world where fate guides dark doubting heroes in a hopeless struggle against a condescending authority, widespread corruption and brutal criminality—and not least a struggle against themselves, where destructive emotions like violence, vengeance, lust and desire brood beneath the surface.
 The players create their protagonists who are often anti-heroes with traumatic experiences in their past. They have weaknesses and fears like everyone else and no one is perfect, but they nevertheless possess the ability to perform small or great wonders in the dystopian world in which they live. Their innate morality is usually questionable but is rarely either completely black or completely white, but lands in a gray zone where egoism and survival instincts decide. Their motivations vary—perhaps someone wants to achieve forgiveness for past sins, another wants to find their childhood sweetheart and finally confess their love while a third wants to avenge the corrupt prosecutor who made him or her lose family, home and honor.
@@ -631,7 +639,7 @@ Within the city's sectors the individual's movement is often restricted and to b
 
 Sandukar is both the dream and the nightmare in one—a place where one can succeed in reaching the ultimate achievement, but where one just as easily can die a slow and agonizing death.
 
-**The Empire**
+### The Empire
 
 The Empire is the gigantic state where the stories in Noir take place. It is said that once upon a time war raged in the Empire. The peoples fought against each other in an unending spiral of violence. Times of peace were short and there was always some realm that fought to conquer its opponents. When everything fell under the State's shadow the realms became provinces under the lineages' rule. Some of the provinces are very rich and have multiple cities, others are wastelands that are plundered for their natural resources but otherwise left alone.
 
@@ -649,20 +657,20 @@ In the north the war rages against the enemy. The war has been going on for deca
 
 In the east the war rages against a province that broke free from the realm. The province is surrounded but its strong armament and ability for self-sufficiency make it a very difficult target. Nevertheless it is considered only a matter of time before it is reconquered.
 
-**The Lineages**
+### The Lineages
 
 There are a number of lineage houses which under the State's authority watch over the Empire and its people. The lineages follow their own laws and have masses of money, influence and power at their disposal. In recent times it has become increasingly common for lineages to socialize with the rich and powerful from the ordinary population. The older and more conservative lineages, however, prefer to see the people as servants with whom one has no social interaction.
 
 Between the lineages numerous conflicts occur in secret. This rarely reaches the ordinary people's ears. Assassinations, bribes, threats, intrigues and disputes can escalate into major conflicts where many innocent members of the people are used as pawns in the power game.
 
-**The Bureaucrats**
+### The Bureaucrats
 
 The administrative chaos that drives the Empire seems as ingenious as it is incomprehensible.
 For an outside observer it is impossible to grasp, and even for those who work within the administration, all parts outside one's own specific area are shrouded in mystery.
 
 Despite its complicated and sometimes seemingly illogical function, the bureaucracy works and maintains the Empire. If one has great influence or money one can take shortcuts within the bureaucracy—but most ordinary mortals must endure its incomprehensible web.
 
-**An Evening with Noir**
+### An Evening with Noir
 
 Here follows an example of a typical roleplaying session in Noir.
 Petter is the narrator while Marco, Sarah and Rikard are players. Marco portrays Gabriel, a socially smooth private detective who can handle a pistol. Sarah's role is the efficient criminal inspector Anya Malov, who frantically ensures that the law is followed. Anya and Gabriel have a certain romantic tension between them but Anya has difficulty with Gabriel being, as she sees it, overprotective. Rikard plays Mordekai, an indifferent, large-built ox of a man, with brawling in his blood and masses of dark secrets in his past.
@@ -703,20 +711,23 @@ Sarah (Anya): I follow, but keep watch backward.
 
 Petter (Narrator): You see nothing and hear nothing either. It's dead as the grave here.
 
-**The Church**
+### The Church
+
 Like a dog cowed by fear, the church of the one god cowers in the shadow of the State. As time passes it grows ever weaker. Still there are those who pray to the one god, but the oppression of those who visit the church grows ever harsher. Many keep their prayers to themselves and rarely bear the symbol of the cross openly. Yet the church has the power to defy the State, for according to an ancient decree it has the right to spread its teachings. In the church one can find piety and benevolence, but many evildoers hide behind the holy facade, and here it is greed and dark lusts that rule.
 
 Many within the church believe that they now live in the end times. That purgatory will soon sweep across the world. Others believe this has already happened. That the darkness and suffering that surrounds them can only mean that humanity is doomed, and that only through submission before the one god can one be guided to the kingdom of heaven.
 
 Since the uprising in the kingdom of Presvedonia and the church's newfound power there, though the holy scripture is proclaimed in a different interpretation, the State's agents monitor budding revolts within the church's ranks. It would not take much for the State to find justification to crush the church completely.
 
-**The Contagion**
+### The Contagion
+
 The State's apparatus of power knows what exists and what does not exist. To claim anything other than what the State has proclaimed is punishable by death. Sometimes, however, events and mysteries break through the State's control. People see and hear things they shouldn't, and some things cannot be hidden. In Sandukar, a rumor spreads of a soul plague, reaching more and more ears.
 
 The plague is a destructive force that destroys and perverts everything it touches. Within the church, one can hear priests tell their confidants about it and warn them of the afflicted. In the poor quarters, street thugs whisper of strange things living in the city's shadows. The afflicted are driven to madness before the contagion finally extinguishes their life flame. But some of them are said to return from death as something far more malevolent and terrible. The
 State claims that all this is the enemy's tactic to create chaos, and those who spread this message do best to do so in secret.
 
-**The Military**
+### The Military
+
 The Empire has a mighty military force. The infantry is the main unit, and the massive battles raging in trenches, ruined cities, and during violent offensives consume many lives. Simpler types of armored vehicles have begun to appear on the battlefields. These, however, have trouble advancing in difficult terrain and require constant service. The artillery available is powerful but not particularly precise, and often bombs detonate within friendly territory. Even though aircraft are effective as bombers and fighters, they play a withdrawn role, as most generals believe that battle should be fought on the ground and not in the air.
 
 Recently, all soldiers have been equipped with gas masks, as the eastern enemy commonly uses various types of poison gas in their attacks. At first, it was considered that the loss of soldiers in gas attacks was less severe than the cost of having to manufacture gas masks for the army.
@@ -775,7 +786,8 @@ They would be considered harmful to morale and esprit de corps, diverting focus 
 
 Soldiers in the field have few pleasures. After brief leaves, they are forced to return to the war and witness which of their comrades have fallen to the enemy. Alcohol and drugs are used to cope, and the female lifers who are forced into the field are heavily used and usually become breeding grounds for various lice and diseases. Everything contributes to making the soldiers inhuman and cold-hearted. But there are those who find comradeship and those who burn with their struggle to protect the Empire. Then there are always those who begin to enjoy the horrors of battle. They cannot adapt to a normal world but remain in the war because it is only in the bloody clashes that they belong.
 
-**The Enemy**
+### The Enemy
+
 The Empire has two major enemies. These diabolical adversaries threaten constantly, and only through the State's forceful intervention are they kept at bay. There is no communication with the enemy that the soldiers notice. The enemy must only be killed. Prisoners may only be taken on orders from superiors. To communicate with the enemy in any way is seen as treason and carries the death penalty. The State's propaganda fuels the hatred soldiers feel toward their enemies
 – only through their extermination can peace be achieved.
 
@@ -790,7 +802,8 @@ The Church has gained great power in the rebellious province, and soldiers fight
 Cathedral has become the seat of the enemy's leadership. From here are proclaimed the commandments of war's cleansing fire that must sweep across the Empire. The people hunger and lack many of the pleasures found in the other cities of the
 Empire, but in their hearts burns a supernatural faith. A hope for a better world after purgatory.
 
-**Rules**
+### Rules
+
 Rules in roleplaying are primarily used to create a fair balance in those moments where action and result need to be determined during the course of the story. They are used to simulate
 
 with bulging muscles under a dirty undershirt. The man in the suit speaks. "You have no business here, you're trespassing on private land and property. Who are you?"
@@ -829,19 +842,22 @@ different events in the world in a consistent and somewhat predictable way. Even
 
 The rules in Noir follow a simple basic concept where consistency and simplicity are guidelines. All dice rolls to determine results are made with two ten-sided dice, to which a fixed value is added. If the result is higher than either an opponent's value or a fixed difficulty level, the roll is successful. If not, it counts as failed. This is the rules in brief—more information about dice rolls can be found on page 199.
 
-**The philosophy behind the rules**
+### The philosophy behind the rules
+
 The rules in Noir are designed to be easy to understand and consistent to use. They are built on two key words—plausibility and credibility. This means that the purpose of the rules, beyond directly governing interaction with the game world and simulating it, is to emphasize the feeling and atmosphere that Noir is meant to convey. This is done by considering what is plausible and credible based on the conditions in the game world and the story—not based on what is plausible and credible in our own world. It is important to remember this since Noir's world is different compared to our own. In Noir there are forces that affect ordinary people that do not exist in our world.
 
 The players take on the roles of protagonists in a dramatic story where dark heroic deeds, agonizing self-sacrifices and brutal violence are a very tangible part, something most of us are thankfully spared from. Therefore, one cannot base assumptions about plausibility and credibility on our world—instead one must try to consider whether it is plausible and credible in Noir's world and in the story that is ongoing. This may sound difficult, but one quickly realizes at what level one should be for it to feel right.
 
 A very important philosophy is that the rules should inspire the narrator and the players. The rules exist as tools for acting in a fantastic and different world. Therefore, it is crucial that the rules also facilitate and provide ideas for creating new adventures, and that they increase tension without bringing either frustration or pace-killing stops.
 
-**Realism**
+### Realism
+
 A very important point is that plausibility and credibility are not the same as realism. Noir is not meant to be a realistic game but one where melancholy heroic deeds, epic showdowns, dramatic twists, action-filled battles and exciting escapes occur without entailing such great risks that the protagonists are more or less guaranteed to die as a result. The goal of any role-playing game is to have fun when participating, and it is easier to achieve this goal when the game allows bolder and more fantastic actions and there is a reasonable chance of succeeding with them. Realism often goes against this goal, since a hit with a firearm usually immediately puts a person out of combat condition and forces them into long hospital stays—and how fun is that, really?
 
 At the same time, it should be mentioned that even though Noir is meant to be an action-filled game where cool maneuvers can be performed, it is not a superhero game where the protagonists can fly, run at a hundred kilometers per hour or throw fireballs at the enemy. Such things are neither plausible nor credible.
 
-**Online**
+### Online
+
 Noir also exists on the Internet, where news, information, background material, tools and similar things are available for viewing and download. The vision is that Noir should be a living game where participants can engage and create a community together. Links to discussion forums and also a constantly updated interactive reference work, a so-called wiki, can be found there.
 
 The address to Noir's home on the Internet is: www.noir.nu
@@ -864,7 +880,7 @@ Petter (The Narrator): [Rolls dice] True. He fails exceptionally too, so he's no
 
 Rikard (Mordekai): [Rolls dice] Damage effect is, wow, that was high, maxed dice, a full 31, stunning admittedly but still.
 
-Petter (The Narrator): He's incapacitated so you get to tell what happens.
+- Petter (The Narrator): He's incapacitated so you get to tell what happens.
 
 Rikard (Mordekai): Okay, the pipe bomb leaves my rough hands, rotates around its own center point in a circular motion and hits the surprised guy in the throat. The force of the impact breaks his neck and he stumbles backward, into the office, gurgling.
 
@@ -896,12 +912,14 @@ The attack passed as quickly as it had begun, and the sounds of the surroundings
 
 The game's heroes, those the spotlight greedily craves to capture, are the protagonists. Each player enters the role-playing game through their own protagonist and takes him/her through the story created by the participants, on a journey where no one knows where it ends.
 
-**Creating a protagonist**
+### Creating a protagonist
+
 The people that the players portray in Noir are called protagonists. The rules in this chapter are used to create interesting, deep and multi-layered protagonists who are anchored in the world they operate in.
 
 It may be appropriate to point out that these rules are not intended to simulate all the individuals that exist in the world, but are for creating protagonists specifically, as these are often special people who experience exciting and amazing events.
 
-**Who the protagonists are**
+### Who the protagonists are
+
 Each player has their own protagonist through which they act with and against the game world. The protagonists in Noir's dark, bleak and harsh world are often antiheroes with tragic backgrounds, troubled relationships, destructive behaviors and weaknesses such as guilt, vengefulness, desire, wrath and obsession. Not infrequently they harbor a hunger for justice, an opportunity to set things right, or to get a new chance after life has repeatedly kicked the shit out of them.
 
 That the protagonists are not flawless, good, shining hero types makes them interesting to role-play, as their various dark sides make them encounter the story in unpredictable and exciting ways.
@@ -958,17 +976,20 @@ If a player has no idea for a concept, this step can be skipped and filled in la
 
 A concept can very well change as a protagonist gains new experience and experiences new events. Then it's just a matter of updating the concept.
 
-**Better from the start**
+### Better from the start
+
 **Characters created with the presented system all become roughly equal. If a player's new character joins an existing group of experienced protagonists, it can be boring to be much less experienced. Then a narrator can choose to give the newly created character experience directly after the character is created. It may be appropriate to give the character approximately half the life experience that the character with the highest value in the group has, even though this is only a recommendation.**
 
 **More information about experience** can be found on page 220. The narrator must decide for themselves whether this feels like a good solution for their particular group of players—sometimes it may simply fit well that there is a large difference in the characters' experience levels, such as when a beginner joins an older mentor.
 
 **If experience is given from the start,** this improvement occurs after the protagonist has completed the last step in the creation process—acquiring equipment.
 
-**Example of how a protagonist is created**
+### Example of how a protagonist is created
+
 On page 34 there is an example of how the entire creation process of a protagonist works. If anything feels unclear, please look at the example to gain clarity.
 
-**Suggestions for nature**
+### Suggestions for nature
+
 • Irresponsible • Relaxed • Bitter
 • Blasé • Charming • Cynical
 • Depressed • Desperate • Bold
@@ -983,7 +1004,8 @@ On page 34 there is an example of how the entire creation process of a protagoni
 • Doubtful • Pompous • Burned out
 • Friendly • Ambitious • Adventurous
 
-**Suggestions for occupations**
+### Suggestions for occupations
+
 • Lawyer • Worker • Athlete
 • Bartender • Boxer • Financier
 • Fugitive • Photographer • Freelance reporter
@@ -1003,7 +1025,8 @@ The attributes are the protagonist's basic prerequisites. There are nine attribu
 
 More about what the attributes mean can be found on page 214.
 
-**Number Attribute Value Capacity**
+### Number Attribute Value Capacity
+
 1 6 Good
 1 5 Good
 3 4 Average
@@ -1017,7 +1040,8 @@ The abilities are the protagonist's general areas of competence. Each attribute'
 
 Increasing an ability value by one step costs one point. The ability value shows the person's general competence in the ability. The different competence levels are shown in Table 1:2
 
-**Ability Value Competence Level**
+### Ability Value Competence Level
+
 0 Nonexistent
 1–3 Amateur
 4–6 Competent
@@ -1034,7 +1058,8 @@ Expertise areas are narrower fields within the abilities, which give the protago
 
 In the abilities where the person has ability value four to six (4–6), he/she gets one expertise area. Should the person have ability value seven or higher (7+), he/she may choose two expertise areas within the ability. This is summarized by Table 1:3. Naturally, the requirements for the chosen expertise area must be met.
 
-**Ability Value Number of expertises from start**
+### Ability Value Number of expertises from start
+
 0–3 0
 4–6 1
 7+ 2
@@ -1056,28 +1081,32 @@ Character traits show a person's personality and behavior. They are in themselve
 
 It is appropriate for a person to have between one and three character traits, although more can be chosen if it fits the concept. See page 225.
 
-**The Character Traits**
+### The Character Traits
+
 • Aggressive • Arrogant • Cautious
 • Greedy • Honorable • Vengeful
 • Loving • Indifferent • Lustful
 • Suspicious • Treacherous • Risk-prone
 • Convinced
 
-**Limitations and traits**
+### Limitations and traits
+
 **It is important that players and narrator together analyze and think through the choices made, so that it both fits into the story as a whole and into the person's life. Most of the choices are general and can be interpreted in several different ways to fit. It can be interesting to know when in a person's life things happen or have happened—having poor vision is probably a genetic condition the person was born with, while having a family can affect the person in very different ways depending on whether he acquired it recently or if it happened long ago in his/her life.**
 
 It may very well be that a player has a concept that requires more choices than he/she has points for. Then the player and narrator should discuss this and see if it's okay to change the sum of points so the concept fits. The important thing is to ensure that the person doesn't become completely unplayable or parodic. In the end, it's still about playing with a protagonist you enjoy and who fits into the story to be told.
 
-**Greater character trait impact**
+### Greater character trait impact
+
 **The character traits can be made more pronounced and then take an even larger place in the person's life and personality. By giving a character trait the prefix very or extremely, one amplifies its degree of impact. For example, a person instead of being honorable and aggressive can become very honorable and extremely aggressive.**
 
 A person should not have more than two character traits with the prefix "very" or more than one with the prefix "extremely", unless exceptionally good reasons exist.
 
-**Bear in mind that character traits that are extreme have very great impact on how the person acts, so they should be used sparingly and with consideration. People with several extreme character traits tend to be difficult to play and exaggerated, and this can easily ruin the story.**
+### Bear in mind that character traits that are extreme have very great impact on how the person acts, so they should be used sparingly and with consideration. People with several extreme character traits tend to be difficult to play and exaggerated, and this can easily ruin the story.
 
 **The narrator must approve all character traits that have prefixes.**
 
-**Expression**
+### Expression
+
 When a trait is chosen, its expression must also be determined. The expression a trait takes provides increased depth and an extra dimension to the character and makes it easy to immerse yourself in him/her as it shows how and/or in which situations the trait manifests. All chosen traits shall have at least one expression. A trait can have several expressions, but usually the number is between one and three. For examples and information regarding expressions, see page 228.
 
 Step 12: Relationships
@@ -1087,7 +1116,8 @@ A narrator character may not have any blood ties to the protagonist or be his/he
 
 The three narrator characters are noted in the protagonist's character sheet. Their respective name, profession, and concept are determined freely while Influence and Relationship are set to "Minor" and "Hostile" respectively. The player then gets 10 level points. Each level point can improve either Influence or Relationship by one level, see tables 1:4 and 1:5. More about narrator characters, relationships, and influence can be found on page 204.
 
-**Suggestions for suitable relationships**
+### Suggestions for suitable relationships
+
 • Ex-partner
 • Former employer
 • Former business partner
@@ -1099,7 +1129,8 @@ The three narrator characters are noted in the protagonist's character sheet. Th
 • Mentor
 • Professional contact
 
-**Level Points Value Corresponds to**
+### Level Points Value Corresponds to
+
 0 6 Minor influence
 1 9 Moderate influence
 2 12 Influential
@@ -1107,7 +1138,8 @@ The three narrator characters are noted in the protagonist's character sheet. Th
 4 18 Very great influence
 Table 1:4
 
-**Level Points Relationship**
+### Level Points Relationship
+
 0 Hostile
 1 Disapproving
 2 Neutral
@@ -1118,14 +1150,16 @@ Table 1:5
 Step 13: Attributes & attribute values
 Attributes are a kind of secondary information about the character that is used during gameplay. Some of the attributes are used for rolls, while others are used as references for other circumstances - also for calculating other attribute values. For more detailed information about attributes, see page 218.
 
-**Attribute values**
+### Attribute values
+
 Each attribute has an attribute value that is determined in different ways, usually by adding together the skill in different abilities, according to table 1:6. All attribute values are rounded down to the nearest whole number. A recommendation is to determine Size first as it is used in other formulas.
 
 Every time a skill that is part of a formula changes, the attribute values governed by the formula must also be recalculated.
 
 If an attribute value is affected by any additional factor, for example a trait or an area of expertise, this change is always applied after the possible formula, or base value, has been determined.
 
-**Attribute Attribute Value**
+### Attribute Attribute Value
+
 Defense (Intuition + Reactions + Awareness)/3
 Learning (Determination + Reasoning + Worldliness)/3
 Impression (Charm or Leadership + Sense + Worldliness)/3
@@ -1153,13 +1187,15 @@ Determine what the protagonist shall be called. The name says a lot about the pe
 Step 16: Money & equipment
 The protagonist receives a sum of cash based on his/her standard of living, usually 5,000 zovriner. The character also gets a starting set of items that illustrates that he/she has lived a life before the story starts. He/she can also acquire additional possessions. More about possessions can be found on page 88 and onward.
 
-**Variants regarding relationships**
+### Variants regarding relationships
+
 **A narrator can choose that each** protagonist has more or fewer than three relationships from the start. The narrator can also assign narrator characters to a protagonist, for example if the narrator wants to tie in a narrator character he/she knows will appear in a future story and thus get a stronger connection to the protagonist.
 
 Attraction & Passion
 A player who wants his/her protagonist to have an emotionally turbulent relationship from the start can give the relationship an attraction and/or a passion, according to page 208. This costs one level point for an attraction and an additional level point for a passion.
 
-**Successor**
+### Successor
+
 **An interesting variant that can** be used regarding relationships is that the player determines a successor to his/her protagonist. This means that one of the relationships is set in advance as a possible successor (that is, a new protagonist) if the current protagonist should disappear from a story, for example via death, kidnapping, retirement, flight, madness, or serious injury.
 
 **The advantage of this is that the** classic stylistic elements revenge, searching, and mystery get a natural entry into the story. Often it can be difficult to introduce new protagonists into an ongoing story in a non-forced way.
@@ -1168,7 +1204,8 @@ A player who wants his/her protagonist to have an emotionally turbulent relation
 
 **A narrator can also let all** protagonists get an extra relationship from the start, provided that it is precisely the successor. Otherwise, the successor has no special rules but functions exactly like an ordinary relationship to the protagonist.
 
-**Name suggestions**
+### Name suggestions
+
 On page 158 there is information about naming cultures in Imperiet.
 
 The deepening is for further exploring the protagonist's emotional life, upbringing, experiences, and personality. It can take quite a bit of time and is not necessary for character creation - but it gives the protagonist a multifaceted background and a complex depth.
@@ -1193,7 +1230,8 @@ Is there something that is the absolutely most important thing in the protagonis
 What traits/characteristics does the protagonist dislike in others?
 All people like something about others. What is often called personal chemistry governs whom the protagonist prefers to associate with. Some people simply cannot get along. Mention some peculiarities, personality traits, or behaviors that the protagonist simply has very difficulty handling, accepting, or going along with. It can be a dissolute lifestyle, contemptuous attitudes and prejudices, boastful loudmouths, flirtatious slime, ingratiating toadies, lazy coworkers, or perhaps larger groups like women, men, bosses, or anything - but something is always there that disturbs the protagonist to the extreme.
 
-**What dark secrets or guilty conscience does the protagonist have?**
+### What dark secrets or guilty conscience does the protagonist have?
+
 Does the protagonist have a bad conscience about something he/she did in the past? Or perhaps about something he/she didn't do? An anxiety that sometimes scratches superficially and sometimes tears paralyzing wounds in the soul? A dark secret just waiting to leak out? Has the character hurt someone, betrayed a friend for fleeting sex or dirty money, missed an important family dinner, looked the other way when a terrible crime was committed, or perhaps embezzled money from the poor and needy?
 
 Perhaps the protagonist didn't take the chance to ask out the one he/she had yearned for for several years before it was too late? Perhaps the protagonist worked overtime one evening instead of going home to the family, and therefore couldn't protect them from the murderer who extinguished their lives? Or is the protagonist tormented by the memory of that evening, after the wild party, when he/she ran over a homeless girl and fled the scene? Or is it perhaps something shameful that hides beneath the surface - like that a brother and sister have a secret love affair or that the character is in debt and caught in the hands of an unscrupulous loan shark?
@@ -1232,10 +1270,12 @@ The character has a characteristic appearance or a preference for a special type
 • Is a fashion icon - only the latest may be worn
 • Is visibly scarred
 
-**Drives**
+### Drives
+
 **Drives are the personal goals** a character has. Usually the character develops drives during the course of the story in response to the events that occur. But if the character has a well-developed and thought-through background, it can very well be appropriate to give the character one or more drives from the start. See page 230 for more information about drives.
 
-**Behaviors**
+### Behaviors
+
 The person carries one or more distinctive behaviors and mannerisms. Here follows a number of suggestions for prominent behaviors, but you are of course free to come up with your own.
 • Easily becomes obsessed (with sex, a person, an object, a goal, et cetera)
 • Single-minded in thought—once you've decided, you've decided
@@ -1516,7 +1556,8 @@ Talia is the woman the protagonist abandoned at the altar. She is from a fine fa
 Step 13: Attributes & Attribute Values (p. 29)
 Attributes and attribute values provide various information about the protagonist. Most are based on the protagonist's Skills. The formulas for calculation are given on page 29. In Marco's case it looks according to table 1:9.
 
-**Attribute Attribute Value**
+### Attribute Attribute Value
+
 Defense 4 (sum 6, −2 from Sturdy Size)
 Learning 5
 Impression 9 (sum 7, +2 from Charming)
@@ -1558,7 +1599,8 @@ It took him over a year to become human again. He rejected the idea of returning
 
 Through the years his contact network was built up, more and more money and prestige came the protagonist's way, but also memories from before. Some jobs he never took, like going after women or children. Parts of the old destructive behaviors returned, like the hunt for female beauty and drowning the memories in liquor. Still,
 
-**Gabriel Dimitri Jandaran**
+### Gabriel Dimitri Jandaran
+
 Arrogant (Vain)
 Very Greedy (Hungers for money)
 Loving (Understanding, accommodating)
@@ -1595,11 +1637,11 @@ Reputation: Noted (6): Underworld: Penalty/bonus (1) when used
 
 In these abilities Gabriel is considered to have no competence (see page 213).
 
-**What limitations and features Gabriel has, and their effects, are described briefly.**
+### What limitations and features Gabriel has, and their effects, are described briefly.
 
 Expertises that give bonuses to abilities are written with the bonus first. Where expertises give increased attribute values, the number is instead written after the attribute, for greater clarity.
 
-**After each ability, any learning marks are indicated (see page 221).**
+### After each ability, any learning marks are indicated (see page 221).
 
 **Gabriel's Hindrance is marked with a ring around the box for learning marks.**
 
@@ -1687,7 +1729,8 @@ Priest 50 Reporter 50 Brawler 51
 Soldier 51 Technician  52 Enforcer 52
 Investigator 53 Caregiver 53
 
-**Lawyer**
+### Lawyer
+
 "You misunderstand. I don't need to know whether you are a murderer or not, Mr. Timaran. All I need to know is what happened, who knows something about it, and that you can pay my fee."
 A lawyer is a specialized type of bureaucrat whose task is to interpret the State's complicated legal system and use it to defend or prosecute individuals. Depending on the lawyer's connections, knowledge and influence, their price varies greatly. The very cheapest lawyers, who are appointed to those who have no money to pay with, are seldom capable.
 But not even the most skilled lawyer can influence a legal case where the State or one of the families accuses a person, as they can modify the law to suit themselves, and the
@@ -1749,7 +1792,8 @@ Observant: Never Forgets a Face (Awareness)
 Convincing: Negotiate/Bargain (Persuade)
 Convincing: Persuade/Plead (Persuade)
 
-**Academic**
+### Academic
+
 "Doctor Villsayan, sir! Doctor! Come quickly, I have found the key! It was hidden between the sheets in the second bundle. It was chance that I discovered that the roughness of the paper was opposite when I ran my hand over it, and against the light. There I saw that the instructions were hidden! Do you understand? We have found the key!"
 Among dusty tomes, old writings and contemporary discoveries, the academic tries to expand their knowledge. Those who don't accept the State's description of the world or history but try to create their own picture of reality walk very dangerous paths. To defy the State's censorship and search for a different truth than the one given means risking arrest and execution for espionage and terrorism. Research often requires experimentation, which makes the need for laboratories present. Sometimes horrible experiments are carried out to achieve new knowledge, often with suffering and injury as a result.
 Horrific experiments occur in soundproofed rooms with steel gurneys and in attic rooms expeditions to forbidden ruined cities and lonely valleys are planned. In many academics the thirst for knowledge burns so strongly that they are prepared to sacrifice everything and defy all rules to find what they consider to be the truth.
@@ -1807,7 +1851,8 @@ Lift/Drag (Strength)
 Hardy: Heat/Cold (Tolerance)
 Local Knowledge: (the neighborhood) (Worldliness)
 
-**Artist**
+### Artist
+
 "She's pretty beautiful, isn't she? And what a voice she has! And her body... The dress she's wearing, it's anything but discreet! Oh yes, many men and women surely lust after her and the facade she's created around herself. But deep down she's surely just as rotten as the rest of us."
 By offering themselves, stepping into a role and exploiting their talents, the entertainer makes a living by evoking emotions in their audience. It could be anything from strong emotions like tragedy and fate-laden sorrow in theatrical epics to swinging song numbers at smoky nightclubs—a skilled enter-tainer should be able to produce both laughter and tears. With their presence on the silver screen, the stage or at the street corner, the entertainer tries to make the viewer forget, for a moment, the grey everyday reality, dream away and allow themselves to be seduced by his/her presence.
 The big, popular names attract a loyal audience, big money and many privileges. However, the profession is difficult. Only the truly talented, those with good connections or those willing to do anything to achieve success have the opportunity to go far; others must struggle along with jobs on the side, and for them the competition is fierce. Many turn to drugs to cope with the pressure and some become completely con-sumed by their roles and burn out at a young age.
@@ -1860,7 +1905,8 @@ Nimble: (same as for Agile) (Mobility)*
 Well-trained (Strength)*
 * At least one of the above expertises should be replaced with an appropriate sports expertise, see page 79.
 
-**Con Artist**
+### Con Artist
+
 "Of course I can help you Miss Adescu—I know the finest doctors when it comes to performing abortions painlessly and in secret. However, I must demand a favor in return but it's nothing big or dangerous we're talking about.
 Here, there now, take my handkerchief, dry your tears and then tell me where your father keeps his notebook."
 Through cunning, manipulation and blackmail the con artist gets what he/she desires. That lives are ruined and families torn apart along the way is met with little sympathy—it's the punishment the victims get for allowing themselves to be deceived.
@@ -1918,7 +1964,8 @@ Observant: Notice concealed weapons on person/frisk (Aware-ness)
 Local knowledge (Worldliness)
 Convincing: Threaten/intimidate/harass (Persuade)
 
-**Bureaucrat**
+### Bureaucrat
+
 "So you wish to use our archives for the purpose of, what did you call it… Ahh yes, that's right, research for personal satisfaction. You must be aware, madam, that this is a violation of nearly every legal statute I as a state official follow. But… for a tidy sum of 25,000 zovrins I can arrange a temporary permit for you and your associates."
 
 Sandukar's vast machinery requires its cogs and wheels. These hard-working individuals are the bureaucrats. They struggle with administration and upholding the laws and ordinances upon which the State rests. In massive buildings with lonely corridors and endless rows of filing cabinets, the bureaucrat toils to preserve an idea of a society he/she cannot understand or overview. The hierarchy is draconian and only through working obediently and faithfully for one's superiors can one hope to advance in importance and recognition.
@@ -1940,7 +1987,8 @@ Insight (3); Empathy (1), Oppose (4), Worldliness (1)
 Perception (4); Intuition (1), Vehicles (1), Awareness (6)
 Charisma (4); Charm (2), Leadership (2), Persuasion (4)
 
-**Expertises**
+### Expertises
+
 Studious (Determination)
 Stubborn (Determination)
 Academic focus: Administration/organization (Humanities)
@@ -1951,7 +1999,8 @@ Smart: Investigate/see connections (Deduction)
 Observant: Notice deviations/details (Awareness)
 Convincing: Negotiate/haggle (Persuasion)
 
-**Lone Wolf**
+### Lone Wolf
+
 "I've never felt comfortable among people, they're like vermin, stinking and infinite in number. Believe me, people are better off when I'm not in their vicinity. Ask those who now lie in the sewers overrun by rats—though on the other hand, one could say I merely returned them to their equals."
 
 Among Sandukar's millions of people it's easy to be overlooked and abandoned. Many live in total isolation, don't know their neighbors or the people they work with, and no longer have contact with their families. Some seek this isolation and choose solitude over company. Perhaps they choose it because they enjoy their own thoughts and their own company. Perhaps they're afraid of hurting someone, or of the outside world gaining insight into their secrets.
@@ -1975,7 +2024,8 @@ Insight (4); Empathy (1), Oppose (4), Worldliness (3)
 Perception (3); Intuition (2), Vehicles (1), Awareness (3)
 Charisma (2); Charm (1), Leadership (0), Persuasion (3)
 
-**Expertises**
+### Expertises
+
 Focus (Determination)
 Lockpicking: Door locks (Manual Dexterity)
 Technical focus: Mechanical objects (Construction)
@@ -1985,7 +2035,8 @@ Hardened: Withstand terror/horror (Resistance)
 Hardened: Endure degradation/abuse (Resistance)
 Tolerant: Alcohol (Tolerance)
 
-**Femme Fatale**
+### Femme Fatale
+
 "Ah, my beloved, you came after all. Yes, I've packed and a car is already waiting down on the street. That we'll finally get to flee and start our own lives—together. You got hold of the family jewels, didn't you? Because without money we won't survive. Ah, you have them in the suitcase, excellent! Why I have a pistol in my hand? See it as a symbol that you are too gullible. There now, don't spill any tears, I'm not spilling any for you."
 
 She knows what she wants and stops at nothing to get it. Manipulating, nagging, and begging are not beneath her. A femme fatale is a woman who has a goal and intends to achieve it at any cost. She does this through lies, threats, enticements, and sex—because these are paths that reach into the frozen heart of the men, or women, she manipulates into doing what she wants. It might involve getting rid of a competitor, murdering a spouse for inheritance and wealth, escaping a pursuer, or pulling off the perfect heist.
@@ -2007,7 +2058,8 @@ Insight (5); Empathy (1), Oppose (4), Worldliness (5)
 Perception (4); Intuition (5), Vehicles (0), Awareness (3)
 Charisma (6); Charm (7), Leadership (0), Persuasion (5)
 
-**Expertises**
+### Expertises
+
 Focus (Determination)
 Charismatic: Seduce/captivate (Charm)
 Charismatic: Dupe/manipulate (Charm)
@@ -2018,7 +2070,8 @@ Clear-minded: Remember things/places/phenomena (Deduction)
 Courteous (Worldliness)
 Convincing: Persuade/implore (Persuasion)
 
-**Fixer**
+### Fixer
+
 "So what does my lord desire? Here with us no lusts are forbidden and no wishes too strange. Yes, I understand if your wish is something beyond the normal, otherwise you wouldn't be here, would you? So tell me, do you want a woman, a man, a child? Or is it perhaps drugs or weapons you crave? With us you can get everything—the question is only how much you're willing to pay."
 
 Through contacts and colleagues the fixer can procure most things. He/she knows people in most agencies in society and knows where to go and whom to pump for information, equipment, or to have a particular type of service performed. An untraceable revolver, a police report obtained through back channels, information about who the film star slept with the night before, or smuggling someone out of the city are things the fixer can handle.
@@ -2042,7 +2095,8 @@ Insight (6); Empathy (1), Oppose (2), Worldliness (9)
 Perception (4); Intuition (4), Vehicles (0), Awareness (4)
 Charisma (5); Charm (4), Leadership (0), Persuasion (6)
 
-**Expertises**
+### Expertises
+
 Focus (Determination)
 Charismatic: Flatter/fawn (Charm)
 Eyes in the back of one's head (Intuition)
@@ -2052,7 +2106,8 @@ Knows the score (Worldliness)
 Fixer (Worldliness)
 Convincing: Negotiate/haggle (Persuasion)
 
-**Freelancer**
+### Freelancer
+
 "Okay, let me repeat the whole thing to make sure I understand you correctly. You want me to get to manufacturer Janis, execute him and his family in a way that makes your enemies not dare stand up against you again? Don't think it'll be a problem, but I'll demand half the payment upfront. When it comes to macabre assignments like this, I want to make sure I don't get cheated. After payment is complete, we'll never see each other again."
 
 The freelancer is a person who goes their own way or lets themselves be hired for services or substantial sums of money. However, they want to be their own and avoid becoming too closely tied to a particular organization. Many times the freelancer is hired to carry out distasteful, illegal and brutal assignments only to disappear afterward. One can find freelancers in many parts of society. It could be anything from private detectives who don't hesitate to take morally questionable assignments to professional killers in the underworld who have made killing their art. Violence and death seem to seek out freelancers and many become notorious and feared. But life is hard and as if it weren't enough that the degenerate experiences risk tearing their minds apart, freelancers can at any moment be subjected to assassination attempts from former antagonists or employers.
@@ -2072,7 +2127,8 @@ Insight (3); Empathy (0), Withstand (2), Worldly (4)
 Perception (4); Intuition (2), Vehicles (1), Awareness (5)
 Charisma (2); Charm (0), Leadership (0), Persuade (4)
 
-**Expertises**
+### Expertises
+
 Martial Arts Trained (Close Combat)
 Quick Reactions (Reactions)
 Fearless (Resistance)
@@ -2084,7 +2140,8 @@ Observant: Shadow/follow (Awareness)
 Versed: Criminals (Worldly)
 Persuasive: Interrogate/interview (Persuade)
 
-**Street Vagrant**
+### Street Vagrant
+
 "Nadja doesn't live anymore, she went into the fallen tower to search for valuables and something attacked her. I heard her screams and rushed there but found only parts of her. So now one is alone again. Fortunately the bottle doesn't abandon one — it makes one endure another day in this hell!"
 
 The street vagrant lives outside the system. They support themselves by begging, stealing and/or scavenging for food. Some perform simple services to scrape together enough money to get by. Most people don't even notice the pale and hollow-eyed figures sleeping in stairwells and alleys and wandering around like sleepwalkers. As a street vagrant you have no rights, no one will defend you or search for your killer if something goes wrong. However, the homeless see things more clearly than many others and among them are many hidden knowledges about Sandukar's forbidden areas, underground passages and modern myths.
@@ -2106,7 +2163,8 @@ Insight (4); Empathy (0), Withstand (3), Worldly (5)
 Perception (6); Intuition (5), Vehicles (0), Awareness (7)
 Charisma (3); Charm (0), Leadership (0), Persuade (6)
 
-**Expertises**
+### Expertises
+
 Pickpocket: Steal from purses/pockets (Dexterity)
 Instinct (Intuition)
 Brawling (Close Combat)
@@ -2117,7 +2175,8 @@ Observant: Hide (Awareness)
 Versed: The street (Worldly)
 Persuasive: Persuade/implore (Persuade)
 
-**Tactical Officer**
+### Tactical Officer
+
 "Now it's time to clean up here, let no one escape, show no mercy. Those who live here in the house are all society's scum, men, women, children and elderly. Like a cancer tumor they have grown and now threaten the realm's survival. We are the scalpel that cuts away the tumor and brings order! So men, ready your weapons, this morning traitor blood shall be spilled."
 
 Tactical officers are cold-blooded and combat-ready individuals deployed when the police force expects heavy resistance or needs to clean up dangerous areas. They can almost be likened to a military force within the police. They are often considered lacking in finesse and have the mentality of shoot first and ask questions later, but in their profession this is usually a requirement to survive. Some are driven entirely by aggression and adrenaline during missions, others by a sense of bringing justice, but all are marked in one way or another by the violence. Constantly encountering desperate people seconds before they behold death wears on the peace of mind and many seek destructive paths to relax and release the pressure.
@@ -2137,7 +2196,8 @@ Insight (3); Empathy (0), Withstand (5), Worldly (1)
 Perception (3); Intuition (2), Vehicles (0), Awareness (4)
 Charisma (2); Charm (0), Leadership (4), Persuade (0)
 
-**Expertises**
+### Expertises
+
 Good Shape (Stamina)
 Rhetoric: Criminals (Leadership)
 Medical Specialization: First aid (Medicine)
@@ -2150,7 +2210,8 @@ Battle-hardened (Firearms)
 Well-trained (Strength)
 Observant: Notice concealed weapons on person/frisk (Awareness)
 
-**Artist**
+### Artist
+
 "Good, insert the needle a bit deeper into her chest, I want to capture her suffering. Yes like that. Now, put the noose around her neck and pull tight. Don't worry, she's been my model many times before so I know what she can handle. Now you can let her get some air, I need to change the film in the camera."
 
 The world is observed, filtered and recreated through the artist. Impressions are gathered through studies of human behavior, nature's hidden language and culture's strange choices. Some artists resort to drugs to gain greater insight and inspiration, others sink into suffering and depression in the hunt for something greater. Art becomes an interpretation of the present and the artist absorbs the essence their surroundings give off. It's mixed with their thoughts, fantasies and experiences and shaped into paintings, music and literary works.
@@ -2172,7 +2233,8 @@ Insight (3); Empathy (4), Withstand (1), Worldly (1)
 Perception (4); Intuition (4), Vehicles (1), Awareness (3)
 Charisma (3); Charm (4), Leadership (0), Persuade (2)
 
-**Expertises**
+### Expertises
+
 Focus (Determination)
 Charismatic: Seduce/enthrall (Charm)
 Reading (Empathy)
@@ -2182,7 +2244,8 @@ Self-discipline (Sense)
 Creator: (something suitable for the profession) (Create)
 Outstanding Creator: (same as for Creator) (Create)
 
-**Cop**
+### Cop
+
 "So, are you going to tell me what you know? I know you're having trouble talking but trust me, it can get worse. A few knocked-out teeth are nothing compared to what I can do to you if I get really angry. So tell me now, who were your accomplices in the heist at the Golden Salon?
 You don't seem to understand who you're messing with, punk. I AM
 the law and the law doesn't care about scum like you."
@@ -2204,7 +2267,8 @@ Insight (6); Empathy (1), Withstand (5), Worldliness (6)
 Perception (5); Intuition (4), Vehicles (2), Awareness (4)
 Presence (3); Charm (0), Leadership (4), Persuade (2)
 
-**Expertise**
+### Expertise
+
 Instinct (Intuition)
 Sprint (Endurance)
 Presence (Leadership)
@@ -2214,7 +2278,8 @@ Weapon Handling: Revolver (Firearms)
 Observant: Notice hidden weapons on person/frisk (Awareness)
 Local Knowledge: (local area) (Worldliness)
 
-**Prostitute**
+### Prostitute
+
 "If the gentleman wants to tie me up, spit on me and take me everywhere it costs two hundred. Expensive? I'm young, doll-like and good at what I do, unlike the other worn-out scabby whores down here. I know what I'm worth... and for you, here and now, that's two hundred."
 
 The prostituted women and men, the girls and boys, live in harsh conditions with dirty brothels, dark alleys, dilapidated apartments and car front seats as their workplaces. Even though there are those who work their way up to higher levels with richer clients, the prostitutes' existence is based on being exploited for payment.
@@ -2237,7 +2302,8 @@ Insight (6); Empathy (1), Withstand (2), Worldliness (9)
 Perception (4); Intuition (5), Vehicles (0), Awareness (3)
 Presence (5); Charm (8), Leadership (0), Persuade (2)
 
-**Expertise**
+### Expertise
+
 Charismatic: Seduce/enchant (Charm)
 Charismatic: Dupe/manipulate (Charm)
 Pickpocket: Steal from purses/pockets (Dexterity)
@@ -2248,7 +2314,8 @@ Resilient: Diseases (Tolerance)
 Got the Situation (Worldliness)
 Fixer (Worldliness)
 
-**Priest**
+### Priest
+
 "In this world of total darkness you do right in coming to me, my child. There is much cruelty and horror and if one is not careful it drags one down into its perdition. Open your heart and tell of the deeds you have committed and for which sins you should be punished. Believe me
 I have heard most things and the One forgives all."
 
@@ -2272,7 +2339,8 @@ Insight (4); Empathy (7), Withstand (0), Worldliness (1)
 Perception (3); Intuition (4), Vehicles (0), Awareness (2)
 Presence (4); Charm (0), Leadership (4), Persuade (4)
 
-**Expertise**
+### Expertise
+
 Teachable (Determination)
 Understanding (Empathy)
 Comfort & Calm (Empathy)
@@ -2285,7 +2353,8 @@ Aura of Calm (Sense)
 Clear-Headed: Remember things/places/phenomena (Deduction)
 Convincing: Negotiate/bargain (Persuade)
 
-**Reporter**
+### Reporter
+
 "The article about how the top bosses at the Svakov factory ritually executed the workers who stood up against them caused me more trouble than benefit. Likewise the zeppelin scandal and the security at the mismanaged air harbor. I
 have been threatened countless times, but someone has to get the truth out to the people. My editor has a thick letter with pictures and copied documents that he will open if I disappear or have an accident. So far the letter's existence has saved me from horrors, but the latest scoop is so big that I suspect the insurance won't be enough."
 
@@ -2309,7 +2378,8 @@ Insight (4); Empathy (1), Withstand (2), Worldliness (5)
 Perception (6); Intuition (4), Vehicles (2), Awareness (6)
 Presence (5); Charm (4), Leadership (1), Persuade (5)
 
-**Expertise**
+### Expertise
+
 Charismatic: Mingle/converse (Charm)
 Academic Focus: (something suitable for the profession) (Humanities)
 Instinct (Intuition)
@@ -2320,7 +2390,8 @@ Observant: Notice deviations/details (Awareness)
 Got the Situation (Worldliness)
 Convincing: Convince/implore (Persuade)
 
-**Brawler**
+### Brawler
+
 "You might not get it, but you're not getting in here! Not now, not ever. Are you completely fucking stupid in the head? You pulling a knife on me? Dumb bastard!"
 The Brawler makes a living fighting for various reasons. Being constantly in brawls or messy situations is his/her life. It could be a way to make ends meet, for example through illegal boxing matches or death fights. Or it's just that the language of fists comes naturally to the person, perhaps due to long-term bullying during upbringing, chaotic conditions, petty crime, or other factors that created a need for the ability to defend oneself. The
 Brawler's life is often marked by injuries and scars from fights, and he/she frequently suffers permanent damage, memory problems, or a smashed-in face. To numb the pain, many choose to turn to painkillers or alcohol.
@@ -2375,7 +2446,8 @@ Weapon Handling: Rifle (Firearms)
 Tough: Diseases (Tolerance)
 Observant: Orient in darkness (Awareness)
 
-**Technician**
+### Technician
+
 "This electric clockwork should work perfectly, but for some reason it always runs slow toward morning when night withdraws. It's strange, somehow the water in the canals and the reservoir system seems to affect this mechanical construction..."
 In Noir's industrialized society, maintenance is needed. It's handled by technicians who must ensure that machines work, that technology is available, and that everyone is satisfied.
 The factories' machines are adjusted to function with utmost perfection. Reservoir dams in the canals are regulated and radio transmitters are installed. Cogwheels, levers, transformers, and generators are tools that keep society alive.
@@ -2437,7 +2509,8 @@ Beefy (Strength)
 Know the Score (Streetwise)
 Persuasive: Threaten/intimidate/harass (Persuade)
 
-**Investigator**
+### Investigator
+
 "When my flashlight illuminated the bloody symbols on the tiled wall, I realized I had found a new clue. Here, in this insane pattern, were the traces that would lead me to the murderer. He's luring me in and I'm now too deep in to resist, even though the investigation has officially been shut down. He's trying to tell me something, something I've missed. But I'll have to turn over every stone again and go through evidence and testimony one more time. I'll get you, you bastard!"
 An investigator is a person who spends their time interpreting clues, solving problems and searching for answers and people. Exactly what profession the investigator has can vary, he/she can be a police captain, hired consultant, problem-solver or private detective. Many investigators work for private individuals or companies.
 A corrupt police force that doesn't have the time or resources to conduct proper investigations, along with the need to have certain more illegal assignments carried out, means that the investigator fills an important function. Many assignments are simple and time-consuming, for example finding missing persons, finding evidence of infidelity and the like. However, it happens that the investigator stumbles into truly dangerous situations when trails turn out to lead to conspira-cies and high-level conflicts. Many investigators have a past in the police force (if they're not still there) and have contacts on the street.
@@ -2493,91 +2566,112 @@ Clear-minded: Investigate/see connections (Deduction)
 Clear-minded: Remember things/places/phenomena (Deduction)
 Patient: Diseases (Tolerance)
 
-**Background Packages**
+### Background Packages
+
 The background packages exist to offer the player a way to give their protagonist a complete profile with minimal time investment. Here a number of ready-made packages are presented in the form of various concepts. In each package there are limitations and characteristics, as well as charac-ter traits and relationships. The idea is that a player who doesn't want to micromanage the protagonist's background can quickly find and use a ready-made package that fits, or is close to, the intended concept.
 In the packages below the point costs are included so the player can easily swap out parts of the package if a choice doesn't fit into his/her vision of the protagonist. All limitations and charac-teristics are described in detail on pages 80–87. In addi-tion there are suggestions for character traits (see page 224) and relationships (see page 209) that fit into the package. In those packages where the limitation Family is included, the family has been included among the relationships.
 The names of the background packages are chosen to give an idea of what type of protagonist they would be suitable for. However, there are no problems whatsoever in modifying the packages or using them for other types of protagonists.
 **Irresponsible Hedonist**
+
 **Limitations**
+
 Wanted: Minor crimes [1 point]
-Family: Two narrator characters [3 points]
-Fear (noticeable): Condemning mother [2 points]
-Vice (overwhelming): Gambling (various types of card games) [4 points]
+- Family: Two narrator characters [3 points]
+- Fear (noticeable): Condemning mother [2 points]
+- Vice (overwhelming): Gambling (various types of card games) [4 points]
 **Characteristics**
-Fatalist [3 points]
-Size: Small [1 extra point]
-Lucky: Luck 6 [6 points]
-Fate's Favorite [2 points]
+
+- Fatalist [3 points]
+- Size: Small [1 extra point]
+- Lucky: Luck 6 [6 points]
+- Fate's Favorite [2 points]
 **Character Traits**
 Loving (passionate)
 Indifferent (uninterested)
+
 **Relationships**
+
 Mother; Influence 18, Disapproving relationship, Blood tie
 Son/daughter; Influence 6, Benevolent relationship, Blood tie
 Doorman; Influence 9, Hostile relationship
 Fixer; Influence 12, Disapproving relationship
 Nightclub owner; Influence 15, Neutral relationship, Att-raction
 **Cynical Detective**
+
 **Limitations**
-Family: One narrator character [2 points]
-Vice (noticeable): Alcohol (whiskey) [2 points]
-Vice (significant): Opposite sex (dangerous men/women) [3 points]
-Code of honor (basic): Always complete started cases [1 point]
-Ailment (mild): Stomach ulcer [2 points]
+
+- Family: One narrator character [2 points]
+- Vice (noticeable): Alcohol (whiskey) [2 points]
+- Vice (significant): Opposite sex (dangerous men/women) [3 points]
+- Code of honor (basic): Always complete started cases [1 point]
+- Ailment (mild): Stomach ulcer [2 points]
 **Characteristics**
-Appearance: Attractive [1 point]
-Hardboiled [2 points]
-Quick-thinking [2 points]
-Talented: Deduction [4 points]
-Fate's Favorite [1 point]
+
+- Appearance: Attractive [1 point]
+- Hardboiled [2 points]
+- Quick-thinking [2 points]
+- Talented: Deduction [4 points]
+- Fate's Favorite [1 point]
 **Character Traits**
 Suspicious (questioning)
 Risk-taking (snooping)
+
 **Relationships**
+
 Ex-husband/ex-wife; Influence 12, Disapproving relationship,
 Attraction, Blood tie
 Detective; Influence 12, Neutral relationship
 Snitch; Influence 12, Disapproving relationship
 Bartender; Influence 6, Benevolent relationship
 **Dedicated Detective**
+
 **Limitations**
-Family: One narrator character [2 points]
-Nightmares [2 points]
-Fear (noticeable): Dogs [2 points]
-Vice (noticeable): Children (vulnerable children) [2 points]
-Vice (noticeable): Opposite sex (appropriate superficial inclination) [2 points]
+
+- Family: One narrator character [2 points]
+- Nightmares [2 points]
+- Fear (noticeable): Dogs [2 points]
+- Vice (noticeable): Children (vulnerable children) [2 points]
+- Vice (noticeable): Opposite sex (appropriate superficial inclination) [2 points]
 **Characteristics**
-Flaw: Resistance [1 extra point]
-Standard of living: 5 [1 point]
-Reputation: Renowned (6) within the police [2 points]
-Talented: Intuition [4 points]
-Talented: Deduction [4 points]
+
+- Flaw: Resistance [1 extra point]
+- Standard of living: 5 [1 point]
+- Reputation: Renowned (6) within the police [2 points]
+- Talented: Intuition [4 points]
+- Talented: Deduction [4 points]
 **Character Traits**
 Very honest (principled)
 Convinced (determined)
+
 **Relationships**
+
 Sister/brother; Influence 9, Benevolent relationship, Blood tie
 Crime victim; Influence 6, Neutral relationship, Attraction
 Psychologist; Influence 12, Neutral relationship
 Medical examiner; Influence 12, Disapproving relationship
 **Daring Enforcer**
+
 **Limitations**
-Wanted: Minor crimes [1 point]
-Family: Three narrator characters [4 points]
-Fear (noticeable): Fear of heights [2 points]
-Vice (significant): Alcohol (hard liquor) [3 points]
+
+- Wanted: Minor crimes [1 point]
+- Family: Three narrator characters [4 points]
+- Fear (noticeable): Fear of heights [2 points]
+- Vice (significant): Alcohol (hard liquor) [3 points]
 **Characteristics**
-Hardboiled [2 points]
-Standard of living: 3 [1 extra point]
-Natural Warrior [3 points]
-Size: Large [3 points]
-Resilient [2 points]
-Fate's Favorite [3 points]
-Eye injury [2 extra points]
+
+- Hardboiled [2 points]
+- Standard of living: 3 [1 extra point]
+- Natural Warrior [3 points]
+- Size: Large [3 points]
+- Resilient [2 points]
+- Fate's Favorite [3 points]
+- Eye injury [2 extra points]
 **Character Traits**
 Aggressive (cruel, brutal)
 Vengeful (resentful)
+
 **Relationships**
+
 Husband/wife; Influence 12, Neutral relationship, Blood tie
 Son/daughter; Influence 6, Friendly relationship, Blood tie
 Brother; Influence 15, Disapproving relationship, Blood tie
@@ -2585,73 +2679,89 @@ Childhood friend; Influence 9, Benevolent relationship
 Corrupt cop; Influence 9, Neutral relationship
 Liquor store owner; Influence 9, Neutral relationship
 **Fanatical Agitator**
+
 **Limitations**
-Wanted: Enemy of the State [4 points]
-Code of honor (fanatical): Never help/facilitate for the State [3 points]
-Minority [1 point]
-Vice (noticeable): Propagate one's cause before audiences
+
+- Wanted: Enemy of the State [4 points]
+- Code of honor (fanatical): Never help/facilitate for the State [3 points]
+- Minority [1 point]
+- Vice (noticeable): Propagate one's cause before audiences
 (crowds in venues) [2 points]
 **Characteristics**
-Fatalist [3 points]
-Ex-convict [1 point]
-Charming [2 points]
-Standard of living: 2 [2 extra points]
-Reputation: Renowned (6) among the poor [2 points]
-Resilient [2 points]
-Lucky: Luck 2 [2 points]
-Appearance: Attractive [1 point]
-Fate's Favorite [1 point]
-Eye injury [2 extra points]
+
+- Fatalist [3 points]
+- Ex-convict [1 point]
+- Charming [2 points]
+- Standard of living: 2 [2 extra points]
+- Reputation: Renowned (6) among the poor [2 points]
+- Resilient [2 points]
+- Lucky: Luck 2 [2 points]
+- Appearance: Attractive [1 point]
+- Fate's Favorite [1 point]
+- Eye injury [2 extra points]
 **Character Traits**
 Honest (noble)
 Risk-taking (fearless)
 Extremely convinced (unwavering)
+
 **Relationships**
+
 Follower; Influence 9, Benevolent relationship, Attraction
 Informant; Influence 9, Disapproving relationship
 State police agent; Influence 15, Hostile relationship
 **Greedy Fraudster**
+
 **Limitations**
-Impaired vision: Poor [1 point]
-Code of honor (fanatical): Never lose self-control in public [3 points]
-Vice (significant): Objects (expensive art) [3 points]
-Vice (significant): Events (gatherings/parties/
+
+- Impaired vision: Poor [1 point]
+- Code of honor (fanatical): Never lose self-control in public [3 points]
+- Vice (significant): Objects (expensive art) [3 points]
+- Vice (significant): Events (gatherings/parties/
 events) [3 points]
 **Characteristics**
-Charming [2 points]
-Gifted [4 points]
-Appearance: Handsome/beautiful [2 points]
-Standard of living: 6 [2 points]
-Pain-sensitive [2 extra points]
-Flaw: Close Combat [1 extra point]
-Flaw: Strength [1 extra point]
-Talented: Persuade [4 points]
+
+- Charming [2 points]
+- Gifted [4 points]
+- Appearance: Handsome/beautiful [2 points]
+- Standard of living: 6 [2 points]
+- Pain-sensitive [2 extra points]
+- Flaw: Close Combat [1 extra point]
+- Flaw: Strength [1 extra point]
+- Talented: Persuade [4 points]
 **Character Traits**
 Greedy (covetous)
 Very deceitful (fraudulent)
+
 **Relationships**
+
 Lawyer; Influence 15, Neutral relationship
 Thug; Influence 12, Neutral relationship
 Ruined businessman; Influence 9, Hostile relationship
 
-**Kindhearted Doctor**
+### Kindhearted Doctor
+
 **Limitations**
-Drug Addict: Sedative drugs [1 point]
-Family: Two narrator characters [3 points]
-Code of Honor (fanatical): Always treat the sick and injured [3 points]
-Code of Honor (basic): Never reveal patient in-formation to outsiders [1 point]
-Nightmares [2 points]
+
+- Drug Addict: Sedative drugs [1 point]
+- Family: Two narrator characters [3 points]
+- Code of Honor (fanatical): Always treat the sick and injured [3 points]
+- Code of Honor (basic): Never reveal patient in-formation to outsiders [1 point]
+- Nightmares [2 points]
 **Traits**
-Gifted [4 points]
-Hardboiled [2 points]
-Flaw: Close Combat [1 extra point]
-Flaw: Firearms [1 extra point]
-Standard of Living: 6 [2 points]
-Talented: Medicine [4 points]
+
+- Gifted [4 points]
+- Hardboiled [2 points]
+- Flaw: Close Combat [1 extra point]
+- Flaw: Firearms [1 extra point]
+- Standard of Living: 6 [2 points]
+- Talented: Medicine [4 points]
 **Characteristics**
+
 Cautious (prudent)
 Honorable (integrity)
+
 **Relationships**
+
 Spouse; Influence 12, Neutral relationship, Attraction,
 **Blood Ties**
 Father; Influence 12, Dislike relationship, Blood Ties
@@ -2660,157 +2770,199 @@ Widow of deceased socialite; Influence 15,
 **Hostile relationship**
 Rival at the hospital/clinic; Influence 9, Dislike relationship
 **Investigative Reporter**
+
 **Limitations**
-Family: One narrator character [1 point]
-Code of Honor (fanatical): Never reveal or betray a source [3 points]
-Code of Honor (basic): Always report scoops to the public [1 point]
-Fear (noticeable): Confined spaces (elevators) [2 points]
-Weakness (noticeable): Snooping (for scoops) [2 points]
+
+- Family: One narrator character [1 point]
+- Code of Honor (fanatical): Never reveal or betray a source [3 points]
+- Code of Honor (basic): Always report scoops to the public [1 point]
+- Fear (noticeable): Confined spaces (elevators) [2 points]
+- Weakness (noticeable): Snooping (for scoops) [2 points]
 **Traits**
-Reputation: Renowned (6) within the press [2 points]
-Quick-Thinking [2 points]
-Talented: Create [4 points]
-Lucky: Luck 2 [2 points]
+
+- Reputation: Renowned (6) within the press [2 points]
+- Quick-Thinking [2 points]
+- Talented: Create [4 points]
+- Lucky: Luck 2 [2 points]
 **Characteristics**
+
 Suspicious (skeptical)
 Very risk-prone (curious)
+
 **Relationships**
+
 Spouse; Influence 6, Favorable relationship, Blood Ties
 Businessman; Influence 12, Hostile relationship
 Freelance photographer; Influence 9, Friendly relationship
 Petty criminal; Influence 9, Favorable relationship
 **Heroic Veteran**
+
 **Limitations**
-Depression: Maximum Wellbeing 7 [3 points]
-Family: One narrator character [2 points]
-Code of Honor (fanatical): Never leave a wounded comrade in the field [3 points]
-Nightmares [2 points]
+
+- Depression: Maximum Wellbeing 7 [3 points]
+- Family: One narrator character [2 points]
+- Code of Honor (fanatical): Never leave a wounded comrade in the field [3 points]
+- Nightmares [2 points]
 **Traits**
-Natural Warrior [3 points]
-Reserved [2 extra points]
-Reputation: Renowned (6) within the army [2 points]
-Stone Hard [3 points]
-Size: Tall [2 points]
-Battle Ready [2 points]
+
+- Natural Warrior [3 points]
+- Reserved [2 extra points]
+- Reputation: Renowned (6) within the army [2 points]
+- Stone Hard [3 points]
+- Size: Tall [2 points]
+- Battle Ready [2 points]
 **Characteristics**
+
 Honorable (upright)
 Risk-prone (confident)
+
 **Relationships**
+
 Spouse; Influence 12, Dislike relationship, Attrac-tion, Blood Ties
 Army buddy; Influence 9, Favorable relationship
 Officer; Influence 15, Dislike relationship
 Taxi driver; Influence 6, Neutral relationship
 **Devoted Researcher**
+
 **Limitations**
-Code of Honor (basic): Science is the supreme path [1 point]
-Impaired Hearing: Poor [1 point]
-Ailment (minor): High blood pressure [2 points]
-Debt: Heavily indebted [1 point]
-Weakness (sadism): Torture (experimentation) [2 points]
-Impaired Vision: Terrible [3 points]
+
+- Code of Honor (basic): Science is the supreme path [1 point]
+- Impaired Hearing: Poor [1 point]
+- Ailment (minor): High blood pressure [2 points]
+- Debt: Heavily indebted [1 point]
+- Weakness (sadism): Torture (experimentation) [2 points]
+- Impaired Vision: Terrible [3 points]
 **Traits**
-Gifted [4 points]
-Flaw: Charm [1 extra point]
-Standard of Living: 6 [2 points]
-Damaged Hand [2 extra points]
-Talented: Natural Science [4 points]
-Lucky: Luck 5 [5 points]
-Appearance: Ugly [2 extra points]
+
+- Gifted [4 points]
+- Flaw: Charm [1 extra point]
+- Standard of Living: 6 [2 points]
+- Damaged Hand [2 extra points]
+- Talented: Natural Science [4 points]
+- Lucky: Luck 5 [5 points]
+- Appearance: Ugly [2 extra points]
 **Characteristics**
+
 Aggressive (sadistic)
 Arrogant (self-righteous)
 Lustful (perverse)
+
 **Relationships**
+
 Bureaucrat; Influence 12, Favorable relationship
 Research competitor; Influence 12, Hostile relationship
 Dealer in strange things; Influence 9, Neutral relationship
 **Ruthless Seducer**
+
 **Limitations**
-Depression: Maximum Wellbeing 9 [1 point]
-Code of Honor (basic): Never fall in love [1 point]
-Fear (significant): Insanity [3 points]
-Weakness (noticeable): Sex (new conquests) [2 points]
-Weakness (significant): Sadism (dominate/seduce/de-grade/exploit) [3 points]
+
+- Depression: Maximum Wellbeing 9 [1 point]
+- Code of Honor (basic): Never fall in love [1 point]
+- Fear (significant): Insanity [3 points]
+- Weakness (noticeable): Sex (new conquests) [2 points]
+- Weakness (significant): Sadism (dominate/seduce/de-grade/exploit) [3 points]
 **Traits**
-Charming: [2 points]
-Flaw: Vehicles [1 extra point]
-Flaw: Construction [1 extra point]
-Standard of Living: 6 [2 points]
-Weak Grip [3 extra points]
-Talented: Charm [4 points]
-Appearance: Perfect [6 points]
-Fate's Favorite [1 point]
+
+- Charming: [2 points]
+- Flaw: Vehicles [1 extra point]
+- Flaw: Construction [1 extra point]
+- Standard of Living: 6 [2 points]
+- Weak Grip [3 extra points]
+- Talented: Charm [4 points]
+- Appearance: Perfect [6 points]
+- Fate's Favorite [1 point]
 **Characteristics**
+
 Greedy (power-hungry)
 Very deceitful (cunning, manipulative)
+
 **Relationships**
+
 Heartbroken man/woman; Influence 6, Hostile rela-tionship, Attraction
 Hotel manager; Influence 9, Neutral relationship
 Gangster boss; Influence 12, Neutral relationship, Attrac-tion/Passion
 **Cold-Blooded Professional Killer**
+
 **Limitations**
-Depression: Maximum Wellbeing 7 [3 points]
-Wanted: Serious crime [2 points]
-Weakness (significant): Sadism (torture) [3 points]
-Fear (noticeable): Closeness/intimacy [2 points]
+
+- Depression: Maximum Wellbeing 7 [3 points]
+- Wanted: Serious crime [2 points]
+- Weakness (significant): Sadism (torture) [3 points]
+- Fear (noticeable): Closeness/intimacy [2 points]
 **Traits**
-Hardboiled [2 points]
-Build: Thin [1 extra point]
-Flaw: Empathy [1 extra point]
-Reserved [2 extra points]
-Reputation: Infamous (4) within the underworld [2 points]
-Size: Tall [2 points]
-Battle Ready [2 points]
-Resilient [2 points]
-Talent: Firearms [4 points]
+
+- Hardboiled [2 points]
+- Build: Thin [1 extra point]
+- Flaw: Empathy [1 extra point]
+- Reserved [2 extra points]
+- Reputation: Infamous (4) within the underworld [2 points]
+- Size: Tall [2 points]
+- Battle Ready [2 points]
+- Resilient [2 points]
+- Talent: Firearms [4 points]
 **Characteristics**
+
 Indifferent (ruthless)
+
 **Relationships**
+
 Avenger; Influence 9, Hostile relationship
 Gangster boss; Influence 15, Neutral relationship
 Arms dealer; Influence 12, Neutral relationship
 **Cold-Hearted Avenger**
+
 **Limitations**
-Depression: Maximum Wellbeing 6 [4 points]
-Wanted: Serious crime [2 points]
-Code of Honor (fanatical): Never give up [3 points]
-Code of Honor (basic): Never harm innocent people [1 point]
+
+- Depression: Maximum Wellbeing 6 [4 points]
+- Wanted: Serious crime [2 points]
+- Code of Honor (fanatical): Never give up [3 points]
+- Code of Honor (basic): Never harm innocent people [1 point]
 **Traits**
-Fatalist [3 points]
-Ex-Con [1 point]
-Natural Warrior [3 points]
-Reserved [2 extra points]
-Reputation: Infamous (4) on the street [2 points]
-Size: Well-built [1 point]
-Battle Ready [2 points]
-Slow Learner [3 extra points]
-Fate's Favorite [3 points]
+
+- Fatalist [3 points]
+- Ex-Con [1 point]
+- Natural Warrior [3 points]
+- Reserved [2 extra points]
+- Reputation: Infamous (4) on the street [2 points]
+- Size: Well-built [1 point]
+- Battle Ready [2 points]
+- Slow Learner [3 extra points]
+- Fate's Favorite [3 points]
 **Characteristics**
+
 Aggressive (bloodthirsty)
 Very vengeful (obsessed)
 Very convinced (right to punish)
+
 **Relationships**
+
 Former friend; Influence 9, Dislike relationship
 Nemesis; Influence 18, Hostile relationship
 Reporter; Influence 12, Neutral relationship
 
-**Corrupt Official**
+### Corrupt Official
+
 **Limitations**
-Family: Three narrator characters [4 points]
-Code of Honor (basic): Always review all matters thoroughly [1 point]
-Fear (noticeable): Being exposed by superiors [2 points]
-Weakness (significant): Money (bribes) [3 points]
+
+- Family: Three narrator characters [4 points]
+- Code of Honor (basic): Always review all matters thoroughly [1 point]
+- Fear (noticeable): Being exposed by superiors [2 points]
+- Weakness (significant): Money (bribes) [3 points]
 **Traits**
-Build: Thin [1 extra point]
-Standard of Living: 6 [2 points]
-Quick-Thinking [2 points]
-Talented: Resolve [4 points]
-Talented: Humanities [4 points]
-Anxious [1 extra point]
+
+- Build: Thin [1 extra point]
+- Standard of Living: 6 [2 points]
+- Quick-Thinking [2 points]
+- Talented: Resolve [4 points]
+- Talented: Humanities [4 points]
+- Anxious [1 extra point]
 **Characteristics**
+
 Arrogant (emotionally cold)
 Greedy (stingy)
+
 **Relationships**
+
 Spouse; Influence 9, Favorable relationship, Attraction,
 **Blood Ties**
 Mother; Influence 9, Neutral relationship, Blood Ties
@@ -2819,116 +2971,146 @@ Gangster; Influence 12, Dislike relationship
 Accountant; Influence 9, Neutral relationship
 Clan member; Influence 15, Neutral relationship
 **War-Wounded Soldier**
+
 **Limitations**
-Impaired Hearing: Poor [1 point]
-Ailment (severe): Chemical-burned lungs [3 points]
-Nightmares [2 points]
-Fear (noticeable): Fires [2 points]
-Weakness (noticeable): Alcohol (liquor) [2 points]
+
+- Impaired Hearing: Poor [1 point]
+- Ailment (severe): Chemical-burned lungs [3 points]
+- Nightmares [2 points]
+- Fear (noticeable): Fires [2 points]
+- Weakness (noticeable): Alcohol (liquor) [2 points]
 **Traits**
-Limp [2 extra points]
-Hardboiled [2 points]
-Strong-Willed [3 points]
-Stone Hard [3 points]
-Size: Well-built [1 point]
-Resilient [2 points]
-Talented: Firearms [4 points]
-Appearance: Unattractive [1 extra point]
-Eye Damage [2 extra points]
+
+- Limp [2 extra points]
+- Hardboiled [2 points]
+- Strong-Willed [3 points]
+- Stone Hard [3 points]
+- Size: Well-built [1 point]
+- Resilient [2 points]
+- Talented: Firearms [4 points]
+- Appearance: Unattractive [1 extra point]
+- Eye Damage [2 extra points]
 **Characteristics**
+
 Arrogant (smug)
 Suspicious (jealous)
+
 **Relationships**
+
 Field medic; Influence 9, Neutral relationship
 Understanding bartender; Influence 9, Favorable relationship
 Neighbor; Influence 6, Favorable relationship
 **Suspicious Petty Criminal**
+
 **Limitations**
-Drug Addict: Sedative drugs [1 point]
-Nightmares [2 points]
-Minority [1 point]
-Fear (overwhelming): Stapo [4 points]
-Debt: Completely indebted [2 points]
+
+- Drug Addict: Sedative drugs [1 point]
+- Nightmares [2 points]
+- Minority [1 point]
+- Fear (overwhelming): Stapo [4 points]
+- Debt: Completely indebted [2 points]
 **Traits**
-Ex-Con [1 point]
-Build: Thin [1 extra point]
-Agile [2 points]
-Standard of Living: 2 [2 extra points]
-Reputation: Infamous (4) in the underworld [2 points]
-Quick-Thinking [2 points]
-Talented: Awareness [4 points]
-Appearance: Handsome/beautiful [2 points]
+
+- Ex-Con [1 point]
+- Build: Thin [1 extra point]
+- Agile [2 points]
+- Standard of Living: 2 [2 extra points]
+- Reputation: Infamous (4) in the underworld [2 points]
+- Quick-Thinking [2 points]
+- Talented: Awareness [4 points]
+- Appearance: Handsome/beautiful [2 points]
 **Characteristics**
+
 Suspicious (paranoid)
 Greedy (money-hungry)
+
 **Relationships**
+
 Street hustler; Influence 12, Favorable relationship
 Drug dealer; Influence 12, Neutral relationship
 Cop; Influence 9, Hostile relationship
 **Naive Actor**
+
 **Limitations**
-Fear (significant): Public humiliation [3 points]
-Weakness (noticeable): Opposite sex (influential men/women) [2 points]
-Ailment (minor): Migraine [2 points]
-Drug Addict: Stimulant drugs [1 point]
-Weakness (noticeable): Events (society parties/gala pre-mieres) [2 points]
+
+- Fear (significant): Public humiliation [3 points]
+- Weakness (noticeable): Opposite sex (influential men/women) [2 points]
+- Ailment (minor): Migraine [2 points]
+- Drug Addict: Stimulant drugs [1 point]
+- Weakness (noticeable): Events (society parties/gala pre-mieres) [2 points]
 **Traits**
-Easily Influenced [1 extra point]
-Anxious [1 extra point]
-Charming [2 points]
-Talented: Charm [4 points]
-Appearance: Sensational [4 points]
-Standard of Living: 6 [2 points]
+
+- Easily Influenced [1 extra point]
+- Anxious [1 extra point]
+- Charming [2 points]
+- Talented: Charm [4 points]
+- Appearance: Sensational [4 points]
+- Standard of Living: 6 [2 points]
 **Characteristics**
+
 Very arrogant (superficial)
+
 **Relationships**
+
 Booking agent; Influence 15, Neutral relationship
 Competitor; Influence 6, Dislike relationship, Attraction
 Reporter; Influence 9, Neutral relationship
 **Uneducated Brawler**
+
 **Limitations**
-Code of Honor (basic): Help and protect your friends [1 point]
-Impaired Hearing: Poor [1 point]
-Fear (significant): Claustrophobia [3 points]
-Weakness (noticeable): Children (vulnerable children) [2 points]
-Weakness (significant): Opposite sex (paternal/maternal feelings) [3 points]
+
+- Code of Honor (basic): Help and protect your friends [1 point]
+- Impaired Hearing: Poor [1 point]
+- Fear (significant): Claustrophobia [3 points]
+- Weakness (noticeable): Children (vulnerable children) [2 points]
+- Weakness (significant): Opposite sex (paternal/maternal feelings) [3 points]
 **Traits**
-Flaw: Charm [1 extra point]
-Flaw: Resist [1 extra point]
-Natural Warrior [3 points]
-Stone Hard [3 points]
-Size: Giant [4 points]
-Battle Ready [2 points]
-Resilient [2 points]
-Slow Learner [3 extra points]
-Fate's Favorite [1 point]
+
+- Flaw: Charm [1 extra point]
+- Flaw: Resist [1 extra point]
+- Natural Warrior [3 points]
+- Stone Hard [3 points]
+- Size: Giant [4 points]
+- Battle Ready [2 points]
+- Resilient [2 points]
+- Slow Learner [3 extra points]
+- Fate's Favorite [1 point]
 **Characteristics**
+
 Aggressive (violent)
+
 **Relationships**
+
 Boxing manager; Influence 12, Dislike relationship
 Gangster; Influence 12, Neutral relationship
 Childhood friend; Influence 6, Favorable relationship
 **Frightened Refugee**
+
 **Limitations**
-Family: Two narrator characters [3 points]
-Ailment (minor): Cough [2 points]
-Minority [1 point]
-Fear (overwhelming): Being found by the State [4 points]
+
+- Family: Two narrator characters [3 points]
+- Ailment (minor): Cough [2 points]
+- Minority [1 point]
+- Fear (overwhelming): Being found by the State [4 points]
 **Traits**
-Build: Thin [1 extra point]
-Agile [2 points]
-Standard of Living: 1 [3 extra points]
-Sickly [1 extra point]
-Strong-Willed [3 points]
-Resilient [2 points]
-Talented: Awareness [4 points]
-Lucky: Luck 3 [3 points]
-Fate's Favorite [1 point]
+
+- Build: Thin [1 extra point]
+- Agile [2 points]
+- Standard of Living: 1 [3 extra points]
+- Sickly [1 extra point]
+- Strong-Willed [3 points]
+- Resilient [2 points]
+- Talented: Awareness [4 points]
+- Lucky: Luck 3 [3 points]
+- Fate's Favorite [1 point]
 **Characteristics**
+
 Cautious (unassuming)
 Loving (their family)
 Suspicious (insecure)
+
 **Relationships**
+
 Spouse; Influence 9, Favorable relationship, Attraction/
 Passion, Blood Ties
 Son/daughter; Influence 6, Neutral relationship, Blood Ties
@@ -2936,116 +3118,142 @@ People smuggler; Influence 9, Neutral relationship
 Blackmailer; Influence 6, Hostile relationship
 Wise elder; Influence 15, Friendly relationship
 **Shrewd Businessman**
+
 **Limitations**
-Family: Two narrator characters [3 points]
-Fear (significant): Great heights [3 points]
-Debt: Heavily indebted [1 point]
-Weakness (significant): Sex (new conquests) [3 points]
+
+- Family: Two narrator characters [3 points]
+- Fear (significant): Great heights [3 points]
+- Debt: Heavily indebted [1 point]
+- Weakness (significant): Sex (new conquests) [3 points]
 **Traits**
-Build: Fat [2 extra points]
-Standard of Living: 7 [4 points]
-Pain-Sensitive [2 extra points]
-Quick-Thinking [2 points]
-Talented: Worldly [4 points]
-Talented: Persuade [4 points]
+
+- Build: Fat [2 extra points]
+- Standard of Living: 7 [4 points]
+- Pain-Sensitive [2 extra points]
+- Quick-Thinking [2 points]
+- Talented: Worldly [4 points]
+- Talented: Persuade [4 points]
 **Characteristics**
+
 Very greedy (money-hungry)
 Deceitful (unscrupulous)
+
 **Relationships**
+
 Spouse; Influence 12, Dislike relationship, Blood Ties
 Son/daughter; Influence 9, Friendly relationship, Blood Ties
 Bureaucrat; Influence 15, Neutral relationship
 Entrepreneur; Influence 12, Neutral relationship
 Mistress; Influence 6, Dislike relationship
 
-**Talkative Fixer**
+### Talkative Fixer
+
 **Limitations**
-Code of Honor (basic): Never break a made deal [1 point]
-Fear (noticeable): Aggressiveness/violence [2 points]
-Fear (tangible): Dogs [3 points]
-Weakness (tangible): Objects (art) [3 points]
-Impaired vision: Poor [1 point]
+
+- Code of Honor (basic): Never break a made deal [1 point]
+- Fear (noticeable): Aggressiveness/violence [2 points]
+- Fear (tangible): Dogs [3 points]
+- Weakness (tangible): Objects (art) [3 points]
+- Impaired vision: Poor [1 point]
 **Traits**
+
 Gifted [2]
-Standard of Living: 7 [4 points]
-Reputation: Known (7) in the underworld and in the district where he/she is active [4 points]
-Strong-willed [3 points]
-Quick-thinking [2 points]
-Size: Small [1 extra point]
-Anxious [1 extra point]
-Impatient [3 extra points]
+- Standard of Living: 7 [4 points]
+- Reputation: Known (7) in the underworld and in the district where he/she is active [4 points]
+- Strong-willed [3 points]
+- Quick-thinking [2 points]
+- Size: Small [1 extra point]
+- Anxious [1 extra point]
+- Impatient [3 extra points]
 **Character Traits**
 Greedy (stingy, money-loving)
+
 **Relationships**
+
 Fence; Influence 15, Neutral relationship
 Police; Influence 9, Neutral relationship
 Skipper; Influence 9, Disliking relationship
 **Thoughtless Socialite**
+
 **Limitations**
-Drug addict: Alcohol [1 point]
-Family: Two narrator characters [3 points]
-Weakness (noticeable): Objects (sports cars) [2 points]
-Weakness (noticeable): Gambling (card games) [2 points]
-Weakness (noticeable): Sex (appropriate inclination) [2 points]
+
+- Drug addict: Alcohol [1 point]
+- Family: Two narrator characters [3 points]
+- Weakness (noticeable): Objects (sports cars) [2 points]
+- Weakness (noticeable): Gambling (card games) [2 points]
+- Weakness (noticeable): Sex (appropriate inclination) [2 points]
 **Traits**
-Charming [2 points]
-Quirk: Empathy [1 extra point]
-Standard of Living: 8 [6 points]
-Reputation: Known (7) in high society and media world [4 points]
-Slow learner [3 extra points]
-Lucky: Luck 1 [1 point]
-Appearance: Attractive [1 point]
+
+- Charming [2 points]
+- Quirk: Empathy [1 extra point]
+- Standard of Living: 8 [6 points]
+- Reputation: Known (7) in high society and media world [4 points]
+- Slow learner [3 extra points]
+- Lucky: Luck 1 [1 point]
+- Appearance: Attractive [1 point]
 **Character Traits**
 Arrogant (vain)
 Very lustful (erotic)
+
 **Relationships**
+
 Father; Influence 15, Hostile relationship, Blood tie
 Mother; Influence 15, Friendly relationship, Blood tie
 Party buddy; Influence 9, Neutral relationship
 Restaurant owner; Influence 9, Disliking relationship
 Hostess; Influence 9, Disliking relationship, Attraction
 **Believing Priest**
+
 **Limitations**
-Depression: Maximum Wellbeing 8 [2 points]
-Code of Honor (basic): Offer help and protection for the needy [1 point]
-Code of Honor (basic): Uphold the name of the One
+
+- Depression: Maximum Wellbeing 8 [2 points]
+- Code of Honor (basic): Offer help and protection for the needy [1 point]
+- Code of Honor (basic): Uphold the name of the One
 [1 point]
-Nightmares [2 points]
-Fear (noticeable): Servants of the State (Stapo) [2 points]
-Weakness (noticeable): Children (vulnerable children) [2 points]
+- Nightmares [2 points]
+- Fear (noticeable): Servants of the State (Stapo) [2 points]
+- Weakness (noticeable): Children (vulnerable children) [2 points]
 **Traits**
-Body type: Thin [1 extra point]
-Quirk: Firearms [1 extra point]
-Standard of Living: 6 [2 points]
-Reputation: Talked about (6) within the Church [2 points]
-Sickly [1 extra point]
-Strong-willed [3 points]
-Size: Well-built [1 point]
-Talented: Leadership [4 points]
-Fortune's favorite [1 point]
+
+- Body type: Thin [1 extra point]
+- Quirk: Firearms [1 extra point]
+- Standard of Living: 6 [2 points]
+- Reputation: Talked about (6) within the Church [2 points]
+- Sickly [1 extra point]
+- Strong-willed [3 points]
+- Size: Well-built [1 point]
+- Talented: Leadership [4 points]
+- Fortune's favorite [1 point]
 **Character Traits**
 Lustful (guilt-ridden)
 Very convinced (believer)
+
 **Relationships**
+
 Bishop; Influence 12, Neutral relationship
 State official; Influence 12, Hostile relationship
 Lost housewife; Influence 6, Benevolent relationship, Attraction
 **Tired and Worn Worker**
+
 **Limitations**
-Depression: Maximum Wellbeing 8 [2 points]
-Family: Three narrator characters, [4 points]
-In debt: Heavily indebted [2 points]
-Weakness (noticeable): Alcohol (beer), [2 points]
+
+- Depression: Maximum Wellbeing 8 [2 points]
+- Family: Three narrator characters, [4 points]
+- In debt: Heavily indebted [2 points]
+- Weakness (noticeable): Alcohol (beer), [2 points]
 **Traits**
-Iron health [2 points]
-Size: Tall [2 points]
-Resilient [2 points]
-Talented: Construction [4 points]
+
+- Iron health [2 points]
+- Size: Tall [2 points]
+- Resilient [2 points]
+- Talented: Construction [4 points]
 **Character Traits**
 Cautious (careful)
 Honest (principled)
 Loving (his/her family)
+
 **Relationships**
+
 Spouse; Influence 12, Friendly relationship, Attraction/Passion, Blood tie
 Son/daughter; Influence 6, Benevolent relationship, Blood tie
 Son/daughter; Influence 6, Benevolent relationship, Blood tie
@@ -3053,51 +3261,61 @@ Coworker; Influence 6, Neutral relationship
 Bar owner; Influence 12, Neutral relationship
 Foreman; Influence 9, Disliking relationship
 **Daring Adventurer**
+
 **Limitations**
-Wanted: Minor crimes [1 point]
-Code of Honor (basic): Never betray or leave a friend in danger [1 point]
-Fear (noticeable): Responsibility [2 points]
-Indebtedness: Completely indebted [2 points]
-Weakness (noticeable): Gambling (card games) [2 points]
-Weakness (noticeable): Opposite sex (appropriate superficial inclination) [2 points]
+
+- Wanted: Minor crimes [1 point]
+- Code of Honor (basic): Never betray or leave a friend in danger [1 point]
+- Fear (noticeable): Responsibility [2 points]
+- Indebtedness: Completely indebted [2 points]
+- Weakness (noticeable): Gambling (card games) [2 points]
+- Weakness (noticeable): Opposite sex (appropriate superficial inclination) [2 points]
 **Traits**
-Bad drunk [1 extra point]
-Fatalist [3 points]
-Iron health [2 points]
-Quirk: Sense [1 extra point]
-Quick [2 points]
-Easily influenced [1 extra point]
-Damaged hand [2 extra points]
-Lucky: Luck 4 [4 points]
-Appearance: Handsome/beautiful [2 points]
-Fortune's favorite [2 points]
+
+- Bad drunk [1 extra point]
+- Fatalist [3 points]
+- Iron health [2 points]
+- Quirk: Sense [1 extra point]
+- Quick [2 points]
+- Easily influenced [1 extra point]
+- Damaged hand [2 extra points]
+- Lucky: Luck 4 [4 points]
+- Appearance: Handsome/beautiful [2 points]
+- Fortune's favorite [2 points]
 **Character Traits**
 Lustful (easily aroused)
 Very risk-prone (daring)
+
 **Relationships**
+
 Debt collector; Influence 12, Hostile relationship
 Pilot; Influence 12, Neutral relationship
 Rich lover/mistress; Influence 15, Benevolent relationship,
 **Attraction**
 **Adventure-seeking Dilettante**
+
 **Limitations**
-Family: Three narrator characters [4 points]
-Code of Honor (basic): Never lose composure among people [1 point]
-Weakness (noticeable): Alcohol (vintage wine) [2 points]
-Weakness (tangible): Masochism (self-torture) [3 points]
+
+- Family: Three narrator characters [4 points]
+- Code of Honor (basic): Never lose composure among people [1 point]
+- Weakness (noticeable): Alcohol (vintage wine) [2 points]
+- Weakness (tangible): Masochism (self-torture) [3 points]
 **Traits**
-Charming [2 points]
-Quirk: Sense [1 extra point]
-Quirk: Worldliness [1 extra point]
-Standard of Living 9 [8 points]
-Reputation: Talked about (6) within high society [2 points]
-Strong-willed [2 points]
-Slow learner [3 extra points]
-Appearance: Attractive [1 point]
+
+- Charming [2 points]
+- Quirk: Sense [1 extra point]
+- Quirk: Worldliness [1 extra point]
+- Standard of Living 9 [8 points]
+- Reputation: Talked about (6) within high society [2 points]
+- Strong-willed [2 points]
+- Slow learner [3 extra points]
+- Appearance: Attractive [1 point]
 **Character Traits**
 Arrogant (snobbish, vain)
 Lustful (amorous)
+
 **Relationships**
+
 Grandfather; Influence 15, Neutral relationship, Blood tie
 Aunt; Influence 9, Hostile relationship, Blood tie
 Brother/sister; Influence 9, Benevolent relationship, Attraction/
@@ -3139,7 +3357,8 @@ If the person's ability value does not reach the value under requirements then t
 
 **Expertises**
 
-**Determination**
+### Determination
+
 Alert [3]
 The person has a natural ability to learn things from their surroundings.
 Requirements: Determination 7+, Quick learner
@@ -3462,7 +3681,8 @@ Extremely Convincing [3] Persuade 10+, Very Convincing (within sphere) 79
 **Rule:** The person has a bonus (+5) on dice rolls
 (Empathy) when using tangible reading. This bonus is added to other bonuses.
 
-**Intuitive [4]**
+### Intuitive [4]
+
 The person can put themselves in other people's situations, analyze them from their perspective, and can draw conclusions so real that they appear lifelike in the per-son's mind.
 
 **Requirements:** Empathy 7+
@@ -3471,34 +3691,37 @@ The person can put themselves in other people's situations, analyze them from th
 To receive such images requires the person to succeed with a difficulty roll (Empathy), with a penalty (−5). If the roll succeeds, the person receives a bonus (+2) in all forms of communi-cation with a chosen individual whom the person knows through study. This bonus applies primarily to dice rolls (Empathy)
 but also to other forms of communication. The person may also use the bonus for dice rolls (Resist) in situa-tions where the chosen individual is present. The bonus is also applied to dice rolls (Deduction) related to a case in which the person is well-versed.
 
-**Tangible Reading [2]**
+### Tangible Reading [2]
+
 The person is very receptive to subconsciously interpreting people and understanding their state of mind.
 
 **Requirements:** Empathy 7+, Reading
 **Rule:** The person has a bonus (+3) on dice rolls
 (Empathy) when using reading. This bonus is added to the previous bonus.
 
-**Sympathetic [2]**
+### Sympathetic [2]
+
 The person is perceived as sympathetic.
 
 **Requirements:** Empathy 7+, Understanding
 **Rule:** The person's Impression value increases by one (+1).
 
-**Comfort & Calm [2]**
+### Comfort & Calm [2]
+
 The person possesses an ability to calm and comfort sad and upset people.
 
 **Requirements:** Empathy 4+
 **Rule:** The person receives a bonus (+2) on dice rolls (Empathy)
 when attempting to calm or comfort other individuals.
 
-**Dexterity**
+### Dexterity
 
 **Experienced Pickpocket [2]**
 The person is very skilled at performing a specialized form of pickpocketing.
 
 **Requirements:** Dexterity 7+, Pickpocket (within the form)
 
-**Charm**
+### Charm
 
 **Exceptionally Charismatic [3]**
 The person is a specialist within their sphere.
@@ -3508,7 +3731,8 @@ The person is a specialist within their sphere.
 (Charm) within a sphere where they are very charismatic.
 This bonus is added to other bonuses. The expertise can be chosen multiple times, but only once per sphere.
 
-**Charismatic [2]**
+### Charismatic [2]
+
 The person is knowledgeable within their sphere.
 
 **Requirements:** Charm 4+
@@ -3517,14 +3741,15 @@ The person is knowledgeable within their sphere.
 Captivate, Mingle/Converse, Sing/Play, Flatter/
 Fawn, Entertain/Amuse. Write down which sphere the person masters well. The expertise can be chosen multiple times, but only once per sphere.
 
-**Very Charismatic [2]**
+### Very Charismatic [2]
+
 The person is experienced within their sphere.
 
 **Requirements:** Charm 7+, Charismatic (within the sphere)
 **Rule:** The person has a bonus (+3) on dice rolls
 (Charm) within a sphere where they are charismatic. This bonus is added to the previous bonus. The expertise can be chosen multiple times, but only once per sphere.
 
-**Empathy**
+### Empathy
 
 **Reading [2]**
 The person is receptive to subconsciously interpreting peo-ple and understanding their state of mind.
@@ -3533,82 +3758,94 @@ The person is receptive to subconsciously interpreting peo-ple and understanding
 **Rule:** The person has a bonus (+2) on dice rolls
 (Empathy) when it comes to noticing what state of mind a person is in.
 
-**Animal Friend [3]**
+### Animal Friend [3]
+
 Animals do not attack the person as they possess a natural aura of calm and respect that animals perceive.
 
 **Requirements:** Empathy 4+
 **Rule:** The person rolls a difficulty roll (Empathy) to keep the animal calm. This roll receives a bonus (+5) and the chosen animal is calm for as many minutes as the lowest die value. If the animal is extremely aggressive or affected by, for example, drugs, the person can only keep it calm for a short while. In that case, the animal stays calm for as many rounds as the lowest die value.
 
-**Understanding [2]**
+### Understanding [2]
+
 The person's understanding manner makes individuals around them feel at ease.
 
 **Requirements:** Empathy 4+
 **Rule:** The person's Impression value increases by one (+1).
 
-**Intense Reading [4]**
+### Intense Reading [4]
+
 The person is extremely receptive to subconsciously interpreting people and understanding their state of mind.
 
 **Rule:** The person has a bonus (+3) on dice rolls (Dex-terity) for a special form of pickpocketing where the person is already a pickpocket. This bonus is added to the previous bon-us. The expertise can be chosen multiple times, but only once per form.
 
-**Pickpocket [2]**
+### Pickpocket [2]
+
 The person is skilled at performing a specialized form of pick-pocketing.
 
 **Requirements:** Dexterity 4+
 **Rule:** The person has a bonus (+2) on dice rolls (Dex-terity) for a special form of pickpocketing they master. Choose one of the following: Planting, Stealing rings/
 jewelry/watches, Stealing from handbags/pockets. Write down which form the person masters. The expertise can be chosen multiple times, but only once per form.
 
-**Illusionist [3]**
+### Illusionist [3]
+
 The person is a very skilled magician.
 
 **Requirements:** Dexterity 10+, Magician (within the area)
 **Rule:** The person has a bonus (+5) on dice rolls (Dex-terity) within an area where they are already a magi-cian. This bonus is added to other bonuses. The exper-tise can be chosen multiple times, but only once per area.
 
-**Improvised Lockpicking [3]**
+### Improvised Lockpicking [3]
+
 The person is skilled at using improvised objects to open locks.
 
 **Requirements:** Dexterity 7+, Locksmith (within the lock type)
 **Rule:** The person receives no penalties when using improvised objects, such as hairpins, paper clips, or drinking glasses (for combination locks), to pick locks.
 
-**Lockpicking [2]**
+### Lockpicking [2]
+
 The person can open locks without access to a key or combination.
 
 **Requirements:** Dexterity 4+
 **Rule:** The person has a bonus (+2) on dice rolls (Dex-terity) to open a certain type of lock. Choose one of the following lock types: Car Lock, Door Lock, Padlock, Combination Lock, Security
 Lock. Write down which lock type the person masters. The expertise can be chosen multiple times, but only once per lock type.
 
-**Locksmith [2]**
+### Locksmith [2]
+
 The person is skilled at opening locks without access to a key or combination.
 
 **Requirements:** Dexterity 7+, Lockpicking (within the lock type)
 **Rule:** The person has a bonus (+3) on dice rolls (Dex-terity) to open a type of lock they can already pick. This bonus is added to the previous bonus. The exper-tise can be chosen multiple times, but only once per lock type.
 
-**Lock Specialist [3]**
+### Lock Specialist [3]
+
 The person is a specialist at opening locks.
 
 **Requirements:** Dexterity 10+, Locksmith (within the lock type)
 **Rule:** The person has a bonus (+5) on dice rolls (Dex-terity) to open a certain type of lock where they are a locksmith. This bonus is added to other bonuses. The expertise can be chosen multiple times, but only once per lock type.
 
-**Masterful Pickpocket [3]**
+### Masterful Pickpocket [3]
+
 The person is classified as a masterful pickpocket regarding a spe-cial form of pickpocketing.
 
 **Requirements:** Dexterity 10+, Experienced Pickpocket (within the for-m)
 **Rule:** The person has a bonus (+5) on dice rolls (Dex-terity) for a special form of pickpocketing where they are already an experienced pickpocket. This bonus is added to other bonuses. The expertise can be chosen multiple times but only once per form.
 
-**Tricks [1]**
+### Tricks [1]
+
 The person is versed in some magic tricks.
 
 **Requirements:** Dexterity 4+
 **Rule:** The person has a bonus (+2) on dice rolls (Dex-terity) within an area they master. Choose one of the following areas: Distraction, Conceal in/produce from hand,
 Card tricks/Coin tricks, Steady hands. Write down which area the person masters. The expertise can be chosen multiple times, but only once per area.
 
-**Magician [2]**
+### Magician [2]
+
 The person is an experienced conjuror.
 
 **Requirements:** Dexterity 7+, Tricks (within the area)
 **Rule:** The person has a bonus (+3) on dice rolls (Dex-terity) within an area where they master tricks.
 This bonus is added to the previous bonus. The expertise can be chosen multiple times, but only once per area.
 
-**Vehicle**
+### Vehicle
 
 **Experienced Driver [2]**
 The person is skilled at operating and maneuvering a type of vehicle.
@@ -3616,63 +3853,72 @@ The person is skilled at operating and maneuvering a type of vehicle.
 **Requirements:** Vehicle 7+, Driver (within the vehicle type)
 **Rule:** The person has a bonus (+3) on dice rolls (Vehi-cle) for maneuvering a type of vehicle where they are already a driver. This bonus is added to the previous bon-us. The expertise can be chosen multiple times, but only once per vehicle type.
 
-**Driver [1]**
+### Driver [1]
+
 The person can operate and maneuver a type of vehicle.
 
 **Requirements:** Vehicle 4+
 **Rule:** The person has a bonus (+2) on dice rolls (Vehi-cle) for maneuvering a certain type of vehicle. Choose one of the following vehicle types: Car, Bicycle, Canoe, Horse, Horse-drawn wagon, Truck, Motorboat, Motorcycle, Sailboat, Tank.
 Write down which vehicle type the person masters. The exper-tise can be chosen multiple times, but only once per vehicle type.
 
-**Train Engineer [1]**
+### Train Engineer [1]
+
 The person can operate and maneuver a locomotive.
 
 **Requirements:** Vehicle 4+
 **Rule:** The person knows how to control and handle a locomotive with accompanying cars. Without this know-ledge, the person can neither start nor operate a locomotive whatsoever.
 
-**Additional Expertise Areas**
+### Additional Expertise Areas
+
 Nothing prevents a player and narrator from creating new expertise areas together. Try to balance them based on the existing expertise areas so they don't become too weak or too powerful.
 
-**Airship Pilot [1]**
+### Airship Pilot [1]
+
 The person can operate and maneuver a zeppelin.
 
 **Requirements:** Vehicle 4+
 **Rule:** The person knows how to control and handle a zeppelin. Without this knowledge, the person can neither start nor maneuver a zeppelin whatsoever.
 
-**Master Driver [3]**
+### Master Driver [3]
+
 The person is very skilled at operating and maneuvering a type of vehicle.
 
 **Requirements:** Vehicle 10+, Experienced Driver (within the vehicle type)
 **Rule:** The person has a bonus (+5) on dice rolls (Vehi-cle) for maneuvering a type of vehicle where they are already an experienced driver. This bonus is added to other bonuses. The expertise can be chosen multiple times, but only once per vehicle type.
 
-**Pilot [2]**
+### Pilot [2]
+
 The person can fly an aircraft type.
 
 **Requirements:** Vehicle 4+
 **Rule:** The person has a bonus (+2) on dice rolls (Vehicle)
 for maneuvering a certain type of aircraft. Choose one of the fol-lowing types: Small aircraft, Medium aircraft, Large air-craft. Write down which type the person masters. The expertise can be chosen multiple times, but only once per aircraft type.
 
-**Captain [1]**
+### Captain [1]
+
 The person can operate and maneuver a vessel.
 
 **Requirements:** Vehicle 4+
 **Rule:** The person knows how to pilot and operate a vessel.
 Without this knowledge, the person can neither start nor maneuver a vessel whatsoever.
 
-**Veteran [3]**
+### Veteran [3]
+
 The person is an experienced aviator of a certain aircraft type.
 
 **Requirements:** Vehicle 7+, Pilot (within the aircraft type)
 **Rule:** The person has a bonus (+3) on dice rolls (Vehi-cle) for maneuvering an aircraft type where they are already a pilot. This bonus is added to the previous bonus.
 The expertise can be chosen multiple times, but only once per aircraft type.
 
-**Ace [3]**
+### Ace [3]
+
 The person is an expert at flying.
 
 **Requirements:** Vehicle 10+, Veteran (within the aircraft type)
 **Rule:** The person has a bonus (+5) on dice rolls (Vehi-cle) for maneuvering an aircraft type where they are already a veteran. This bonus is added to other bonuses.
 The expertise can be chosen multiple times, but only once per aircraft type.
 
-**Humanities**
+### Humanities
 
 **Academic Authority [3]**
 The person is a specialist within a field.
@@ -3681,7 +3927,8 @@ The person is a specialist within a field.
 **Rule:** The person has a bonus (+5) on dice rolls (Humani-ties) within a field where they are an academic specialist.
 This bonus is added to other bonuses. The expertise can be cho-sen multiple times, but only once per field.
 
-**Academic Focus [2]**
+### Academic Focus [2]
+
 The person is knowledgeable within a subject or field.
 
 **Requirements:** Humanities 4+
@@ -3690,20 +3937,22 @@ Economics/Bookkeeping, Philosophy, Geography/History, Heraldry/Semi-otics, Law/P
 Criminology/Profiling, Linguistics, Psychology/Sociology, Reli-gion/Occultism. Write down which field the person masters well.
 The expertise can be chosen multiple times, but only once per field.
 
-**Academic Specialist [2]**
+### Academic Specialist [2]
+
 The person is experienced within a field.
 
 **Requirements:** Humanities 7+, Academic Focus (within the field)
 **Rule:** The person has a bonus (+3) on dice rolls (Humani-ties) within a field where they have an academic focus. This bonus is added to the previous bonus.
 The expertise can be chosen multiple times, but only once per field.
 
-**Linguist [2]**
+### Linguist [2]
+
 The person masters a foreign language.
 
 **Requirements:** Humanities 4+
 **Rule:** All people can speak, read, and write their mother tongue without problems. This expertise provides both oral and written knowledge in a foreign language. The languages that exist in the Imperium are described on page 170. The expertise can be cho-sen multiple times as long as a new language is chosen.
 
-**Intuition**
+### Intuition
 
 **Touch [2]**
 The person knows how to interact with others so that they feel good.
@@ -3711,20 +3960,23 @@ The person knows how to interact with others so that they feel good.
 **Requirements:** Intuition 4+
 **Rule:** The person's Impression value increases by one (+1).
 
-**Inspiration [2]**
+### Inspiration [2]
+
 The person's subconscious helps them when danger is afoot.
 
 **Requirements:** Intuition 4+
 **Rule:** Increase the person's Awareness by one (+1).
 
-**Instinct [2]**
+### Instinct [2]
+
 The person listens to their inner voice and gut feeling to receive guidance in life and to make decisions.
 
 **Requirements:** Intuition 4+
 **Rule:** When the person visits a place or finds themselves in a certain situation and succeeds with a difficulty roll (Intuition)
 with a bonus (+2), they can sense if something is not right. It is just a feeling and provides no concrete information about the place/situation.
 
-**Sense of Direction [1]**
+### Sense of Direction [1]
+
 The person has a good sense of direction.
 
 **Requirements:** Intuition 4+
@@ -3872,7 +4124,8 @@ Extremely hard to kill [3]
 The person is extremely hard to kill.
 Requirement: Endurance 13+, Very hard to kill
 
-**Construction**
+### Construction
+
 Technical authority [3]
 The person is a specialist within an area.
 Requirement: Construction 10+, Technical specialist (area)
@@ -4175,7 +4428,7 @@ The person is skilled at exploiting situations to their advantage.
 Requirements: Reactions 10+, See Opportunities
 Rule: If the person succeeds exceptionally at any Initiative action, their Initiative increases by five steps (+5), beyond the normal effect from the action's outcome. This bonus is added to the effect from See Opportunities.
 
-**Resistance**
+### Resistance
 
 Hardened [2]
 The person is less affected by a certain form of negative influence.
@@ -4207,7 +4460,7 @@ The person can steel themselves against, and endure, pain better.
 Requirements: Resistance 10+
 Rule: Increase the person's Stamina by one (+1).
 
-**Mobility**
+### Mobility
 
 Fall Technique [2]
 The person is trained in falling in ways to minimize damage.
@@ -4239,7 +4492,7 @@ The person is fast.
 Requirements: Mobility 7+
 Rule: Increase the person's Combat Movement by one (+1).
 
-**Mind**
+### Mind
 
 Aura of Calm [2]
 The person radiates calm.
@@ -4271,7 +4524,7 @@ The person's consciousness allows them to quickly come to their senses again aft
 
 the result of the value on all dice. The person needs about a minute to perform the action. When the person wants to wake up, it takes about a minute and requires a successful roll (Mind). Each attempt gives the person as much Disorientation as the result of all dice in the roll. The person is perceived by non-medically trained people as deceased. A successful medical examination (Medicine) with a penalty (−5) is required to discover that the person is actually alive.
 
-**Create**
+### Create
 
 Outstanding Creator [2]
 The person is experienced in an artistic area.
@@ -4288,7 +4541,7 @@ The person is a specialist in an artistic area.
 Requirements: Create 10+, Outstanding Creator (area)
 Rule: The person has a bonus (+5) on dice rolls (Create) within an area where they are already an outstanding creator. This bonus is added to other bonuses. The expertise can be chosen multiple times, but only once per area.
 
-**Firearms**
+### Firearms
 
 Executioner [4]
 The person is trained in efficiently murdering people.
@@ -4457,7 +4710,7 @@ The character is skilled at avoiding damage, regardless of situation.
 Requirements: Firearms 10+, "Take Cover!"
 Rule: Increase the character's Defense by one (+1).
 
-**Deduction**
+### Deduction
 
 Genius [3]
 The character is a specialist at drawing conclusions from clues.
@@ -4492,7 +4745,8 @@ The hotel they pulled up in front of had seen better days. The red carpet in the
 
 There on the bedspread it lay; a black envelope, like a hole into nothingness against the white fabric. He dropped his bags and immediately took it in his hands; it smelled of perfume and his false name was written on it with an elegant, white script. As he sat down on the bed, he broke the seal and took out the letter; he didn't bother reading it as it was only a facade. Instead, he took out his lighter and let the heat coax forth the hidden signs written there in ancient Sadovian. He smiled, mentally noted the address, time, and phone number before letting the flame consume the letter and envelope.
 
-**Strength**
+### Strength
+
 Beefy [2]
 The character is beefy.
 Requirement: Strength 7+, Well-trained
@@ -4711,12 +4965,14 @@ Activation: Always active.
 Drug Addict (points: 1)
 Reality and its gray everyday must be suppressed with something. The character is driven by a hunger for something that numbs the dreariness and shuts out the agonizing world they live in. The character requires drugs to keep their mind clear. Without drugs they become depressed, aggressive, and suffer from painful withdrawal. More about drugs and dependencies can be found on page 268; choose a type of drug the character abuses.
 Activation: Governed by the drug's withdrawal (see page 268).
+
 **Limitations**
 
 Wanted (points: 1, 2, or 4)
 The person is wanted by the police for a crime he/she has committed, or is believed to have committed. Determine whether the person is a repeat offender, on the run from prison, or merely sought for questioning (see table 1:11). The player should speak with the narrator before choosing this limitation—especially if choosing one of the higher levels.
 
-**Category Points Wanted Level**
+### Category Points Wanted Level
+
 Minor crime 1 The police keep their eyes open for the person but aren't actively searching for him/her. Tips leading to the person's capture yield a minor reward.
 Major crime 2 An active group of police constables are searching for the person. Word has also spread on the street that the police are looking for the person, and one can receive a larger reward for tips about the person's whereabouts.
 Enemy of the State 4 The person is hunted by the police, State troops, and the commissars. The person's face has been circulated in newspapers and he/she can barely remain anywhere without being recognized. Even bounty hunters keep their eyes open for the person. A deserter falls into this category.
@@ -4732,7 +4988,8 @@ These relationships consist of narrator characters whom the protagonist cares de
 
 The number of family relationships determines the point cost as well as how many level points of Influence and Relationship (see page 29) may be distributed freely among all family relationships. Table 1:12 summarizes this.
 
-**Number of family relationships Points Level points**
+### Number of family relationships Points Level points
+
 One narrator character 2 4
 Two narrator characters 3 8
 Three narrator characters 4 12
@@ -4750,13 +5007,15 @@ If the person chooses a fanatical code of honor, this symbolizes something the p
 
 When a code of honor is broken, it counts as stress, see page 244, and table 1:13 below.
 
-**Impact If broken Points**
+### Impact If broken Points
+
 Basic Considered a shocking experience 1
 Fanatical Considered psychological trauma 3
 
 Table 1:13
 
-**Selection of codes of honor**
+### Selection of codes of honor
+
 • Never give up
 • Never raise one's voice
 • Never betray a comrade
@@ -4776,7 +5035,8 @@ Table 1:13
 
 Activation: Automatic (scene- or event-specific).
 
-**Psychological Trauma**
+### Psychological Trauma
+
 The people of Noir's world suffer from their memories and from the harsh environment around them. Many are those whose mental defenses crack under the burden so that they develop problems with their psyche. Those who refuse to acknowledge their limitations often try to numb the anxiety, nightmares, or depression with drugs, alcohol, degradation, vulnerability, and/or guilt. Others manage to make their way to a sanatorium for rest and care.
 
 Ailment (points: 2 to 4)
@@ -4784,7 +5044,8 @@ The person suffers from one or more ailments or afflictions of some kind. When t
 
 When the ailment risks setting in, the person must make a difficulty check (Stamina). This difficulty check receives a penalty equal to the ailment's effect, which is either mild, serious, or very serious. The penalties are shown in table 1:14.
 
-**Effect Penalty Points**
+### Effect Penalty Points
+
 Mild −2 2
 Serious −5 3
 Very serious −10 4
@@ -4793,7 +5054,8 @@ Table 1:14
 
 The outcome of the difficulty check is given on page 243.
 
-**Selection of ailments**
+### Selection of ailments
+
 • Shortness of breath/cough/asthma
 • Terminal illness under treatment (e.g., cancer)
 • High blood pressure
@@ -4824,7 +5086,8 @@ The person's hearing is impaired. Table 1:15 indicates different degrees of impa
 
 If a person with impaired hearing acquires a hearing aid, this counteracts one step of penalty, meaning a person with poor hearing receives a penalty (−1) instead of (−2), and a person with terrible hearing receives a penalty (−4) instead of (−5). Table 1:15 summarizes hearing and its significance.
 
-**Hearing Penalty Points**
+### Hearing Penalty Points
+
 Poor −2 1
 Terrible −5 2
 
@@ -4837,7 +5100,8 @@ The person's vision is impaired. Table 1:16 indicates different degrees of impai
 
 If a person with impaired vision acquires glasses, these counteract two steps of penalty, meaning a person with poor vision avoids penalties, and a person with terrible vision receives a penalty (−3) instead of five. Table 1:16 summarizes vision and its significance.
 
-**Vision Penalty Points**
+### Vision Penalty Points
+
 Poor −2 1
 Terrible −5 3
 
@@ -4853,7 +5117,8 @@ A fear is a personal terror, phobia, or panic reaction to something. This create
 
 To resist a fear, one makes a difficulty check (Resistance), with a penalty depending on the fear's intensity, see table 1:17.
 
-**Intensity Penalty Points**
+### Intensity Penalty Points
+
 Noticeable −2 2
 Significant −5 3
 Overwhelming −10 4
@@ -4862,7 +5127,8 @@ Table 1:17
 
 The outcome of the difficulty check is given on page 244.
 
-**Selection of possible sources of terror**
+### Selection of possible sources of terror
+
 • Aggression/hostility
 • Blood
 • A certain color (usually a color that has featured in a traumatic experience)
@@ -4888,7 +5154,8 @@ The person has large debts to some person or organization—for example, a loan 
 
 Table 1:18 shows the different degrees of debt the person can hold.
 
-**Degree of debt Debts Points**
+### Degree of debt Debts Points
+
 Heavily indebted 50% of Creditworthiness 1
 Completely indebted 100% of Creditworthiness 2
 
@@ -4901,7 +5168,8 @@ A person's weaknesses encompass those experiences, situations, events, persons, 
 
 To resist a weakness, a difficulty check (Sense) is made, with a penalty depending on the weakness's intensity, see table 1:19.
 
-**Intensity Penalty Points**
+### Intensity Penalty Points
+
 Noticeable −2 2
 Significant −5 3
 Overwhelming −10 4
@@ -4910,7 +5178,8 @@ Table 1:19
 
 The outcome of the difficulty check is given on page 244.
 
-**List of weaknesses**
+### List of weaknesses
+
 Weaknesses are general and can strike at any time—if the person is weak for women, any woman can potentially create distraction. People who have a weakness also always possess a specific inclination within the general weakness. This is a narrower area within which the person's weakness is at its strongest. The person's penalty from the weakness's intensity is doubled when he/she risks falling for such an inclination. Table 1:20 provides suggestions for weaknesses.
 
 Weakness suggestions Example of specific inclination
@@ -4934,7 +5203,8 @@ Table 1:20
 
 Activation: Automatic (scene- or event-specific).
 
-**Weaknesses and Fears**
+### Weaknesses and Fears
+
 All people suffer from their fears and weaknesses which constantly demand attention and can mercilessly drive a sound and rational individual over the brink of ruin—emotionally, physically, and socially—if they're allowed to escape control's grasp.
 
 The narrator should emphasize to the players that weaknesses and fears fit very well into the dark world Noir takes place in, where broken and battered heroes move and act in their attempts to survive or achieve redemption.
@@ -4964,6 +5234,7 @@ The character is fleet of foot when it matters. Increase the character's
 Combat Movement by two (+2).
 Iron Health (points: 2)
 The character has a very well-functioning immune system and strong physical resilience. The character gets a bonus (+2) to dice rolls (Tolerance).
+
 **Characteristics**
 
 Natural Warrior (points: 3)
@@ -5149,17 +5420,17 @@ I sighed irritably and realized it was going to be one of those days. Manik woul
 
 —Mordekai Remus, Thursday, 09:12
 
-**Possessions**
+### Possessions
 
 People identify themselves with their belongings. While the upper class indulges in luxury and excess, the simple worker finds satisfaction in the simplest of things, like a new pot or perhaps a kitchen chair.
 
-**Property**
+### Property
 
 Possessions include things and objects that a person carries with them or uses daily. This does not include larger investments such as permanent residence, personal vehicles, summer houses or furniture, as such things are included in the person's standard of living.
 
 **Generally, possessions are described quite abstractly** because that's not where the focus in Noir is meant to lie. People usually automatically have with them reasonable equipment that fits their concept and place in the world without needing to be specified in detail beforehand. Some narrators, however, have higher demands and prefer that protagonists' possessions be written down to the last matchstick. This makes the whole thing more cumbersome but can simultaneously create drama when, for example, a rope is needed but missing.
 
-**Starting Equipment**
+### Starting Equipment
 
 In addition to the property included in the standard of living (see page 246), the protagonist has the following:
 
@@ -5172,7 +5443,7 @@ In addition to the property included in the standard of living (see page 246), t
 • Any membership cards (to clubs, etc.)
 • Business cards (if deemed reasonable)
 
-**Cash**
+### Cash
 
 The currency in the Empire is called zovrin, after the dynasty of the same name. It is issued in both coins and bills. The coins are worth 1, 2, 5 and 10 zovrins while the bills come in denominations of 20, 50, 100, 500 and 1,000 zovrins.
 
@@ -5180,11 +5451,11 @@ Credit cards or debit cards do not exist in Noir's world; all transactions are m
 
 A protagonist receives starting capital from their standard of living, see page 248.
 
-**Loans**
+### Loans
 
 Should a protagonist lack cash, he/she can borrow money. How much can be borrowed is determined by the person's standard of living. The procedure is described on page 248. The entire loan procedure is kept deliberately abstract so as not to take focus away from the story. Therefore the rules do not determine the details regarding whether it's a bank, a credit institution, a gangster boss, a loan shark or perhaps the family lending out the capital.
 
-**Carrying Objects**
+### Carrying Objects
 
 It's not essential to keep track of the weight of objects carried on the body. The narrator and player should make a judgment about the reasonableness of the amount of equipment carried, so that there are at least enough pockets or other storage spaces for it.
 
@@ -5194,11 +5465,11 @@ Unwieldy objects are large, and/or heavy to carry around. A bulky object, on the
 
 Examples of unwieldy objects are a large sword, large tools (like a pickaxe), a kitchen chair, a small child, a full suitcase or a crate of bottles. Bulky objects include a tire with rim, a body rolled in a carpet, a massive leather armchair, a large wooden crate filled with books or a welding unit without a cart.
 
-**Storage**
+### Storage
 
 A suggestion when it comes to objects carried on the body is to note where they are located. This creates a good overview and one quickly sees where unreasonable situations arise. Write down whether the object is in a pants pocket, in the coat, in the briefcase or perhaps in the glove compartment of the car. Those who are interested in keeping track of equipment also get a lot for free through this solution as one immediately sees what is lost respectively remains when, for example, an overcoat is left behind at a crime scene.
 
-**Buying Things**
+### Buying Things
 
 Purchases are made almost exclusively in stores face to face. Mail order is rare and expensive, although exclusive goods can be ordered from far away if one is rich.
 
@@ -5208,15 +5479,15 @@ Many stores make an effort with personal service and familiar atmosphere to get 
 
 Objects are usually in stock. If they must be ordered, it can, depending on the type of goods, take anywhere from a few days to several months to get them home. It's important that all one's licenses and permits are in order when making an order, otherwise most honest merchants will refuse the purchase, but most can still be persuaded with a bundle of cash.
 
-**Purchase**
+### Purchase
 
 All prices are negotiable. This is symbolized by the rules regarding haggling over price, found on page 207.
 
-**Availability**
+### Availability
 
 Some of the objects in the equipment lists on page 94 and onward have an availability requirement next to the price. This requirement shows if anything special is needed to be able to obtain the item, such as the right kind of permit. Table 1:28 shows common price increases in cases where the availability requirement is not met.
 
-**Code Object's Availability**
+### Code Object's Availability
 
 — Generally available — exists essentially everywhere commerce occurs. This code is not written out by the object but is assumed to be the default case.
 
@@ -5228,17 +5499,19 @@ Some of the objects in the equipment lists on page 94 and onward have an availab
 
 Table 1:28
 
-**Licenses and Permits**
+### Licenses and Permits
 
 **There are a number of different phenomena** and activities that require licenses or approved permits, including: own firearms, carry concealed firearms, own automatic weapons, be police (the so-called police shield), be firefighter, take flight certificate, be state inspector, be train engineer, be doctor, be priest, be journalist, handle explosives, take skipper's exam, start a family, be a citizen, attend higher education.
 
-**Selling used items**
+### Selling used items
+
 An item can always be sold to a junk dealer or pawnshop for approximately 20% of the new price. If you want to get a better price, you'll have to go to a shop or a merchant who has the opportunity to resell the item with their own profit—
 for example, a full toolbox can be sold to a hardware store with better profit than to a pawnshop. If you find the right buyer, the price is usually around 40% of the new price. The item's condition/quality has not been taken into account, see below.
 
 The final price comes as a result of haggling, see page 207.
 
-**Condition & quality**
+### Condition & quality
+
 An item's or service's condition and/or quality affects not only its value and price but also its function. There are six levels of condition/quality, which are shown in table 1:29.
 
 The item's condition/quality is written before its name in the character sheet, for example "a poor pair of binoculars".
@@ -5261,12 +5534,14 @@ An item's or service's condition/quality provides a multiplier that is calculate
 Table 1:29 * All shop-new items are considered to have this condition/quality.
 ** All used items that have not been abused are considered to have this condition/quality.
 
-**Breakdown & reliability**
+### Breakdown & reliability
+
 All items can break, or at least stop working as they should.
 This is called suffering a breakdown. When a breakdown occurs, some form of action is required to restore the item to working condition. Certain items generally cannot suffer breakdowns—
 this applies to solid items that lack mechanics or moving parts, such as a sword or a screwdriver. A narrator can of course choose to introduce breakdowns even for such items if the situation's framework and reasonability supports this—a screwdriver can, for example, break off if it's used incorrectly.
 
-**Breakdown**
+### Breakdown
+
 A breakdown occurs if an exceptional failure happens when using an item and the numbers on the dice also show equal to or below the item's breakdown value. In most situations, the breakdown value is (1), which means that breakdown occurs when the user rolls snake eyes and the result counts as an exceptional failure.
 
 Note that if snake eyes are rolled but the roll counts as an exceptional success thanks to skill or bonuses, no breakdown occurs. This symbolizes that a competent and knowledgeable person automatically maintains and handles their items correctly, or the situation is so favorable that a breakdown cannot occur.
@@ -5275,7 +5550,8 @@ The breakdown value can be higher than (1) if the item being used is of inferior
 
 If an item breaks down, it is unusable until it has been repaired.
 
-**Stoppage**
+### Stoppage
+
 Stoppage is a lighter form of breakdown that only affects firearms and means that the weapon has jammed in some way—either there is some mechanical fault or the ammunition is defective or has ended up incorrectly in the feeding process.
 
 When a person rolls for a combat action in which they fire a firearm in some way, stoppage occurs if the roll is exceptionally failed and the dice show below or equal to the weapon's breakdown value. One cartridge is struck from the weapon's magazine when stoppage has been determined.
@@ -5283,7 +5559,8 @@ When a person rolls for a combat action in which they fire a firearm in some way
 Before a firearm that has suffered stoppage can be used again, a successful Reload action is required. Should the
 Reload action's difficulty roll also result in an exceptional failure and its numbers be equal to or below the weapon's breakdown value, the weapon has suffered a real breakdown and is unusable.
 
-**Item condition and quality**
+### Item condition and quality
+
 An item's condition/quality is crucial for its breakdown risk.
 A poorly maintained item runs a significantly higher risk of breakdown than a well-maintained one or one of good quality.
 Table 1:30 summarizes this.
@@ -5293,7 +5570,8 @@ The breakdown/stoppage column shows which numbers in a roll cause breakdown or s
 *"In the fight against the enemy, where one's equipment is the same as one's chance of survival, the reliability and durability of items is crucial. To the soldiers' disadvantage, and the bureaucrats' satisfaction, equipment of the best quality is considerably more expensive than a simple soldier's life."*
 **— Vautiren Markov**
 
-**About stoppages**
+### About stoppages
+
 A question one might ask is why firearms get an extra chance at risk of breakdown—why don't they break down directly? This is because stoppage provides a dramatic effect that makes the game more exciting and unpredictable, as the player gets to make the choice to try to fix their jammed automatic pistol in the heat of battle, or do something else, rather than being forced to the latter if the weapon automatically breaks down and requires qualified repairs.
 
 | Condition/quality | Breakdown/stoppage |
@@ -5311,7 +5589,8 @@ Table 1:30
 
 *Gabriel is unlucky—he sees an enemy at a distance rushing toward him with a saber and chooses to shoot. The roll shows double twos and becomes exceptionally failed, so the weapon suffers stoppage. Desperate, Gabriel tries to reload in the next action and rolls a difficulty roll. The roll shows double threes and is also exceptionally failed, so the pistol breaks down completely and requires repair to work again. Resolute, Gabriel turns the pistol over to use it as an improvised club in the impending melee.*
 
-**Repairs**
+### Repairs
+
 Broken items must be repaired by someone who has tools, time, and competence. When a broken item is to be repaired, a difficulty roll (Construction) is usually required. One roll may be made per hour, and the repair generally counts as a complex action, see page 201.
 
 In certain situations, the narrator may judge that other skills connected to the item can be used for repair, such as
@@ -5323,7 +5602,8 @@ If any difficulty roll in the repair becomes exceptionally failed, the repairman
 *"...and nightmares. Miss Navarre also exhibits deep emotional disturbances, detachment, hateful behavior, and a clear authority problem. It is my professional assessment that Miss Navarre should immediately be placed in a rest home or, even better, in a sanatorium, where she receives the care she needs. I..."*
 **Dr. Amileia Anezka**
 
-**Explosives & skullduggery equipment**
+### Explosives & skullduggery equipment
+
 When diplomatic and/or subtle attempts to solve a problem don't help, more direct methods may be needed. More often than not, these methods involve explosives or other skullduggery equipment.
 
 | Item | Price (availability) | Other |
@@ -5338,7 +5618,8 @@ When diplomatic and/or subtle attempts to solve a problem don't help, more direc
 | Cable rifle | 1,200z (§) | Unwieldy |
 | Grappling hook | 165z | Unwieldy |
 
-**Academic & investigation equipment**
+### Academic & investigation equipment
+
 Investigation equipment and academic equipment are a must for police officers and private detectives.
 
 | Item | Price (availability) | Other |
@@ -5353,7 +5634,8 @@ Investigation equipment and academic equipment are a must for police officers an
 | Camera | 500z |
 | Reference library (subject) | 5,000z | Bulky |
 
-**Services & lodging**
+### Services & lodging
+
 Services make Sandukar spin, often greased with money or favors. More expensive alternatives, i.e., higher condition/
 quality, usually mean higher service level at the establishment or increased expertise from the person you hire.
 
@@ -5376,11 +5658,13 @@ quality, usually mean higher service level at the establishment or increased exp
 | Telegram | 1z per ten words |
 | Newspaper ad | 5,000z per page |
 
-**Equipment**
+### Equipment
+
 Below is a list of various items and services with price, availability, and any other information. The list should be seen as an inspiration and guideline and not as a complete listing of the total range available in Sandukar or in the
 Empire as a whole.
 
-**Miscellaneous**
+### Miscellaneous
+
 General items of various character.
 
 | Item | Price (availability) | Other |
@@ -5412,7 +5696,8 @@ General items of various character.
 | Matches | 2z per box |
 | Business cards | 50z per 100 pieces |
 
-**Tools**
+### Tools
+
 Tools are indispensable if the protagonists want to perform work of various kinds. Tools can be purchased individually or bought in sets. The contents of tool sets are only suggestions, and it's up to the narrator and player to collaborate so that the contents of a set become reasonable.
 
 | Item | Price (availability) | Other |
@@ -5430,10 +5715,12 @@ Tools are indispensable if the protagonists want to perform work of various kind
 | Tool set: carpenter | 1,800z | Bulky |
 | Tool set: excavation | 3,000z | Bulky |
 
-**Tickets**
+### Tickets
+
 If you want extra good service and more luxury when traveling by, for example, train or airship, you must buy a ticket of higher quality, see page 92.
 
-**Rental**
+### Rental
+
 Renting a vehicle of normal type
 (passenger car, van, truck) costs approximately 500 zovrins per day.
 From unknown customers, the lessor usually requires a substantial deposit. To rent a vehicle requires a citizen's passport.
@@ -5545,7 +5832,8 @@ Clothes are acquired in two ways, either as ready-to-wear, or as custom-tailored
 Custom tailoring is still common but it's more expensive than buying ready-to-wear. The advantage of custom-tailored garments is that the fit becomes much better and the customer can influence the garment's appearance in a hands-on way. Most customers like the personal relationship built up between tailor and customer and many keep the same tailor for many years. Alongside the tailor, the shoemaker, glovemaker and hatmaker are also respected professionals.
 The trade in used clothes is extensive. In shops and at market squares used clothes of greatly varying type, style and quality are sold. Among the less well-off it's common for clothes to be used until they literally fall apart. The clothes are patched and mended until the very end.
 
-**Women's Fashion**
+### Women's Fashion
+
 Ladies' fashion is what varies most from year to year. New ideas are tested and new designers take over. The current fashion favors the feminine and highlights the classic feminine curved form, with hips, narrow waist and emphasized bust.
 **Undergarments**
 Undergarments are usually made of cotton, silk or satin. Lace is often present, especially among the upper class.
@@ -5573,7 +5861,8 @@ Other ways to express oneself are by wearing colored ribbons in the hair, elabor
 "We used to love each other but now I wonder, are you my friend or my enemy? Before I saw such things in your eyes, now there's nothing there."
 — Gabriel Jandaran to Talia Navarre
 
-**Men's Fashion**
+### Men's Fashion
+
 Men's fashion has been the same for a long time, with the suit as the classic garment. A number of changes occur as trends shift, particularly regarding color, form and accessories, but the basic appearance is the same. Office workers usually wear shirts and trousers while manual laborers, farmers and miners use trousers of coarse fabric and sweaters.
 **Undergarments**
 Men often wear undergarments of cotton or silk. On the upper body the undershirt is not uncommon, especially among the middle class. Socks are almost always made of cotton and usually match the color of the trousers.
@@ -5621,7 +5910,8 @@ The male tuxedo consists of several parts: a black tuxedo jacket with velvet or 
 At more formal events, it's the tailcoat that applies. The tailcoat is a male formal dress, it is black and has long tails at the back and jacket lapels of silk. The trousers have silk braids and lack cuffs. With tailcoats, a white tailcoat shirt and white bow tie are worn as well as a vest. In the jacket's breast pocket there is usually a white handkerchief carefully placed. Outdoors, a black top hat and cane are worn. The hands are enclosed in white gloves of thin fabric.
 The male formal dress can always be replaced with dress uniform if an officer rank within the armed forces, police or security corps is held.
 
-**Cultural differences**
+### Cultural differences
+
 There are many cultural differences in fashion and they become particularly noticeable when leaving the capital Sandukar.
 The different kingdoms that make up the Empire all have their distinctive traits when it comes to clothing style, although in the cities people try to dress so they fit in as well as possible.
 **Darost**
@@ -5653,7 +5943,8 @@ Weapons is a collective term for the different ways and objects a person uses to
 Below follows an explanation of various terms found mentioned in the weapon lists on pages 104–117.
 Weapons & combat equipment
 
-**Conceal**
+### Conceal
+
 When a person wants to attempt to detect a concealed weapon on another person, an opposed roll is made (the detector's Perception against the carrier's Dexterity). The carrier receives penalties or bonuses depending on the weapon's Conceal value, as well as depending on how the weapon is carried, see page 119. If the detector frisks instead of observes, he/she receives a bonus (+10) to their roll.
 
 As long as the weapon is not concealed in some way, for example under a jacket or coat, it is naturally automatically visible if someone looks. Objects classified as unwieldy or bulky (see page 91) cannot normally be concealed.
@@ -5666,29 +5957,36 @@ Certain types of firearms can only be handled properly with two hands. If this r
 
 It is possible to use a one-handed firearm in each hand simultaneously. The description of combat actions that involve two one-handed firearms specifies which rules apply.
 
-**Malfunction**
+### Malfunction
+
 The weapon's construction can increase the risk of misfires and malfunctions, which is indicated by its malfunction value. See page 92 for more information about malfunctions.
 
-**Caliber**
+### Caliber
+
 The caliber indicates a firearm's ammunition diameter, either in millimeters or in hundredths of an inch. One must have the correct caliber ammunition for it to fit the weapon.
 
-**Magazine**
+### Magazine
+
 The magazine's size and design determines how many cartridges the weapon can be loaded with and how the cartridges are stored.
 
-**Precision**
+### Precision
+
 Precision indicates how much bonus a shooter receives when he/she takes time to aim by, for example, using the combat action Shoot aimed fire.
 
-**Recoil**
+### Recoil
+
 The recoil is the jerk the weapon gives off when it is fired. How noticeable the recoil becomes depends on two factors, partly on the shooter's inherent nervousness and fear of the recoil, partly on how much the force at firing actually affects the weapon. High recoil is counteracted by high weapon weight, good physique, and handling training.
 
 At the Recoil value, the letters "A" and "E" are also present. They describe the weapon's mechanism – fully automatic mechanism (A), single-shot mechanism (E), or both (AE). For most combat actions involving firearms, it is stated as a requirement that the weapon must have a specific mechanism – if the weapon lacks the correct mechanism, it cannot be used to perform that specific combat action.
 
-**Range**
+### Range
+
 All firearms and throwing weapons have three range limits – short, effective, and maximum range. Attacks against targets within the weapon's short range are not modified, attacks against targets within the weapon's effective range receive a penalty (−2), attacks against targets within the weapon's maximum range receive a penalty (−5), and attacks against targets farther away than the weapon's maximum range receive a penalty (−10). See table 1:31 for a summary. Maximum range is always double the effective range.
 
 The narrator should view the ranges listed for weapons as recommendations. Noir is not a detailed tactical game, and if a target is judged to be exactly on a range limit, it is better to let it fall within the shorter distance.
 
-**Range Penalty**
+### Range Penalty
+
 Within short ±0
 Beyond short but within effective −2
 Beyond effective but within maximum −5
@@ -5696,28 +5994,34 @@ Beyond maximum −10
 
 Table 1:31
 
-**Damage Value**
+### Damage Value
+
 The damage value for different weapons is written, for example, "2D−1". That means the damage effect is rolled with two dice (D stands for die) and one is subtracted from the sum.
 
 Some damage values are designated, for example, "S1D". The code "S" stands for stunning; more information about stunning damage effects can be found on page 263.
 
-**Distance and Melee**
+### Distance and Melee
+
 **Two terms are used to determine** combat distance. Ranged combat is combat with firearms or throwing weapons against enemies who are usually out of reach. Melee is combat at such short distance that those involved can touch each other without great effort. Melee can be fought either unarmed or armed.
 
-**Melee Weapons**
+### Melee Weapons
+
 The concept of melee includes all forms of man-to-man combat, both armed and unarmed. Melees are fought when attacker and defender are in proximity to each other, often at contact distance.
 
 Melee weapons include all possible different weapons and implements a person can use to effectively render an enemy unfit for combat. It is common for a person to try to specialize in a specific type of weapon that he/she prefers.
 
 For all melee attacks, Damage Bonus is added to the weapon's damage value. See also the section "Grip" on page 103.
 
-**Knife**
+### Knife
+
 The knife, that is, a sharpened blade with handle, comes in many different designs: double-edged, single-edged, with guard, etc. This also includes the stiletto, whose blade is hidden in the handle, as well as other lighter bladed weapons.
 
-**Dagger**
+### Dagger
+
 This includes, in addition to the common dagger, the commando knife and bayonet, which are substantial double-edged knives intended for the battlefield. The commando knife can be likened to a universal tool for the State's commando soldiers who often carry out sabotage and resistance operations in enemy territory. The bayonet can be used either in hand or on a rifle with bayonet mount. In the latter case, the rifle becomes a spear-like melee weapon.
 
-**Melee Weapons Damage Value Conceal Price**
+### Melee Weapons Damage Value Conceal Price
+
 Unarmed combat S1D – –
 Light, improvised implement S2D−1/1D+1* Varies –
 Heavy, improvised implement S3D−2/2D* Varies –
@@ -5733,7 +6037,8 @@ Axe** 2D −7 250z
 ** The weapon can be used with both one-handed and two-handed grip. If used with two-handed grip, damage bonus is added one extra time.
 *** Bayonets used attached to rifles count as spears with the rifle's Conceal value.
 
-**Throwing Weapons Damage Value Range Conceal Price**
+### Throwing Weapons Damage Value Range Conceal Price
+
 Light, improvised throwing weapon S2D−1/1D+1* 5–10 m Varies –
 Heavy, improvised throwing weapon S3D−2/2D* 2–5 m Varies –
 Throwing knife 1D+2 5–15 m +6 75z
@@ -5752,37 +6057,47 @@ Wood axe (axe)
 Fire axe (axe)
 Folding knife (knife)
 
-**Spear**
+### Spear
+
 Rapier (sword)
 
-**Club**
+### Club
+
 A club made of, for example, wood or steel inflicts substantial crushing damage. The designation includes everything from the police baton to the cudgel.
 
-**Spear**
+### Spear
+
 The spear is a long stick topped with a double-edged metal blade that is thrust into the enemy.
 
-**Sword**
+### Sword
+
 Swords come in countless lengths and designs – with single or double edge, straight, curved, wide or narrow blade, one-handed or two-handed grip – it is only the creator's imagination that sets limits. Rapiers and sabers are also included in the designation. A sword can be camouflaged in, for example, a cane – and thus become a so-called swordstick.
 
-**Axe**
+### Axe
+
 The axe consists of a blade with a handle. Common versions are the meat cleaver, hand axe, and machete. The somewhat larger fire axe is also included in the designation, and in the countryside the handy wood axe is often seen.
 
-**Throwing Weapons**
+### Throwing Weapons
+
 Throwing weapons are weapons and objects a person flings away in hopes of hitting a target or position. Nearly all throwing weapons are one-handed weapons. Skilled weapon throwers can perform tricks or inflict great damage with these primitive weapons.
 
-**Throwing Knife**
+### Throwing Knife
+
 The throwing knife is sharpened and well-balanced, and often made entirely of steel. It comes in countless different designs.
 
-**Shuriken**
+### Shuriken
+
 The shuriken is a metal construction in the form of a star with sharpened edges. The weapon is of Celenkt origin. It is handy and relatively easy to conceal. With a little training, the shuriken can also be used as a melee weapon.
 
-**Hand Grenade**
+### Hand Grenade
+
 A hand grenade is a small cylindrical metal object with an explosive substance inside. The hand grenade is armed by pulling out a pin and releasing a safety lever – which often occurs when the grenade is thrown. Most hand grenades detonate on impact or within a few seconds from being armed. A hand grenade damages its surroundings through an explosive pressure wave and by the casing breaking up into numerous fragments. In game terms, a hand grenade detonates in direct connection with the throw action.
 
 Molotov Cocktail
 A molotov cocktail is a glass bottle filled with gasoline or other flammable liquid (for example spirits) and with a rag in the neck. The rag is ignited and the bottle is thrown against the ground where it breaks so that the rag comes in contact with the liquid which then hopefully catches fire. In game terms, the liquid catches fire in direct connection with the throw action.
 
-**Other Forms of Melee**
+### Other Forms of Melee
+
 **Unarmed Combat**
 **Mastering unarmed combat** means having the ability to utilize body, fists, feet, head, elbows, and knees in the best way to render the enemy unfit for combat. There are numerous different specialization areas (see page 58) that improve a person's melee ability.
 
@@ -5795,30 +6110,35 @@ For example crowbar, plank, tool, frying pan, chair, golf club, fire poker, or t
 Very heavy, improvised implement
 For example a board, shovel, sledgehammer, tire, or bookshelf.
 
-**Improvised implements' durability**
+### Improvised implements' durability
+
 **All melee weapons with the term** "improvised" in the name are not made for fighting with. Therefore, it is easy for them to break or become unusable in some way. If the damage effect from such a weapon in an attack becomes odd, the improvised weapon is counted as unusable for the rest of the fight.
 
 Example: Mordekai hits a shady nightclub owner with a billiard cue that counts as a "light, improvised implement". The damage effect lands on eight, which is not odd, so the cue holds. The next attack Mordekai performs also hits but now the damage effect becomes five – an odd result – so the cue shatters into splinters.
 
-**Other types of throwing weapons**
+### Other types of throwing weapons
+
 Light, improvised throwing weapon
 For example flower vase, bottle, coffee mug, ashtray, plate, automatic pistol, book, stool, hockey puck, attaché case, revolver, tool, a fistful of nuts and bolts, or a substantial stone.
 
-**Heavy improvised throwing weapon**
+### Heavy improvised throwing weapon
+
 For example coffee table, large painting, wheel, submachine gun, sword, rifle, shovel, axe, heavy furniture, crowbar, sledgehammer, or trash can.
 
 Cudgel (club)
 Police baton (club)
 Dagger (dagger)
 
-**Throwing knife**
+### Throwing knife
+
 Shuriken (dagger)
 Commando knife (dagger)
 Bayonet (dagger)
 
 **Hand grenade**
 
-**Automatic Pistols**
+### Automatic Pistols
+
 Automatic pistols are small one-handed firearms intended for easy transport and effective defense at short distances. The term automatic pistol refers to the mechanism where the empty casing is ejected and a new cartridge is automatically fed into the barrel each time the weapon is fired. For firing a new shot, a new trigger pull is required – the weapon does not continuously feed in cartridges if the trigger is held down.
 
 Most automatic pistols require slide operation or other manual preparation each time the weapon is reloaded with a new magazine. All automatic pistols are one-handed weapons. Those weapons that are magazine-fed can have an extra cartridge in the chamber, even though this is considered unsafe as it increases the risk of accidental discharge.
@@ -5840,7 +6160,8 @@ Kriger Army Pistol-4 2D 10–50 m +2 3E 7+1 10mm ±0 ±0 2,000z
 
 * Availability for all automatic pistols is §§. ** The weapon is prepared to accept a suppressor.
 
-**Firearms**
+### Firearms
+
 **Firearms are handheld** mechanical weapons that fire projectiles at the enemy, usually a bullet fired via a cartridge.
 
 **The modern battlefield demonstrates** the superiority of firearms, as a soldier at long distance can eliminate the enemy with minimal risk to their own life and limb.
@@ -5915,7 +6236,8 @@ the weapon lists.
 I have ten thousand bullets with his name on them." 
 — Gabriel Jandaran
 
-**Revolvers**
+### Revolvers
+
 Revolvers are one-handed firearms that are loaded with cartridges 
 individually into a cylinder. The cylinder rotates with each 
 firing so that the cartridge chamber comes in line with 
@@ -6019,7 +6341,8 @@ in the Magazine column.
 citizen's pass a worthless piece of paper!" 
 — Anya Malov
 
-**Submachine Guns**
+### Submachine Guns
+
 Kpist is an abbreviation for kulsprutepistol – that is 
 a handheld firearm that fully automatically fires pistol 
 ammunition. The weapon concept is fairly new but has 
@@ -6089,7 +6412,8 @@ one doesn't feel like the right one."
 **Karev Riekon**
 Kriger Commissariat Pistol–4
 
-**Rifles**
+### Rifles
+
 All rifles are two-handed weapons and fire powerful ammunition. 
 They are used by hunters and are soldiers' standard 
 weapons in the military. It's House Kriger that supplies the State's 
@@ -6158,7 +6482,8 @@ Rais 8mm Bolt-Action
 
 Rais H100K
 
-**Shotguns**
+### Shotguns
+
 Shotguns have several advantages and quite a few disadvantages. The advantages are that they have high damage capacity and accuracy at short distance, and that they are mechanically simple to handle and maintain. The disadvantages include the limited range and that the damage capacity decreases radically with distance to the target. The reason for the latter is that the weapon uses buckshot cartridges which, unlike regular cartridges, do not contain a bullet but between 9 and 23 small round lead pellets.
 When a buckshot cartridge is fired, these lead pellets are shot through the air. They spread somewhat with distance, and a hit at close range often means that several pellets strike the target, which increases the risk of serious injury.
 
@@ -6206,7 +6531,8 @@ Rais H100
 
 Rais H100U
 
-**Machine Guns**
+### Machine Guns
+
 Machine guns, or machineguns, are pure military weapons and can be said to be fully automatic heavy rifles created to demoralize the enemy and provide covering fire during assault or retreats. Machine guns are often very heavy and unwieldy since they are intended for longer, continuous fire in fixed installations. They constitute a common armament on various types of vehicles used at the front, not least aircraft. All machineguns directly used by individuals require two hands to operate.
 
 Kriger Machine Gun—1
@@ -6242,18 +6568,22 @@ Kriger Machine Gun—3
 Kriger Machine Gun—3
 The light Kriger Machine Gun—3 is intended as a portable support weapon. The weapon is a late addition to the infantry and is not belt-fed but has a large round drum magazine lying on top of the weapon body. Empty cases are fed downward, through the weapon. Soldiers who have fired the weapon like its maneuverability and destructive capacity, but curse its weight and the fact that it is not uncommon for red-hot empty cases from the weapon to land in their boots.
 
-**Heavy Weapons**
+### Heavy Weapons
+
 The term heavy weapons includes specialized weapons primarily used by the military, such as flamethrowers or weapons for building clearing and armored vehicle combat.
 No heavy weapons can be fired without using the initiative action Fire aimed shot.
 
-**Kriger Dragonfire**
+### Kriger Dragonfire
+
 Dragonfire is a portable, back-mounted flamethrower that requires two-handed grip to operate. The two fuel tanks carried on the back can hold enough liquid for eight substantial bursts.
 
-**Kriger Demolition Lance**
+### Kriger Demolition Lance
+
 The Demolition Lance is a cheap and low-quality disposable weapon made for anti-armor and bunker assault. Its high-explosive grenade is created to spread destruction around it through shock wave and shrapnel. The weapon's effectiveness against armored vehicles is limited, but better than nothing. It is not uncommon for a soldier to carry two to three
 Demolition Lances just in case. When the weapon is fired, its empty tube is discarded.
 
-**Kriger Steelfist**
+### Kriger Steelfist
+
 Steelfist is a heavy, dedicated, portable anti-armor weapon whose powerful grenade sends a very hot fire jet into the target. The weapon is very unwieldy and requires much time to reload, which means that there are often two people who handle a Steelfist — a gunner and a loader.
 
 Heavy Weapons Damage Value Range Accuracy Recoil Magazine Caliber Conceal Malfunction Price*
@@ -6313,7 +6643,8 @@ It is equipped with a holder for 50 rounds of any type, or 20 shotgun shells.
 Weapon maintenance kit (weapon type)
 A weapon maintenance kit includes gun grease, cleaning rod, weapon cloth, wood oil, brushes, sandpaper, steel wool and a small screwdriver and file. All packed in a box of wood or metal.
 
-**Holsters**
+### Holsters
+
 The holster is a carrying device for weapons. Pure firearm holsters are almost always made of hardened and molded leather. Common holster types are the shoulder holster, hip holster, and ankle holster.
 **Holster properties**
 Each way of carrying a weapon entails requirements and effects, according to table 1:32
@@ -6363,7 +6694,8 @@ When the wearer makes a special flick with the arm, usually slightly forward, do
 Or do you pull yourself together, stand up for your own, protect them, make sure nothing further bad happens to them?"
 – Anya Malov
 
-**Shoulder holster**
+### Shoulder holster
+
 The shoulder holster sits under the armpit, and the arms are threaded through it. The holster is often fastened to the belt for increased stability. To compensate for the weight on the side where the firearm is placed, the opposite armpit usually has pockets for one or two extra magazines, in cases where the weapon is an automatic pistol. There are also special shoulder holsters that accept throwing knives on one or both sides.
 **Waistband**
 The weapon can be stuck into the waistband, with the stock or handle above. This is a cocky but impractical way to carry the weapon, as it is difficult to draw and easy for the weapon to disappear down into the pants.
@@ -6492,7 +6824,7 @@ Sandukar's architecture is varied and in places almost mad in its execution, as 
 
 Despite new construction, most is worn and blackened, with an aura of antiquity about it. It seems as if the city itself causes the copper statues to patinate, the facades to soil, and the metal to rust. The dark facades are lit up, however, by the electric lights erected by the millions of people who are born, live, and die here. The city is a world unto itself, and the people are parts in its eternal machinery.
 
-**Administration**
+### Administration
 
 Each district functions almost as an autonomous city, and citizens rarely need to leave it, except for job commuting if they work in the Machine Cities or in other districts.
 
@@ -6508,15 +6840,15 @@ The State's subjects must be able to manage their work while fulfilling their ob
 
 The Office of Denunciation is a known, hated, and feared place. Seeing a friend or family member enter the building can make even the most cold-blooded person sweat. The office often lies near the district's police headquarters to facilitate occasions when rapid apprehension of a suspect must occur. The office's promise that denunciations leading to successful apprehension can grant the denouncer citizenship brings many desperate outcasts, ravaged refugees, and unknown informants to betray their brothers and sisters in hope of gaining a place in the State's arms and thus beginning new lives. This type of betrayal, as it is usually perceived, is seen as the lowest type of action a non-citizen can engage in. Information about the Office's existence is proclaimed with frenzy in the Ministry of Truth's printing presses and loudspeaker vehicles.
 
-**The City's Districts**
+### The City's Districts
 
 Sandukar has several different areas, all clearly separated by the canals. The areas become cities unto themselves as facilities and conditions exist so that most never need to leave their own district.
 
-**The Inner City**
+### The Inner City
 
 In the center of Sandukar lies what is the Empire's soul and heart within the dark and ominous inner canal that ends its journey at the city's absolute center. Here one finds the Imperial Cabinet, the State's ministries, the Houses' stately constructions, the finest hotels and restaurants, and the most important bureaucratic institutions. Massive skyscrapers of steel, stone, and glass stretch up toward the firmament—some seem so ancient they have grown from the bedrock itself. Walkways lead between the skyscrapers, hundreds of meters above ground level. The zeppelins glide between the buildings and cast their elongated shadows down on the winding avenues.
 
-**The Seven Towers**
+### The Seven Towers
 
 **Sandukar is a city whose urban** geography is unlike any other. Beyond the circular shape, the deep canals, and the high walls, it also distinguishes itself in yet another way. Seven towers, taller than the skyscrapers, rise from the city at various, seemingly, random locations.
 
@@ -6532,7 +6864,7 @@ In the Inner City's center, commerce and intrigue seethe. At inaugurations, gala
 
 The bureaucratic process is a colossus on clay feet, and the bureaucrats seldom manage to enforce the rules and regulations they themselves have established to protect the State and its subjects. Behind the ornate facades and the grinning sculptures one finds calculating, ruthless individuals who stop at nothing when it comes to achieving power, success, fame, and/or wealth. Polished brokers, wealthy bankers, powerful magnates, and arrogant bigwigs meet strict bureau directors, harsh ministers, venerable family figures, and charismatic stars from the worlds of film, music, or sports, in a struggle for attention and supremacy. In the Inner City there always reigns an inflammable calm, a storm lying in wait for the next move.
 
-**The Free City**
+### The Free City
 
 The majority of Sandukar's inhabitants have their dwelling outside the inner canal. By the citizens this part of the city is often called The Free City, as the feeling of control and surveillance is secondary among everyday problems. Occasionally visiting one of the city administration's offices is seen as a necessary evil. The people are allowed to live their lives, work for their bread, and start businesses. The misery is noticeable but most cannot be bothered to care. Notice boards and radio programs echo the messages from the Ministry of Truth over and over again.
 
@@ -6687,7 +7019,8 @@ Madam Sophie is a member of the organization Lust Twilight but runs business her
 Sandukar is a vast city and there are plenty of underground spaces in the form of sewer systems, subway tunnels, culverts and remains from the ancient temple city. In the depths carved tunnel systems stretch eternally downward. Here one finds underground lakes and torrents where the city's canal water disappears into the abyss. The echo from massive machines can sometimes be heard in these tunnels but who built the machines, what function they serve and who they belong to no one knows.
 131kapitel 4 — imperiet
 
-**The Golden Salon**
+### The Golden Salon
+
 The nightclub the Golden Salon, by Strasser Avenue, is a finer establishment where in the large salon with its whitewashed walls, golden decorations and dark purple drapes one can listen to music and song and enjoy a good meal with luxurious wine and spirit varieties. On weekends the club is well-attended and one only gets in if properly dressed and well-behaved.
 From the salon a spiral staircase leads up to the upper floor and only those who are rich and seeking pleasures wander up its steps, with the owners' permission. Here they enter a smaller salon with sofas and divans, candelabras, incense and a smaller bar where Max, the man of forbidden pleasures, has his operation. Absinthe, opium pipes and various hallu-cinogenic drugs are offered and if one passes through any of the drapes one finds a collection of rooms where bodies and satisfaction of lusts can be purchased. The atmosphere is relax-ed and pleasurable, here the wealthy meet to live out their fantasies and let dreams wander in the intoxication of drugs.
 Konstantini Hall
@@ -6718,16 +7051,19 @@ On one wall there are pictures of the police academy's graduating classes and th
 
 132 kapitel 4 — imperiet
 
-**Franko Millovy Defense Attorney**
+### Franko Millovy Defense Attorney
+
 Valeri Ducalls Street 117
 Ikonen, Sandukar
 
-**September City**
+### September City
+
 In the middle of the district lies an extensive residential area that differs greatly from the surrounding buildings. Its small stone houses lie tightly compressed together while large parts of the area have been left open in favor of parks and artistic monuments.
 
 The area, called September City, is surrounded by high iron fences. Only those with very high income and good contacts can find housing in this area whose residents have tried to cut themselves off from the outside world.
 
-**The Zeppelin Harbor**
+### The Zeppelin Harbor
+
 At Petsamer Square in Ikonen lies the zeppelin harbor. Here a massive tower of bare steel beams rises up toward the sky, and at the very top are four platforms where zeppelins can dock. Thick steel cables keep the platforms stable in the harsh wind, and at night powerful searchlights are lit at ground level, illuminating the structure and serving as navigation points for the zeppelins.
 
 Large elevators travel up and down between the platforms and ground level. Down on the ground, rows of taxicabs wait to carry passengers onward on their journey. Here there are also entrances to the subway as well as smaller hotels and restaurants. In the white-tiled waiting hall beneath the tower, one can buy tickets and check baggage that is transported up to the zeppelins via cargo elevators.
@@ -6736,12 +7072,14 @@ From the zeppelin harbor one can travel with smaller airships within Sandukar or
 
 The zeppelin harbor is always patrolled by the Imperium's soldiers and by the airship companies' own security forces. It is open around the clock, and the only times when zeppelins do not depart or arrive is when the winds are too strong and howl through the steel tower's beams.
 
-**The Workers' Quarters**
+### The Workers' Quarters
+
 In the southwest sprawls a mixed residential and industrial area, where factories spew out massive clouds of smoke that create heavy smog on windless days. Several of the factories are run by the company Werner & Quildos, which is said to be connected to the Kriger family.
 
 Many protests and complaints have been heard from nearby residents who want the factories shut down because they so heavily pollute the air and cause soot cough to spread. So far their cries have been ignored, and the Ministry of Truth has posted notices stating that the soot smoke is not harmful to health.
 
-**Werner & Quildos Factories**
+### Werner & Quildos Factories
+
 Werner & Quildos is a family company with connections to the Brana family within the Kriger clan. The company has borrowed large sums of money to expand factory operations within the Ikonen area, which has led to large residential areas being forced to be demolished.
 
 The new factories have given rise to great dissatisfaction from private individuals in the factory area's vicinity and factory workers who have received reduced wages and work under very dangerous conditions. The large chimneys spread stinking fallout over the workers' residential areas, making it impossible to have windows open for ventilation, hang out laundry, or even be outdoors without the stinking sulfur vapors settling into clothes and skin.
@@ -6756,15 +7094,18 @@ Beyond threatening with dismissal, the extortionists bring out the brass knuckle
 
 Werner & Quildos's leader, the elderly patriarch Lester Quildos, sees it as his final task to rein in the factory workers once and for all, but it must be done quickly because the money that is to be repaid to the Brana family is not coming in as long as the factory is not producing its full quota. Lester himself lives in Ikonen's finer area and sits constantly connected to IV drips, catheter, and oxygen mask as he is very old and terminally ill with cancer. Around him are a number of high-level executives who are just waiting for his death and who will fight among themselves for power. Lester has decided to hire outside help to clean out the factory workers who are throwing wrenches in the works and who think they have rights. He has also begun hiring child laborers for the more precision mechanical projects, as children need very little pay and don't make any demands.
 
-**Nedomstad**
+### Nedomstad
+
 In southern Ikonen lies Nedomstad, a residential area for factory workers and other low-wage earners. The residential area consists of several five-story brick buildings that lie next to each other. The apartments above ground are cramped and small but still luxurious if you compare them with the dwellings that lie underground. There are ten basement levels with dim cement corridors and water-damaged walls. Doors lead into small rooms with peeling paint and bare light bulbs. Here stand dirty beds, worn furniture, and attempts at decoration of the stinking holes. The ventilation is poor and leaks sometimes cause the corridors' floors to be covered by a thin layer of water.
 
 The area is overcrowded; here workers sleep between shifts at the factories and dream of a brighter future. There are many violent crimes in Nedomstad as intoxicated workers take out their frustrations on each other. The police must come here several times a week to investigate robberies, assault, and in some cases murder. The most common cause of death among residents in Nedomstad, however, is suicide—many cannot stand their lives and throw themselves on the railway tracks or hang themselves in the leaking pipes.
 
-**Keiter's Clinic**
+### Keiter's Clinic
+
 Wedged between two factory premises in the workers' quarters lies a small clinic run by Doctor Keiter, an eccentric, domineering older man, and his wife, also a nurse. **They are said to harbor a burning hatred** against the State and therefore help the sick and injured in Ikonen when needed, for a cheap penny. The availability of advanced equipment and medicine is variable, and the hygiene could be significantly better in the premises, but the good doctor's help is both appreciated and effective.
 
-**The Emperor's Quarters**
+### The Emperor's Quarters
+
 The Emperor's Quarters is a gigantic residential area that runs along the eastern canal's edge. Here live primarily Ikonen's middle and lower classes in row houses and in quarter complexes of stone and concrete. Many areas are pure ghettos that have been marked by local culture and by the indigenous population.
 
 **The big band struck up in Janos Kegel's** "The Bearer's Song" and I swept down the last of the champagne glass and stepped up to the beautiful red-haired woman. We danced out among the other well-dressed who let themselves be seduced by the atmosphere at the Golden Salon. My hand rested lightly on her hip and she locked my gaze with hers. We whirled around among the well-dressed couples from the upper class and after the dance I invited her to my table where I ordered a new bottle of champagne.
@@ -6777,7 +7118,8 @@ Only much later did I learn that she was Ilsa, an assassin and criminal, but the
 
 Building style and design vary wildly between the quarters; in some parts dilapidated stone houses with ornaments on the facades dominate, in other parts one finds wooden houses with cracked paint layers as well as soiled, vandalized brick houses. The further south, the richer the residents; the further north, the poorer.
 
-**The First Imperial Bank**
+### The First Imperial Bank
+
 When it comes to money, and especially loans, withdrawals, and deposits, it is to the Imperial Bank one turns. This bank chain, which is directly linked to the Zovrin family, exists throughout the Imperium and is known for its good security and discretion in sensitive money transactions.
 
 The office in Ikonen is housed in a stately building with marble columns, statues, and wide stairs. In the bank windows, clerks handle ordinary people's business while the rich and influential are invited to private offices where they can enjoy a cognac while the accountants go through the books.
@@ -6786,7 +7128,8 @@ In the cellar vaults are stored valuable personal belongings, large sums of mone
 
 The massive fortune connected to the bank and its business draws many covetous glances, and recently a number of value transports have been robbed. The Imperial Bank does not trust that the police will find the gang behind the robberies and has therefore appointed a special group of auditors, most of them former soldiers, who torture their way through the underworld in search of the perpetrators.
 
-**The Rulov Gang**
+### The Rulov Gang
+
 One of Sandukar's worst gangs, the Rulov gang, has its headquarters in Ikonen. At the fashionable Hotel Kristatos, in the southern parts of the Emperor's Quarters, the inner circle, including the boss Sergy Rulov, resides. The top floor is completely closed off and is inhabited exclusively by Sergy's henchmen. Sergy has his own suite on the floor but is known for rarely being in the same place for any longer periods as he knows he is a sought-after and hated man.
 
 Sergy Rulov came together with his brother Dashim from Darost to the city of hope to seek their fortune. The two brothers got into trouble early on, but Sergy proved to have an enormous asset—a ruthlessness that meant he dared to go further and take greater risks than most others. His total lack of respect for everything meant that he surprised the traditional criminals in the city, among whom honor and respect are prioritized.
@@ -6797,7 +7140,8 @@ The Rulov gang is large and is controlled through fear and rewards for well-exec
 
 The gang's primary occupation is gambling, protection, and smuggling—primarily of drugs and liquor which is distributed via connected gambling clubs and speakeasies. The gang has been spared from more serious controversies with the law and with Stapo, much thanks to a certain tact for whom one can quarrel with and whom one does not take on—the State's guardians often choose to look the other way when conflicts occur within the underworld. Sergy Rulov is also careful about clashing with the local police. He restrains his vindictiveness for a higher purpose—to slowly but surely take over the entire city.
 
-**Final Rest**
+### Final Rest
+
 Final Rest is one of the larger nursing homes in Ikonen, an institution that has become increasingly popular as one no longer has time to take care of one's father and mother when they have become too old to manage on their own. The Abhrovich family, which runs the nursing home, earns large sums of money, among other things through subsidies, on their humanitarian efforts.
 
 The nursing home is housed in an old hospital building and promises in its brochures a dignified final time for the elderly in calm and stimulating environments. This is far from the truth; large parts of the building are in deplorable condition with water damage and poor ventilation. Here the old are forced to lie in urine-stinking beds and are fed the cheapest food that can be obtained. The staff number is kept to a minimum to save money, and the heating has been shut off in many parts of the building, also for cost reasons. The caregivers are almost all non-citizens, they receive terrible pay, live in the building, and dare not report the poor conditions as it would lead to their non-citizenship becoming known.
@@ -6806,14 +7150,15 @@ Families who want to meet their old relatives must contact them in advance; the 
 
 Most who put their elderly relatives in the nursing home have enough of their own problems and do not investigate the conditions more closely; the majority do not care at all and only dutifully meet their relatives on birthdays and holidays. Milo Erdesser, however, is not such a man; since his mother died of malnutrition at the nursing home, he has written several letters to the editor to the newspapers and tried to draw attention to what is happening there. He has even tried to get into the building to photograph. The Abhrovich family has, as a countermeasure, invested money to make him disappear, and Milo is now trying to find people who have relatives at Final Rest to get them to help him expose the shameless abuses.
 
-**The Starmaker**
+### The Starmaker
+
 Ikonen's starmaker is a man named Marx Begel. He is a talent scout and agent who recruits young talents for film and music production. Some call him the "Evil Eye" as one of his eyes is damaged.
 
 The office where auditions and screen tests are conducted is located in the well-maintained Ustinov Palace, a former summer home for bored nobles converted to provide facilities for record production, simple filmmaking, and other forms of entertainment.
 
 Begel channels the most skilled talents onward to the big studios in Glitterdalen, Sandukar's entertainment hub, in exchange for a share of the future stars' wages. Marx is known for knowing everyone, knowing what's happening, and staying on good terms with those who matter for continued success.
 
-**The Celenk Quarters**
+### The Celenk Quarters
 
 The Celenk Quarters is a poor district populated mainly by refugees and immigrants, especially the western sections. The buildings consist of low brick tenements, and over the area hangs a constant vapor from the characteristic Celenka food culture, where fatty oils and butter form the base.
 
@@ -6823,7 +7168,7 @@ Jostin's Café
 
 A ways down Vätter Alley lies Jostin's Café, a basement establishment and gathering place for local leaders among the ethnic groups and gangs that plague Ikonen. The café is a powder keg, but the owners—the gigantic Malabar triplets Tarik, Marek, and Ibhim—manage to keep order among their unruly clientele through a good mix of diplomacy and strength.
 
-**Gideon's Pawnshop**
+### Gideon's Pawnshop
 
 Gideon is an obese, sweaty man with less conscience than hair on his head. He owns a pawnshop on the corner of Branka and Maslow, where everything from watches, dolls, and instruments is crammed together with stolen goods, jewels, and illegal weapons.
 
@@ -6831,19 +7176,19 @@ Gideon has a short fuse and hates haggling over prices, but since he has very go
 
 Rumors say that Gideon has hidden away evidence against known figures in Ikonen, evidence that will be made public if he should disappear or meet with some accident.
 
-**The Cauldron**
+### The Cauldron
 
 In an extensive underground area consisting of several linked basements beneath high-rises and office buildings lies what's called the Cauldron—a tangle of small traders, peddlers, and brokers in all manner of things. In the midst of the commerce are beer cafés housed in the cellar vaults, and the entire area is shrouded in the heavy, fatty vapors from the typical Celenka food culture.
 
 Everyone is welcome in the Cauldron, though non-Celenks are rarely offered the best prices or the largest selection of special goods. Through the Cauldron, one can travel long distances underground if needed—for example, if the police should be chasing you.
 
-**The Old Quarter**
+### The Old Quarter
 
 The Old Quarter is a sprawling and dirty residential area where mainly the middle and lower classes reside. It's dilapidated and worn, with many smaller slum areas where vagrants and gangs occupy empty, ramshackle buildings and condemned structures.
 
 The various addresses are separated by neglected and overgrown park and green areas with sporadic lighting and plenty of hiding places. Crime is, however, under control in the area's other parts, even though much protection racket activity occurs.
 
-**Millovy's Law Firm**
+### Millovy's Law Firm
 
 *"Those who say crime doesn't pay understand nothing! Of course crime pays—the reason so few engage in it is that it's wrong!"*
 —Franko Millovy, newspaper interview
@@ -6852,7 +7197,7 @@ Franko Millovy is a renowned defense attorney who has helped many in Ikonen esca
 
 Millovy is a rather short and slight person with a childish face and piercing gaze. Some whisper that he was thrown out of one of the Houses—probably Arkady—others maintain that he's a passionate defender of the weak. What's true and what isn't is hard to say, but the fact remains that Millovy is known for his quick statements and that he gladly sees himself on the morning paper's front page.
 
-**Sister Hilda's Shelter**
+### Sister Hilda's Shelter
 
 The homeless and destitute seek out Sister Hilda's shelter during the coldest winter days to sleep in warmth and eat watery soup. They can also pick up discarded clothing that's been donated, and Sister Hilda and her volunteer workers sometimes have medicines to give to the sickest.
 
@@ -6864,17 +7209,17 @@ Berekia Forest
 
 In some of the green areas, women and men gather at night hoping to succeed in selling their bodies to speculators. Most famous of these areas is Berekia Forest—a hilly park area where young girls and boys, sexual deviants and perverts offer themselves to the curious and desperate. The overgrown groves provide shelter and are said to awaken nature's lust in those who venture in for sexual pleasure and release.
 
-**Aramis Contact Brokerage**
+### Aramis Contact Brokerage
 
 At the intersection of Dion's Road and Eriana Avenue lies one of Sandukar's most renowned contact agencies, "Aramis Contact Brokerage." Melchior Aramis, a man of unknown origin, leads a firm shrouded in the highest discretion that ensures interested parties meet and do business with each other.
 
 The house is a two-story office with a cellar vault for archives. The office contains specialized bulletin boards and private meeting rooms for personal counseling and brokerage. The establishment is open around the clock and is rarely without vigilant consultants, nervous clients, or stern problem-solvers.
 
-**Pane Square**
+### Pane Square
 
 Pane Square, located above the underground central station, is a large square whose center is occupied by a large statue of a veiled man with a spire in his hand raised toward the heavens. The statue has remained since ancient times, and who the man represents is unknown. However, cults have arisen around him, and some call him Sandukar since he's believed to be the city's founder.
 
-**The Syrovska Cathedral**
+### The Syrovska Cathedral
 
 The One's faith has several missions in Ikonen. In the middle of Pane Square stands a mighty building in the One's name—the Syrovska Cathedral. No one remembers exactly when it began being built, but work crews are still laying the final stones in the work.
 
@@ -6886,17 +7231,17 @@ Western Park
 
 Opposite the Syrovska Cathedral lies a large, lush park with several larger forested areas. Western Park is a known hangout for junkies and dealers and is not considered a safe place to be in the evening—unless your business is to score a high. Rumors say there are entrances to a tunnel system beneath the park, which in addition to housing the homeless and destitute also leads further downward to something else.
 
-**Reerdon's Hotel**
+### Reerdon's Hotel
 
 Reerdon's Hotel has seen better days—it's a worn-down and decrepit place, with a clientele that usually consists of wanted criminals, lowlifes and their customers, and people who just need to lay low for a while. The manager, Mr. Viktor Vandort, is a discreet man who doesn't ask unnecessary questions, as long as he gets paid in advance.
 
 The building is a large stone and concrete block of eight stories. The inside bears traces of the prosperous days of yore, with velvet, brass lamps, and wood panels—but now everything is decayed and dirty.
 
-**The Borderlands**
+### The Borderlands
 
 The Borderlands is what the western area facing the canal and the Fallen City is called. It's a slum area that has no exact boundary but merges into the workers' quarter and the beggars' quarter. Here are many large warehouse buildings, storehouses, smaller bars, and suspect individuals. Two marvels of steel bridges rest over the canal, and those who travel between their rusty iron beams by car or take the broken-down and stinking train arrive at the Fallen City.
 
-**The Hangars**
+### The Hangars
 
 Near Kader Bridge and the steep shaft leading down to the stinking canal stand several abandoned zeppelin hangars and old industries with rusty gates and cracked windows like a monument from a bygone era. From this desolate place, one can see the lights from the Fallen City and the lanterns from the vehicles that like fireflies search their way across the rusty bridge.
 
@@ -6906,11 +7251,11 @@ To this place, the police usually take people they think should disappear, or wh
 
 The hangar area has become a center for the more shadowy operations within the police force. In addition to space for interrogations and executions, it also functions as a meeting place, warehouse, and training ground.
 
-**The Smuggling Transports**
+### The Smuggling Transports
 
 Certain evenings, large trucks make their way from the Fallen City to various meeting places in Ikonen, loaded with smuggled liquor and cigarettes. This illegal trade occurs between the Hexagon and the Rulov gang and brings in large sums for both camps. The organizations are suspicious of each other, but as long as both profit from the cooperation, a temporary peace prevails.
 
-**The Whistler**
+### The Whistler
 
 A serial killer is prowling Ikonen's streets, who over nine months has killed seventeen young women and men, most of them destitute or prostitutes. The news has only recently made headlines in the newspaper Voice of Hope since one of the victims was found to be a middle-class man—from a family with a certain measure of influence.
 
@@ -6920,13 +7265,16 @@ The serial killer has been named the Whistler by the media after a witness claim
 
 Reporter Mikos Razciak devotes all his time to finding the killer and hopes for a big scoop that will make him famous. In many ways he has greater insight into the killer's methods than the police and has become obsessed with the deeds. He has published a handful of articles and found evidence that he connects to the murders, including that one of the victims had traces of an expensive oil paint on their body, a paint only used for paintings. He has also found a person he believes is a witness to one of the murders or possibly a victim who got away. The young woman is not in full possession of her faculties and now sits in a mental hospital, but under hypnosis Mikos has gotten accounts and descriptions of the killer's deeds from her. Whether this is merely a way for Razciak to create greater interest around the murders and sell more copies is unclear.
 
-**Groups in the Icon**
+### Groups in the Icon
+
 In the Icon there are a number of elements all fighting to gain as much power as possible in the district. Besides business leaders, greedy family members and new entrepreneurs, there are those who bend rules and laws to achieve their goals and thus become part of the underworld.
 
-**The Police Force**
+### The Police Force
+
 Even though the police are meant to protect the weak and catch the suspects, it's not uncommon for individual constables to walk other paths than the distinguished ones. The police have great power in the Icon area and are divided into several subgroups that struggle among themselves.
 
-**The Punishers**
+### The Punishers
+
 There is a group of police officers who have grown tired of criminals they lack evidence against but who they still know are guilty — and criminals they know will commit crimes again once their sentences are served. There are also those who want to cleanse unwanted elements from society or who just want to feel the rush of having power over life and death.
 
 The Revenge Patrol is a group of police officers who have many sympathizers within the force. Members take to the streets to establish order and justice according to their own laws. They capture, interrogate, torture and execute people to extract the information they desire. They avenge fallen colleagues and ensure that criminal elements fear them and the police force.
@@ -6935,17 +7283,20 @@ The advantage of their actions is that they can smash criminal organizations wit
 
 What was once a strong ideology focused on doing right has for many members of the revenge patrol turned into pure lust — to purge the individuals they don't like. Besides criminals, the homeless, prostitutes, street children, homosexuals and people of other ethnic origins have become targets. Likewise, there is an economic gain in looting the bodies of those they've killed and some see the act as a pure source of income on the side.
 
-**The Bought**
+### The Bought
+
 The salary for a police officer is rarely particularly large considering the dangers one exposes oneself to, and it's more of a rule than an exception that one takes bribes to supplement the income. There are even those who take it a step further and completely sell themselves to a criminal organization. It may be for strictly economic or ideological reasons or because the organization has leverage over them. Whatever the case, they are the organization's eyes and ears in the police world and see to acting in the organization's interests.
 
 The Hexagon and the Cartel are the two organizations that have the greatest influence in the police force in the Free City, and as a bought policeman one must play one's cards right because if one's colleagues find out about one's new loyalties, one will surely suffer an "accident" or be sentenced to a long prison term.
 
 Those who serve the Hexagon often do so for a generous sum of money or various services granted to them — usually an exploitation of twisted lusts and weak points, but many have an almost religious view of the Hexagon's operations and serve the ideology because they consider it right.
 
-**The Corrupted**
+### The Corrupted
+
 There are those police officers who have realized what an advantageous position they are in and what power they have over people in the underworld. These individuals use their resources to run their own criminal operations alongside their police work, usually pimping operations or drug dealing. Thus they have become part of the corrupting effect they swore to fight.
 
-**The Liger Family**
+### The Liger Family
+
 The Liger family owns and runs the Golden Salon and tries to keep it outside the major organizations. The ambition is to let the nightclub remain a neutral meeting place, even though it's becoming increasingly difficult. The family has good leverage over the police, however, and is never subjected to raids or the like.
 
 At the top of the building is an attic floor that can be reached via a rickety fire escape on the back or through a rarely used staircase hidden behind draperies on the upper floor. The space functions as a hiding place for friends and allies of the family who must stay away from the law or enemies in the underworld.
@@ -6955,10 +7306,12 @@ Those who have money or information to offer can find an important ally in the L
 "You are one second later than the solution to everything."
 — The Engineer
 
-**The Fallen City**
+### The Fallen City
+
 The Fallen City is a world unto itself. It is ruled by gangs and warlords who replace state oppression but in many ways the people have more freedom. Here one does not find state propaganda and bureaucratic difficulties.
 
-**The Water Moat**
+### The Water Moat
+
 On the outskirts of the Fallen City, toward the outer wall, the water from the canal has risen, while the ground level has been undermined and sunk. The oily water completely drowns the lowest buildings while the others stand half in dirty, blackened water. In the buildings that still stretch up out of the water live poor workers and the lawless. Empty factories are marked by their water-filled chimneys that stand above the water surface. On the bottom are corroded car wrecks and trucks that bear witness to the time before the flood.
 
 Despite the grim surroundings, the whitish-gray fog and the icy dampness, the people have adapted — small boats with lanterns at the bow find their way between the buildings that have gotten new entrances level with the water surface. Makeshift bridges of rusty metal, creaking cable constructions and piers of scrap make it possible in places to move between nearby houses via a network of narrow and dangerous walkways. Few of the houses in the sunken district have electricity and refuse is dumped out through the windows, down into the sluggish water. Some residents have built houseboats that function as dwellings and make it possible to move quickly if unrest can be sensed.
@@ -6967,7 +7320,8 @@ Despite the grim surroundings, the whitish-gray fog and the icy dampness, the pe
 
 Attempts to restore the water level have been made but failed. It's as if the water has decided to bury what is buried, or the State has decided to drown the city by opening the locks.
 
-**Den of Sin**
+### Den of Sin
+
 Those who make their way to the Fallen City from other parts of Sandukar head first and foremost to the district that goes by the name Den of Sin. Here pleasures and indulgence are offered. It is a lively place with a perverted market where drugs, flesh and lusts are offered up.
 
 Den of Sin revolves around the massive Vaslav Square which at night is a marketplace with burning fires, trading stalls, makeshift dwellings in broken buses and cars, and a throng of people. In the middle of the square are the remains of a fountain, the statues are weathered and shattered and between their twisted bodies tents and tarps have been stretched up. In the sea of people are pickpockets, guides, merchants and fortune-seekers — if one is not careful, one may find oneself robbed, assaulted, kidnapped or enslaved.
@@ -6976,7 +7330,8 @@ Den of Sin revolves around the massive Vaslav Square which at night is a marketp
 
 **The activities spread out in** a web from Vaslav Square and among the residential buildings lie cellar pubs and beer cafés. A pleasant conversation can quickly degenerate into brawls if one doesn't play one's cards right. There are always those who wish to trick outsiders out of everything they own and have.
 
-**The Circus**
+### The Circus
+
 At one end of Vaslav Square lies an old amusement park that long stood abandoned and boarded up until a circus company drove out the homeless from there and made it their dwelling. This is now a strange place that is open during the evenings and where for a cheap penny one gets a ticket to peculiar pleasures and long-forgotten forms of entertainment.
 
 In the Ferris wheel with its colorful lamps one comes high up over the Fallen City, the funhouse offers moaning sounds from tinny speakers and erotic paintings, the mirror halls are long and winding and everywhere are
@@ -7025,7 +7380,8 @@ stays afloat. People pay for happiness and for entertainment
 that is something other than mind-numbing, as long as such 
 alternatives exist.
 
-**The Underground Market**
+### The Underground Market
+
 Adjacent to the square one can find a building whose 
 upper floors are burnt out. It previously housed a 
 brewery and is still used to some extent as such by 
@@ -7046,7 +7402,8 @@ new finds to acquire and things to trade in. Greed
 and desire never seem to end but drive people to 
 inhuman acts or to the brink of ruin.
 
-**Doctor Kansal**
+### Doctor Kansal
+
 The bodies of people who have been killed usually turn 
 up sooner or later. Either the homeless drag their 
 rat-eaten corpses up from the sewers in hope of reward, or 
@@ -7066,7 +7423,8 @@ industrial waste. If one has many bodies, one can get
 a bulk discount, but if one wants to lower living people into 
 the acid, Kansal usually doubles the prices.
 
-**The Bazaar**
+### The Bazaar
+
 The Bazaar is the part of the Fallen City that can most 
 be likened to a normally functioning district. In the south 
 lies a power plant that supplies the district, and even 
@@ -7092,7 +7450,8 @@ are haggled between buyers and sellers. Old antique books,
 ornaments, and documents that survived the firestorms in 
 the Ruins fetch high sums from wealthy outsiders.
 
-**The Sisterhood**
+### The Sisterhood
+
 A large group within the citizen guard in the Bazaar 
 is the Sisterhood. The group is led by Jea Karev, a good 
 rhetorician and charismatic leader who is always seen 
@@ -7118,7 +7477,8 @@ to challenge the Sisterhood's power and tries to take control
 over members within the organization, something that has 
 caused Karev to begin motivating members to strike back.
 
-**The Ruins**
+### The Ruins
+
 In a several-square-kilometer area in the Fallen City, 
 there is nothing but ruins. Crumbling and burnt-out 
 buildings line desolate avenues, and the urban 
@@ -7161,7 +7521,8 @@ The Varlekus family (see page 149) and its servants are the
 ruling power in the ruined city, but there are plenty of odd 
 religious sects, gangs, and leaders with visions and prophecies.
 
-**The Fallen Tower**
+### The Fallen Tower
+
 The fallen tower's base still rises toward the sky, but 
 the tower is broken and its shadow no longer haunts 
 the surrounding district. The black basalt facade has 
@@ -7182,7 +7543,8 @@ truth about the tower is, no one knows, but most keep a
 safe distance despite the riches and artifacts one might find 
 in its interior.
 
-**Tavol**
+### Tavol
+
 Sandukar has a maze of tunnels, culverts, and passages 
 that wind down into the depths. In the Fallen City, many of 
 them are flooded and collapsed and are said to be home to 
@@ -7212,7 +7574,8 @@ Otherwise, Tavol offers his services for the right amount of
 money and can lead people through the old sewer passages 
 to the places they desire.
 
-**Malgrav**
+### Malgrav
+
 At the foot of Kostor Bridge it is close to a square that is 
 enclosed between massive buildings, which means it 
 always lies in shadow. The square is called Malgrav Square 
@@ -7230,7 +7593,8 @@ see their chance in this jumble of impressions. This is also
 the hragers' strongest area, and they have their own enclave 
 here.
 
-**The Hraghic Enclave**
+### The Hraghic Enclave
+
 What was previously a walled hraghic ghetto has now become a 
 fortress for the hraghic people in the Fallen City. 
 The people have united and shown great cooperation in 
@@ -7238,7 +7602,8 @@ the work of restoring the dilapidated houses and
 fortifying the walls. One is only admitted inside the walls 
 if one belongs to the hraghic people or if one is invited.
 
-**The Bathhouse Santor**
+### The Bathhouse Santor
+
 By the canal lies a large bathhouse with Gothic architecture 
 and separate sections for men and women. Here one is 
 washed and massaged for a small sum of zovrins and can 
@@ -7257,43 +7622,52 @@ for them to the bathhouse. Once a month, auctions are held where the slaves are 
 
 Beneath the bathhouse, a network of tunnels leads to the abandoned and half-flooded subway, and it is through these tunnels the slaves are transported. Here there are also underground dungeons where the slaves are kept imprisoned while awaiting sale. People from the organization Lustskymning often make purchases at Madam Santor's bathhouse and always attend the auctions.
 
-**The Destroyers**
+### The Destroyers
+
 A group known as the Destroyers has its base in an abandoned hotel in the southern part of Malgrav. The group consists of a number of the enlightened whose sole purpose is to fight the shadows. No real clarity on what this entails has emerged, but the confirmed members who have been encountered all seem coldly focused and carry long, ornate swords beneath their coats.
 
-**Seburah's Cinema**
+### Seburah's Cinema
+
 On a back alley near Malgrav Square lies the notorious cinema owned by Seburah, a member of the organization Lustskymning. According to the yellowed posters, the cinema is showing The Battle at the Front, but it's entirely different films that are on its repertoire. Here come those with odd pleasures, those who revel in the violent and bizarre, once a month and pay 400 zovriner to take a seat in the decrepit salon. Here they get to see shaky silent films where people are stalked and kidnapped. When the film ends, the kidnapped person is brought onto the stage and subjected there to cruel acts by a duo dressed in black and white respectively. These two gentlemen are called Mr. Black and Mr. White and wear theater masks over their faces—it is also they who film and kidnap the victims.
 
 The deeds committed vary from month to month, and so do the victims. It can range from torture, rape and humiliation to outright execution. Sometimes the audience is invited to participate in various ways. All victims are killed at the end of the performance, usually to the sparse audience's cheers.
 
 Those who witness the deeds often become spellbound and addicted to the performances and seek them out time and again. They are often disgusted, certainly, but cannot resist the perversions that unfold.
 
-**The Free Haven**
+### The Free Haven
+
 A large area in the northeastern quadrant of the Fallen City is simply called the Free Haven. When the tower in the ruined city collapsed, a firestorm swept across the sky, over what is now the Free Haven where most houses and buildings were constructed of wood. A persistent rain extinguished the flames after a few days, but afterward only the burned skeletons of the houses remained. Nowadays it is mostly the poor, the sick, the mentally disturbed, refugees, escapees and addicts who roam among the ramshackle huts, shelters and dilapidated buildings. Electricity, water and food are scarce commodities.
 
 Rumors of cannibalism occur and bodies tend to disappear only to later be found with considerably less meat on their bones.
 
 A unifying force in the area is the church, which has several well-attended premises. Whether it's the message being preached, the roof over their heads or the warm soup from the soup kitchen that attracts makes no difference—there are few other churches in Sandukar that have so many visitors at sermon and evening prayer.
 
-**The Zoo**
+### The Zoo
+
 Adjacent to the Ruins lies Hauer's Zoological Park, a long-overgrown zoo and home to various mad animals. The zoo was damaged by the firestorms and in an attempt to save the animals, they were set free. Many were confused by the fires and fled deeper into the devastated city. The stronger ate the weaker, the zoo was abandoned and the wild animals fed on the burned corpses they came across.
 
-**The Black Park**
+### The Black Park
+
 The Black Park is a desolate forest area that spreads out in the borderland toward the Ruins. The trees are all damaged by the fire from the firestorms, and shake their naked branches toward the sky. The ground is black and there are plenty of oily puddles and sunken vehicles. A makeshift dump for bulky waste exists in the center of Black Park. Here garbage is dumped from zeppelins that travel over the area. Desperate scavengers rummage around in the area searching for finds and underground caches.
 
-**The Plague Yard**
+### The Plague Yard
+
 The Plague Yard is one of the few areas where the State has influence within the Fallen City. It is a smaller district, surrounded by high walls with barbed wire at the top. Guards in fortified towers with searchlights ensure that no one enters or leaves.
 
 Something happened in the district that required this intervention. Those who lived there were struck by an insidious, contagious disease that drove them mad, and one can still hear inhuman screams from the center of the district. The State has long waited out those imprisoned in the hope that the entire district will die off on its own—but it doesn't seem to be happening. Moreover, reports come that unmarked trucks arrive now and then and that desperate people are forced into the area by gas-masked soldiers.
 
 At one of the "Gates of Power," as the three passages in and out are called, lies an enormous facility with an associated crematorium. State patrols in protective suits are said to occasionally reconnoiter inside the Plague Yard and bring bodies out for sampling. The bodies are then burned along with the equipment brought in.
 
-**The Mauser Fields**
+### The Mauser Fields
+
 An interesting area deep within the district is the Mauser Fields, a magnificent and now nearly overgrown burial ground with tens of thousands of graves, crypts, statues, parks and memorial groves—all in deplorable condition. Apparently the burial ground is several hundred years old, or even older, and dates from the time when Sandukar was built. Beneath the area, ancient catacombs miles long are said to stretch, filled with legendary personalities, hidden writings and ancient artifacts.
 
-**Groups in the Fallen City**
+### Groups in the Fallen City
+
 The Fallen City is ruled by criminal gangs that fight for power. There are constant conflicts between them and people who live in the district are more often than not connected to, or under the "protection" of, at least one of them. These organizations not infrequently have branches extending to the rest of Sandukar.
 
-**The Hexagon**
+### The Hexagon
+
 The Engineer looked out through the tall windows from his chamber at the top of the Hexagon's skyscraper. The buildings below him were mere dark shadows in the white fog and here and there he could see the light from the boats' lanterns as they made their way through the place that had once had streets and stately monuments. Everything was now submerged. He raised his own hand and looked at it. Rotten, decayed, putrid—far too similar to the building he now resided in. It seemed as if they were bound to each other, he and the building, and shared each other's decay. He turned around and stared at the blackened Hexagon inlaid in the study's marble floor and wondered if he would ever get an answer to the six-pointed star's riddle.
 
 In the center of the Water Moat rises a skyscraper with a worn and algae-covered stone facade. Behind the cracked windows one can see the flickering light of lanterns and figures moving around them like shadows. The building lacks electricity and its lower parts lie completely underwater. The interior is old, worn and moldy with threadbare carpets, moth-eaten drapes and peeling paint. Through the corridors draft cold winds and everything is damp. At the same time, the building is magnificent with its hexagonal facade, the tall leaded windows, the Gothic vaulted arches and the massive halls that bear witness to former wealth and splendor. This is the Hexagon's seat—a feared organization that controls the majority of criminal activity in the district and its surroundings, and which receives large sums of money through the so-called tax it extracts from the people in its territory.
@@ -7318,7 +7692,8 @@ Apostles of Annihilation, which has begun to challenge the Hexagon's power.
 
 The Hexagon is ruled by the patriarch Hugo Gavilan, though few know his name. He is better known as the Engineer and is a mythical figure whom few have met. According to rumor, he never ventures out into the city but resides high up in the Hexagon building. His right hand Raclia, also known as the Sorrowful One, is the one who relays his orders. This woman would have been beautiful if not for half her face being burned away.
 
-**Stradh and Ilsa**
+### Stradh and Ilsa
+
 When the Hexagon needs to have some dirty or dangerous job carried out, they usually send out Stradh and Ilsa—a deadly pair. Ilsa uses charm, cold-bloodedness and manipulation to get where she wants and extract information while
 Stradh uses violence, torture and threats. Together they perform cruel deeds for the Hexagon's master.
 
@@ -7330,7 +7705,8 @@ Around her neck she always has a choker. She wears tall, black velvet gloves and
 Both have black, six-pointed stars tattooed in their palms as a sign of their loyalty to the Hexagon.
 Their signature is a playing card whose symbol is a six-pointed star and they leave such cards as threats or warnings for what can happen if one defies the Hexagon.
 
-**The Apostles of Annihilation**
+### The Apostles of Annihilation
+
 When rumors began spreading on the streets about a new organization in the Fallen City, not many eyebrows were raised. Various criminal associations come and go, only a few manage to hold together for any length of time. But the Apostles of
 Annihilation persisted, and even though the organization at first didn't make much fuss, it gathered more and more members.
 The followers were drawn from the poor and outcast, those who had neither power nor hope, people no one cared about. The members' fanaticism, their ability to hold the group together and organize themselves quickly made the organization a power to be reckoned with.
@@ -7349,7 +7725,8 @@ The apostles' agenda often seems confused and random as they make attacks and co
 
 On the home front, a war is about to erupt between the Hexagon and the apostles, a war that will claim victims in droves on both sides—and innocents will likely suffer as well.
 
-**The Supplicant**
+### The Supplicant
+
 Despite the countless stories that exist about the Supplicant, his life history is known only to a few. He is of the
 Hraghic people but grew up in Sandukar and spent his childhood on the streets under miserable conditions.
 With forged papers he managed to get permission to join the army at a young age and served there for several years in the northern trenches. His tactical mind and manipulative ability made him an advisor to one of the officers and he learned most things about tactics and strategy. During an unusually bloody offensive where his comrades were killed he received a vision of the world's darkness and of the cruelty that rests in the swirling and destructive abyss.
@@ -7362,7 +7739,8 @@ His struggle is for mankind and without him he considers it doomed.
 The Supplicant often wanders disguised in the alleys of the Fallen
 City but when he shows himself to his followers he does so clad in a dark red priest's robe and with his long, steel gray hair loose. He always has several weapons on him even though his gaze can be just as imposing and threatening. It's rumored that he has several doppelgangers as his life is constantly in danger.
 
-**The Varlekus Family**
+### The Varlekus Family
+
 Among the ruins, in the fallen tower's shadow, the Varlekus family has its lair. Behind high walls the family has established its seat in what was once a botanical garden and a museum. The buildings have been restored and from the massive greenhouses the artificial light once again illuminates the night. Over the parapet rise slender chimneys and a stench of chemicals and rotted meat hangs over the area. Exactly what goes on in the former halls and under the charred trees no one knows but from here come many of the drugs that spread through the city. The walls are constantly guarded by men with automatic weapons and flamethrowers and the surroundings are patrolled by dogs.
 
 The ruined buildings that lie around the Varlekus seat are all condemned and only one passable road leads up to the wall's massive steel gate. Every week trucks arrive with deliveries and every week precious cargo departs. Who rules the Varlekus family no one knows but it's said to be someone subordinate to the Mengal lineage—perhaps even a family member themselves. That would explain
@@ -7375,12 +7753,14 @@ Besides drug and organ trafficking, the Varlekus family engages in human traffic
 
 The members of the Varlekus family have managed to stay out of most conflicts as their power is such that one doesn't want to cross them, while they seem content with the power they already have.
 
-**The Zhavrans**
+### The Zhavrans
+
 The Zhavrans are a collection of Celenkae who keep to and around the Nest of Sin. They have their own business in liquor and drug trafficking. The liquor they usually brew themselves in legal and well-guarded breweries in the area—the drugs are either imported from outside or bought from the Varlekus family.
 
 The Zhavrans have business in the Free City as well but keep to the Celenk quarters as the Hexagon handles smuggling to the rest of the Free City. They have plenty of contacts in both districts and if you need a guide or to arrange something, it's to the Zhavrans you should go. Most members are Celenkae but still blend well into the environment they move in and one can rarely tell if a typical Celenk belongs to the Zhavrans or not.
 
-**Lustshadow**
+### Lustshadow
+
 If you're looking for forbidden pleasures, macabre pornography or unusual games to satisfy your lusts, then it's to Lustshadow you should go. The company owns several brothels and porn theaters in the district and also has secret meeting places where customers can have all their wishes fulfilled.
 
 Even among the higher social classes, Lustshadow is popular. Many decadent lineage members order self-produced films or prostitutes who participate in the most bizarre acts. It's even said that members of the Guiskard lineage have connections to the company.
@@ -7388,7 +7768,8 @@ Even among the higher social classes, Lustshadow is popular. Many decadent linea
 Lustshadow's employees are always well-dressed and skilled at moving socially and understanding their customers' desires.
 The company's business card is in black and silver and is handed out to the rich and important... and to those with special needs.
 
-**The Couriers**
+### The Couriers
+
 The Couriers are a loose association of pure muscle—
 most members are former military or prisoners led by a man simply called the Captain.
 The Couriers are large-built and don't back down from a fight. The Hexagon often uses the gang as a strike force and it also handles the organization's business in the Free City.
@@ -7400,7 +7781,8 @@ Recently the Couriers have begun to grab a larger share of the business for them
 
 The Empire is everything—the State, the provinces, the peoples, the lineages, war, peace, countryside and cities, the great and the small, in a blessed mixture. Few know anything other than what the Empire boasts of, what the Empire protects and what the Empire stands for.
 
-**Society**
+### Society
+
 Look at the artists on the silver screen, at the magnates who build companies and at those who make careers within the bureaucracy. It's written about them every day in the newspaper.
 They get a better and easier life. If they can, so can
 I, if I just fight a little harder and strain myself a little more, there's always time to rest later.
@@ -7449,7 +7831,8 @@ Provides free public healthcare and access to medicines, and ensures that hospit
 **Ministry of Industry**
 Responsible for simplifying enterprise and ensuring the labor market functions. Registers all production in the Empire so that there is current information should it become relevant with forced recruitment or rationing.
 
-**Ministry of Justice**
+### Ministry of Justice
+
 One of the seven primary ministries. Manages the courts at all levels and appoints suitable persons as judges.
 Oversees prosecutors and defense attorneys so they do not abuse the power and responsibility given them by the State. Enacts new laws and ordinances.
 **Ministry of War**
@@ -7545,20 +7928,24 @@ Ilsa had with a glance gotten the man's attention, through a gesture awakened hi
 **She let him take control and** lured out his deepest lusts, she clawed him pas-sionately and bit his shoulder. When she whispered asking to tie him to the bed-post he smiled and nodded. She tore the bedclothes into strips, tied them into knots and rode him slowly while ensur-ing that he was firmly secured. The cli-ent had asked her to make an example that would serve as a warning to the man's gang, so the death had to be spec-tacular.
 In a slow motion she loosened her hair and let it fall in a black cascade over her naked shoulders. The hairpin glit-tered in her grip as she thrust it into his throat just deep enough that only the ability to speak was lost. A work of art takes time to create after all, and this act of blood would be performed to the sound of rattling and faint moans of suffering.
 
-**Mechanical Differences Between Peoples**
+### Mechanical Differences Between Peoples
+
 Just as Noir's rule system does not account for any differences between genders, no modifications are included based on ethnic origin. However, a protagonist can belong to a minority, which is described on page 82.
 
-**Naming Conventions**
+### Naming Conventions
+
 In general, the Empire's naming traditions are such that names resemble those of our world's Russian, Eastern European (such as Romanian, Czech, and Slovak) and German names. Latin-based (French, Italian, and Latin) names also work well, but English names and pronunciation essentially do not occur. Note that this applies only to pronunciation and melody—not that the names necessarily exist in the aforementioned places in reality.
 
-**Darost**
+### Darost
+
 With its vast and fertile plains, Darost is the Empire's breadbasket. The farms are enormous, and on the somewhat barren heaths graze the livestock herds. Everything is about exploitation and production in order to survive. Farmers and wage laborers work themselves to death in the fields, and in the cramped labor camps all manner of diseases rage. Ironically, many workers die of malnutrition and starvation despite Darost being the province richest in food.
 
 Ever-larger portions of the work are industrialized and mechanized; human workers are seen as nothing more than machines and are discarded when they are no longer of any use. Even the livestock is treated without dignity as it is led to the mechanical slaughterhouses or loaded onto overcrowded ships and train cars and transported to the cities to feed the people.
 
 The new oil discoveries have caused large land areas to become poisoned, and machines pump day and night to extract the black gold from the earth's interior.
 
-**History**
+### History
+
 Darost previously consisted of several small kingdoms that existed in relative harmony with one another. Large parts of the plains were home to the Celenka horse people, who were increasingly displaced until a war finally erupted between the Celenkas and the local population. The Celenka culture was eradicated after centuries of conflict, and those Celenkas who did not flee were enslaved.
 
 When the kingdom of Sadovia in the east began its raids, Darost's kingdoms united to meet the threat. The enemy in the east came to affect daily life for the people of Darost; the inhabitants could no longer feel safe as they could be attacked at any moment. Sadovia's troops were infamous for their cruelty, raping, plundering, and enslaving the people in the conquered areas.
@@ -7569,7 +7956,8 @@ Dargher had himself crowned regent over the new plains kingdom and named it afte
 
 Before reinforcements from the eastern border could be summoned, large parts of the kingdom were destroyed or conquered. When the kingdoms allied under one state, it took a long time before Darost joined them, as their arch-enemy Sadovia was one of the founders of the idea. When the war was over and the Empire formed, Darost slowly came to be transformed into the important natural resource the kingdom is today. Nowadays, much of what is produced is sent to the fronts in the north and east, and oil in particular has become increasingly important for operating the machines of war.
 
-**Natural Resources**
+### Natural Resources
+
 Besides cultivation, livestock, and oil, Darost contains large deposits of brown coal which power the power plants. Brown coal is an important export commodity, and long trains fully loaded with coal travel daily toward Sandukar and the other major cities of the Empire. The toxic smoke from the coal power plants and the destruction of the land when the coal is excavated ruin things for the farmers and livestock keepers and have led to a conflict between two important industries.
 
 House Orlok has great control over Darost, but there is still land to stake out on the plains, and fortunes can still be made. There are a number of newly emerged industrial magnates who challenge the Houses' power through bold ventures and innovative thinking. So far, however, the Houses show who is in charge, and it happens that industrial magnates who have made too many enemies are found brutally murdered. Of course, the Houses always have an explanation for who carried out the deeds; usually it is people from the Church or the enemy's agents who are mentioned. Another approach is to force the upstarts into marriages with the Orlok line.
@@ -7578,33 +7966,40 @@ The Church has always been viewed poorly in Darost, and the few churches that ha
 
 Despite the fertile location, there are plenty of diseases among Darost's people. Some claim it is a remnant from the chemical weapons that Sadovia or the enemy in the north are said to have used against the province—others maintain that House Orlok is culling the weakest workers to reduce the burden on the province. Whatever the case, a large portion of the working population dies before the age of 40. Many try to leave the hard work by either enlisting in the army or fleeing from their employers and seeking their fortune in Sandukar.
 
-**Devastok**
+### Devastok
+
 Cranes, excavators, digging machines, and thousands of workers are constantly in motion in Devastok, a city expanding along the shores of the Mirror Sea. Harbor areas are built to receive all types of ships, and the railways transport goods that are reloaded to then be transported further into the kingdom.
 
 There was previously another city called Devastok on the Mirror Sea coast, but it and its neighboring cities were all annihilated during a November night when a meteorite struck the frozen Mirror Sea and sent a tremendous tidal wave that brought about the cities' destruction. It took time, but new cities began to be established on the new coast, and the primary one inherited the name Devastok. Few think about the area's past, but on the bottom of the sea there are still remains of the cities and rusty ship hulls. Since the meteorite impact, fishing has also changed—many of the animals have become distorted and unpalatable and can no longer be eaten.
 
-**Liberinsko**
+### Liberinsko
+
 Liberinsko is a larger city located inland. Certain parts of the city are abandoned, as a terrible plague broke out there a few years ago and the majority of the city's population perished in terrible pain. New workers are recruited daily, who get to fill the now-sanitized worker housing.
 
 Liberinsko is seen as one of the freer cities where workers have good housing and live under relatively bearable conditions. The State does not have as much control over the city, but House Orlok keeps a close watch on what happens. The House operates the enormous coal power plants east of the city, which supply large parts of the country with electricity.
 
-**The Dome Battlefield**
+### The Dome Battlefield
+
 On the rolling Dome Battlefield, the important final battle against the northern enemy's armies took place. Here the united armies of Vadaja, Sadovia, and Darost met the hostile hordes. It became a hard fight that lasted for months as the enemy was slowly but surely driven down toward the Mirror Sea. The area is still filled with overgrown ruined cities, bunkers, and trenches.
 
-**Northern Plainlands**
+### Northern Plainlands
+
 The gray, slightly rolling plainlands seemingly extend endlessly before they meet the kingdom of Vadaja. The acid rain has killed almost all life, and the animals that remain are mad and savage. There are no roads in this wilderness. The Wasteland Railway's lonely steel tracks run through the landscape, but what lies beyond the hills is unknown to most. However, there are places where not all hope has died. Where the grass grows strong and lush and where the trees bear leaves and needles.
 
-**The Coal Fields**
+### The Coal Fields
+
 In the Coal Fields, valuable brown coal is found just below the muddy ground. Enormous digging machines crawl like insects across the muddy landscape and tear up the coal to the surface with scoops. Everywhere you find the traces of caterpillar tracks, and the coal is transported by smoking trucks or rumbling trains to their destinations.
 
 From the power plants near the Coal Fields rises toxic yellow-green smoke and sweeps the landscape into a fog. The workers here have very short lifespans and are secretly drugged to endure their tasks. They are also equipped with face filters to survive the day at all. Many of the criminals in Darost are sent to labor camps here, under the rule of House Kostash, until their sentences are completed or until they are buried in the muddy ground.
 
-**Iskarian**
+### Iskarian
+
 The Copper River divides Iskarian into a southern and northern part before its poisoned waters spread in the Oil Sea like a plague cloud. The Empire's center, the capital Sandukar, is located on a nameless island at the river's mouth and is a node for humanity's poisoning. On either side of the river mouth are massive forts with enormous steel cannons pointing out to sea, ready to bombard enemy fleets.
 
 The southern parts of Iskarian are virtually uninhabited. They consist of a vast swampland like the neighboring kingdom of Kovan. The northern part is infested with several smaller industrial cities and a network of railways that transport raw materials to Sandukar, the eternally hungry whore. In the few places where fallout has not acidified nature, wealthy industrial magnates have established their estates, usually near one of the many lakes whose muddy bottoms and murky waters can no longer sustain any life.
 
-**History**
+### History
+
 Once upon a time, Iskarian was a fertile kingdom. The fields were verdant, the lakes and rivers contained abundant fish, and in the forests there was plenty of game. It seemed to be a paradise of nature's abundance. Sea winds brought cool summer rains to the harvests, and in the mountains one could mine precious metals and iron ore. In the coastal cities and the cities along the Copper River, rich trade took place with other kingdoms, and the people were known for their song, their music, and their fiery dances.
 
 Iskarian's soldiers were brave and defended the kingdom against those who tried to plunder its riches—they often managed to stay out of other conflicts. They had close cooperation with Madrostav and borrowed liberally from the high culture in the north, but the kingdoms beyond the river were also explored by Iskarian's traveling merchants. When the ships from the northern enemy appeared on the horizon, the rulers believed that diplomacy could resolve the conflict, but their white flag was met with cannon fire from the armored cruisers.
@@ -7615,20 +8010,24 @@ When the proposal for an alliance between the Houses and the lands south of the 
 
 In battle after battle, the enemy's forces were driven from the kingdoms, but they clung tenaciously to Iskarian, and when they finally retreated, the cities were burned-out ruins and the muddy lands covered with corpses. Nothing remained of the proud kingdom except a landmass soaked with blood and destructiveness and the memories of what had once been. These memories came to be reforged into a vision of what would become.
 
-**The Empire**
+### The Empire
+
 Together, the Empire, now under the State's rule, began to rebuild Iskarian, and it was decided that the capital, Sandukar, would be located on the island at the Copper River's mouth. On the island before the war lay a massive temple city with tall buildings and underground sanctuaries, but the enemy's cannons had transformed it into rubble and ash. On either side of the Copper River's mouth, gigantic forts were built that with their cannons could annihilate the enemy should it ever return. Sandukar was also
 
-**The Fate Cross**
+### The Fate Cross
+
 In northern Iskarian, near the sea, rises the massive Fate Cross, a construction of rusty steel beams, machine parts and chains. The cross is more than a hundred meters tall and disappears up into the gray-white fog. The workers in the area worship and make offerings to the cross. Even the authorities show it respect. Those who die in labor are usually laid at the cross's feet or hung up in one of the chains.
 
 The cross is said to be able to influence fate and if one believes enough and offers diligently one's prayers may be heard. Likewise the cross is said to be able to proclaim visions for those who seek. This occurs through violent nightmares from which not all awaken.
 
 People from across the realm can sometimes see the cross in their dreams and pilgrimages to its macabre form occur daily.
 
-**The Montroy Quarries**
+### The Montroy Quarries
+
 When the black basalt was quarried for Sandukar's walls, towers and foundations, it was from the Montroy quarries the majority of all stone was taken. Nowadays it is desolate wasteland with several large open-pit mines and ponds that make up the landscape. There are plenty of caves and hollows and the quarries have become a place for outlaws and criminals who avoid the State. Now and then state forces are sent in to clear out those who live there but it is nearly impossible to cover all ravines, crevices and hollows. State commissars are said to conduct part of their training in the desolate area.
 
-**Kovan**
+### Kovan
+
 Kovan is an undulating landscape filled with mist-shrouded marshes, tangled forest patches and cliffs. Several smaller rivers from the Valek mountains run through the ravines to then reach out to the Copper River. The marshlands in the northern parts spread out more and more as a result of rivers being dammed up, and many of the older settlements now lie under water.
 
 The cities have grown up at the rivers' outlets and many are protected by high levees to keep the water away.
@@ -7637,7 +8036,8 @@ In the rocky ravines are countless mines rich in precious metals and on the ravi
 
 In the east the marshlands transition into undulating forest terrain and border the breakaway realm Presvedonia and the eastern front. Here are several army camps and in the cities things go downright wild when the soldiers have time off from the battles at the front. Here one can find fortune seekers, prostitutes, battle-weary soldiers and the enemy's agents.
 
-**History**
+### History
+
 Kovan was once upon a time a rich land whose people conducted trade along the rivers and were known for their skill as seamen and craftsmen. In the undulating inland there was plenty of livestock and the waterways were filled with riches, both gold and noble fish. The people were however moderate and took only what they needed and managed to stay outside most conflicts with the help of diplomatic skill.
 
 The Church came to gain hold of the realm via merchants from Sadovia. Soon it gained through manipulation and foul play total power. It took control over the peoples' industries and gave heavenly grace to those who paid much tax. Massive riches were sent by river boats to Sadovia and gigantic cathedrals were built in the midst of the moderate people's cities.
@@ -7648,7 +8048,8 @@ When religion was driven out the people decided to themselves watch over their r
 
 When then the enemy from the north attacked with its massive fleet along the Copper River, Kovan's coastal cities were blown apart by the warships' cannons. The people fled inland and took shelter in ravines and settlements. The enemy never managed to gain foothold in the realm but proceeded further eastward along the river. When the State was formed, the Zovrin clan came to gain great power and also gave name to the currency that is still minted in the realm. Industrialization became increasingly evident and large parts of the countryside were abandoned.
 
-**The Riches**
+### The Riches
+
 Kovan is a large trading realm, ships run back and forth along the Copper River and the Mirror Sea has several harbors. In the east coal is mined from the porous mountains and the coal then supplies the realm with energy and heat. Along the rivers are masses of mines in the ravines' walls. They are very rich in precious metals, primarily gold and silver but one can also find lead, copper and zinc.
 
 The rivers have plenty of fish, which to some extent constitutes the basic diet, even though it is beginning to become increasingly scarce much thanks to the large overfishing as well as discharges from the mines.
@@ -7657,12 +8058,14 @@ Industry is for the most part focused on steelworks and chemical factories. Here
 
 Almost all rulers have left the realm and taken themselves to Sandukar. As the wealth leaves the realm the marshlands spread out and the people no longer remember their moderation, their benevolence and culture's origin that lies resting deep beneath stagnant marsh water. People's minds are now bound to machinery and cogwheels and by plundering nature, not living in harmony with it, the people continue their parasitic existence.
 
-**Myta**
+### Myta
+
 The stately city Myta lies on a peninsula where the river Khastyr meets the Copper River. It is a place for trade and transshipment. In the massive harbor area warehouse buildings rest beside each other and out on the piers stand rusty cranes. In the city's center is the mint where parts of the state currency are minted. Here the guard is very strict and one must have special certificates and passes to enter the city's inner parts that rise on a mountain ridge and tower up over surrounding districts.
 
 In the harbor area state control is weak and there are plenty of criminal elements, seamen, beggars, fortune seekers, shady bars and prostitutes. The nights in Myta's harbor quarter are widely notorious for their violence and debauchery.
 
-**The Southwestern Marshlands**
+### The Southwestern Marshlands
+
 The southwestern marshlands are an extensive area covered by treacherous swamps, pools and mangrove marshes and border the realm Iskarian. A sickly yellowish-pale fog rests over the region and the stagnant smell causes nausea and sometimes even diseases in throat and eyes. To travel here without a gas mask is dangerous as people have died from the area's poisonous fog banks.
 
 Buildings, machines, vehicles and cadavers of both animals and people stick up from the wetland and create gloomy silhouettes in the fog. From deep below the ground one can sometimes hear the rumble of machines and in the murky water rusty cogwheels still move in unknown tasks. At night one can behold a green-violet phosphorescent glow on the firmament above the marshlands.
@@ -7683,30 +8086,36 @@ Many times the work with the city seemed doomed, diseases and madness spread amo
 
 It took a long time for the city to be populated but nowadays few have heard of the dark things that happened during its past and it constitutes the Imperium's shining center. Iskarian is hardly seen as a realm anymore, but as the wasteland that surrounds the city. The new era never restored the old realm—the hope that once budded together with joy and openness was obscured into decadent suspicion. Sandukar, the eternal city, the great whore, is however hungrier than ever and devours souls greedily and ruthlessly.
 
-**Resources**
+### Resources
+
 There are few natural deposits left in Iskarian but Sandukar demands much of both people and resources to be kept alive. Brown coal is transported to massive power plants and in the dammed tributaries turbines generate electricity. The southern part of the realm is rich in natural gas—rusty towers and pipelines lead the gas to Sandukar to give the city life and light. The pilot flames on these facilities burn with dirty flames and light up the marshlands with a sickly glow.
 
 The mines no longer yield any return, the forests are felled or dead and the fields increasingly fall into crop failure. The cold rainstorms that drive in from the seas seem only to imprint the contagion into the earth and during the winters the snow that falls is often gray-black from all factory smoke. In the north are the large quarries where the black basalt for Sandukar's walls was quarried long ago. Its echoing black abysses are filled with stagnant water and in its cliff walls outcasts and criminals have taken their refuge. Some of the shafts are however avoided as it is said that dark horrors rest in their depths. It is a dark and sorrowful place outside Sandukar's walls and the people in the realm leave the rusty railyards and decaying industrial cities if they only can.
 
-**The Forts**
+### The Forts
+
 On either side of the Copper River's outlet rise two massive forts whose task is to defend the river's inlet from invading fleets. Each fort is equipped with two massive cannons that can fire several miles out to sea. In addition to main armament there are several bunkers with machine gun positions that shall protect against invaders from land and from the air. The northern fort is located on, and to large parts embedded in, a high mountain slope and at its foot is the harbor for the military fleet. The southern fort is embedded in the high cliff wall that rises up from the sea and is very difficult to detect and attack.
 
-**The Blood Combat**
+### The Blood Combat
+
 **Since time immemorial,** blood combat has been popular entertainment for the rich and powerful in Sadovia. It is a macabre event where slaves fight each other with bladed weapons, either to the first drop of spilled blood or to the death. Noble families often have their own personal slaves who fight for their honor and spend all their time training in the art of the sword.
 
 **Originally, this** tradition was common only among the families within House Arkady and was used to resolve conflicts between members, but nowadays it is seen more as entertainment. In the Empire, the activity is officially forbidden but is still performed for pleasure at various events where spectators sit in high-backed chairs and nobly applaud the victor. The winner catches their opponent's blood in a chalice and then offers their owner to drink to capture the defeated one's soul.
 
 Near the middle of the swamplands, massive basalt cliffs rise tens of meters into the air like enormous pillars. Between these, a sanctuary, Arovia, has been established, and in this lawless place one can find many types of dissidents and people with twisted beliefs. So far, the State has ignored this gathering of rebels and defiers.
 
-**The Vaslov River**
+### The Vaslov River
+
 The cities along the Vaslov River are all abandoned and the vegetation is dead. A stench of chemicals hangs between the ravine walls, and without a gas mask one quickly becomes teary-eyed and nauseous. Some claim the enemy used one of their weapons here, others that the stench comes from a discharge from one of the mines upstream.
 
 There are also those who claim the One punished the people for their greed. Hundreds of thousands died when the poisonous vapors rose from the water, and it is still dangerous to stay here. The ship crews that travel up and down the river always make sure to wear their gas masks when passing this cursed place.
 
-**The Southern Railway**
+### The Southern Railway
+
 The Southern Railway is one of the few railways in Kovan, whose main purpose is to transport coal from the east to the mining cities in the west. It is also used to transport soldiers and materiel to the eastern front. The Southern Railway is winding and crosses deep ravines and bridges through swamplands and mountain ranges. Large parts of the railway are under guard, especially the vulnerable wooden bridges that can be easily sabotaged, as this route is so important in the realm.
 
-**Madrostav**
+### Madrostav
+
 In the west by the Raben Mountains, the ancient realm of Madrostav spreads out. The majority of the Gothic cities lie on slopes, plateaus, or in narrow valleys between the jagged mountains. The roads there are all well-guarded by cannon-fortified forts in the narrow mountain passes.
 
 Low clouds from the sea cover the mountains in a gray fog and dreary rain both summer and winter. The rainwater travels in thundering torrents to irrigate the valley farmlands and gives the people a chance to survive. In some places there are cable cars and railways, but much of the travel occurs by zeppelin. Farthest west, where the mountains give way to windswept flatlands that slope down toward the sea, lies Madrostav's cradle.
@@ -7715,7 +8124,8 @@ Countless coastal cities once made the realm one of the most successful seafarin
 
 East of the mountains, several new cities have been established, modern industrial towns where the lifetime-employed workers live. The lands are acidified after emissions from the northern neighboring realm Vadaja, but in the southern parts and near the mountains cultivation is possible, and here the railway network is extensively developed. Everywhere one can find traces of cities, monuments, burned-out churches, defense towers, and shrines—all overgrown with coarse grass and eroded by wind and rain.
 
-**History**
+### History
+
 Madrostav was once a high culture that outshone its neighbors when it came to science, art, architecture, and knowledge. The people were rich and used the sea as a transport and trade route, and the coastal cities were said to be magnificent. In the mountains, the monastery cities were built, for the people were all sworn to the doctrine of the One God, and they claimed he originated from this realm.
 
 **Envious eyes from surrounding realms** regarded Madrostav's riches, but the only ones who dared enter into conflict with the great power were the warlords from Vadaja and the Celenka horse people. Their attacks struck the cities on the eastern side of the mountains, and Madrostav erected a defense of walls and watchtowers.
@@ -7738,7 +8148,8 @@ Madrostav is rapidly growing in power; the lobotomized workers extract great res
 
 When the footsteps disappeared around the corner, he knew it was his last chance. He let the force seek through the crack, push out like a tidal wave. The familiar vein began to throb in his temple as the splinters began to tear from the wooden door and the iron bindings complained. He turned his face away just before the door buckled and sent a shower of sharp splinters toward him, some of which pierced his shirt. It was time. Like the mechanical clockwork he had drilled himself to become over the years, he set to work. Turned his arms over his head, tensed all the muscles he had carefully trained until the seams began to give way. Even before his arms were free, his legs had begun to engage, like the pistons in a locomotive heading toward the fatal Northern Graves. The same cold, violent fate would meet him.
 
-**Resources**
+### Resources
+
 The mountains in Madrostav are relatively poor in resources unlike the northern Arkady Mountains, but the resources that exist are extracted with great efficiency. One can find iron ore and copper in some places, but many of the older mines are now depleted and abandoned.
 
 The realm has instead specialized in importing resources and then, in massive factories, transforming them into mechanical constructions and architectural wonders. In Madrostav, the majority of the flying machines and airships used in the Empire are manufactured. At the shipyards by the Lazlo River, vessels intended for transport and war are constructed.
@@ -7757,7 +8168,7 @@ On the newly established rail yards at the foot of the mountains, locomotives ar
 
 There are also numerous hot springs in the mountain regions, whose mineral-rich waters are said to have a beneficial effect on health. This has led to a large number of spa resorts being found here. Everything from luxurious clinics for the very wealthiest to more affordable establishments for the middle class. Many from Sandukar and the other cities in the Empire dream of someday seeing the massive mountain cities that tower above precipices and waterfalls, often covered in white, pristine snow. Few ever see the misery that exists in the labor camps and the suffering required to keep the realm alive.
 
-**Piklos**
+### Piklos
 
 In the barren, gray Rabenberg mountains, the city of Piklos has been erected. The innermost parts of the city have plenty of churches, winding streets, and ancient buildings, but the further from the center one goes, the more modern the properties become. Piklos was originally built on a plateau but has now spread to slopes and ravines. Despite this, the city lies largely underground. Since it is located high in the mountains, the gray-white clouds often drift in and sink the entire city into a rain-gray haze.
 
@@ -7765,7 +8176,7 @@ A great deal of mining takes place in the area—primarily iron ore, as Piklos i
 
 The underground lake is now used as a transport route and garbage station. Many criminal elements operate in the darkness—on artificial islands covered with garbage and debris. A number of conflicts have arisen between different mining companies, and some outer parts of the city have been affected by cave-ins due to reckless blasting.
 
-**Karduna**
+### Karduna
 
 The city of Karduna lies on both sides of the Valtava river's steep slopes. Its industrial districts spew black sooty smoke over the region, and the place is called "The Black Land" in common parlance. The smoke obscures the sunlight and sinks the city into eternal darkness. Few have ever seen the stars or the moon.
 
@@ -7773,25 +8184,25 @@ From the open pit mines north of the city, ore is transported to massive refiner
 
 Almost everyone who lives here in Karduna is a worker or bureaucrat. The workers are often owned by the factories, and many are lobotomized or drugged. On either side of the river stand massive military buildings that guard the city and the vessels traveling on the river. Ten years ago, "the week of blood" occurred—a workers' uprising took shape and the military entered the city and slaughtered everyone in the entire northern district. The blood is said to have run down the steep streets and colored the river's murky water red. Corpses floated in the water as far down as Sandukar.
 
-**The Fallen Church**
+### The Fallen Church
 
 A massive church of dirty red brick stands overgrown in one of the valleys; its water-filled crypt is said to hide many secrets. Those who have ventured down into the swamp water have become ill and died within hours. Several state commissioners have investigated the areas around the church and questioned people who lived nearby. Apparently, someone, or something, has made the church its dwelling. The State claims that enemy spies operate there, but there are others who have more macabre and horrifying theories.
 
-**The Vorgul Mines**
+### The Vorgul Mines
 
 The Vorgul mines are an extensive mining area that is now largely abandoned. Here there are plenty of remnants from the mines' golden age: rusty railway tracks, ghost towns, and dammed rivers. Large parts of the mountain area are marked with risk of collapse, and in some places entire mountainsides have collapsed.
 
 The mines go deep underground and merge with natural caves, underground rivers, and bottomless shafts.
 
-**Eviza's Factories**
+### Eviza's Factories
 
 On the plains rises an anonymous factory building surrounded by a high brick wall and guarded by many soldiers. At the train station next to the building, only military transports stop, from which researchers and scientists are escorted to their workplaces. Here, weapons of mass destruction are produced for a coming war. Various types of poison gases and biological weapons are tested on test subjects and livestock, and there have also been reports of research into a new type of weapon that will bring fire, disease, and mass destruction in a single violent explosion.
 
-**Presvedonia**
+### Presvedonia
 
 In the east lies the vast realm of Presvedonia with its deep coniferous forests, high mountains, and rocky terrain. This is the origin of the Hraghic people; from here stems their culture and history, and despite the State's attempts to eradicate it, it has always lived on in the shadows. Now that the realm has rebelled against the State and begun fighting for its survival, the culture has experienced a renaissance and the people are beginning to seek their old identity again.
 
-**History**
+### History
 
 Presvedonia was originally a clan society where the most powerful clans schemed and fought against each other. The peoples kept to the forests and mountain slopes, and few surrounding realms gave them any thought except when they stormed out from the wilderness to plunder neighboring realms.
 
@@ -7799,7 +8210,7 @@ However, the rulers of the neighboring realm of Sadovia realized the value of th
 
 Soon the clan had grown strong, and with House Arkady as advisors, it conquered larger and larger areas.
 
-**Protectors**
+### Protectors
 
 In Vadaja there is a group of officers directly subordinate to House Kriger, whose task is to maintain order in the difficult-to-control parts of the realm, which for the most part means the wilderness and the smaller mining towns. The Protectors, as they are called, have the right to apprehend, interrogate, and execute people without any trial whatsoever, as long as these people are of the working class or lower. This is to speed up the otherwise costly and time-consuming legal processes and to remove undesirable elements for whom there is no evidence.
 
@@ -7811,13 +8222,13 @@ After less than a hundred years of conflicts, all of Presvedonia was united unde
 
 This oppression would continue for centuries as the Hraghers were first a vassal people for Sadovia and thereafter the lowest of servants under the State.
 
-**The Fallen One**
+### The Fallen One
 
 House Todescu, which represented the Hraghic people, was exploited and used to carry out the lowest of tasks, and the envy and hatred toward the State grew with each day and humiliation. Then one day, the Fallen One appeared.
 
 He first came to a mining village up in the snow-covered mountains and walked into the church in the middle of the service. He proclaimed who he was: an outcast and rejected one who had been cast from heaven to wander the earth, and the words set fire to the ember that existed in the people's hearts. The Fallen One promised to lead them, to restore their honor and free them from the scourge. The rumor of him spread and he appeared in smaller towns and villages in the realm's outskirts. The State's forces searched desperately for him, but after his sermon, he seemed to be swallowed by the night. More and more came to call the Fallen One the One's sign. Some went so far as to call him the Messiah.
 
-**The War**
+### The War
 
 The members of House Todescu had carefully planned an uprising, and during the darkest and coldest of winter months, they struck. Their troops succeeded with sabotage and well-planned attacks to take out almost all the military forces loyal to the State in less than a week. Com-
 
@@ -7843,13 +8254,13 @@ End of interrogation with witness SA-Ik-933 4443 5577 332
 
 munications were sabotaged, railway bridges were blown to pieces, and before the State realized what was happening it was too late. Brutal executions followed—in the town squares blood stained the snow and frozen bodies were stacked upon each other as those deemed loyal to the State were purged. The Fallen One filled the people with rapture and fanaticism, and Presvedonia's population has been given something to believe in while the war against the State rages on.
 
-**Resources**
+### Resources
 
 Presvedonia has abundant natural resources and the waste has not yet completely poisoned the rivers or killed the forests. In the mountains iron ore and copper are extracted, vast oil reserves exist in the southern forests, and timber is used for heating. The country is far from as industrialized as the other realms in the State, as there are only a few large industrial cities, and in many places people still live in smaller communities in the countryside. The roads are poor and were it not for the railway network it would take a long time to travel through the realm. Horses are common outside the cities as they are seen as safer and more reliable means of transport in the hilly terrain.
 
 Presvedonia is a realm at war. The State has decided to retake its lost territory and its armies have slowly begun moving into Presvedonian land. However, the people of Presvedonia have prepared themselves, and since many of the inhabitants served as soldiers at the northern front, there is experience in warfare. Likewise, they have the conviction that they are led by a divine power. Many, both men and women, join the army to get the chance to defend their realm and avenge their ancestors' slavery with blood. The cities near the front are not much more than ruins but they are well fortified with machine gun nests, trenches, and artillery.
 
-**Rasov**
+### Rasov
 
 Rasov is a hilly city built on several hills with large granite blocks jutting up here and there from the ground. The houses are seldom higher than two or three stories and the city is spread out over a large area. Along the banks of the Hadia River lie factory buildings and shipyards in rows, and massive water dams upstream supply the city with electricity.
 
@@ -7857,23 +8268,23 @@ In the city center, by the oldest parts, several taller buildings rise up beside
 
 In military camps outside the city men and women are trained in the art of war, and in the forested area surrounding the city there is plenty of anti-aircraft defense and hidden defensive positions. Rasov has good railway connections and nearby there are several smaller industrial and factory towns that all have their role to fill in the war's production.
 
-**Derimrad**
+### Derimrad
 
 Near the front lie the ruins of the massive city of Derimrad. There are few inhabitants left in the city except soldiers on both sides. The State presses on with its troops but Presvedonia's forces have fortified themselves well and the city refuses to fall. That Derimrad has plenty of culverts and underground spaces that Presvedonia's troops have well mapped makes it no easier to clear them out.
 
 There are still buildings that are reasonably intact but artillery from both sides slowly demolishes everything into a mass of shattered brick and twisted steel. How many hundreds of thousands have died in the city's ruins cannot be said, but everywhere lie bodies in various stages of decomposition. The rats are now the city's rulers and the only ones who feast and thrive in the brutal environment, and for them there is food in abundance. Some soldiers claim to have encountered rats as large as dogs, but this is laughed off as hallucinations caused by stress or lack of food and sleep.
 
-**The Stone of Doom**
+### The Stone of Doom
 
 There is an ancient tradition of rune carving in Presvedonia, usually erected on the high granite cliffs that rise up from the coniferous forests. The most famous of these cliffs is the Stone of Doom—a massive, pointed cliff whose one side is sloping and clad with moss and conifers while the other side is smooth and drops straight down and has an extended prophecy carved into it. Those who can interpret the ancient script can discern that it concerns the end of the world and contains many references to events that shall occur in the final times.
 
 The Stone of Doom is seen as a religious place and during summers many pilgrimages are made there. It is said that the stone was destroyed by the State when it gained power in the realm but that it is now whole again. It is also said that it was the Fallen One who one summer night joined together the shattered stone fragments to avail himself of the stone's forbidden knowledge.
 
-**The Burned Lands**
+### The Burned Lands
 
 Between the Preos Mountains and the Hadia River the Burned Lands, a vast area of scorched, inaccessible wilderness, spread out. No plants live here, the trees are nothing more than charred, macabrely twisted, skeletal remains, the earth is blackened and the few watercourses are sulfur-stinking and poisonous. What has caused this blackened desert with ochre-colored earth is unknown. Some interpreters of the holy scripture believe it is a sign that the end is near, others say the State has created a new type of weapon that was used here.
 
-**Sadovia**
+### Sadovia
 
 Sadovia is a myth-shrouded realm whose power-mad rulers have previously plagued their neighboring countries with devastation and conquest. It is a dark place with deep forests, forgotten valleys, and winding mountain roads that lead to old castles and fortresses.
 
@@ -7881,7 +8292,7 @@ History shows centuries of constant conflict within the realm as decadent noble 
 
 Slaves were used to quarry stone for massive bridges and fortresses, slaves were used to construct roads along mountain slopes, and slaves were used to entertain the rulers in brutal fights to the death. For something Sadovia's rulers have always been good at is subjugating people and forcing them to accept tyrannical rule. Sadovia's indigenous population, the Arkars, see themselves as a chosen race, more suited to rule than the others, and many of the noble families guard their bloodlines well to ensure that persons of the wrong folk and rank do not enter the family and can poison the future offspring.
 
-**History**
+### History
 
 The Arkars were formerly a warlike people who believed that power and honor could only be found through conquest. They fought each other for a long time but when the Valka family came to power and Malach van Valka de Arkady declared himself emperor the realm was kept relatively united. Instead attention was directed toward the surrounding realms. The plains in the west and the realm of Darost in particular, became victims of violent attacks and plundering.
 
@@ -7889,7 +8300,7 @@ Eyes were also turned toward Presvedonia but here manipulation was used more tha
 
 **When the enemy in the north invaded** Sadovia's leaders were among the first to discuss the unification of the realms and came to occupy many decision-making positions when the State was formed.
 
-**Present Day**
+### Present Day
 
 **Nowadays Sadovia is a more peaceful realm** that no longer attacks its neighbors, even though many noble family members contentedly recount the time when their ancestors drank enemies' blood on the battlefield and conquered wealth and honor. One can also find traces of this if one looks around, in everything from inaccessible castles on barren mountaintops to more modern bunkers and overgrown trenches. If one digs in the country's black soil one soon finds traces of countless mass graves.
 
@@ -7903,7 +8314,7 @@ The signs of modernization are becoming increasingly clear however—railways ar
 
 The important River Ravike is a vital trade route, in the Arkady Mountains extensive mining takes place and in the areas around the mountains logging is ongoing. The plains are fertile and one finds cattle breeding and cultivation almost everywhere. The realm is not as plagued by the industries' pollution but in many places nature is violent and dangerous. There are plenty of wild animals that do not hesitate to attack humans who enter their domains.
 
-**Orava**
+### Orava
 
 On islands in the Ravike River, connected by bridges and canals, rests the city of Orava. The old fortress city retains its medieval walls while new constructions spread out on the eastern, sloping, riverbank. The old houses are built of thick, dark, stone blocks and richly decorated with gargoyles and statues. Even the new buildings bear traces of this old style even though they are largely built of brick.
 
@@ -7911,7 +8322,7 @@ Some buildings stand out in the cityscape and the most striking of them is the M
 
 In Orava one also finds Jakov's Square, a slave market that during holidays is overcrowded with sellers, buyers, and "lifetime employees."
 
-**My dearest sister**
+### My dearest sister
 
 I send this letter with my friend Mikael and hope that he despite his injuries shall be able to deliver it to you before your birthday. The regular mail has an ability to censor that which is not "appropriate" for the public to know and there are words that must be allowed to be free.
 
@@ -7921,35 +8332,42 @@ My dearest sister, I could not shoot him for wanting to flee from this purgatory
 
 Now I can write no more for the medical transport that Mikael shall travel with departs shortly.
 
-**Farewell**
+### Farewell
+
 **Your brother Oliver**
 
-**Tarant**
+### Tarant
+
 Tarant is an industrial city located in a valley with steep mountain slopes on either side. The city has expanded in recent years as more and more factories are built for the production of weapons and ammunition for the soldiers fighting at the eastern front. Two smelting plants are situated up on the mountain slopes and their smoke settles over the valley and the city, making the air difficult to breathe and reducing visibility to a hundred meters on the most windless days. The buildings in the city are black with soot and the windows must be cleaned monthly to avoid becoming completely sooted over.
 
 The greatest plague, however, are the cockroaches and insects that swarm over the city, fill the sewers and torment the inhabitants. They originate from a ravine not far from the city where thousands of hragher were shot dead and thrown down after the kingdom of Presvedonia's uprising. The faithful in the city believe that the insects are a punishment from the One. They refer to a passage in the book of revelations and see it as a sign of the final day. State troops have tried to clear out the ravine using fire and chemical insecticides but the plague constantly returns.
 
-**Eastern Arkady Mountains**
+### Eastern Arkady Mountains
+
 The rocky terrain toward the high peaks in the Arkady Mountains is often shrouded in a cold, gray fog. During autumn, however, tremendous storms blow up between the cliff crevices and thunderclaps roll across the landscape, lit up by gray-blue lightning. Among twisted trunks, moss-covered stones and boggy hollows one finds massive wooden crucifixes, worn by age and in many places overgrown.
 
 There are plenty of ruins of old fortresses, abandoned villages and large gaping mine shafts on the gloomy mountainsides. Narrow, winding roads run alongside bottomless depths where cold green rivers slowly flow down toward the dark forests. There is talk of horrors that haunt the mountains, black beings that glide between the trunks, constantly hunting for careless wanderers.
 
-**Ghalder's Monastery**
+### Ghalder's Monastery
+
 In a valley rests the old monastery building of Ghalder's Monastery, now owned by the Zabran family. It is no longer a place for prayer and contemplation but a place for oppression and manipulation. At Ghalder's Monastery, children are raised to become slaves, their wills are broken and they are trained in the knowledge and skills they should master. When they are finally sold as dancers, courtesans and servants at 15-16 years of age, they always command high sums.
 
 The monastery is surrounded by high walls covered with climbing vines and in the forested valley there are plenty of wild wolf packs. The only way out of the valley is also guarded by soldiers and all of this has led to very few ever succeeding in escaping from the monastery.
 
-**Castle Dubravka**
+### Castle Dubravka
+
 In the inaccessible mountains, high up among plateaus and jagged mountain ridges rests the dark and gloomy Castle Dubravka. The bridge that previously ran across the massive ravine separating the plateau where the castle is located from the outside world has collapsed - or, as some claim, been destroyed. The only way to reach and leave the plateau is
 
 via airship and these are under strict control of the HrÅ«zda family who are also the lords of Castle Dubravka. There are several villages on the plateau and their inhabitants live in fear of their dark lords and are trapped without any possibility of reaching the outside world.
 
-**Vadaja**
+### Vadaja
+
 At the northern Arkady Mountains, the harsh province of Vadaja spreads out. Cold winds sweep down from the snow-clad peaks and during the winter half of the year the province is exposed to violent snowstorms that isolate entire cities from the outside world. The massive forest belt of Walaru that spreads out below the Arkady Mountains is poisoned by chemicals from the mining towns. Likewise, the timber and paper industry has its share in the devastation and releases its waste products directly into the forest's waterways. This has killed the plants and affected the wildlife and the entire ecosystem is on the verge of collapse. The herbivorous animals are nearly extinct, birds are rarely heard or seen and hungry wolf packs seek closer and closer to humans to obtain food - often human.
 
 Vadaja is the province that borders the northern front and the proximity of war is palpable. Justice is draconian and one sees plenty of soldiers and officers from the Kriger bloodline in the cities. The factories manufacture weapons, ammunition and vehicles intended for war and criminals are dispatched almost immediately to the trenches north of the mountains or to massive labor camps.
 
-**History**
+### History
+
 Vadaja was long a divided realm ruled by warlords who fought against each other and against the kingdoms in the south. They were barbaric and savage but when sporadic trade with Darost was established, the culture slowly changed. The people became more united and when Ritzka Brana, daughter of the great warlord Karlov, married Morav Rötz, the rebel leader, Vadaja was officially proclaimed a kingdom.
 
 Throughout history, not much has been noticed of Vadaja except when the realm made sporadic attacks against its neighboring countries, primarily Madrostav. Internal conflicts have taken up all the time and the leaders have often been assassinated, deposed or unrecognized.
@@ -7960,65 +8378,80 @@ The unification of Vadaja went more easily than expected, the realm's rulers emb
 
 A drawn-out trench war began which continues to this day. Previously, livestock keeping and agriculture during the short summers were what sustained Vadaja but nowadays all food is imported from the south while the self-sufficient farmers are nearly gone. Hundreds of thousands of inhabitants in the province have died of starvation or been forced to the cities where there is at least a chance of survival. Most are forced into substandard work at the factories, become homeless or are recruited into the army. The houses in the poorer quarters are overcrowded and people are forced to live like animals. The population has in recent decades declined drastically and the crematorium furnaces are always running and stain the cities' snow-covered rooftops with black ash.
 
-**Resources**
+### Resources
+
 The mountains in the north have plenty of precious metals and also iron ore, nickel, lead, uranium, zinc and copper. The province has well-developed railway tracks used for transporting the extracted riches. Communications are otherwise poor, the roads are impassable unless one has terrain-adapted vehicles, and the telephone lines between cities are often knocked out.
 
 The province is characterized by war, it is the Imperium's last outpost to the enemy in the north and the military presence is very strong. There are plenty of fortresses embedded in the mountains, secret airfields and Stapo agents looking for traitors. Desperate deserters often try to hide in the mountain regions but sheltering them is considered high treason and is punishable by death. The people are held under the State's boot, public executions and cruel punishments are part of daily life. There are plenty of forbidden military testing areas where the army tests everything from bombs to new types of field weapons and nerve gases.
 
 The Church has begun to gain increasingly greater influence despite being opposed by the State. The people need something to console themselves with and many secretly attend services and masses, especially the poor and sick. The people have a history of rebellion behind them and this worries the State. It is said that church leaders are threatened or disappear and that state commissars are in charge of all investigations concerning the church.
 
-**Mikalburg**
+### Mikalburg
+
 On the southern side of the northern Arkady Mountains, by the crystal-clear Moon Lake, lies the stately military city of Mikalburg. With its massive monuments over war heroes, its state supremacy, its magnificent buildings and its broad parade streets, it gives a mighty impression. This is Vadaja's center, more modern and beautiful than any of the realm's other cities. Here is the military command that conducts the war against the enemy in the north and all bloodlines are represented in their own, stately palaces.
 
 Near the city's center lies the Kriger mausoleum with its silvered dome, where the body of the warlord Kriger the Black lies. The military marches around the city and displays its greatness and strength on holidays and in the sky one sees flight squadrons in formation. At the same time, it is a cold and gray city where chilly winds sweep down between the granite buildings and military control is total. People who don't fit into the societal picture, the poor, sick or people of the wrong sort are kept away from the streets and live in the city's outer parts.
 
 In the mountains north of the city there are several forts embedded in the slopes and behind barriers are military airfields and garrisons. Trains from the south arrive daily to the city and an important zeppelin line makes journeys to Sandukar relatively quick. This makes Mikalburg seen as a central place despite its geographically remote location.
 
-**Salen**
+### Salen
+
 Salen is one of the most notorious mining towns in Vadaja, known for its isolated location and the enormous amounts of iron ore and copper mined in the surrounding mountains. It is a frozen place where snow falls from the low clouds and soot from smelting plants and machines stains the mountainsides. The city is relatively small with low houses that spread out on both sides of the Bader River where cargo barges depart and arrive several times daily. The workers are divided into different city districts depending on which company they work for and far from all workers get along with their competitors.
 
 The wages are good but many are injured or even die in the heavy work. During free time, workers usually seek out one of the bars, gambling dens or brothels. The work crews that achieve the best yields are offered free liquor or female entertainment by their employers. Several different mining companies compete for resources and workers, conflicts that sometimes lead to direct violence. The current power struggle concerns the mining company Junger, which is laying a railway through the wilderness toward Salen. If this railway line is completed, Junger can transport significantly more ore more safely and quickly to the southern parts of the realm than any of the other mining companies.
 
-**Northern Arkady Mountains**
+### Northern Arkady Mountains
+
 The Northern Arkady Mountains are a massive gray mountain range, largely impassable and uninhabited. The highest peaks are covered in eternal frost-death and even the valleys are barren and almost completely devoid of life. Storm winds echo between the cliff faces which are drenched by acid rain. During winter, many of the mountain passes are covered with snow and the rumble from the thundering avalanches can be heard far out on the plains.
 
 Below the mountains, dying coniferous forests spread out as a result of emissions from the countless mining towns. The trees are usually just husks, homes for masses of pest insects that exterminate all living things in the area.
 
-**The Kesenik Pass**
+### The Kesenik Pass
+
 In the northern Arkady Mountains lies the crooked Kesenik Pass which is surrounded by vertical granite walls. In the middle of the pass runs a cold river and along the rocky sides roads have been carved out. The Kesenik Pass is constantly guarded. Here several important battles have taken place, the enemy has time and again tried to push through the pass and has several times been close to succeeding. Hundreds of thousands of soldiers on both sides have fought and died between these cold cliff walls and everywhere one can find grenade fragments, bullet holes, rusty cartridge casings, blown-up vehicle wrecks and fragile skulls.
 
-**The Arvald Camp**
+### The Arvald Camp
+
 In the middle of the plains, by one of the smaller side tracks, lies several barracks behind barbed wire fencing and watchtowers. Prisoners are sent out by train from the camp to different areas along the line; in winter to shovel snow so that trains can get through, in summer to dig up brown coal near the surface.
 
 The Arvald Camp is known for its sadistic prison guards and for the diseases that ravage among the inmates. Many freeze to death during the winters or die during disciplinary punishments. The prison camp is divided into a male and a female section but it has come to light several times that male guards have entered the female part of the camp and assaulted the prisoners.
 
 The Arvald Camp is feared by criminals and most soldiers dread having to serve there - although some cruel souls see the camp as an excellent place to give outlet to their personal lusts.
 
-**Languages in the Imperium**
+### Languages in the Imperium
+
 Several languages are spoken within the gigantic Imperium's borders.
 
-**Iskara**
+### Iskara
+
 Iskara is the common language in the Imperium, which almost everyone speaks. All state papers are issued in this language and if one cannot communicate in Iskara it is virtually impossible to get by in society.
 
-**Ketish**
+### Ketish
+
 Ketish has its origin in Madrostav and is still used within the church throughout the Imperium.
 
-**Malish**
+### Malish
+
 Malish is an extinct language that scholars have not yet succeeded in piecing together.
 
-**Orish**
+### Orish
+
 Orish is the celenka ethnic group's own language, which few outsiders understand.
 
-**Presish Runic Script**
+### Presish Runic Script
+
 In Presvedonia there are remnants of the Presish runic script which is said to have an ancient religious significance.
 
-**Presveda**
+### Presveda
+
 In eastern Presvedonia, the Presveda language has experienced an upswing since the province broke free from the Imperium.
 
-**Vadask**
+### Vadask
+
 Vadask is spoken in a few isolated places in the northern parts of the Imperium, primarily near the northern Arkady Mountains.
 
-**Old Sadovish**
+### Old Sadovish
+
 Old Sadovish is an ancient language originating in Sadovia. Some literature is still written in this language but it is directed at the Sadovian upper class in general and the Arkady bloodline in particular.
 
 I had just put my feet up on the desk, poured a glass of whiskey into an almost clean glass and lit an imported cigar when there was a light knock on the frosted glass of the door. My grip on the automatic pistol behind the desk tightened as I called out loudly "Come in."
@@ -8065,7 +8498,7 @@ She means trouble. But it's worth it. After all, my job is to fix problems.
 
 The heart, brain and blood of the State. The Beast's will, desires and cravings. As one unit, a crawling mass, the clans' tentacles exist in the Empire's foundations. Its blocked possibilities and inability to show compassion stem from the administrative hell that is its defense and survival.
 
-**The Clans**
+### The Clans
 
 The seven clans are powerful and influential factions within the Empire. Once upon a time they are believed to have been rulers over their own kingdoms but since the State took control they now function as an integrated part of its machinery. Still they have connections to the provinces where they once reigned, though not as tangible as power has been focused to the city of Sandukar.
 
@@ -8096,7 +8529,7 @@ It should be added that the clans are very skilled at silencing scandals—throu
 
 Even though ordinary society's problems rarely affect members of the clans, the relationships between the clans can be everything from good to outright hostile. No open conflicts between the clans are tolerated by the State and the rulers but in the hidden conspiracies and intrigue-making occur to gain as much power as possible. Not even within one's own clan can one be safe as there are internal conflicts even within the families. Thus there is always a degree of suspicion between all members of the clans. Caution is a virtue and the higher up one comes in the organization the greater intrigues one becomes drawn into.
 
-**Arkady**
+### Arkady
 
 Under the gothic vaulted arches walks the woman of clan
 Arkady. She is guardian of ancient knowledge and bringer of laws and ordinances. Few have as good insight as she into bureaucracy's winding web but then she is also the spider sitting in its center. To rule in the hidden, to let shadows and ignorance be one's allies makes it possible to achieve great deeds. Even the other clans fear her and her clan. Arkady's breath follows the State's will and her whispers slay those who stand in her way. The others may feast among the living, she herself has found knowledge in suffering souls and occult secrets. Pleasure and happiness are for the weak-minded.
@@ -8110,7 +8543,7 @@ The membership number is significantly lower than with the other clans. Arkady d
 The clan's high seat consists of a cathedral-like building in Sandukar's center, in the district The Book.
 The building is constantly guarded and houses several forbidden libraries and storage vaults. The clan's head is duchess Erzse-beate van Straker de Arkady, also maliciously called the "cat-witch", who has ruled for nearly 40 years. Few have ever seen her as she rarely leaves the high seat.
 
-**Member of a clan**
+### Member of a clan
 
 **There is no actual support in**
 Noir's core rulebook for playing a member of a clan. Of course the narrator can allow this but then all protagonists should be offered this privilege.
@@ -8162,43 +8595,43 @@ The majority of families within the clan are of the Arkara people and they have 
 
 Using the correct title of honor in conversation is crucial to being able to hold a conversation with anyone from clan Arkady. To ignore this is a breach of etiquette without equal. One seldom finds representatives from clan Arkady at social gatherings as members are withdrawn and vigilant.
 
-**Hrůzda**
+### Hrůzda
 
 In the deepest and darkest parts of eastern Sadovia, high up among the Arkady mountains, the Hrůzda family has its seat. Hrůzda rules over the domains the lineage has administered for centuries and rumors in the countryside whisper that family members are involved in diabolical rites, occultism and black magic. Moreover, they are said to be guardians of forbidden knowledge.
 
 The members of the Hrůzda family are respected and feared within their own clan. The people in the area have an almost panicked fear of them and see them as punishing demons. In recent times family members have sought out Sandukar to explore the modern world, many of them devoting themselves to art and authorship.
 
-**Markal**
+### Markal
 
 Markal was previously a family that owned very great power as it in practice controlled the Maurist branch of the church that dominated Sadovia and a number of surrounding countries. The family had great influence and plenty of money and devoted much time and resources to the struggle against the Janost branch. When the State was formed and Maurism was banned, the family's power was split. Even though the members themselves do not acknowledge it, they still have great influence over the church's affairs and many priests secretly follow the Maurist doctrine.
 
-**Sapal**
+### Sapal
 
 Sapal has earned a great fortune from trade along the Copper River and owns several ships that transport timber and iron ore to Sandukar. In the cargo it is said that one can also find illegal goods, spies and weapons but Sapal has through its contacts managed to wriggle out of all problems with justice.
 
 Sapal is the most social of the families within clan Arkady and can sometimes be seen in public. Family members have also entered the clothing industry and are known for their tailored suits which are also common on women.
 
-**Straker**
+### Straker
 
 Straker is a smaller family that only exists in Sandukar and that only corresponds with Sadovia via intermediaries. According to an ancient agreement, family members are not allowed to return to their homeland after a bloody conflict with the other families in the clan.
 
 Straker's ancestors were those who planned the construction and architectural design of the seven towers and canals in Sandukar. The family still controls the main city planning and eyewitnesses in the city's poorer parts claim that expeditions from the family have been seen wandering down into the sewer systems, carrying a lot of bulky equipment.
 
-**Valka**
+### Valka
 
 The Valka family has a bloody history of conquest, war and cruel deeds, something its members are very proud of. The family's fortune is great thanks to centuries of plundering neighboring realms. But fortune from the past does not strengthen the family name and many family members now fight at the eastern front with their soldiers to relive old times of glory and slaughter on the battlefield. Members of the Valka family always carry edged weapons, often swords or daggers.
 
 Valka earns large sums of money from the timber industry and slowly but surely fells stately, ancient forests to manufacture furniture and paper.
 
-**Vrazdi**
+### Vrazdi
 
 The Vrazdi family has its seat in Sandukar and controls large parts of the justice system regarding the judicial order and the establishment of laws. Most family members keep isolated and move almost exclusively with persons of their own clan. It is said to be Vrazdi who control the state Commissariat but there is of course no evidence for this claim.
 
-**Zabran**
+### Zabran
 
 The Zabran family's wealth previously rested on slave trading but in recent times, especially after Presvedonia's revolt, the family has chosen a different direction. Its slaves are placed in labor camps and factories and the family now drives industrialization in Sadovia. Weapons are manufactured for the war at the fronts and the family has started up its own zeppelin fleet that travels between Sadovia and Sandukar.
 
-**Guiskard**
+### Guiskard
 
 The masquerade was in full swing despite the midnight hour having long since passed. Still whirling dressed-up women and men in each other's arms to the dance's suggestive music. In alcoves and secluded rooms at the hotel the ball's visitors sought further in more intimate dances, some two by two, others in groups. Bureaucrats, film stars, police chiefs and gangsters were all invited to participate as long as they were rich and powerful and let themselves be carried away by lust and passion. The woman from clan Guiskard pulled her strings and spread poisonous rumors. She flirted with the film producer who promised her a role in the upcoming major film and simultaneously blackmailed his partner for dark purposes. Many pacts had been made in this night of decadence and desire.
 
@@ -8259,7 +8692,8 @@ In the northern Arkady mountains lies the Brana family's golden calf. The family
 In the cities the family has begun competing with clan Zovrin and challenging the banking system. Its riches are used to erect monuments and raise statues in memory of great battles and significant ancestors.
 Unlike most families within clan Kriger where women have a hidden role, the Brana family has several high-ranking women in its ranks who all hold significant positions in society.
 
-**Gault**
+### Gault
+
 The notorious Gault family earns large sums of money from its labor camps where undesirable people toil without either pay or rights. The family also has several mining enterprises and is known for terrible deals and miserable conditions.
 The family has great influence in Vadaja but relatively little presence in Sandukar.
 People within the Gault family are known for being sadistic, racist and in many ways totally emotionally cold toward the suffering of others.
@@ -8282,7 +8716,8 @@ I have painful news. As you suspected I have earlier in my life, before we met a
 knew would come back later. Now it has happened. I feel close to you now, now that I open myself to you. A vile man who ensnared me, beat me and humiliated me, a man I fled from, has found me. He will kill me as he is not a man who takes lightly the fact that I escaped his wrath. But we have a chance! I managed to lure him to the other end of the city so we have the chance to flee together. We can take your car and the cash you said you had at home in the safe? We can build a future together, somewhere else, just the two of us. Come to the harbor, to our place. I long for you and need you, more than ever! Yours forever
 —Talia
 
-**Turga**
+### Turga
+
 The dreaded Turga family has its fingers in many affairs. Unlike most other families within the Kriger line, they own no large mining operations or factories. Instead, they have focused on administration and state information management.
 Turga is clearly the family within the line that has the greatest insight into the state bureaucracy, and its members hold positions as bureaucrats and politicians, high-ranking military officers and police. They maintain discipline among soldiers and search for dissidents. They often keep to the cities, where they have power over police and private security firms, or to the fronts where they research psychological warfare and conduct interrogations of prisoners.
 The family is known for having close contact with the
@@ -8346,29 +8781,34 @@ Despite the Lachek family being large and relatively wealthy, it is ill-regarded
 "Anger from lies is eternal. Anger from truth is transient."
 — Legate Felix van Kordar de Zovrin
 
-**Navod**
+### Navod
+
 The members of the Navod family usually keep to the cities where they manage administration and negotiate trade agreements with other clans and families. They own factories and refineries and strive to gain greater influence in the state bureaucracy.
 
 Despite their important diplomatic position, many of the family members are boorish and clumsy in social contexts and known for their gluttony in food and drink, which has caused many of them to suffer from severe obesity. They also have an ability to treat most others as their subjects, which is hardly appreciated.
 
-**Petkovich**
+### Petkovich
+
 Day and night, the Petkovich family's oil pumps drain the earth's interior of black gold. Entire fields can be filled with oil pumps and from tall steel towers equipped with searchlights, the treasure is guarded greedily.
 
 The family has many competitors and has been forced to devote large resources to soldiers who protect its properties—sabotage occurs daily, however, and in some places the oil wells are on fire.
 
 The family members are known to be very spoiled and arrogant and have openly expressed their contempt for the other clans. Always wearing a golden flower on their person is important to them.
 
-**Yakutsk**
+### Yakutsk
+
 Along the rivers of the Empire travel massive diesel-powered steel ships bearing the Yakutsk family symbol. If the other families in the Orlok clan handle the extraction of raw materials, Yakutsk transports them to their destinations.
 
 The family is known for being able to keep quiet about most business deals if the payment is good enough—they can also move things through inspections and customs without great risk. Rumor has it that family members engage in plunder and sometimes have competitors' ships attacked and sunk, but no evidence of this can be found.
 
-**Zakov**
+### Zakov
+
 The Zakov family has large work camps throughout the Empire and has focused on extracting ore deposits. Members of the family are known to be honest and understanding but have shown several times that they don't hesitate to crush those who deceive or go against them.
 
 Recently, the family has been working to establish grand forts and defensive works blasted into the mountains for the army and for their own use.
 
-**Todescu**
+### Todescu
+
 Their seat is destroyed. Their name is tainted. The State has turned its will against them and fights to annihilate them. But now they are free and now they have the opportunity to influence their future. No longer shall they be bullied by the other clans—no more envy, no more humiliation. Now they are feared and have taken up the fight to raise their own honor. The fire of faith burns within them all and the fire of hatred burns their enemies to ash. They are no longer alone, the fallen angel stands at their side—like them he was bullied and persecuted and condemned to wander the earth for eternity. These thoughts swirl through the mind of the man of clan Todescu after he finished his prayer in the trench. He grips his rifle with dirty fingers and raises it with a roar toward the blood-red vault of heaven—the time of vengeance has come.
 
 Todescu is no longer part of the State and the Empire. The clan, which has always been one of the least influential, was previously responsible for the logistics and construction of the great railways outside the realm. Its members were always regarded with suspicion because most were of the Hraghic people and were strictly religious. The clan therefore had weak power in Sandukar and the majority of members lived in the eastern province of Presvedonia.
@@ -8379,42 +8819,50 @@ Todescu's formerly magnificent seat in Sandukar is now a burnt-out ruin left as 
 
 The clan's members usually wear their hair long according to Hraghic culture. A number of them are now within the army and church where they have important roles as leaders and warriors.
 
-**Ferescu**
+### Ferescu
+
 Driving the machinery of war is very costly in terms of natural resources and the Ferescu family does its best to produce what is needed for the soldiers to continue fighting against the State's lurking troops.
 
 Ferescu has several important mining areas under its control and has also begun extracting oil on an increasingly large scale. The family is relatively bullied by the other families and constantly pressed from all sides to produce more materiel.
 
-**Invida**
+### Invida
+
 The Invida family was previously responsible for work on the railways in the Empire and now handles communications in Presvedonia. Under the family's supervision, railway tracks are laid through forests and over mountain ridges in the realm and family members ensure there are transports for troops and materiel.
 
 Invida is the family that has the most contacts and spies outside Presvedonia.
 
-**Mâcelar**
+### Mâcelar
+
 Mâcelar has a history of war behind it. The family has led its people in countless battles against the enemy in the north and now uses this knowledge to liberate its realm. Many of the family members have experience from the horrors of battlefields and participate in the fighting themselves. They focus primarily on the State's forces in the west and let the Rasbotny family and its troops fight against the northern front in Sadovia.
 
 The family members are filled with religious hysteria and hubris which makes them somewhat reckless. In battle they gladly use axes during assaults.
 
-**Nălucă**
+### Nălucă
+
 Previously Nălucă was a vassal family to clan Arkady and is still suspected of serving it in one way or another. Many family members have been imprisoned because of this but no evidence could be presented and since the family has participated in the freedom struggle with at least as much intensity as other clan families, they have begun to be more accepted.
 
 The family has several large assets when it comes to arable land and livestock and is now working hard to expand its production.
 
-**Rasbotny**
+### Rasbotny
+
 The Rasbotny family has a past as warriors and now commands many parts of the fighting units together with the Mâcelar family. Members have focused on the fighting in the north and against Sadovia and in the shipyards they oversee the construction of a fleet that will be able to challenge the State's destroyers.
 
 Within the family it is very common to move with the help of horses and the family has introduced many mounted units that can quickly move through forests and rugged terrain where state motor vehicles cannot reach.
 
-**Sânge**
+### Sânge
+
 Those who stand closest to the Fallen One and interpret his commands are the Sânge family. The family functions as the Fallen One's black priesthood and its servants search for infidels and rebels in the realm. Sânge has become an inquisition that captures, interrogates and tortures those who oppose the new regime. It is perceived that the women within the family are much crueler than the men, especially when it comes to torturing, or extracting information from, the State's supporters.
 
-**Vrajba**
+### Vrajba
+
 Vrajba is one of the smaller families that was previously excluded from clan Todescu but has now returned with renewed power. Madness seems to characterize the members in one way or another and they are also filled with a hatred toward their former oppressors in Sadovia and the entire state structure.
 
 Vrajba has gained great control over the cities and has founded a new bureaucracy where the people shall have the right to choose.
 
 Members of the family handle information dissemination in a very active way, they spread leaflets with demoralizing truths about the Empire over the State's trenches, among other things.
 
-**Zovrin**
+### Zovrin
+
 From the office window one can see out over the eternal city. A myriad of lights from millions of inhabitants trying to keep the night and cold away. In the alleys, street urchins warm themselves by small fires, in the apartments families gather around radios, in the manors the rich eat silent dinners.
 
 All are enslaved, all realize the power of money and cannot resist its temptation. Money can pervert the strongest mind, turn brother against brother and force people into submission. The very aura of wealth can strike people with speechlessness and awaken admiration and envy. This insight caresses the mind of the woman from clan Zovrin as she sits at her desk at night and seals the fate of yet another citizen with a simple signature.
@@ -8429,37 +8877,44 @@ Clan Zovrin leads the persecution of the Hraghic people. This largely as revenge
 
 Members of clan Zovrin are usually conservatively well-dressed in discreet creations and indulge in expensive pleasures. Most have blond hair in strict hairstyles. Money is their passion and many of them indulge in gambling and games of chance.
 
-**Dunarmco**
+### Dunarmco
+
 The Dunarmco family consists of arrogant gamblers and libertines who spend much time on riches and pleasures. Their wealth comes largely from the mines in the former homeland of Kovan but almost all members of the family live in Sandukar and let the mines be managed by various companies.
 
 There is an exclusive watch brand that bears the family name but the watches are only sold within clan Zovrin.
 
-**Egato**
+### Egato
+
 The Egato family deals largely with foodstuffs of various kinds but also owns many business chains—particularly exclusive interior design firms and furniture stores.
 
 The family has several of its own liquor brands and recently managed to negotiate an agreement with the State to subsidize cigarettes to soldiers at the fronts. This has brought Egato into conflict with the Umoriti family but Egato is a family with big plans and does not enter fights it doesn't think it can win.
 
-**Kordar**
+### Kordar
+
 Kordar is the family that has control over the banking system and currency. The members own stately buildings, wear beautiful clothes, drive luxury cars and can be said to form the foundation for all of clan Zovrin.
 
 Kordar is, however, a family with problems, there is plenty of discord within it and the greed among members never wants to end, they betray their closest for the highest possible return. Arrogance and contempt have begun to result in violence and the other families within the clan look hungrily at how the eternal power struggle means that Kordar loses more and more power and initiative.
 
-**Masteri**
+### Masteri
+
 The Masteri family runs gaming halls and entertainment establishments, everything from stately casinos to betting firms, bars and theaters. Masteri focuses on delivering pleasures and playing on obsession and exploits people's weaknesses and dreams of a happy future.
 
 Members of the Masteri family manipulate games and matches, bribe judges and athletes and also have contacts far down among the criminal gangs. They themselves are almost obsessed with games and gambling and often challenge each other.
 
-**Morganti**
+### Morganti
+
 The members of the cunning Morganti family have been merchants for centuries. They buy and sell everything—their transports go along rivers and railways and with their well-sharpened tongues they get the best prices and the rarest equipment.
 
 After a newspaper scandal that accused the family of having redirected food that was on its way to soldiers at the eastern front so that it instead ended up in one of the family's work camps, they have become more cautious but behind the scenes they have begun to challenge clan Guiskard more and more, by among other things leading the mudslinging against it.
 
-**Paninaro**
+### Paninaro
+
 The Paninaro family owns large amounts of real estate and controls construction firms and architectural offices. It is usually Paninaro who is responsible for the new constructions that take place in Sandukar.
 
 Paninaro has come into conflict with the Straker family of clan Arkady, founder of the city's original architecture, and this conflict has led to state commissioners increasingly beginning to interfere in Paninaro's affairs. The family members are, however, known for their courage and do not hesitate to challenge state statutes.
 
-**Umoriti**
+### Umoriti
+
 Humanity's greatest vice during the last hundred years is almost entirely under Umoriti's control since the family has almost complete power over the tobacco industry. Umoriti owns several tobacco plantations and factories, invests massive sums in marketing and launches brands aimed at personal style and taste.
 
 Many of the family's employees receive part of their wages paid in cigarettes which they can sell on or use as barter goods. The Egato family, within their own clan, has come to challenge Umoriti's power and it is only a matter of when Umoriti will strike back.
@@ -8605,7 +9060,7 @@ When the verdict falls, the accused is either acquitted or convicted. In an acqu
 
 It's not uncommon for trials where famous people figure, either as accused, witnesses or victims, to attract reporters in droves, which turns the entire legal process into a media circus with radio segments, reports and investigative journalism that gets column meter after column meter in the newspapers. Nothing attracts readers like juicy scandals in the chambers of high society.
 
-**Punishment**
+### Punishment
 
 When a person is convicted of a crime, regardless of severity, the person enters the state criminal register and receives a new citizen's passport where the conviction is clearly noted. This usually causes problems when purchasing restricted goods, financial transactions and employment options.
 
@@ -8615,7 +9070,7 @@ An alternative that men are often given when determining punishment is to be sen
 
 The death penalty occurs but is relatively rare — it's primarily for criminal activity against the State that it's pronounced. Common citizens are sentenced to execution by burning in one of the state incinerators. More prominent people can themselves choose whether they wish to be executed by bullet, rope, poison or electricity.
 
-**Laws**
+### Laws
 
 The Empire's law books are thick and filled with clauses and bureaucratic incomprehensibilities. Many of the laws are clear, such as that one shall not kill, steal or assault, but in addition to them there is a multitude of ordinances that affect everyday life for the Empire's population.
 
@@ -8646,7 +9101,7 @@ Children who are placed in orphanages and not adopted before they turn twelve ca
 
 Religion has left large marks in history but since the State was formed, the church has been humiliated and forced to its knees.
 
-**The Church's Role**
+### The Church's Role
 
 In Sandukar it's no longer considered normal to seek a higher power together with others. The church is opposed partly through bureaucracy, partly through eager enlightenment campaigns from the Ministry of Truth.
 
@@ -8654,7 +9109,7 @@ As a religious practitioner one is regarded as something of a desperate fanatic 
 
 But still there exists a need for spiritual guidance and the brave are not scared by society's opinion but seek out the churches at services. Others content themselves with taking out the holy scripture and reading it when no one is watching to find comfort and security.
 
-**History**
+### History
 
 The church's origin is shrouded in darkness; it seems to have existed in one way or another in all seven provinces, imprinted since ancient times. In ancient writings deep down in old church archives it can be found that the great western branch of religion, Janoism, has its origin in Madrostav. The teaching of the One god spread thanks to a preacher named Janos, who brought several traveling cults with him.
 
@@ -8670,7 +9125,8 @@ and had black cathedrals erected where priests frightened the people into obedie
 
 Those who openly questioned the Maurist priests were subjected to persecution and those who protested loudest disappeared.
 
-**The Conflict**
+### The Conflict
+
 When the two doctrines met, the conflict became violent. What began in heated discussions soon led to war and conquests on both sides. The religious power struggle stretched from the smallest hovel to the greatest palace and dragged countries and peoples into massacres and destruction of sanctuaries. A
 cold war then came to prevail as Maurism maintained its iron grip on the eastern parts while Janoism's doctrine was generally accepted in most of the remaining areas.
 
@@ -8682,7 +9138,8 @@ When the war against the enemy in the north descended like darkness over the rea
 Once the State had been formed and the united realms beaten back the enemy, there was hope for a brighter time.
 Centuries of war and conflicts between the countries were over, the church was united and priests from both doctrines blessed the soldiers on the battlefields. Those who saw beyond the facade, however, noticed how the rulers acquired more and more power, and when the war was finally said to be over, they had the realms in an iron grip—as well as the church. They forced religion to give up its power and assets, Janoism became the fundamental doctrine and Maurism was more or less completely banned. Slowly the State began working to rule over the Empire alone.
 
-**The Split**
+### The Split
+
 When it looked as though religion was completely dead and powerless and the State stood as the obvious victor, something happened that no one could have foreseen: the realm of
 Presvedonia, which had always maintained a strong religious faith, got a new spiritual leader who called himself the Fallen
 One. According to documents from that time, the new leader managed to seduce both the people of Presvedonia and the
@@ -8698,15 +9155,18 @@ But within the church they have realized that religion still has power, the Stat
 The church is studying what is happening and even though its members are oppressed, it knows it has support among large parts of the people. More and more Maurists are beginning to appear in its ranks, they whisper in secret about retaking power and reforming the State into a religious one.
 Others only want religious freedom but for now the State is too powerful and the church allows itself to be cowed while waiting for change and for an opportunity to achieve restoration.
 
-**The Religious Branches**
+### The Religious Branches
+
 There are three branches within what is called the church:
 Janoism, Maurism and Siferism.
 
-**Janoism**
+### Janoism
+
 The religious faction Janoism, originating in Madrostav, is based on interpretations by Janos, a simple man who after a tragedy that cost him his entire family restored religion by frenziedly reinterpreting and translating the ancient scriptures.
 He proclaimed that the church and the people were one and that faith fundamentally lay with the individual—together, however, one could accomplish great deeds. The most important thing was not that one performed all the ceremonies, the most important thing was that one prayed and acknowledged the One God and his son, the savior, who sacrificed himself for humanity's sins.
 
-**Playing the Faithful**
+### Playing the Faithful
+
 There are many who pray to the
 One God as in human nature there is a longing to understand and be part of something greater.
 However, only a few are openly faithful, visit the churches and participate in masses. They are regarded with suspicion and must be prepared to be extra scrutinized when the State searches for traitors and insurrectionists. Fundamentally, however, there is not much difference between a believer and a non-believer.
@@ -8715,7 +9175,8 @@ Playing a member of the priesthood requires choosing one's religious orientation
 
 Janoism advocates hard work and abstinence and that one lives in harmony with nature, follows the ten commandments and guards against the seven sins. However, it is not a condemning doctrine but even the darkest of souls can find forgiveness. Likewise, Janos believed that church and state should be kept separate as the church should concentrate on the spiritual and the heavenly world while worldly governance should be left to the rulers. Janoism is now the only doctrine accepted by the State.
 
-**Maurism**
+### Maurism
+
 Maurism has its basis in the Maurean gospel, a gospel that is not recognized by the Janoists as it is said to have been written much later. The Maurean gospel is filled with mysticism, difficult-to-interpret prophecies and divine laws for how peoples shall be governed under the One God's commandments.
 
 According to the gospel, the people shall submit to the One
@@ -8728,7 +9189,8 @@ In addition to the holy scripture and the Maurean gospel, there are several sain
 
 Maurism is forbidden as a doctrine by the State and all documents mentioning the branch are copied and archived by the Archival Ministry. The orientation still exists relatively openly in the east and there are many within the church, even in Sandukar, who are secretly Maurists and hope for a religious order where the church rules.
 
-**Siferism**
+### Siferism
+
 Siferism is a variant of Maurism but has some different viewpoints, among other things the Hraghian people are considered chosen and urged to fight to free themselves from slavery. Siferism's leader, the myth-shrouded Siferos, is said to have been cast down from heaven and divinity to help humanity find god and simultaneously find their own atonement. By many he is regarded as the new Messiah.
 
 In one of his most famous and well-documented speeches,
@@ -8782,7 +9244,8 @@ His hazy gaze flared up and his breathing answered for him. I stroked him gently
 He's hooked, and once again I'm going to be rich.
 — Talia Navarre, Club Karisma, a Saturday in November
 
-**Influence**
+### Influence
+
 Influence covers the fundamental rules and frame-work for playing Noir. Everything from action resolu-tion and how dice should be rolled to drama-creating mechanisms like fate and drives are covered.
 Additionally, how a protagonist is constructed and the parts included in their profile are described in detail. Feel free to use the table of contents to quickly find the rules being sought.
 **System**
@@ -9015,14 +9478,14 @@ Penalty Complexity Example
 
 Table 1:36
 
-**Collaboration**
+### Collaboration
 
 Multiple people can collaborate when a roll is to be made, if the task is such that more participants improve the chance of success. Examples of actions where it is advantageous to have multiple people are when trying to break down a door, pull a person up on a rope, disarm a complicated explosive charge or search for information in books. A typical situation where it doesn't help to have multiple people is when driving.
 
 Each person who helps with an action, and who is considered qualified within the action's area, gives the person who will make the roll (usually the person who has the highest skill in the relevant ability) a bonus (+2).
 The narrator must determine how many people can reasonably help at the same time — even if there are twenty people available, not all can break down the blocked door simultaneously.
 
-**Actions**
+### Actions
 
 The term action is used in all cases where a person wants to attempt to do something. An action can be more or less challenging, but some form of reasonable risk of failure must exist. Actions' outcomes are determined via the result of either an opposed roll or one or more difficulty rolls.
 
@@ -9037,20 +9500,20 @@ or attribute values may be needed in sequence to determine a result.
 The players and/or narrator may also determine that personal influence can help or hinder an action
 — character traits, motivations and other things can influence the action's result positively or negatively.
 
-**Defense Abilities**
+### Defense Abilities
 
 The abilities Resist, Resilience and Tolerance constitute a person's defense against social, mental and physical attacks respectively. When opposed rolls to withstand influence are made, the victim must add the value in the appropriate defense ability to the result.
 
 Resist is used as defense in social conflicts, for example seduction, interrogation or persuasion attempts. Resil-ience is used as defense against horror experiences, stress or violations. Tolerance is used as defense against adverse climate, drug influence or poisoning.
 
-**Perception Abilities**
+### Perception Abilities
 
 The abilities Awareness, Intuition and Empathy are typical perception abilities — how well a person perceives things in their surroundings. Awareness is the five common senses
 — sight, hearing, touch, taste and smell. Intuition is the sixth sense, a subconscious sense that interprets information intuitively and can provide clues or premonitions about what is to come. Empathy opens a person's emotional channel so that he/she can sense and read other people's general mood — for example sadness or anger.
 
 Often the narrator makes rolls with the protagonists' percep-tion abilities secretly, to avoid unnecessarily giving players insight that they might be missing something.
 
-**Luck**
+### Luck
 
 The attribute Luck shows a person's unconscious flow in existence and general luckiness in situations where skill is sub-ordinate. Luck can be used in all situations where chance determines an outcome, without direct influence from a person. For exam-ple, Luck is used in combat in the defensive action Chance De-fense. In a situation where a group of protagonists risk being hit by a falling flowerpot, it is the one who gets the lowest result on their opposed roll (Luck) who gets the pot on the head. Generally Luck is used when the person is not aware of the situation and cannot influence its outcome. Otherwise it is usually more appropriate to use an ability.
 
@@ -9209,12 +9672,14 @@ Social Interaction,
 Reputation & Relationships
 To survive in a cold and harsh world, it's important to have contacts and friends you can turn to for help. Otherwise, you often learn the hard way that alone is weak.
 
-**Social Interaction**
+### Social Interaction
+
 The interaction between player characters and narrator characters is a vital part of any roleplaying story. Many scenes consist of various forms of dialogue, whether it be persuasion, threats, or perhaps seduction. These are collectively called social conflicts as they involve two wills struggling to achieve their respective goals.
 
 This section describes the procedures used in social conflicts between player characters, and between player characters and narrator characters. The rules are designed to create drama and to give player characters who are skilled at the social game the advantages they deserve.
 
-**Conducting Social Situations**
+### Conducting Social Situations
+
 There are essentially three different ways to act out social interaction, and none is really more right or wrong - different gaming groups prefer different methods.
 
 The first method involves no dice being used at all; all dialogue takes place between the players and/or the narrator - in other words, what a participant says becomes what their player character or narrator character says in the story. This method takes very little notice of the character's numerical values, and the role is replaced, so to speak, by the person behind the character and their social and verbal competence.
@@ -9227,17 +9692,20 @@ the players delivering the arguments their player characters would have presente
 
 If one or more parties have succeeded in providing good, exciting, sharp arguments during the opening, this should be rewarded with a bonus to the roll. Factors such as character traits and/or motivations can also have an effect, and naturally any relationship between the parties should also be factored into the whole.
 
-**The Social Conflict**
+### The Social Conflict
+
 The purpose of social conflicts is that they are indeed conflicts to be overcome. A conflict can vary in scope from small to large, from personal to universal. Almost all social situations in Noir can be seen as social conflicts.
 
-**Parties**
+### Parties
+
 In every social conflict there is an active and a passive party. The active party uses some appropriate skill - usually Charm or Persuade - to achieve their goal, see table 1:38. The passive party, that is, the one being targeted, usually uses the skill Resist. In situations where violence, or the threat of violence, is involved, the passive party can use the skill Resilience instead.
 
 If there is any doubt about who is active and who is passive in a social conflict, the rule of thumb is that whoever has the highest attribute value in Impression is the active party.
 
 In the rare situations where there is no passive party - this occurs primarily in pure debate situations - both parties roll with skills as if active.
 
-**Selection of**
+### Selection of
+
 Social Actions | Skill
 Act/perform | Charm
 Dupe/manipulate | Charm
@@ -9256,7 +9724,8 @@ Convince/plead | Persuade
 
 Table 1:38 * With the right expertise, Strength or Leadership can also be used.
 
-**The Stakes**
+### The Stakes
+
 In certain social conflicts it seems natural that the active party must choose what the goal of the conflict is. Or rather, what happens if the goal is achieved. This is called the stakes. In the same way, the passive party should propose what the effect will be if the active party fails to gain the upper hand and win the conflict. Both stakes should be roughly equally serious - so that an attempt to win big means that a failure also becomes significant.
 
 For example, a failed negotiation at a critical stage might mean the active party is ostracized or dismissed, successful mingling grants an audience with the countess while a failure means dishonor upon the character and their family, and attempting to sing high C can mean anything from fantastic to catastrophic reviews in the culture sections the next day.
@@ -9265,7 +9734,8 @@ Example: Gabriel and Mercurian are both in love with a mysterious femme fatale n
 
 The effect if Gabriel loses becomes "Gabriel becomes uncertain of himself regarding his chances with Yvonette compared to Mercurian's." Exactly what that would mean can be judged in future scenes featuring the three involved - perhaps Gabriel gets a penalty on the courtship, or maybe Mercurian can play out the discussion they had to make Gabriel angry, broken, or sad.
 
-**Social Conflicts Between Player Characters**
+### Social Conflicts Between Player Characters
+
 Player characters can also be active and passive in a social conflict. This means that one player character can influence another according to the rules above. A player has no general veto, but if an influence goes strongly against a character's personality, the resistance roll should be modified with bonuses or penalties to symbolize this.
 
 "You don't seem too smart. I like that quality in a man."
@@ -9273,12 +9743,14 @@ Player characters can also be active and passive in a social conflict. This mean
 "I don't think you seem lazy."
 — Stelia Lock and Mordekai Remus
 
-**When Rolls Should Be Made**
+### When Rolls Should Be Made
+
 It should be emphasized that rolls should only be made if there is a conflict where opposing wills are struggling for the upper hand. Does Androv succeed in convincing **Raceu to abandon the idea of revenge? Does Teresia succeed in charming Markeriu into revealing the code to the safe? Does Captain Merkel succeed in getting the broken soldier on his feet through his morale-raising speech about patriotism and comradeship?**
 
 If all parties in a scene are in agreement, no resistance rolls need to be made at all - if Dorian wants to have sex with Julianique, then Julianique doesn't need to exert herself to succeed in seducing him.
 
-**Resolution**
+### Resolution
+
 Whoever gets the highest result on the resistance roll stands as the victor in the conflict. If the one who didn't want to be persuaded (the passive party) wins in an argument about whether Sayah Bonn is the world's most beautiful woman, it means the arguments didn't bite and the active party must accept that they were wrong. If the one who initiated the conflict (the active party) wins, this means the opponent accepts and agrees that Bonn is indeed the world's most beautiful woman.
 
 Note that a victory doesn't necessarily mean the loser changes their attitude about what the conflict concerned, but only that the winner's arguments trumped the loser's.
@@ -9289,7 +9761,8 @@ A social conflict can escalate, see below, if the losing party doesn't accept th
 
 If a party during a social conflict gets an exceptional result on the resistance roll, the character gets either a bonus (+5) or a penalty (-5) on all further rolls in the same social conflict - this is important during escalation.
 
-**Escalation**
+### Escalation
+
 The losing party in a social conflict has two alternatives. The first, and perhaps most common, is to accept the defeat and act according to the winner's goal, based on any stakes. The second is to escalate the situation in hopes of a changed outcome.
 
 Every social conflict has four levels of severity: Conversation, Quarrel/squabble, Brawl/fistfight, and Deadly violence.
@@ -9320,11 +9793,11 @@ Mordekai can now choose to accept not being let in, or he can escalate the confl
 
 The cost in the given situation is that other staff have contacted the police to remove Mordekai from the opera.
 
-**Special social situations**
+### Special social situations
 
 Certain forms of social conflicts require a more detailed explanation. See below.
 
-**Interrogate**
+### Interrogate
 
 To interrogate someone means that through psychological attrition, frightening threats, fair promises or with brutal violence one attempts to force information out of someone. The one conducting the interrogation is always active and the one being interrogated is passive. Each opposed roll is calculated to take approximately one hour to complete.
 
@@ -9332,31 +9805,31 @@ If the active party fails, their Wellbeing decreases (−1) due to frustration. 
 
 The active party can affect their roll. By using torture they get a bonus (+5). If the active party possesses information that affects the passive party on a personal level — for example real threats against family/relatives, threats of revealing something the interrogated doesn't want to come out, or similar — they get a bonus (+5). Each doubling of interrogation time gives a bonus (+2), up to a maximum of (+10).
 
-**Haggle over price**
+### Haggle over price
 
 When a buyer tries to haggle down the price of goods, an opposed roll is made as usual for a social conflict — the buyer is always active and the seller always passive.
 
 If the buyer succeeds, the price is lowered by five percentage points times the number on the lowest die in the roll. If the buyer fails, the price is not adjusted. When haggling, usually no direct stake is made, as it is considered a universal phenomenon in Sandukar and the Empire. Those who don't try to haggle are viewed with skepticism. This also means the seller usually sets a higher price on their goods than what they expect to actually get.
 
-**Threaten**
+### Threaten
 
 By acting threateningly, a person can frighten another person into doing things they don't really want to. The one making the threat is always active while the target is passive. If the opposed roll succeeds, the passive party is exposed to stress, corresponding to a shocking experience, which is described on page 244.
 
 The relationship automatically worsens one step when threats are used, regardless of whether the conflict is escalated or not.
 
-**Inspirational speech**
+### Inspirational speech
 
 A leader can make a mentally worn subordinate, soldier or henchman feel better through an inspirational speech. The one speaking is always active while the target is passive. If the opposed roll succeeds, the passive party's Wellbeing improves one level, if it fails it worsens one level. The passive party's Wellbeing may at best be Gloomy (6) for the speech to have any effect.
 
 At most one attempt may be made per game session and person.
 
-**Bribe**
+### Bribe
 
 By bribing a person with money, objects or advantages, a person can reach set goals more easily or escape tragic situations. The one bribing is always active and the recipient of the bribe is passive. If the opposed roll succeeds, the passive party is bribed and performs what the active party requests. The relationship automatically worsens one step when bribes are used, as respect is eroded. If the same person is bribed multiple times, the relationship is not lowered again however.
 
 Generally a bribe should correspond to at least half a monthly salary (for the passive party) for minor activities, and one or more monthly salaries for more serious ones. Situation and circumstances — such as the consequences the passive party perceives they could suffer if the activity is discovered or how great the risk is of being caught — must determine how large the bribe should be. If too low sums are offered, the active party gets a penalty, while higher amounts provide a bonus. In the Empire everyone is corruptible if the sum is right.
 
-**The importance of game flow**
+### The importance of game flow
 
 Defining the stakes — what happens both with a successful and with a failed result — before the dice are actually rolled can be double-edged. At best it leads to everyone participating in the conflict knowing what's at stake, accepting it and moving forward with what they intended to do.
 
@@ -9364,7 +9837,7 @@ On the other hand, this defining can initiate a long discussion about what is re
 
 **To avoid unnecessary** game interruptions, the narrator can introduce penalties to the opposed roll for each time a player changes their mind. This can be explained in the story by the protagonist seeming nervous or otherwise uncertain about their case and their arguments. Another tool for the game master to maintain game flow is to only let the players define what they want to happen with a successful outcome and only when the dice are rolled explain what happens with a possible failure.
 
-**Seduce**
+### Seduce
 
 "If you want someone to love you, open your heart. If you want someone to become obsessed with you, close it."
 — Talia Navarre
@@ -9385,7 +9858,7 @@ An attraction or passion needs to be maintained to persist — if the active par
 
 As usual, if a victim is willing, no rolls need to be made at all. The same applies if the victim lacks capacity to be seduced, for example if a man tries to pick up a homosexual woman, if a woman wants to have sex with an impotent man, etcetera. However, it is entirely possible for attraction or passion to arise even if an anything but benign relationship exists between two individuals — even enemies can be attracted to each other.
 
-**Notoriety**
+### Notoriety
 
 Notoriety shows a person's fame and celebrity status. The normal state is for a person to be Unknown (Notoriety level five). If Notoriety increases to a level above five, it means the person has been noticed for events or statements that by common people are perceived as exemplary, praiseworthy and good. If Notoriety instead decreases to a level below five, then the public's perception is rather that the person is villainous, threatening and evil.
 
@@ -9407,17 +9880,20 @@ Monster (1) ±5 4
 Abhorred (0) ±10 5
 Table 1:39
 
-**Spheres of influence**
+### Spheres of influence
+
 Each time a person reaches greater Reputation it must be specified to a sphere of influence or a grouping. The sphere of influence shows where the person is known and where their Reputation can affect and be used. Examples of spheres of influence are The academic world, The general public, Children, Crime syndicates, Bureaucrats, Refugees, The street, Club life, Criminals, The church, Resistance groups, The military, The entertainment industry, The police, The press, The justice system, High society, The sports world, The state, Houses, etcetera.
 
 If a person's reputation decreases this means that a previously established sphere of influence disappears – cross out the one that makes most sense.
 
 Example: Sayah Bonn is a famous film star. Her reputation is Respected (8). The three spheres of influence she has are: The general public, The entertainment industry and The press. This means that she has a bonus or a penalty (±3) within these spheres in situations where her reputation could be thought to improve or worsen her situation.
 
-**Recognition**
+### Recognition
+
 People with Reputation other than Unknown (5) must be recognized before their modification can be used. To be recognized the observer must succeed at a difficulty roll (Worldliness), with the target's modification from their Reputation as a bonus. A person is automatically recognized within their spheres of influence.
 
-**How reputation changes**
+### How reputation changes
+
 There are no concrete rules for how a person's Reputation changes. The guidelines are that a person who does not actively work to increase or maintain their reputation tends to lose it after a time. In the same way sudden upheavals can result in large jumps in Reputation – if for example the respected philanthropist is exposed in the press as a sadistic pedophile their Reputation will plummet, and their spheres of influence will change.
 
 Relationships & Contacts
@@ -9427,7 +9903,8 @@ When a protagonist is created relationships are established, see page 29. During
 
 Usually relationships have no other values than Influence/field and Relationship which are described in this section. Should a relationship/contact need to be filled out this is done according to the rules that exist for narrator characters on page 330.
 
-**Impression**
+### Impression
+
 Impression shows how a person is perceived and received by others at first meeting. Each time a protagonist enters a social conflict with a new narrator character a difficulty roll (Impression) must be made to see how the protagonist is perceived by the narrator character. The result gives the relationship the protagonist has with the narrator character during the social conflict and until further notice.
 
 Note that even if several protagonists are part of a group it is the one who primarily acts in the social conflict who creates the relationship – the other protagonists do not get a relationship with the narrator character.
@@ -9441,7 +9918,8 @@ The difficulty roll can be modified depending on whether the narrator character 
 
 A narrator character never makes an Impression roll to create a relationship with a protagonist – the protagonist's player decides for themselves how he/she perceives the narrator character based on the narrator's portrayal.
 
-**Thoughts on seduction**
+### Thoughts on seduction
+
 The reason there are special rules for seduction and attraction is that the classic noir ingredient of temptation/
 desire for the unattainable should be emphasized. A man who seeks to win the cool woman who has enchanted him with her icy charm and intensity, the woman who can manipulate and tempt him to anything, cannot resist his lust despite the risks it brings.
 
@@ -9455,7 +9933,8 @@ desire for the unattainable should be emphasized. A man who seeks to win the coo
 "You seem to have bad luck with women."
 – Mordekai Remus and Stelia Lock
 
-**Relationship**
+### Relationship
+
 A person is rarely alone in the darkness of the city. Turning to others and sharing joy, experiences and companionship is a way to resist the heavy and inhumane environment the city represents. In the same way previous meetings may have resulted in conflicts, quarrels and hatred. This is shown through the relationship a narrator character has with a protagonist.
 
 The five levels of relationships are: Friendship, Benevolent, Neutral, Disliking and Hostile.
@@ -9470,31 +9949,38 @@ Disliking –2
 Hostile –5
 Table 1:40
 
-**Friendship**
+### Friendship
+
 In Noir's world unconditional friendship is something rare. It means that the narrator character has a deep emotional bond with the protagonist and supports almost everything he/she needs help with, even if it is risky or dangerous. This level of relationship usually means that the narrator character loves or is deeply in love with the protagonist, or that they are very close friends since long ago.
 
-**Benevolent**
+### Benevolent
+
 The narrator character is benevolently disposed toward the protagonist and can consider helping out with time, information or material help without major demands for compensation. To get the narrator character to help with something that entails danger to his/her life or that constitutes a great risk however requires very good reasons or proper encouragement.
 
-**Neutral**
+### Neutral
+
 The narrator character sees the protagonist as an acquaintance, someone he/she knows but has no special relationship with. The narrator character can politely help with simpler tasks or questions, but more advanced or dangerous proposals will probably result in the narrator character either breaking off the conversation or demanding good compensation. The narrator character may very well sell out the protagonist if such a situation should present itself, as there is no loyalty between the two.
 
-**Disliking**
+### Disliking
+
 The narrator character probably sees the protagonist as an opponent. If this is the case the narrator character does not hesitate to put down, harass or humiliate the protagonist. It can even go so far that the narrator character actively tries to sabotage for the protagonist, not to inflict physical harm but rather to mess with him/her.
 
 At lower influence levels it involves a lone individual or a smaller group of enemies, for example a small street gang or perhaps a couple of corrupt constables. Influential enemies are significantly more well-organized and have good equipment. At very high degrees of influence the opponent has very great power, he/she can for example be gang boss, member of a House, or similar.
 
-**Hostile**
+### Hostile
+
 The narrator character is hostilely disposed toward the protagonist and does not hesitate to harm, maim or kill him/her if the situation should become serious. The protagonist should see the narrator character as a real threat if their paths should cross.
 
 Sometimes the narrator character may seek out the protagonist themselves to set him/her up in various ways. It is a matter of pure and simple hatred, disgust, emotional bitterness or perhaps cold vindictiveness due to a real or fabricated wrong. An enemy does not hesitate to go after their victim's family, friends and acquaintances so everyone is in danger when the enemy is near.
 
 At lower degrees of influence it involves a lone individual who has no direct significance but who can still be life-threatening. An influential enemy has a collection of henchmen, great resources or is very skilled at what he/she does. At very high influence levels it involves a very influential, rich, or powerful person, who spends time finding their victim and killing him/her.
 
-**Summary of relationships**
+### Summary of relationships
+
 How a narrator character generally behaves in relation to the protagonist, based on relationship, is described in table 1:41.
 
-**Relationship Means Possible actions**
+### Relationship Means Possible actions
+
 Friendship Takes risks to help Intimate conversation, sacrifices, protect, support, help, defend
 Benevolent Wishes well-being Talk relaxed, give advice, offer limited help, advocate
 Neutral Doesn't much care Talk superficially, ignore
@@ -9502,18 +9988,21 @@ Disliking Wishes adversity Talk coolly, mislead/deceive, spread rumors, avoid, o
 Hostile Takes risks to thwart Attack, harm, kill, degrade/demean, slander, flee from, set up, destroy for
 Table 1:41
 
-**Changing an established relationship**
+### Changing an established relationship
+
 An established relationship may very well change. Most common is that such things occur naturally in a story. The narrator must judge whether it is reasonable for the relationship to change based on the experiences the protagonist and narrator character share. If the protagonist for example sets up or makes life harder for the narrator character the relationship can deteriorate.
 
 The relationship can change as many steps as necessary – a scorned lover may very well plummet from "Friendship" to "Hostile" if the protagonist has betrayed and deeply hurt him/her. In the same way a person who initially disliked the protagonist can after a time discover that the first impression was wrong and become "Benevolently" disposed.
 
 A relationship does not change more than once per scene unless special reasons exist.
 
-**Family and kin**
+### Family and kin
+
 When it concerns relationships that are founded in blood or marriage the type of relationship, for example "brother"
 or "spouse", should be noted on the character sheet as such things can have impact. Blood is thicker than water and one's beloved may forgive more than a fleeting friend would have done.
 
-**Contact**
+### Contact
+
 A contact is a narrator character that the protagonist knows.
 **Contacts are acquired with the help of**
 Fate. The cost varies depending on the contact's influence. When the narrator character's influence is determined the relationship is decided through a difficulty roll (Impression).
@@ -9528,14 +10017,16 @@ In the corner of his eye he saw the veiled woman enter through the drape and pos
 
 The man from the Hrůzda family sat until morning listening to his aunt and when sunlight shone on the portrait of him he fell to his knees in gratitude for this was a gift greater than any other. He now understood the meaning of the name Hrůzda and would in the boundless terror find the truth.
 
-**Influence**
+### Influence
+
 Influence shows how much influence the narrator character (the relation) has within their field. There are five degrees of influence: Very great influence, Significant influence, Influential, Moderate influence, and Minor influence.
 
 **At each degree of influence there is a value** called Power that symbolizes the relation's general power, resources, and forcefulness with a game-mechanical value. When needed, rolls (Power) can be made to determine whether the narrator character succeeds with the task he/she has set out to do—for example getting hold of the secret document, persuading the prosecutor to drop the case, fixing the sniper rifle without paperwork, or perhaps gaining access to the film star Sayah Bonn. Naturally this roll can be affected by penalties or bonuses depending on what is to be accomplished.
 
 **A narrator character's Influence and Power** are summarized in table 1:42.
 
-**Degree of Influence Power**
+### Degree of Influence Power
+
 Very great influence 18
 Significant influence 15
 Influential 12
@@ -9543,7 +10034,8 @@ Moderate influence 9
 Minor influence 6
 Table 1:42
 
-**Field**
+### Field
+
 **To give the narrator character some form** of framing, he/she gets a sphere of influence. This is called the narrator character's field.
 
 Common fields are
@@ -9568,31 +10060,36 @@ Common fields are
 • The state
 • Houses
 
-**The protagonist's anatomy**
+### The protagonist's anatomy
 
 A protagonist is described using a number of attributes and abilities whose values show how accomplished the person is in various fields. Together they provide the person's skills from which a number of attributes are derived.
 
-**Attributes**
+### Attributes
+
 There are a total of nine different attributes. An attribute is a person's basic prerequisite. There are three categories of attributes: physical, mental, and spiritual, and there are three attributes in each category.
 
-**The physical attributes**
+### The physical attributes
+
 • Coordination
 • Build
 • Motoric
 
-**The mental attributes**
+### The mental attributes
+
 • Education
 • Creativity
 • Will
 
-**The spiritual attributes**
+### The spiritual attributes
+
 • Insight
 • Perception
 • Charisma
 
 Every attribute has an attribute value that shows how well developed it is. An attribute can at lowest have attribute value one (1). There is no upper limit for how high an attribute value can reach. Table 1:43 summarizes an attribute's capacity.
 
-**Value Capacity**
+### Value Capacity
+
 1–2  Poor. The person's capacity within the attribute is either untrained, unutilized, or undeveloped.
 3–4 Average. The attribute is used and trained to a normal extent.
 5–6 Good. Either the person possesses a natural talent within the attribute or it is regularly trained and used.
@@ -9600,7 +10097,8 @@ Every attribute has an attribute value that shows how well developed it is. An a
 9+ Fantastic. The attribute is developed as far as human capacity allows, thanks to thorough and continuous training, refinement, and/or due to extremely favorable personal prerequisites.
 Table 1:43
 
-**Abilities**
+### Abilities
+
 A person's abilities indicate his/her learned and trained competence, knowledge, and talent within a given field. There are a total of 27 abilities, each of which is linked to a governing attribute. Every attribute governs three abilities. Every ability has an ability value that shows how skilled the person is within the ability's area.
 
 Physical abilities (with respective governing attribute)
@@ -9638,7 +10136,8 @@ Spiritual abilities (with respective governing attribute)
 
 Every ability has a value that shows how developed it is. A person who is completely inexperienced within an ability starts with ability value zero (0). There is no upper limit for how high an ability value can reach. Table 1:44 summarizes an ability's level of competence.
 
-**Value Level of competence**
+### Value Level of competence
+
 0 Nonexistent. The person lacks knowledge or methods for using the ability. Attempting to use the ability results in a greatly increased risk of failure.
 1–3 Amateur. The person has basic, unpolished, and untrained knowledge or approaches for performing the ability. This also includes a certain form of general knowledge within the ability's area.
 4–6 Competent. The person has proven and reliable knowledge, qualifications, or methods for performing the ability.
@@ -9648,10 +10147,12 @@ Every ability has a value that shows how developed it is. A person who is comple
 16+ Unsurpassed. The person is among the best, most skilled, and respected in the world at performing and understanding the ability.
 Table 1:44
 
-**Nonexistent competence**
+### Nonexistent competence
+
 A person who has ability value zero (0) in an ability lacks the basic knowledge he/she needs to be able to use the ability in a competent way. Naturally good capacity in the ability's attribute can facilitate usage but without concrete competence in the ability it becomes difficult anyway. As long as the ability value is zero (0) the person receives a general penalty (–5) on all dice rolls regarding the ability.
 
-**Skill**
+### Skill
+
 The sum of an attribute value and an ability value is called skill and is always obtained from an attribute and its underlying ability. Attribute values are never added to an ability's value unless the attribute governs the ability.
 
 It is always the skill that is added to difficulty rolls and resistance rolls, never an individual attribute or ability value. (Formula for skill: attribute value + ability value).
@@ -9670,7 +10171,8 @@ Example: Jessica has attribute value 8 in Motoric and ability value 15 in Throwi
 }   Perception
 }   Charisma
 
-**Description of the Attributes**
+### Description of the Attributes
+
 Here follows overview descriptions of the attributes.
 Education (mental attribute)
 Education shows the brain's memory capacity and ability to collect, store and categorize learned theoretical information.
@@ -9706,7 +10208,8 @@ Will is important for, for example, athletes, leaders, celebrities, entrepreneur
 "In my experience there are three ways to get rid of a blackmailer. Either you pay, and pay, and pay, until you're ruined. Or you call the cops and your secret becomes front-page news. Or you kill him."
 — Gabriel Jandaran
 
-**Description of the Skills**
+### Description of the Skills
+
 Here follows overview descriptions of the skills.
 Determination (Will)
 Determination shows a person's stubbornness and ability to achieve results, regardless of setbacks and obstacles. The skill helps the person maintain focus and concentrate on the task to be performed and prevents the person from being affected by disturbing elements. It indicates the person's ability to absorb new knowledge, apply old knowledge in new ways, and absorb and store information under pressure.
@@ -9824,7 +10327,8 @@ Persuade is an important ability for businessmen, reporters, leaders, mediators,
 "The greatest of all conspiracies is that there isn't one! No one is after you. No one cares about you. It doesn't matter if you live or die. So, does that feel better now?"
 — Franko Millovy
 
-**Will to Live**
+### Will to Live
+
 Will to Live is a person's ability to withstand serious injuries without dying. More information can be found on page 264.
 The attribute value for Will to Live is obtained by adding together the skill in Determination, Fitness and Sense and dividing the sum by three (/3), rounded down, and then adding five to the sum.
 **Notoriety**
@@ -9865,7 +10369,8 @@ The attribute value is obtained by adding together the skill in Charm or Leaders
 A person's standard of living refers to their place in society's hierarchy. It shows birth, wealth, success and status. It is a simplified way of indicating what resources, what style and what housing a person normally has.
 A protagonist's standard of living is normally 4 but can be changed during the creation of traits, see page 86.
 
-**Luck**
+### Luck
+
 Luck shows the degree of good fortune in life and the person's general luckiness in situations where skill is worth nothing. Being lucky is granted to very few in the world of Noir.
 The attribute value for Luck is normally 0. The value can be changed during the creation of traits, see page 87.
 **Endurance**
@@ -9905,29 +10410,34 @@ Table 1:45
 Example: Convarian has 120 points in Experience and 425 points in Life Experience. He is awarded 360 points in Experience, which increases Experience to 480 points and Life Experience to 785 points. Convarian spends 295 points of Experience on improving various abilities. In the character sheet it is noted that he has 65 points remaining in Experience, while Life Experience remains at 785 points.
 **Experience**
 
-**Learning**
+### Learning
+
 When a protagonist uses an ability and gets an exceptional result (whether successful or failed), they may place a learning mark next to the ability on the character sheet. This is also called marking the ability.
 A learning mark makes it easier for a protagonist to increase the ability's ability value by one level using Experience, see page 222.
 Only exceptional rolls for abilities grant learning marks. Exceptional rolls for attributes grant no marks.
 Learning marks remain with the ability until the ability value is raised, regardless of how long this takes. An ability can only have one learning mark at a time.
 
-**How a protagonist gains experience**
+### How a protagonist gains experience
+
 After a completed story, the narrator should distribute Experience to the participants. This is preferably done when the protagonists have an opportunity to take it easy and reflect on what has occurred in their lives and what they have learned.
 Experience is distributed based on the story's Challenge. If the story has been challenging, difficult, and given the protagonists opportunity to grow and become an active part of the environment, this gives more Experience than if it had been simple, routine, and isolated. The points for Challenge are then multiplied by the protagonist's attribute value in Learning.
 Beyond this sum, extra experience can be awarded based on Ego – if a player has portrayed their protagonist in accordance with their personality, character traits, and motivations, and if they have actively supported and created exciting and dramatic situations during the story's course, they can be rewarded with extra points.
 The sum of all this becomes the number of Experience Points distributed to the protagonist. (Formula for Experience:
 (Learning x Challenge) + Ego).
 
-**Experience from motivations**
+### Experience from motivations
+
 A protagonist can receive Experience upon fulfilling motivations. The Experience is then distributed directly when the motivation is fulfilled and used in the same way as other Experience.
 For more information about Experience from motivations, see page 233.
 
-**Experience pacing**
+### Experience pacing
+
 If Experience is distributed rarely, the protagonists should receive extra much when it does happen. However, it's recommended to distribute Experience fairly often since the protagonists'
 development then becomes more consistent and not so jerky. Additionally, this provides room to improve Fate continuously, something that can be crucial for the protagonists'
 lives and health.
 
-**When may experience be used?**
+### When may experience be used?
+
 Experience may be used when a protagonist is rested, is in an undisturbed place and doesn't feel stressed, for example after having slept through an uneventful night.
 The protagonist should feel calm and reflective and have opportunity to gather their thoughts. This can occur multiple times during one and the same story. Every time Experience is distributed, it can also be used immediately.
 However, Experience may not be used for things like in the middle of a scene in the story increasing an ability the player just discovered they needed, or improving Fate just when the need presents itself.
@@ -9935,10 +10445,12 @@ Note that there are no limitations on how much unused Experience a protagonist m
 The player decides themselves when they want to use the protagonist's
 Experience for improvements.
 
-**Learning**
+### Learning
+
 The attribute Learning shows a person's general aptitude, learning ability, and wisdom. It shows how the person primarily learns things – the hard and physical way, by reasoning logically and rationally, or by having an innate cunning and a good deal of guile. More about Learning can be found on page 218.
 
-**Challenge**
+### Challenge
+
 The Challenge is the story's difficulty level set in relation to the protagonists' knowledge, resources, and opportunities.
 Table 1:46 shows how many points a challenge should give depending on its difficulty level.
 
@@ -9951,7 +10463,8 @@ Table 1:46 shows how many points a challenge should give depending on its diffic
 
 Table 1:46
 
-**Ego**
+### Ego
+
 Ego encompasses the player's roleplaying – how the player's protagonist expresses themselves in the world. What affects the rating in this category is how well the player lives out the character traits and background the protagonist possesses, how consistent they are in the role, in what way they use the bonds and contacts the protagonist has in the world and how they let their protagonist develop from experiences and knowledge. That the player is concentrated and doesn't clown around and disturb the atmosphere is also to be considered.
 Table 1:47 shows how many experience points from Ego that should be distributed depending on the player's participation.
 
@@ -9967,7 +10480,8 @@ During the story's course, Convarian's player was very involved in the story and
 This means that Convarian is awarded a total sum of
 325 (225 + 100) points Experience, which is noted in the character sheet under both Experience and Life Experience.
 
-**Challenge**
+### Challenge
+
 **Learning** | **10** | **15** | **20** | **25** | **30**
 1 | 10 | 15 | 20 | 25 | 30
 2 | 20 | 30 | 40 | 50 | 60
@@ -9992,23 +10506,27 @@ This means that Convarian is awarded a total sum of
 
 Table 1:48
 
-**Improving a protagonist**
+### Improving a protagonist
+
 Improving values costs Experience. A protagonist can be improved in four areas: increase attribute values, increase ability values, acquire expertise areas for an ability, or improve their odds with Fate.
 
-**With Experience the following activities can be performed**
+### With Experience the following activities can be performed
+
 • Increase attribute value
 • Increase ability value
 • Acquire expertise area
 • Improve Fate
 
-**Increase attribute value**
+### Increase attribute value
+
 Increasing an attribute value costs 50 x the new level in the attribute value points Experience. Note that one must increase a value one step at a time.
 
 Example: Convarian has attribute value 4 in Build.
 Increasing the value to 6 costs 550 points Experience (first 50 x 5
 = 250, thereafter 50 x 6 = 300, sum 550).
 
-**Increase ability value**
+### Increase ability value
+
 Increasing an ability value costs 10 x the new level in the ability value points Experience. Note that one may only increase a value one step at a time.
 If one wants to increase an ability value to over double the level in the governing attribute value, the Experience cost is doubled. This symbolizes that it requires enormous training to reach ultimate success in a field one lacks basic aptitude for.
 If a protagonist has a learning mark next to an ability that is about to be improved, the cost to reach the next level is halved. Note that this only applies to increasing one level.
@@ -10023,13 +10541,15 @@ x 13 x 2, or 260 points.
 Thereafter Convarian wants to increase Awareness. He has ability value 3, but also has an improvement mark noted after an exceptional failure that occurred during the story's course. He wants to increase Awareness to level 5. This costs him
 70 points Experience (10 x 4 x 0.5, followed by 10 x 5, sum 70).
 
-**Acquire expertise area**
+### Acquire expertise area
+
 Acquiring a new expertise area for an ability costs
 10 x Complexity points Experience.
 Note that an expertise area's Requirements must be fulfilled for a protagonist to be allowed to acquire it.
 The protagonist may also not have a higher total sum in
 
-**Quick reference for Experience**
+### Quick reference for Experience
+
 In table 1:48 experience based on Learning and Challenge is calculated in advance. Learning is shown on the vertical axis and the different challenge levels on the horizontal axis.
 
 Complexity than ability value in all of an ability's expertise 
@@ -10175,7 +10695,8 @@ The difference is that traits show how a person is, while a drive shows what a p
 "You know, I like him better and better."
 — Gabriel Jandaran and Marlena Illianescu
 
-**Trait Negative Influence**
+### Trait Negative Influence
+
 Aggressive Can make a bad first impression, may have difficulty charming someone and creating personal or business contacts, people become anxious and insecure in the person's presence and don't trust them.
 Arrogant Gives the impression of being condescending and snide, may have difficulty charming someone and initiating personal or business contacts.
 Cautious Is afraid of combat or of being hurt, avoids conflicts
@@ -10213,7 +10734,8 @@ The narrator should then make the player aware of traits that no longer feel rel
 — something that isn't at all unusual in
 Noir's tangible world. The most important thing is still that the main character's traits feel right for the player so they can be portrayed in a good and constructive way.
 
-**Adding New Traits**
+### Adding New Traits
+
 The traits included in the book should be seen as a selection from the infinite number of traits that exist. The traits have been chosen because they fit the mood the game wishes to convey — a harsh, dark world where desire, lies, sex, violence, obsession, betrayal, and revenge rule.
 Players and narrators are free to add more traits themselves. However, one should try to create traits that are grounded in the world and are easy to use. One suggestion is to start from the following five requirements when creating a new trait:
 • The trait should be value-neutral, that is, it should not in itself be positive or negative but should be able to influence a person's actions in both directions.
@@ -10222,7 +10744,8 @@ Players and narrators are free to add more traits themselves. However, one shoul
 • The trait should be part of the story. The narrator should be able to create stories in which the main characters' traits can take place and be used as a starting point for new stories or substories.
 • The trait should fit the game and its mood.
 
-**Character Traits in Combat**
+### Character Traits in Combat
+
 Personal conviction can move mountains. A strong conviction, a burning love, or a seething hatred can drive people to perform actions that would otherwise be seen as impossible. A father can run through a burning house to save his daughter, a woman can drag her injured husband for miles to reach a hospital, and a friend can throw themselves into icy water to pull up their comrade who just fell in.
 Both protagonists and prominent narrator characters have character traits that help define their personalities, motivations and life goals, but also their weaknesses and desires. In combat, these character traits can help or hinder the execution of a plan. If a player's protagonist has, for example, the character trait Loving with expression toward his beloved, he can in a situation where his fiancée is directly threatened choose to add his value in the character trait as a bonus to a dice roll that results in the threat becoming less.
 
@@ -10234,13 +10757,15 @@ A simple approach is to let the character trait be
 "active" throughout the entire combat. If, for example, Aggressive or
 Risk-prone is used, bonuses are given on all Initiative actions and penalties on all Defense actions, while Cautious works the opposite way.
 
-**Expression**
+### Expression
+
 The character traits' expressions provide increased depth and an extra dimension to the person. They specify how and in which situations the character traits primarily manifest, as well as how they affect the person, and thereby make it easier for the player to immerse themselves in and portray their protagonist.
 
 All chosen character traits shall have at least one expression but they can have several, usually between one and three.
 Character traits can of course also affect situations to which they lack specified expressions, if it is deemed reasonable and in the person's nature.
 
-**Suggested Expressions**
+### Suggested Expressions
+
 To facilitate the choice of expressions, here follows a selection. Note that the following are only suggestions and that an enterprising player or narrator can surely come up with more expressions.
 In cases where one must choose a specific alternative, it refers to something very limited that often stems from a distinct event or experience in the person's life. If the person has the trait "Suspicious (of the Police)" then they have most likely had bad experiences from previous contacts with the police, and this has given rise to the expression.
 
@@ -10254,7 +10779,8 @@ The specific expressions that are appropriate (of course depending on situation 
 • Specific circle
 • Specific organization
 
-**Examples of Expressions**
+### Examples of Expressions
+
 Examples of what expressions character traits can take and how they can be interpreted follow here:
 • Vengeful (loathes wife-beaters, painful punishments) — The person loathes people who prove to be wife-beaters, and when opportunity for revenge presents itself, it will likely be brutal, harsh and painful.
 • Very aggressive (murderer, brutal) — The person enjoys killing and has no problem injuring or killing others in excessive and bestial ways. Often little provocation is needed for deadly situations to arise.
@@ -10263,14 +10789,16 @@ Examples of what expressions character traits can take and how they can be inter
 • Extremely risk-prone (death-defying, likes to fly, prefers bad odds) — The person enters without hesitation into violent situations where they risk being maimed or killed. The person is moreover strongly attracted to piloting aircraft and thrives like a fish in water when the odds speak against them.
 The person is probably happiest when they alone face six enemy aircraft just as they have low fuel and nearly empty machine guns.
 
-**Aggressive**
+### Aggressive
+
 • Bloodthirsty • Brutal • Eccentric
 • Cruel • Hot-tempered • Threatening
 • Angry • Irritable • Insecure
 • Disturbed • Sadistic • Self-destructive
 • Combative • Mouthy • Violent
 
-**Arrogant**
+### Arrogant
+
 • Smug • Selfish • Vain
 • Contemptuous • Insulting • Conceited
 • Cold-hearted • Narcissistic • Condescending
@@ -10279,32 +10807,37 @@ The person is probably happiest when they alone face six enemy aircraft just as 
 • Proud • Tactless • Thoughtless
 • Superficial • Honor-hungry • Superior
 
-**Cautious**
+### Cautious
+
 • Unassuming • Shy • Discreet
 • Thoughtful • Simple • Cowardly
 • Peaceful • Foresighted • Introverted
 • Calm • Meticulous • Unmoved
 • Insecure • Self-assured • Submissive
 
-**Greedy**
+### Greedy
+
 • Extravagances • Gluttony • Materialistic
 • Lust • Power-hungry • Money-loving
 • Sneaky • Stingy • Status-conscious
 
-**Honorable**
+### Honorable
+
 • Integrity • Comradely • Loyal
 • Immovable • Selfless • Reliable
 • Principled • Upright • Honest
 • Just • Solidary • Trustworthy
 • Faithful • Noble • Truthful
 
-**Vengeful**
+### Vengeful
+
 • Obsessed • Stern • Bitter
 • Persistent • Contemptuous • Prejudiced
 • Grudge-bearing • Easily offended • Unforgiving
 • Passionate • Guilt-ridden • Quick-tempered
 
-**Loving**
+### Loving
+
 • Generous • Refined • Forgiving
 • Understanding • Liberal • Kind-hearted
 • Hospitable • Helpful • Interested
@@ -10312,7 +10845,8 @@ The person is probably happiest when they alone face six enemy aircraft just as 
 • Tasteful • Magnanimous • Accommodating
 • Friendly • Lovely • Humble
 
-**Lust-driven**
+### Lust-driven
+
 • Amorous • Obsessed • Dominant
 • Single-minded • Erotic • Extroverted
 • Horny • Easily aroused • Masochistic
@@ -10321,7 +10855,8 @@ The person is probably happiest when they alone face six enemy aircraft just as 
 • Self-degrading • Shameless • Guilt-ridden
 • Compulsive thoughts • Submissive • Violent
 
-**Indifferent**
+### Indifferent
+
 • Apathetic • Blasé • Cynical
 • Death-longing • Scornful • Ruthless
 • Introverted • Ironic • Lazy
@@ -10329,19 +10864,22 @@ The person is probably happiest when they alone face six enemy aircraft just as 
 • Uninterested • Pessimistic • Sarcastic
 • Slack • Resigned • World-weary
 
-**Suspicious**
+### Suspicious
+
 • Jealous • Questioning • Critical
 • Distrustful • Insecure • Paranoid
 • Skeptical • Envious • Doubting
 
-**Deceitful**
+### Deceitful
+
 • Deceptive • False • Hardened
 • Treacherous • Ruthless • Cold
 • Temptation • Cunning • Lying
 • Devious • Uncomprehending • Unreliable
 • Self-satisfied • Selfish • Unscrupulous
 
-**Risk-prone**
+### Risk-prone
+
 • Clueless • Irresponsible • Childish
 • Bold • Death-defying • Mad
 • Gullible • Integrity • Courage
@@ -10350,12 +10888,14 @@ The person is probably happiest when they alone face six enemy aircraft just as 
 • Nosy • Proud • Inventive
 • Wild • Daring • Careless
 
-**Convinced**
+### Convinced
+
 • Obsessed • Determined • Stubborn
 • Assured • Inflexible • Immovable
 • Rigid • Certain • Believing
 
-**Stronger Impact**
+### Stronger Impact
+
 The character traits can be made more pronounced and take up even greater space in the person's life and personality. By giving a character trait the prefix very or extremely, one raises its degree of impact. For example, a person instead of Honorable and Aggressive can be Very honorable and
 Extremely aggressive.
 
@@ -10377,16 +10917,20 @@ The woman wins the resistance roll thanks to this and Mordekai, wildly entwined 
 
 Everyone is driven by something, an inner desire that must be satisfied, personal goals that must be met, or a personal agenda that must be followed. The path toward fulfillment is often selfish and full of danger and violence as different people's drives clash with each other — often with fatal outcome.
 
-**Drives**
+### Drives
+
 A person can possess one or several drives — goals the person wants to fulfill in their life. The drives must be fulfilled for the person to become satisfied and be able to move on. The purpose of drives is to give the characters their own goals to strive toward so that they become a more active part in the world they act in. When a drive is fulfilled, this grants Experience.
 
-**Measurable Drives**
+### Measurable Drives
+
 It's important to remember that there are tons of drives a person can be thought to have, but what's crucial from a rules perspective is that the drives are measurable. More generally held drives like for example making friends or becoming popular are difficult to measure. Therefore they are not included in the listing below. Narrators and players can of course jointly work around this by trying to set up measurable goals within hard-to-measure drives and bring them among the choices.
 
-**Secret Drives**
+### Secret Drives
+
 Many times players will want to keep their protagonists' drives secret from other players and their protagonists. Such drives should be discussed with the narrator in private and possibly not recorded in the character sheet. It could be about schemes and intrigues that are directed at people within one's own group, or that the player simply doesn't want their protagonist's innermost thoughts exposed. Many times it can be exciting to try to figure out what drives the people in one's surroundings, and as a player knowing what one's protagonist doesn't know can kill most of the mystique.
 
-**Drive in a Group**
+### Drive in a Group
+
 Many of the presented drives can be seen as individualistic. But nothing prevents the entire group from having a shared drive — it's just for each person to note the same drive in their character sheet. Everyone then gets to share in the fulfillment and effects when such occur.
 
 **Drives**
@@ -10409,11 +10953,13 @@ Congratulations, Police Captain Tristarian!"
 The person needs to prove to someone or to themselves that he/
 she is capable of reaching a goal in life. It can be attaining a posi-tion within one's profession, showing that one can handle life as a soldier, or achieving a scientific breakthrough with research one has been mocked for. It can be becoming a famous artist, making the front page, or perhaps recording an album. It can also involve things like having sex with a new partner every day or helping the poor by working in soup kitchens.
 
-**Self-Actualization**
+### Self-Actualization
+
 "If you keep training your strength at this pace you'll soon be unrecognizable."
 The person wishes to reach perfection within some area or field. This is symbolized by him/her reaching the level of out-standing in a chosen attribute or master in an ability.
 
-**Suggested Drives**
+### Suggested Drives
+
 Here various drives a person can possess are described. Feel free to use them as inspiration to come up with more drives that can fit into the story.
 
 Expose/Combat/Oppose
@@ -10433,7 +10979,8 @@ Bring/Return/Deliver
 Okay, understood, I'll be done by Thursday, have the money ready."
 The person is driven by returning or delivering an object, a person, or knowledge to a client or to its rightful family, owner, or place. Until it is done, no peace can be found.
 
-**Vision and Abuse of the Rules**
+### Vision and Abuse of the Rules
+
 **The idea with drives is to let** the players' characters have their own, clear goals in the stories. The drives exist to give rise to increased drama and pres-ence in the game. There are certainly ways to abuse the rules and the narrator must be prepared to put their foot down and stop such attempts. Drives are not something one should fulfill as many of as possible just to get rewards.
 
 **The narrator must keep watch** so that group drives become reasonable and support the story and that the players don't try to trick with the rules to maximize the benefit. Be prepared to deny a person a drive if it doesn't feel right from the story's perspective that the person has it.
@@ -10461,7 +11008,8 @@ Repay/Pay Back
 "Here are thirty of the fifty I owe, you'll get the rest in five days, I promise. This time it can't go wrong."
 The person owes someone or something a favor, a promise, money, or their life, and wants nothing more than to repay this debt.
 
-**A Drive's Birth**
+### A Drive's Birth
+
 During a story's course, situations arise that give birth to drives. When such a situation reveals itself, a person may choose to take up the drive as their own, provided that he/she has room for it – see Impact. If not, the person can attempt to abandon an existing drive. This is described under
 Abandon Drive.
 
@@ -10475,41 +11023,49 @@ Example: Mordekai Remus has two drives, namely "Find
 Stelia Lock" and "Destroy everyone who was involved in the mur-der of Janya." As the drives are written, their goals are clear –
 when Miss Lock is found, the first drive is fulfilled, and when everyone who was part of the conspiracy that led to Mordekai's youthful love Janya's death is dead, the second drive is fulfilled.
 
-**Scope**
+### Scope
+
 A drive's scope can be either limited or continuous. Most are limited, which means they disappear when they are fulfilled.
 Continuous drives remain even after they are fulfilled; this mainly applies to drives whose goal is long-term or can be affected over a long time, for example protecting a person.
 
 Example: Mordekai Remus has two drives, according to the exam-ple above. The drives are both considered limited since there is no reason to keep them once they have been fulfilled. If the second drive were such that the goal itself was each individual's death, then it would have been a continuous drive, but now the wording is such that it is at the point when all involved are dead that the goal is fulfilled and thus the drive is limited.
 
-**Impact**
+### Impact
+
 A drive can have one of three degrees of impact. These are, from mildest to most pronounced: subdued, burning, and manic. A person has room to at most possess drives that total five points.
 
 • A subdued drive takes up one point
 • A burning drive takes up two points
 • A manic drive takes up three points
 
-**Strengthen Impact**
+### Strengthen Impact
+
 When a drive is born, the person must set its impact to either subdued, burning, or manic. The impact must be chosen directly and cannot be changed later. The only exception is if the person already has a drive and during a story ends up in a situation, or gains access to new knowledge, that directly affects the drive – then its impact can be increased if there is room for it (in terms of points).
 
 If the drive is continuous, it remains in the character sheet. For example, Walian Kardoni's drive to kill all shadow walkers is a typical continuous drive, as there is really no end to it but each time a shadow walker dies by Kardoni's hands it counts as fulfilled. A continuous drive can be fulfilled at most once per scene.
 
-**Long and tough road to fulfillment**
+### Long and tough road to fulfillment
+
 A narrator who believes that the path a main character has walked to finally reach fulfillment was both long, perilous and character-defining can without hesitation give up to five times the amount of points at the moment of fulfillment. A burning limited drive would then give 75 points instead of 15 points.
 
-**Multiple fulfillments**
+### Multiple fulfillments
+
 Even if several different drives would be fulfilled at one and the same time, the person can only receive fulfillment from one of them simultaneously. A person can for example have the drives "Seek out Anannia's jewels" and "Bring the one who stole Anannia's jewels to justice". It is not impossible for these two drives to be fulfilled simultaneously, but then the person only receives points from the one that gives the most.
 
-**Fulfillment through roleplaying**
+### Fulfillment through roleplaying
+
 The narrator may encounter players who play their main characters as if they had drives but who for some reason don't spend any time specifying these. Perhaps they feel it would take them out of their role to do so, they may have difficulty choosing a limited number of drives, they may have forgotten to do it or they may simply be uninterested in the system for how to use drives. The game master can then choose to give these players points for portrayed fulfilled drives even if it is not specified when the drives are fulfilled.
 
-**Abandon drive**
+### Abandon drive
+
 A defined drive can only disappear in two ways. Either through fate willing it – "it was not written in the stars that it should happen" (this can happen at most once per game session and to get rid of the drive the person then consumes as much Experience as the fulfillment of the drive could have given). Or through the drive's goal suddenly becoming impossible to reach (if the drive for example is to return Irvan Lesarov's famous painting Moonseye to Felix van Kordar and the painting in question burns up) or if the drive is deemed unreasonable or unnecessary (if for example one has as a drive to protect someone from a person and that person is killed or imprisoned).
 
 When a drive disappears without the person wanting it to, the person suffers stress equivalent to a psychological trauma, see page 244.
 
 Example: Walian Kardoni received the drive "Kill all shadow walkers you encounter" when his family was mutilated by a group of shadow walkers. The drive was then subdued. Later in life, after Kardoni had succeeded in killing several shadow walkers, he found love again, but the happiness was short-lived. A shadow walker violated his new love and ate her up. When Kardoni discovered this, his drive grew to manic.
 
-**Degree of influence**
+### Degree of influence
+
 A subdued drive lies simmering in the back of the person's mind and unconsciously or consciously guides his/her choices and decisions. There are no problems temporarily breaking the thoughts or focusing on something else, but sooner or later the thoughts will return to the drive.
 
 A burning drive is often present with the person and influences his/her everyday life in a tangible way. The person is still free to disconnect its influence, but has difficulty concentrating on other things for longer periods without falling under its influence.
@@ -10518,12 +11074,14 @@ A manic drive takes over the person's ego and steers him/her toward the goal day
 
 Example: Mordekai Remus has two drives, as shown above. It is determined that it is clearly more important for Mordekai to find the murderers than to locate the assassin Lock. The drives are noted as follows: "Find Stelia Lock (subdued)" and "Destroy everyone who was involved in the murder of Janya (burning)".
 
-**Fulfillment**
+### Fulfillment
+
 When a person receives a drive, its goal shall be clearly stated. Therefore the formulation is important. When the goal is fulfilled, the drive has given the person a revelation, a satisfaction and a calm.
 
 This is symbolized by the person receiving points that can be used to increase Experience or Well-being, according to table 1:52. Each point can either be translated into one point of Experience or for ten points, Well-being can be improved one level (this means that for subdued or burning continuous drives, Well-being cannot be improved, as the points are not sufficient – this comes naturally as continuous drives are usually not emotionally sound).
 
-**Limited Continuous**
+### Limited Continuous
+
 Subdued 5 points 3 points
 Burning 15 points 6 points
 Manic 50 points 20 points
@@ -10545,7 +11103,8 @@ Such a connection can also create frustration and a feeling of powerlessness in 
 
 Example: Gabriel has the continuous drive "Protect Anya Malov (subdued)". In situations where he actually protects her from various misfortunes he receives a bonus (+1). In the same way he receives a penalty (–1) in situations where he experiences that he should protect Anya but cannot do so.
 
-**Find strength**
+### Find strength
+
 A dazed or mortally wounded person, or one suffering from low Well-being, can in a scene where a drive is close to being fulfilled use this motivation to accomplish dramatic feats. It means that the person finds new strength in desperation, rises above the pain and anxiety and continues to fight to reach the goal of the drive.
 
 The person can choose between rising and doing what he/she must do and for a short time focus on a single final task, or resignedly giving up under the injuries, bleeding, pain, exhaustion, poisoning, drug influence, hopelessness, despair or terror and just withdrawing, collapsing, admitting defeat and wasting away.
@@ -10566,12 +11125,14 @@ The narrator wonders what Tremaro has in mind and the plan is that while Davidov
 
 A weak hand grabs the telephone receiver and bloody fingers dial a phone number without being discovered by Davidov. Tremaro collapses, coughing, and the receiver falls silently onto the thick carpet. The editor-in-chief is met with a surprise when one of Sandukar's most notorious businessmen reveals both this and that, all while a stiffly smiling Tremaro is slowly received by death's cold darkness, with the knowledge that he got his nemesis in the end.
 
-**The drama in finding strength**
+### The drama in finding strength
+
 Find strength allows main characters (and also central narrator characters, if the narrator so wishes) to act even when the odds are against them. The mortally wounded policeman who has as a drive to protect a witness can pull himself together and shoot the murderer with his last strength. The psychologically broken mother who has seen her husband rape their daughter can get the opportunity to avenge the crime if this is her drive.
 
 Since the effect is activated when the person is already knocked out and dying (mortally wounded or dazed persons normally do not get to act) or if the person is broken for some reason (low Well-being), he/she has nothing to lose anyway when the situation arises. Instead it becomes a memorable and personal ending – regardless of whether it succeeds or fails.
 
-**Abuse around Find strength**
+### Abuse around Find strength
+
 The rules around Find strength are made to allow drama at special and fateful occasions. They are not made to be a lifeline away from danger and if the narrator notices a player trying to exploit the rules in this way, it's just to directly let the found strength disappear and let the person lie crawling, unable to act.
 
 The headlights from a passing car illuminated the alley where Anya Malov kept hidden. She pressed herself closer to the damp brick wall and kept her gaze fixed on Hotel Black Lantern, one of Hexagon's infamous opium dens.
@@ -10606,7 +11167,7 @@ The click when Anya cocked the hammer made him open his eyes and the hazy gaze t
 
 The goddess of fate may choose to smile or turn away from those she fleetingly rules over. Her will is that little extra that can make the scales tip over. That which makes the coin land on edge, that one manages to catch with fingertips on the roof gutter when falling from a roof or that one takes the stairs and it later turns out that the elevator was sabotaged.
 
-**Fate**
+### Fate
 
 In Noir, Fate plays a major role as the protagonists are in various ways chosen in the story. Not infrequently, Fate's whims play a decisive role in critical situations. Fate guides and influences more or less discreetly the protagonists and the story's significant narrator characters. Ordinary people in the world are rarely affected by her notions.
 
@@ -10614,13 +11175,13 @@ Fate can be seen as a kind of currency that players have available to actively i
 
 Fate should be seen as a tool for building drama and tension in the story in a way that has mechanical connections, to increase fairness and balance between narrator and players.
 
-**Use**
+### Use
 
 All situations where Fate is involved must be motivated in the story in some dramatic way. Additionally it must occur with reasonableness and within the story's framework. If these criteria are not met, the narrator can decide that Fate may not be used.
 
 Generally, Fate may never be used to directly counteract or circumvent an event or situation that is created with the help of Fate. This is described further on page 239.
 
-**The protagonists' fate**
+### The protagonists' fate
 
 Each protagonist can at most possess 25 points of Fate. More than that, events cannot be influenced. All protagonists start with 10 points of Fate when they are created, see page 87. A protagonist's Fate is personal and cannot be used to influence other protagonists'
 situations, unless this is explicitly mentioned — see Rescue on page 241.
@@ -10638,13 +11199,13 @@ The phenomena a protagonist can use Fate for are:
 • Knows a contact • Play the odds
 • Rescue • Survive
 
-**The narrator's fate pool**
+### The narrator's fate pool
 
 The narrator has access to a pool of Fate, called the Fate pool. All narrator-initiated Fate influence comes from the Fate pool. Narrator characters have no personal points of Fate but use the shared Fate pool's points.
 
 Common narrator characters often lack the ability to influence their Fate and therefore rarely expend points from the Fate pool.
 
-**The fate pool's size**
+### The fate pool's size
 
 At each story's start, the narrator has a Fate pool consisting of the same number of points as the protagonist who has the most in Fate, added with the number of protagonists.
 
@@ -10668,7 +11229,7 @@ The phenomena the narrator's Fate pool can be used for are
 
 * Special use, see "Force a contact on a protagonist" on page 241.
 
-**How the narrator can use Fate**
+### How the narrator can use Fate
 
 The narrator advantageously uses the Fate pool's points to guide a story in the desired direction, through divine interventions. Often it is an advantage to begin such situations with words like "Fate plays you a trick..." for then the players realize that the narrator has used their Fate pool to ensure that a situation that may seem a bit strange or contrived occurs, and this creates better understanding than when the narrator arbitrarily takes over a scene.
 
@@ -10682,7 +11243,7 @@ The narrator says to Jessca: "When you reach it you hear a crash and dust swirls
 The door, which opens inward, is blocked and can at most be opened a few centimeters. From inside comes sounds of furniture moving. You realize it will take time to push aside what's blocking the door.
 You feel how fate grins mockingly at the back of your neck."
 
-**What Fate does**
+### What Fate does
 
 It is possible to influence a variety of situations by playing Fate's game and hoping that she smiles upon you. Here various things that Fate can be used for are described, as well as the amount of Fate that is expended upon use.
 
@@ -10696,7 +11257,7 @@ Example: Jon Hargartian has an ailment — a bad heart. In a scene he chases his
 
 The whole thing is reasonable and dramatic — Jon has been running after his nemesis in the scene and now, when he has the chance to take him, fate laughs in his face...
 
-**Fate rewards**
+### Fate rewards
 
 If a protagonist behaves or acts in an exciting, dramatic or simply fitting way in a scene, the narrator can immediately reward them by improving their Fate by one point.
 
@@ -10904,7 +11465,8 @@ There are different categories of exhaustion, depending on source — freezing i
 Sex & pleasure
 Just like love, sex can also improve a person's Wellbeing. By feeding a drive that is fulfilled through intercourse or similar sexual activities, the person is given the opportunity to improve their Wellbeing. More about drives can be found on page 230.
 
-**Category Minor Serious Example**
+### Category Minor Serious Example
+
 Physically drained Worn Out Exhausted Marching, long-distance running, swimming, hard riding, mountain climbing, heavy physical labor
 (for example building houses or digging ditches), carrying/dragging heavy loads.
 Exposure to elements Troubled Beset Heavy rain, snow or sunshine, extreme humidity, cold or heat.
@@ -10951,7 +11513,8 @@ It may be important to note that the narrator must be subjective in the assessme
 "I have no problem with a reasonable amount of trouble."
 — Mordekai Remus
 
-**Category Minor Severe Example**
+### Category Minor Severe Example
+
 Psychological trauma Shocked Collapse Being violated, subjected to assault/violence/rape, tortured, humiliated, suffering abuse/
 degradation
 Shocking experience Shaken Terrified Violent shocking event, social shock experience, subjected to threats/harassment, being involved in combat/violence/death/mutilation, injuring/killing/murdering someone, seeing visions/apparitions, sudden awakenings from deep sleep/trance/hypnosis.
@@ -11235,7 +11798,8 @@ pushing aside people trying to block a doorway,
 tripping, sticking the stiletto into someone's side, smash-ing an enemy's skull with a flower vase, etc. Creative 
 action should be rewarded and encouraged.
 
-**Success in combat**
+### Success in combat
+
 In most cases when one person wants to attack another person, 
 both parties involved will make opposed rolls to 
 determine what happens. The general principle is that who-ever succeeds in rolling highest with their roll wins and succeeds in carry-ing out their chosen action, while the opponent fails.
@@ -11248,7 +11812,8 @@ is executed with the ability Close Combat.
 The term Defense Roll refers to an opposed roll where the attri-bute value from Defense (Ranged) or Defense (Close Combat) 
 is used.
 
-**Combat structure**
+### Combat structure
+
 To bring some order to the chaos that combat is, two 
 terms are used: round and combat action. A round is a time 
 period during which everyone involved in a combat gets the opportunity 
@@ -11264,7 +11829,8 @@ an initiative action intended to harm you, you
 get to perform a defense action in response to this. The de-fense action's purpose is to try to make the initiative 
 action fail.
 
-**Flow and precise fairness**
+### Flow and precise fairness
+
 **The rules presented here** 
 are intended to be fast and 
 action-packed and shouldn't require 
@@ -11279,7 +11845,8 @@ to start bickering about whether you
 were actually standing one or two meters 
 from the desired position.
 
-**Dramatic combat**
+### Dramatic combat
+
 **A player who creatively and** 
 dramatically aids the narrative 
 through vivid descriptions can 
@@ -11290,7 +11857,8 @@ with since otherwise players will expect
 it after routine 
 activities.
 
-**General bonuses and penalties in combat**
+### General bonuses and penalties in combat
+
 **Special circumstances provide penalties** 
 or bonuses in different combat situations. 
 It's up to the narrator to determine 
@@ -11302,7 +11870,8 @@ quite difficult while a heavy
 downpour in pitch darkness might actually 
 make it very difficult.
 
-**Initiative**
+### Initiative
+
 Initiative is the term that shows a person's ability to act in a controlled, conscious and decisive manner during 
 combat. Initiative determines each involved person's turn order.
 
@@ -11320,7 +11889,8 @@ over. Especially being forced to perform defense actions
 reduces one's own ability to control the combat. Injuries 
 can also lower a person's Initiative.
 
-**Initial Initiative**
+### Initial Initiative
+
 At the start of combat, each combatant's Initiative is determined. This 
 is done by all participants automatically making a difficulty 
 roll (Awareness) simultaneously, and reading the result below.
@@ -11348,12 +11918,14 @@ If several participants end up at the same value in
 Initiative, the one with the highest attribute value in Awareness acts, 
 followed by Alertness, Reactions and finally Luck.
 
-**Surprise**
+### Surprise
+
 If a person is judged to be surprised when combat starts, 
 for example during an ambush, they receive a penalty (–10) on the difficulty 
 roll (Awareness).
 
-**Low Initiative**
+### Low Initiative
+
 If a person's Initiative is five or lower when the person is to 
 perform a combat action, the person receives a penalty (–2) on 
 it. At Initiative one, the person suffers a penalty (–5) on 
@@ -11368,7 +11940,8 @@ If Initiative is... the person receives...
 1 –5
 Table 1:57
 
-**The Initiative board**
+### The Initiative board
+
 **The Initiative board is an administrative** 
 tool for keeping track of all 
 participants' Initiative. Get as 
@@ -11397,7 +11970,8 @@ people to detect potential
 ambushes and other situations that 
 might seem surprising.
 
-**Combat Actions**
+### Combat Actions
+
 Combat actions are what a person can perform during combat. There are two types of combat actions: initiative actions and defensive actions.
 
 What actions mean & what they include
@@ -11409,12 +11983,14 @@ The fact that you can "take over" other people this way without problems works b
 
 A combat action shouldn't be seen as a single individual maneuver but rather as an attitude toward what you want to accomplish and how. Many performed actions using firearms involve multiple rounds fired—this doesn't mean you go through how each individual bullet hits or misses but means the person has chosen to solve the task in a certain way, for example through lots of lead in the air.
 
-**Movement during combat**
+### Movement during combat
+
 Most actions automatically include movement up to the person's Combat Movement, measured in meters, even if this isn't written out. This movement doesn't allow any advanced movement maneuvers. For those, use the initiative action Move.
 
 A person may move around within their immediate area during their action to create atmosphere—for example, perhaps a person choosing to Fight runs around and around a conference table while chasing their target who's trying to escape (Defend). The total running distance becomes quite long, but the person doesn't move particularly far from their own starting point.
 
-**Procedure**
+### Procedure
+
 Each time a combat action is performed, it follows a certain procedure, described here step by step.
 
 1. The person with Initiative chooses an Initiative action.
@@ -11422,7 +11998,8 @@ Each time a combat action is performed, it follows a certain procedure, describe
 3. Initiative is modified based on the combat action's outcome and all other mechanics are noted immediately (such as ammunition expenditure or damage effects).
 4. The person who succeeded with the combat action describes in a few sentences for the other participants what happens in the scene, within what's reasonable for the combat action.
 
-**Initiative Actions**
+### Initiative Actions
+
 Initiative actions are the combat actions a person whose turn it is can choose to perform. A person may only perform one initiative action per round. The available initiative actions are summarized in table 1:58.
 
 Initiative Action | Summary | Initiative Change
@@ -11481,7 +12058,8 @@ Await target | See page 259 | +5 | - | - | −10
 
 Table 1:58
 
-**The Combat Action**
+### The Combat Action
+
 **All combat actions follow a given template:**
 
 (Its name) ((type of roll))
@@ -11498,12 +12076,14 @@ For example, the code:
 
 ...means that the person's Initiative increases by five (+5) if they succeed exceptionally with the combat action, remains unchanged if the person succeeds or fails, and that Initiative decreases by ten (−10) on an exceptional failure.
 
-**General about movement**
+### General about movement
+
 During combat, where there are people who want to harm you, you never stand still like a statue, unless there are special reasons. The people involved in combat all have some form of self-preservation instinct that makes them try to stay out of harm's way by instinctively protecting themselves, staying low, trying to use available cover, etcetera. But this is something the rules automatically assume.
 
 **The defensive action Defend includes many variants of ways to avoid harm, see page 260.**
 
-**Aimed Fire**
+### Aimed Fire
+
 The person wants to fire roughly aimed limited fire with a firearm at a selected target.
 
 Requirement: The person has a loaded and ready-to-fire firearm that can fire single shots.
@@ -11512,7 +12092,8 @@ Rule: An opposed roll (Firearms) is made. The target makes a defense roll. Strik
 
 Initiative: +5 | - | - | −10
 
-**Snap Shots**
+### Snap Shots
+
 The person wants to fire repeated single shots in rapid succession with a firearm at a selected target.
 
 Requirement: The person has a loaded and ready-to-fire firearm that can fire single shots. The weapon has at least two rounds in the magazine.
@@ -11521,7 +12102,8 @@ Rule: An opposed roll (Firearms) is made. The shooter receives a penalty equal t
 
 Initiative: +5 | - | - | −10
 
-**Targeted Fire**
+### Targeted Fire
+
 The person wants to take time and fire a carefully aimed shot with a firearm at a selected target.
 
 Requirement: The person has a loaded and ready-to-fire firearm that can fire single shots. The person has Initiative 10 or higher.
@@ -11530,7 +12112,8 @@ Rule: An opposed roll (Firearms) is made and the shooter receives a bonus equal 
 
 Initiative: +5 | −5 | −5 | −10
 
-**Marksmanship**
+### Marksmanship
+
 The person wants to fire a very well-aimed shot with a firearm equipped with a scope at a selected target.
 
 Requirement: The person has a loaded and ready-to-fire firearm that can fire single shots. The weapon has a scope that the person is using. The person has Initiative 10 or higher. The target is at least 20 meters away.
@@ -11539,7 +12122,8 @@ Rule: An opposed roll (Firearms) is made and the shooter receives a bonus equal 
 
 Initiative: +5 | −10 | −10 | −20
 
-**Fire with Two Weapons**
+### Fire with Two Weapons
+
 The person wants to fire multiple shots in rapid succession with two firearms simultaneously at a selected target.
 
 Requirement: The person has two loaded and ready-to-fire firearms that can fire single shots. The weapons have at least two rounds each in the magazines.
@@ -11548,7 +12132,8 @@ Rule: An opposed roll (Firearms) is made. The shooter receives a penalty equal t
 
 Initiative: +5 | −5 | −5 | −10
 
-**Concentrated Automatic Fire**
+### Concentrated Automatic Fire
+
 The person wants to fire a burst of automatic fire with a firearm at a selected target.
 
 Requirement: The person has a loaded and ready-to-fire firearm that can fire automatic fire. The weapon has at least two rounds in the magazine.
@@ -11557,7 +12142,8 @@ Rule: An opposed roll (Firearms) is made. The shooter receives a penalty equal t
 
 Initiative: +5 | - | - | −10
 
-**Spray with Automatic Fire**
+### Spray with Automatic Fire
+
 The person wants to fire a long burst of automatic fire with a firearm over an area, hoping to hit multiple targets.
 
 Requirement: The person has a loaded and ready-to-fire firearm that can fire automatic fire. The weapon has at least four rounds in the magazine.
@@ -11566,15 +12152,17 @@ Rule: An opposed roll (Firearms) is made. The shooter receives a penalty equal t
 
 Initiative: +5 | −5 | −5 | −10
 
-**Automatic Fire with Two Weapons**
+### Automatic Fire with Two Weapons
+
 The person wants to fire automatic fire with two firearms simultaneously at a selected target.
 
 Requirement: The person has two loaded and ready-to-fire firearms that can fire automatic fire. The weapons have at least four rounds each in the magazines.
 
-**Ammunition Expenditure**
+### Ammunition Expenditure
+
 **Note that regardless of a combat action's outcome regarding firearms, the indicated amount of rounds is always consumed from the weapon's magazine.**
 
-**It may seem like a lot of rounds are consumed during a firefight. That's correctly perceived, and entirely intentional. Most actions with firearms involve a greater or lesser amount of discharges. They're not intended to symbolize a systematic firing ("bang-bang-bang-bang-bang") but rather a stressed firing ("bangbangbang-bang-bangbang-bang-bang") because the actions themselves are so open to interpretation. For example, perhaps the combat action Snap Shots consumes nine shots in one action—this just means the situation for the shooter that round has involved multiple opportunities to fire. Most of the shots have probably missed the target. An automatic burst of perhaps 15 rounds can mean a longer burst in sequence or several shorter bursts—the shooter, scene, and situation determine this.**
+### It may seem like a lot of rounds are consumed during a firefight. That's correctly perceived, and entirely intentional. Most actions with firearms involve a greater or lesser amount of discharges. They're not intended to symbolize a systematic firing ("bang-bang-bang-bang-bang") but rather a stressed firing ("bangbangbang-bang-bangbang-bang-bang") because the actions themselves are so open to interpretation. For example, perhaps the combat action Snap Shots consumes nine shots in one action—this just means the situation for the shooter that round has involved multiple opportunities to fire. Most of the shots have probably missed the target. An automatic burst of perhaps 15 rounds can mean a longer burst in sequence or several shorter bursts—the shooter, scene, and situation determine this.
 
 **This is where the beauty of the open actions comes in—they're created to generate drama and action in a way that suits the story and scene. Both players and narrator are encouraged to take the opportunity to paint intense combat situations.**
 
@@ -11606,7 +12194,8 @@ Rule: The attacker must choose whether they want to damage the target (the defau
 Once the choice is made, an opposed roll (Close Combat) is made. The target makes a defense roll. If the attacker wins, they have succeeded in carrying out the chosen attack. If the intent was to damage the target, roll damage.
 Initiative: +5 | - | - | −10
 
-**Disarming**
+### Disarming
+
 One variant is to attempt to disarm an opponent, that is, attempt to strike or wrench away, or twist loose, an object that the target has in their hands. If the attacker wants to attempt to disarm, they receive a penalty (−10) on their opposed roll.
 The effect of a successful disarming is that the object is counted as unavailable to the opponent during the current and following round. This should be portrayed in the narrative in a creative way, for example by the attacker kicking away the revolver and the opponent not seeing where it lies, or not being able to reach it because the attacker is blocking it. The attacker may, however, pick up the object if desired and if the narrative supports it.
 Should the disarming occur in such a place that the object disappears from the immediate vicinity, for example during a wild brawl on a narrow bridge or on a rushing train roof, the narrator may judge that the object cannot be picked up until a proper search is conducted.
@@ -11624,7 +12213,8 @@ Other types of holds are partly the so-called police grip, with one arm behind t
 Breaking free from a grip is a Fight action, where both the initiative holder and the opponent may choose between using Close Combat or Strength in the opposed roll. A
 successful roll for the held person means the grip is broken, otherwise they are still held.
 
-**Move**
+### Move
+
 The person wants to move in some way that requires a greater effort. The action can be used to flee from someone or to get to cover or to an object a good distance away. It is the narrator who determines whether the person must use this action or if the purpose can be achieved as a sub-element in another action.
 Requirement: The person can move. A person can at most move the equivalent of their double Combat Movement meters per round.
 Rule: A difficulty roll (Combat Movement) is made. For more difficult or easier maneuvers, the narrator may give bonuses or penalties on the roll, see table 1:59. If the difficulty roll fails, the person does not succeed in achieving the goal of the action — perhaps because the person is frozen in fear, the situation feels too risky, the person is too injured to succeed with the maneuver, or it may simply be too difficult to perform the maneuver. Regardless of reason, the person is in the same place and in the same situation as before the roll was made, or something else has occurred during the action, the narrator decides.
@@ -11671,12 +12261,14 @@ Fight or Berserk Attack action may not be used, but then Move should instead be 
 "What are you after Anya? My life story? Okay, here it comes. Four words: grand ideas, small results."
 — Gabriel Jandaran
 
-**Draw improvised weapons**
+### Draw improvised weapons
+
 The initiative action Draw weapon is only used for drawing weapons carried on your person. No Draw weapon action is required to use improvised weapons in melee or to throw one—if the narrator judges that the chosen improvised weapon is available and can be used, you just use it. See page 105 for more information on improvised weapons.
 
 The same applies to firearms in the vicinity that are not holstered but are, for example, lying on a nightstand or on a shelf. They are drawn automatically unless the narrator judges otherwise.
 
-**Survey the situation**
+### Survey the situation
+
 The person attempts to regain Initiative and get control of, and an overview of, the situation so that he/she can act on his/her own terms.
 
 Requirement: This is the only initiative action this round.
@@ -11690,7 +12282,8 @@ Successful: +(Sum from all dice)
 Failed: +(Value of the highest die)
 Exceptionally failed: +1
 
-**Wait**
+### Wait
+
 The person chooses not to perform any initiative actions this round.
 
 Requirement: The person is conscious.
@@ -11699,7 +12292,8 @@ Rule: The person chooses not to perform any initiative action during the round. 
 
 Initiative: - | - | - | -
 
-**Other action**
+### Other action
+
 The person wants to perform some form of activity during combat that has nothing to do with combat or direct dice rolls, for example using an ability like Medicine.
 
 Requirement: The person can perform the action. The narrator must judge on a case-by-case basis.
@@ -11708,7 +12302,8 @@ Rule: As soon as a person chooses this initiative action, the person's Initiativ
 
 Initiative: =1 | =1 | =1 | =1
 
-**Wait for target**
+### Wait for target
+
 The person wants to wait for a specific target to appear at a specific location and react to this.
 
 Requirement: The person has overview of the target area.
@@ -11739,14 +12334,16 @@ Bonus/penalty for the target being waited for Condition
 
 Table 1:60
 
-**Increased damage effect**
+### Increased damage effect
+
 Certain initiative actions cause an attack's damage effect to increase.
 Usually this happens according to "The weapon's damage effect increases by 1D
 per 2D in the weapon's damage value
 (minimum +1D)."
 Table 1:61 summarizes this.
 
-**Increased**
+### Increased
+
 **Damage Value Damage Value**
 1D 2D
 2D 3D
@@ -11758,10 +12355,12 @@ etc. etc.
 
 Table 1:61
 
-**Combat example**
+### Combat example
+
 Examples of how combat actions are used begin on page 272.
 
-**Shoot back**
+### Shoot back
+
 The person wants to meet an attack by rather uncontrollably shooting return fire in desperate hope of hitting first.
 
 Requirement: The person is being shot at or subjected to a thrown weapon attack, and is aware of the attack and sees the attacker. The person has a loaded and ready-to-fire firearm ready. The weapon has at least two rounds in the magazine. The person has Initiative 10 or higher.
@@ -11772,7 +12371,8 @@ Roll for the weapon's damage effect.
 
 Initiative: +5 | −10 | −10 | −20
 
-**Strike back**
+### Strike back
+
 The person wants to perform desperate counterattacks in hope of successfully outmaneuvering and damaging the opponent, despite their disadvantage in the situation.
 
 Requirement: The person is attacked in melee (or shot at from close range) and is aware of the attack. The person has
@@ -11783,26 +12383,30 @@ Rule: An opposed roll (Melee) is made, with a penalty
 
 Initiative: +5 | −10 | −10 | −20
 
-**Being in cover**
+### Being in cover
+
 If a target is in cover, this grants him/her a bonus to Defend yourself and Chance defense when he/she is subjected to a ranged attack.
 
 There are several levels of cover, and these symbolize both concealing cover or cover that creates difficult circumstances for being hit. Choose the level of cover that feels appropriate for a given situation.
 
-**Bonus Degree of cover**
+### Bonus Degree of cover
+
 +1 Barely protected. The target stands behind a telephone pole, hides behind an armchair, sits in a bush, etcetera. The target is considered covered by the protection to approximately 25 percent.
 +2 Lightly protected. The target shoots around a corner, stands behind an overturned dining table, lies over a hood, peers out from behind a substantial tree, etcetera. The target is considered covered by the protection to approximately 50 percent.
 +5 Substantially protected. The target is visible but is in cover of sandbags, ducks behind a car, stands in cover of a door, kneels behind an overturned table, etcetera. The target is considered covered by the protection to approximately 75 percent.
 +10 Maximally protected. The target is barely visible and lies cowering in a foxhole, ducks behind a stone wall, peeks out from behind a wall, etcetera. The target is considered covered by the protection to at least
 90 percent.
 
-**Defense actions**
+### Defense actions
+
 Defense actions are what attacked persons get to perform as a reaction or response to the attack. The standard defense action is Defend yourself unless otherwise stated. What a successful or failed defense looks like in the narrative is determined by the protagonist's player and/or the narrator.
 
 Most defense actions lower the person's Initiative. Note that if Initiative reaches low values, the person's actions suffer penalties, see page 254.
 
 The available defense actions are summarized in table 1:62.
 
-**Defense action Initiative Comment**
+### Defense action Initiative Comment
+
 Defend yourself +5 | −5 | −5 | −10 Defense: Ranged or
 Defense: Melee.
 **Opposed roll**
@@ -11817,7 +12421,8 @@ Minimum Initiative: 10.
 
 Table 1:62
 
-**Defend yourself**
+### Defend yourself
+
 The person wants to defend themselves against attacks in various ways, with different methods and all available means depending on the attack's nature and the circumstances surrounding it. This includes everything from staying in cover, blocking, parrying and avoiding to rolling away, throwing themselves to the ground, moving behind cover, or ducking away from attacks.
 
 Defend yourself is the standard defense action, used when nothing else is said when a person is attacked.
@@ -11829,7 +12434,8 @@ Melee) is made, based on the attack's type. If the defender wins, the attack has
 
 Initiative: +5 | −5 | −5 | −10
 
-**Chance defense**
+### Chance defense
+
 The person instinctively performs a passive defense, if he/she is, for example, unaware of or surprised by the attack, or chooses not to actively defend. The person walks straight toward the attacker, doesn't bother to block, or is nonchalant in general. This usually means the person is hit, unless providence favors him/her very well.
 
 Requirement: The person is attacked and is surprised or overwhelmed by the attack, or the person voluntarily chooses not to actively defend themselves.
@@ -11858,7 +12464,8 @@ Gladly let tough, bold and spectacular events occur, let there be tension in the
 Physical Injuries & Death
 It's more or less inevitable that a person suffers violence in Sandukar's dark alleys and abandoned basement spaces. The injuries caused vary from minor scrapes, scratches and bruises, to serious physical injuries that in the worst case are fatal but give the soul a peace that cannot be found in the world of the living.
 
-**Physical Injuries**
+### Physical Injuries
+
 When a person is injured in Noir, they become either lightly or seriously injured.
 
 Light injuries result in the victim receiving Disorientation but are not life-threatening and one recovers from them fairly quickly. However, Disorientation is debilitating and can cause the person to become temporarily knocked out or unconscious.
@@ -11882,19 +12489,22 @@ Table 1:63
 
 Note that the number of Wounds does not in any way show how many individual injuries a person has suffered. A single instance of damage can result in the victim receiving loads of Wounds. Rather, see the number of Wounds as an indicator of how seriously injured the victim is.
 
-**Subduing Damage**
+### Subduing Damage
+
 There are certain attacks or situations that inflict so-called subduing damage. The difference between subduing and regular, lethal, damage is that the former has a harder time inflicting Wounds on the victim — the victim temporarily doubles their value in Wound Threshold at the moment of injury.
 
 What causes subduing damage is primarily brawls, blunt force, shockwaves, attacks with weapons lacking a cutting edge or penetrating point, as well as fall and collision damage.
 
 Weapons or attacks that deal subduing damage are marked by a "B" in front of the damage value, for example "B1D+1".
 
-**Total Penalty**
+### Total Penalty
+
 Injuries have negative effects on a person's ability to effectively perform actions in and out of combat.
 
 Every ten steps of Disorientation gives a penalty (−1) on all actions. Each inflicted Wound immediately lowers the victim's Initiative by five (−5) and gives a penalty (−2) on all actions. The sum of these penalties is recorded on the character sheet in the section marked Total Penalty. How Disorientation and Wounds affect is summarized in table 1:64.
 
-**Physical Injury Effect**
+### Physical Injury Effect
+
 Disorientation Every ten steps of Disorientation gives a penalty (−1) on all activities.
 Wound Each inflicted Wound immediately lowers the victim's Initiative by five (−5) and gives a penalty (−2) on all activities.
 Table 1:64
@@ -11907,14 +12517,16 @@ Successful: The victim can continue to act, despite their injuries.
 Failed: The victim is disoriented and may attempt to recover in their turn each round. Initiative is set to one (1).
 Exceptionally failed: The victim is unconscious for as many minutes as the total amount of Disorientation they have.
 
-**Disoriented**
+### Disoriented
+
 If the victim becomes disoriented, this means in the scene that the victim is temporarily knocked out, stunned, or severely confused.
 
 While the victim is disoriented, they may not perform any actions whatsoever, not even scream or attempt to call attention.
 
 A disoriented person automatically receives Initiative one (1) and is counted as defenseless, see page 271. A disoriented person who receives additional Disorientation automatically becomes unconscious.
 
-**Recover**
+### Recover
+
 A disoriented person may make a difficulty roll (Endurance) on their turn each round to recover. Penalties come only from any Disorientation.
 
 Exceptionally successful: The victim recovers and immediately gets to raise their Initiative as many steps as the value from all dice. In the next round they may act as normal.
@@ -11922,7 +12534,8 @@ Successful: The victim recovers. In the next round they may act as normal.
 Failed: The victim is still disoriented and may attempt to recover again next round.
 Exceptionally failed: The victim becomes unconscious for as many minutes as the total amount of Disorientation they have.
 
-**Unconscious**
+### Unconscious
+
 An unconscious victim may not perform any actions whatsoever. The victim wakes on their own after as many minutes as the value in Disorientation was at the moment unconsciousness took effect.
 
 An unconscious person is always counted as defenseless, see page 271.
@@ -11930,7 +12543,8 @@ An unconscious person is always counted as defenseless, see page 271.
 Wake the Unconscious
 A medically trained person can attempt to wake an unconscious person. If the medically trained person succeeds at a difficulty roll (Medicine), the unconscious person is instead counted as disoriented. Each such attempt takes one round. Appropriate methods include slaps, cold water or chemical smelling salts.
 
-**Summary of Being Injured**
+### Summary of Being Injured
+
 1. Determine damage from the attack (from weapon, attack type or event) by rolling the dice indicated at the weapon's damage value. Let the dice remain visible on the table.
 2. Increase the victim's amount of **Disorientation by as much as** the damage dice show.
 3. If damage is higher than the victim's Wound Threshold, the victim receives one Wound. If damage is higher than the victim's double Wound Threshold, the victim receives as many wounds as the lowest die in the damage roll shows. If damage is higher than the victim's quadruple Wound Threshold, the victim receives as many wounds as the highest die in the damage roll shows.
@@ -11990,7 +12604,8 @@ The crosses are used when stabilizing Wounds, to note which Wounds have been ten
 Initiative is lowered by five steps for each Wound they've received. In the example, the person's Initiative has been lowered by 15 steps.
 The sum of the penalties from these two columns is the person's Total penalty and shows how much the injuries impair their continued actions. In the example, the Total penalty is (–8)
 
-**Recovery**
+### Recovery
+
 A person's bodily injuries heal with time. Confusion decreases gradually while Wounds take longer to heal.
 **Reduction of Confusion**
 Confusion automatically decreases by the person's attri-bute value in Endurance per hour in the story.
@@ -12024,7 +12639,8 @@ For those who want some form of connection to reality, the bodily injuries can b
 Light injuries include flesh wounds, scratches, small wounds, scrapes, abrasions, bruises, bumps, sprains, light bleeding, swelling, but are also pain, confusion, agony, stress, and disorientation.
 Serious injuries encompass everything from deep wound channels from bullets, severe cuts, extensive crush injuries, internal injuries, organ damage, broken bones, torn muscles, damaged tendons/joints to severe external and internal bleeding.
 
-**Other ways to be injured**
+### Other ways to be injured
+
 There are other situations that can arise during a story where injuries result, which are described here.
 **Strangulation**
 Strangulation occurs when a person with their hands or with an implement prevents oxygen supply to the brain of their victim, or damages the throat so severely that continued breathing becomes impossible. The damage value is based on the strangulation method; see table 1:66. Once the victim is knocked out due to high Confu-sion, it's easy to execute them through continued strangulation for another round (see "Defenseless victims" and
@@ -12064,14 +12680,16 @@ The door opened and he looked into the gray-clad guard's gun muzzle. He could ba
 The doctor smacked and licked his lips; he studied the red heart, the kidneys and liver; some of the more mangled intestines he poked aside. The man watched with disgust as the doctor bent down, put his nose right next to the organs and breathed in the smell. Then he turned around and wiped the blood from his fingers. He smiled and walked up to a metal cabinet from which he took a handful of zovrins and placed them in the man's hand. After that, the guard showed him the door, and the man ran out into the night toward the nearest dealer who could give him what he needed to feel good and to get rid of his guilt.
 The fix, the wonderful high that would remove the image of the girl's butchered body on the basement floor, the rats that had started eating her while he was still working. What won't one do to survive, he thought as he slowly died inside.
 
-**Where attacks hit**
+### Where attacks hit
+
 It doesn't matter where an attack hits an enemy. The player may improvise this based on damage dealt and effect. High damage and/or many
 Wounds can symbolize very serious hits to the chest or head, while minor damage can be scratches across the forehead, shot-off earlobes, or flesh wounds in arms or legs, but the opposite hit location relationships can also apply.
 A minor wound can hit the head or torso while damage from high damage can hit vital parts in a leg, for example the kneecap or femoral artery. It is up to the attacker to, within the bounds of reason, describe the sequence and thereby also the hit location.
 The important thing to remember however is that mechanically there are only two types of damage that count
 — Stunning and Wounds. Other descriptions of wounds should be seen as flavor to build atmosphere in the scene.
 
-**Falls & collisions**
+### Falls & collisions
+
 Falls from great heights and being hit at high speed cause similar massive crush injuries to the body. Generally, the victim suffers damage equal to B2T per five meters of fall height or per 20 km/h in speed. This is summarized in table 1:68.
 The victim must make a difficulty roll (Mobility) during the col-lision or fall to see if they manage to parry or mitigate the accident somehow.
 Exceptionally successful: Damage is reduced by B2T.
@@ -12082,7 +12700,8 @@ If the impact point is considered hard or angular (for example landing on a marb
 B1T to the damage. Similarly, subtract B1T from the damage if the impact point is considered soft (such as landing in water or a pile of hay). If the impact point is judged to be very sharp (such as landing on a fence with spikes along the top or in a container full of large glass shards), the narrator can treat the damage as lethal rather than stunning (see page 263).
 Should the damage ever drop to zero dice, it means the victim completely avoids damage from the fall or collision.
 
-**Fall height Collision speed Damage**
+### Fall height Collision speed Damage
+
 0-5 m 1-20 km/h B2T
 5-10 m 20-40 km/h B4T
 10-15 m 40-60 km/h B6T
@@ -12097,19 +12716,23 @@ per 5 m per 20 km/h +B2T
 
 Table 1:68
 
-**Rolling**
+### Rolling
+
 If you roll at high speed, for example if you've jumped from a train or vehicle at high speed, damage is read from the collision speed. However, the damage halves each round, starting already from the first round. Halving is rounded down as usual. When the damage reaches B1T, no further damage is dealt the following round and the rolling is considered to have stopped.
 
-**Oxygen deprivation**
+### Oxygen deprivation
+
 A person can suffer oxygen deprivation, most often from drowning or suffocation (for example during hanging or if a pillow is placed over the face). Note that properly executed strangulation is covered on page 266 and does not fall under these rules.
 A person who is prepared for drowning/suffocation can hold their breath for Endurance number of rounds. If the person is unprepared or distracted or subjected to violence, the time is halved.
 When the time has passed, the person suffers B5T in damage per round until the oxygen deprivation is lifted. If the victim becomes defenseless, each subsequent round counts as an automatic successful execution (see page 271).
 
-**Fire/acid**
+### Fire/acid
+
 If a person is exposed to fire or acid, the person suffers damage depending on the intensity of the fire or acid and its damage value.
 A narrator may judge that a burn or acid-damaged person has their appearance value lowered due to the injuries that occur. However, this should be fairly rare unless the situation specifically indicates otherwise.
 
-**Ignition & extinguishing**
+### Ignition & extinguishing
+
 A person exposed to an open flame can catch fire.
 This occurs when the fire makes a difficulty roll, with the intensity's Ignition as a bonus and the victim's Luck as a penalty. One difficulty roll per round of exposure is made. An ignited person doesn't become more ignited unless the fire's intensity increases. Table 1:69 summarizes this.
 If the fire catches hold, the person burns and suffers damage until the fire is extinguished. This damage is always dealt last each round.
@@ -12124,7 +12747,8 @@ High 3T-2 +10 Conflagration, flamethrower flame, welding torch, acid bath
 
 Table 1:69 * Per round of exposure. ** Applies only to fire.
 
-**Electricity**
+### Electricity
+
 A person who comes into contact with electric current risks injury. Damage is dealt each round, see table 1:70. An electrical injury that causes a Wound means the person is stuck to the power source and must pass a difficulty roll (Strength) to break free and not suffer the damage again the following round.
 
 **Source Damage***
@@ -12142,17 +12766,21 @@ Table 1:70 * Per round of contact.
 Then I strangled him because I don't deserve to be loved."
 —T.
 
-**Drugs, poisoning**
+### Drugs, poisoning
+
 **& defenseless victims**
 To cope with many of life's hardships, citizens visit bars and taverns in their quest for alcohol to numb themselves. Others make their way to the safe haze of opium dens. A third uses substances for crimes and assassinations. Drugs are everywhere beneath Sandukar's surface.
 
-**Use of drugs**
+### Use of drugs
+
 It's not unlikely that the protagonists will come into contact with various forms of drugs and poisons during the course of the story. Here follow general rules and guidelines for this.
 
-**Dependency & withdrawal**
+### Dependency & withdrawal
+
 If a person is dependent on a drug, they need a steady intake of the drug to avoid suffering withdrawal. Withdrawal creates a craving for the drug and makes the person unfocused, irritable, and generally in a bad mood. Physical and motor activity is also negatively affected.
 
-**Dependency**
+### Dependency
+
 A dependency on a drug causes the body's tolerance to increase so the drug has a harder time taking effect. This means the person gets a bonus on rolls (Tolerance)
 for that specific drug. A person can be dependent on several drugs simultaneously.
 Table 1:71 shows what effect the different drugs have when the person is dependent.
@@ -12162,7 +12790,8 @@ Tolerance indicates the bonus added to rolls
 (Tolerance) when the drug is used — with a dependency, it becomes harder to achieve the drug's effect.
 Withdrawal shows how long it takes before withdrawal sets in, and how severe the withdrawal is.
 
-**Drug Challenge level Tolerance Withdrawal**
+### Drug Challenge level Tolerance Withdrawal
+
 Alcohol 150 +5 8 hours (Mild)
 Depressants 200 +10 12 hours (Severe)
 Hallucinogens 200 +10 12 hours (Severe)
@@ -12171,21 +12800,25 @@ Stimulants 200 +10 12 hours (Severe)
 
 Table 1:71
 
-**Withdrawal**
+### Withdrawal
+
 Withdrawal is the collective term for the effects that afflict a person when their body and/or psyche craves a drug but doesn't get it. There are two levels of withdrawal: mild and severe.
 Mild withdrawal means the person suffers a general penalty (−2) on all actions, including difficulty rolls
 (Determination) to break dependencies.
 Severe withdrawal means the person suffers a general penalty (−5) on all actions, including difficulty rolls
 (Determination) to break dependencies.
 
-**Overdose**
+### Overdose
+
 An overdose is considered lethal poisoning and affects the victim immediately. A person who has received the intended effect (that is, who didn't roll exceptionally successfully)
 from taking stimulants, depressants, or hallucinogenic drugs, and who takes another dose during the duration automatically suffers an overdose.
 
-**Drugs & poisons**
+### Drugs & poisons
+
 All forms of foreign substances that in various ways affect a person fall under this heading. They are described here in general terms to be quickly usable in the story, and the narrator is encouraged to fill in details about the course of events, drug names, and visual effects.
 
-**Alcohol**
+### Alcohol
+
 Alcohol affects a person's judgment, mental barriers, body precision, and perception. The amount of alcohol in one dose is approximately one strong beer, a glass of wine, or one drink.
 Make a difficulty roll (Tolerance) per dose the person consumes.
 Exceptionally successful: The person doesn't feel the alcohol.
@@ -12198,12 +12831,14 @@ Make a difficulty roll
 (Endurance).
 If the person fails exceptionally twice within a day, they become dependent on alcohol. If the person has ever been dependent on alcohol and drinks again after breaking the dependency, one exceptional failure is enough for them to become dependent again. If the person becomes dependent, their Maximum Well-being decreases one level (−1).
 
-**Detecting hidden poisoning**
+### Detecting hidden poisoning
+
 A person who is poisoned in a hidden way, for example through food, may make a difficulty roll
 (Awareness), with a bonus equal to the number of doses the poison consists of. Some poisons can be made virtually undetectable, but they are rare and expensive.
 The narrator decides whether a potential poisoning victim can also notice the poison through a successful difficulty roll (Intuition).
 
-**Sedative poison**
+### Sedative poison
+
 The term sedative poison includes everything from chloroform, sleeping pills and knockout drops to sedative gases and tear gas, as well as paralyzing poisons.
 When a person is poisoned, they must make as many difficulty rolls (Tolerance) as the number of doses of poison they were exposed to. Different poisons take different amounts of time to work; a few seconds, minutes, or perhaps even hours — sleeping pills usually take effect in about half an hour. The difficulty rolls for a multi-dose poisoning can advantageously be made at intervals within the time it takes for the poison to work.
 Make a difficulty roll (Tolerance) per dose.
@@ -12212,7 +12847,8 @@ Successful: The person increases Stunning by as much as the value on the highest
 Failed: The person increases Stunning by as much as the value on the lowest die × 10, and must make a difficulty roll (Endurance) immediately.
 Exceptionally failed: The person increases Stunning by as much as the value on all dice × 10, and must make a difficulty roll (Endurance) immediately.
 
-**Depressants**
+### Depressants
+
 Illegal narcotics. Can be administered in countless different ways, for example smoked, chewed, or injected. Sometimes called downers. Makes the person calm, relaxed, and dopey.
 Make a difficulty roll (Tolerance) per dose taken.
 Exceptionally successful: The person doesn't feel the drug.
@@ -12237,7 +12873,8 @@ Successful: The person receives a penalty (−2) on checks (Resist) when they tr
 Failed: The person receives a penalty (−5) on checks (Resist) when they try to lie or avoid questions. The victim's Daze increases by an amount equal to the value of the highest die.
 Exceptionally failed: The person receives a penalty (−10) on checks (Resist) when they try to lie or avoid questions. The victim's Daze increases by an amount equal to the value of all dice.
 
-**Painkillers**
+### Painkillers
+
 Painkillers come in tablet or pill form, or as injections. They are usually bought at small pharmacies. Painkillers are used to suppress pain and numb aches — everything from headaches, toothaches, or fleshy gunshot wounds. A normal container of tablets holds about twelve doses.
 
 Each dose of painkillers numbs a specific amount of pain, allowing the victim to ignore a certain portion of the Total Penalty (see page 263) that Daze and Wounds impose on dice rolls.
@@ -12248,7 +12885,8 @@ Successful: For four hours, the person ignores 1 point from Total Penalty.
 Failed: For four hours, the person ignores 2 points from Total Penalty.
 Exceptionally failed: For four hours, the person ignores 3 points from Total Penalty. The person becomes addicted to the drug. The person's Maximum Wellbeing deteriorates one level (−1).
 
-**Stimulants**
+### Stimulants
+
 Illegal narcotics. Can be administered in countless ways, for example smoked, snorted, or injected. Sometimes called upperjack. Makes the person hyperactive, energized, aggressive, and fearless.
 
 Roll a difficulty check (Tolerance) per dose taken.
@@ -12257,7 +12895,8 @@ Successful: The person receives a bonus (+2) on checks involving Persuade, Endur
 Failed: The person receives a bonus (+2) on checks involving Persuade, Endurance, Resist, Willpower, Stamina, and Overview. The person receives a penalty (−5) on checks involving Sanity, Impression, Deduction, Vehicles, Firearms, and Awareness. The effect lasts for four hours.
 Exceptionally failed: The person receives a bonus (+2) on checks involving Persuade, Endurance, Resist, Willpower, Stamina, and Overview. The person receives a penalty (−5) on checks involving Sanity, Impression, Deduction, Vehicles, Firearms, and Awareness. The effect lasts for four hours. The person becomes addicted to the drug. The person's Maximum Wellbeing deteriorates one level (−1).
 
-**Lethal Poison**
+### Lethal Poison
+
 There are countless lethal toxins, both natural and chemically produced. Various animal venoms from snakes or spiders are popular. Generally, they tend to shut down the victim's nervous system, paralyze respiratory organs, or destroy internal organs. The forms of poisons vary — from pills or powder to liquid or gas. Poison gas in particular is common on the battlefield.
 
 When a person is poisoned, they must roll as many difficulty checks (Tolerance) as the number of poison doses they have been exposed to. The most common is for the poison to take effect within a few minutes, although there are poisons that take considerably longer before they activate. The difficulty checks for a multi-dose poisoning can advantageously be rolled at regular intervals within the time it takes for the poison to take effect, rather than in a clump.
@@ -12268,7 +12907,8 @@ Successful: The victim receives one Wound and must immediately roll a difficulty
 Failed: The victim receives as many Wounds as the value of the lowest die, and must immediately roll a difficulty check (Willpower).
 Exceptionally failed: The victim receives as many Wounds as the value of all dice, and must immediately roll a difficulty check (Willpower).
 
-**Hallucinogens**
+### Hallucinogens
+
 Illegal narcotics. Can be administered in countless ways, for example smoked, chewed, snorted, or rubbed against skin. Gives the person hallucinations, heightened impressions of their surroundings, and skewed perception of reality.
 
 Roll a difficulty check (Tolerance) per dose taken.
@@ -12277,10 +12917,12 @@ Successful: The person receives a bonus (+2) on checks involving Create, Deducti
 Failed: The person receives a bonus (+2) on checks involving Create, Deduction, Intuition, Awareness, and Resist. The person receives a penalty (−5) on checks involving Impression, Melee, Firearms, Thrown Weapons, and Vehicles. The effect lasts for four hours.
 Exceptionally failed: The person receives a bonus (+2) on checks involving Create, Deduction, Intuition, Awareness, and Resist. The person receives a penalty (−5) on checks involving Impression, Melee, Firearms, Thrown Weapons, and Vehicles. The effect lasts for four hours. The person becomes addicted to the drug. The person's Maximum Wellbeing deteriorates one level (−1).
 
-**Truth Serum**
+### Truth Serum
+
 Truth serum is a liquid usually administered with the help of a syringe. The effect lasts a short time, usually about ten minutes. An increased dose at one and the same time doesn't affect further, but rather multiple doses increase the time the person is affected. Each dose can be fought with the help of Tolerance.
 
-**Defenseless Victims**
+### Defenseless Victims
+
 A person considered defenseless is very vulnerable. To be considered defenseless requires that the person is unaware that danger is imminent, such as during an unexpected ambush, a sniper attack with a rifle from long range, or a punch in the face they're not at all prepared for. It can also involve situations where the person is unable to protect themselves, for example they might be tied up, pinned down, sleeping, unconscious, or subjected to gunpoint.
 
 People who are dazed due to failed checks (Stamina) are also considered defenseless, see page 263, as are mortally wounded persons.
@@ -12289,7 +12931,8 @@ A person who reasonably is prepared that an attack might come, for example if gu
 
 There are two actions an attacker can perform against a defenseless victim — Knock Out and Execute.
 
-**Knock Out**
+### Knock Out
+
 A person can attempt to knock out a defenseless person so they become unconscious or incapacitated. This requires a difficulty check (Melee), (Agility), or (Strength) for this — the situation determines which skill fits best. If the attempt is performed with some form of implement (for example a pistol butt, blackjack, wooden club, etc.) a bonus (+5) is given to the roll. Note that only the outcome from this roll inflicts damage on the target — the damage value is ignored.
 
 Exceptionally successful: The victim's Daze increases by ten times the sum from all dice (all dice x 10) and they automatically become unconscious for as many minutes as the total amount of Daze they have.
@@ -12301,7 +12944,8 @@ Example: Anya has gotten hold of a snitch who knows about Rulov's illegal trade 
 
 The narrator judges that since the attack was unexpected and comes from behind, the snitch doesn't get to attempt to defend himself at all but counts as defenseless. The difficulty check (Strength) (which was the skill that felt most reasonable in the situation) succeeds and the dice show 5 and 10. Another die is rolled since the 10 was maxed — it shows 6, sum 5 + 10 + 6 = 21 x 10 = 210. The snitch receives 210 in Daze and rolls his check (Stamina), with a penalty (−21). The roll fails. The snitch collapses dazed onto the rain-wet asphalt.
 
-**Execute**
+### Execute
+
 The narrator must determine whether a person has the capacity to execute another, based on personality and circumstances, as an execution is an exceptionally cold-blooded and mentally taxing act. Additionally, requirements for some form of suitable implement may exist, although a skilled brawler can execute a defenseless person with their bare hands, through for example strangulation, suffocation, neck-breaking, or simply massive violence.
 
 For a sniper assassination, the right kind of weapon for the purpose is required, and the shooter must succeed in hitting despite the distance (the victim then gets to benefit from a chance defense, see page 260).
@@ -12322,7 +12966,8 @@ The choice is simple — Mordekai shoots Darvo in the forehead with his own matt
 "If you're damn lucky you'll have a stroke before I'm done with you."
 — Sergy Rulov
 
-**Defenseless Victims in Combat**
+### Defenseless Victims in Combat
+
 **Situations where a defenseless victim** ends up in regular combat can very well arise, for example if a person presses a revolver muzzle against the victim's temple or holds a stiletto against their throat. If the defenseless person wants to start a fight and thus try to take control of the situation, difficulty checks (Overview) are rolled just as in normal cases when a fight starts. However, the defenseless victim receives a penalty (−5) on their roll since they find themselves at a disadvantage.
 
 **The defenseless person counts as** defenseless until they have chosen their first Initiative action. This means that if they get a lower initiative than their opponent, the opponent can still choose to execute or knock out the defenseless person instead of performing a normal Initiative action. Thus, it is very risky to start fighting as defenseless, but sometimes it might be one's only chance.
@@ -12330,12 +12975,14 @@ The choice is simple — Mordekai shoots Darvo in the forehead with his own matt
 Examples regarding combat & damage
 Violent combat situations, serious injuries, and deadly encounters befall many people in Noir's dark world. Many perish, others fall into silence, but there are those who have bestial stories to tell about their macabre experiences.
 
-**Examples**
+### Examples
+
 To make things easier for the narrator, below follows several examples tied to the rules in chapter six. The reason the examples are separated from the rules section is that they take up considerable space and it should be quick and smooth to browse between the rules so one gets a good overview of them. These collected examples show how the rules can be used in play, and in each example there is a reference to the page where one can find the rule the example concerns.
 
 The examples are divided into the different sections where they occur: combat, initiative actions, and so on. Under these headings follow all examples in alphabetical order.
 
-**Combat**
+### Combat
+
 Disarming (p. 257)
 Anya finds herself in melee combat with one of the Afflicted inside a burned-out church ruin in western Sandukar. The sun is just rising over the horizon where the two women fight for their lives. Anya's opponent, Tarinna, is just drawing her sword and preparing for a lunge.
 
@@ -12476,7 +13123,7 @@ The player explains that Anya quickly gets up on a container, positions herself 
 
 This means Anya gets a new Initiative of 37 ((8 + 8) × 2 + 5) – she's more than ready to end the combat, on her terms.
 
-**Defense actions**
+### Defense actions
 
 Luck defense (p. 260)
 Mordekai advances toward an enemy he hates deeply. The enemy raises their black pistol and shoots. Mordekai chooses to continue approaching without reacting to the threat so his defense becomes a clear luck defense. The enemy shoots and gets a result of 17. Mordekai has Luck 2 and rolls 3 and 3, sum 8 and an exceptional failure. His Initiative is lowered by ten steps and he's hit right in the head. But he's so tough that he stands up after the attack, smiling a grim and bloody grin.
@@ -12494,17 +13141,19 @@ A robber attacks Talia with a steel pipe when she's leaving a secret séance. Ta
 
 **275 chapter 6 – combat**
 
-**Physical Injuries & Drugs**
+### Physical Injuries & Drugs
 
 **Stunning Damage (p. 263)**
 Gabriel is in combat with a pickpocket. The latter throws a porcelain vase at Gabriel. The damage value is considered to be B3T-2 and the attack inflicts 18 stunning damage on him. This is normally above Gabriel's Wound Threshold of 12, but since the vase deals stunning damage, the Wound Threshold counts as being twice as high, in this case 24, so no Wound is inflicted. However, as usual, Gabriel's Daze increases by 18.
 
-**Electricity (p. 267)**
+### Electricity (p. 267)
+
 Stelia has rigged a trap by connecting a door handle to a power cord. When the victim comes home and grabs the handle, he takes 6 + 7 = 13 in damage. This results in a Wound and 13 in Daze. The victim succeeds at rolls with Endurance and Will to Live. A difficulty roll (Strength) is made. The penalty is three (-3) for the damage. The roll fails and the victim takes damage in the next round as well - this time 7 and 10 + 3, or 20. This is above the victim's double Wound Threshold so he receives three more Wounds, fails the difficulty roll (Will to Live) and dies shortly thereafter.
 
 Stelia witnesses it all from her car below the apartment and sees how the light irregularly swings back and forth before finally stabilizing. Satisfied, she drives away.
 
-**Fire/Acid (p. 267)**
+### Fire/Acid (p. 267)
+
 A barrel of gasoline explodes near Mordekai and he gets burning liquid on him. It's judged to be a "limited" amount and Mordekai suffers 2 + 6 - 1 = 7 in damage and Daze.
 
 The liquid is judged to hit his left arm and leg and burns the skin. A difficulty roll is made with a bonus (+5) for the intensity value for ignition, and penalty (-2) for Mordekai's attribute value in Luck. The roll shows 8 + 9, giving a sum of 20 (8 + 9 + 5 - 2), a success, so Mordekai catches fire.
@@ -12513,38 +13162,46 @@ Next round Mordekai throws himself on the ground and rolls around to try to exti
 
 The following round he continues rolling, now with a bonus (+5). The dice show 8 + 7, minus five (-5) for Ignition and minus one (-1) for the Daze of 15. The difficulty roll counts as successful, so Mordekai is extinguished but wears smoldering clothes and a very pissed-off expression.
 
-**Explosions (p. 266)**
+### Explosions (p. 266)
+
 The Ostarsk lobs a grenade into a trench. Avolano and Remeriko are there at four and twelve meters respectively from the detonation. Avolano, who sits within "Close" range, suffers B10, or (1 + 1 + 3 + 6 + 6 + 7 + 9 + 9 + 10 + 10) = 62 in stunning damage (note that both maxed tens are blocked by the two ones) - which is enough to kill him as he receives ten Wounds (he has Wound Threshold 7).
 
 Remeriko suffers B5T. The dice show a sum of 20 in stunning damage which doesn't exceed his double Wound Threshold of 10 (since it's stunning damage) so he receives no Wound from the attack, but he notes a Daze of 20 on his character sheet. His difficulty roll (Endurance) succeeds so he grabs his rifle slightly dizzied and runs screaming after the Ostarsk.
 
-**Falls & Collisions (p. 267)**
+### Falls & Collisions (p. 267)
+
 Gabriel fights against two gangsters up on a balustrade. He's tackled backwards and falls fumbling over the railing into the marble floor seven meters below. A difficulty roll using Mobility is made and proves successful. The final damage value thus becomes B4T (B4T - B1T (success) + B1T (hard surface)), giving a stunning damage of 22 (1 + 5 + 8 + 8).
 
-**Coming To (p. 263)**
+### Coming To (p. 263)
+
 Jessca has 18 in Daze after getting a vase to the skull. A difficulty roll (Endurance) fails so she counts as dazed and gets Initiative 1. Next time it's Jessca's turn her player makes a new difficulty roll (Endurance), but this time with a penalty (-1) due to the Daze. The roll succeeds so Jessca comes to and in the next round gets to act as usual at her turn.
 
-**Will to Live & Wounds (p. 264)**
+### Will to Live & Wounds (p. 264)
+
 Garvarian was inflicted six Wounds when Mordekai shot him (see "Damage & Wound Threshold" below). Garvarian's difficulty roll (Will to Live) gets a penalty of (-12) (2 x number of Wounds). Garvarian has Will to Live 9, so maxed dice are required for a successful roll. The dice show 2 and 10 + 4 which together with Will to Live gives a result of 25. After the penalty the sum becomes 13, a failure. Garvarian is mortally wounded and will die after 16 rounds (the total sum from the dice), during which he manages to lie rattling on the bedroom floor, while his life force slowly colors the genuine carpets red.
 
-**Tumbling (p. 267)**
+### Tumbling (p. 267)
+
 Mercurian Corso is thrown off a train when it's discovered he's carrying secret documents he shouldn't be carrying. The train is traveling at 130 km/h and the surface counts as neither soft nor hard. The roll for Mobility fails, the damage value increases by B1T, to B15T, but is halved to B7T since it's more of a tumble than an actual fall or collision.
 
 First round Corso receives damage value B7T (the roll gives a stunning damage of a low 21), round two the damage value becomes B3T (the roll gives a stunning damage of 13), and round three the damage value is reduced to B1T (gives stunning damage of 2). Finally, in round four, Corso stops, beaten (with a Daze of 36) and dusty but alive.
 
-**Damage & Wound Threshold (p. 262)**
+### Damage & Wound Threshold (p. 262)
+
 Anya gets into a firefight with Favian in a basement corridor. Anya is fastest, she fires a shot at Favian and hits. Anya's automatic pistol has damage value 2T-1. The dice show 3 and 8, result 11 - 1 = 10. Favian increases his Daze by ten points. Since the damage is higher than Favian's Wound Threshold of 8, he's seriously injured and also receives a Wound from the bullet. Anya's player describes how she hits Favian in one shoulder so he spins around and staggers backwards.
 
 A roar sounds and the naked Mordekai gets hold of his revolver. He fires it at the screaming legitimate husband Garvarian who rushes at him in wild rage. Garvarian's wife tries futilely to conceal her earlier intimate relations with Mordekai with her silk sheets.
 
 The bullet hits its target and with a damage value of 3T-2 the damage becomes 6, 7, 10 + 6, result 29 - 2 = 27. The legitimate husband's Daze increases to 27, and since the sum is above his double Wound Threshold he's inflicted with as many Wounds as the value the lowest die in the damage roll shows, in this case six. In the scene it's determined that the bullet hit badly, right in the chest, on Garvarian.
 
-**Painkillers (p. 270)**
+### Painkillers (p. 270)
+
 Mordekai has been beaten up by Rulov's thugs. He has two Wounds (penalty -4) and a Daze of 35 (penalty -3). This gives a Total penalty (-7) on all actions.
 
 Mordekai staggers up and gets his pill bottle and gulps down the equivalent of three doses of Painkillers. Three difficulty rolls with Tolerance are made of which two fail and one succeeds. This means that Mordekai can ignore 5 of the 7 points from Total penalty, so effectively he has a Total penalty of (-2) for the next four hours.
 
-**Stabilizing the Mortally Wounded (p. 264)**
+### Stabilizing the Mortally Wounded (p. 264)
+
 Garvarian has six Wounds and lies dying on the carpet. His wife, a nurse, reacts instinctively, she rushes up from the bed and tears out her first aid kit. This takes two rounds so Garvarian has 14 rounds left before he falls asleep for the last time. While Mordekai puts on pants and coat and leaves the room, the nurse begins a frantic effort to stabilize the dying man's condition, each round she gets to make a difficulty roll (Medicine):
 
 • Round 1: The difficulty roll succeeds, one Wound is stabilized, five remain.
@@ -12564,27 +13221,32 @@ Garvarian has six Wounds and lies dying on the carpet. His wife, a nurse, reacts
 
 Mordekai, who just left the building, hears a woman's scream full of anguish and fury, shakes his head, raises his hand to shield the flame from the rain, lights the cigarette and draws the smoke into his lungs as he trudges on, away from the evening's events.
 
-**Strangulation (p. 266)**
+### Strangulation (p. 266)
+
 Stelia has hidden in the bathroom at the home of a witness to a family-related murder. When the victim steps in to shave, Stelia silently emerges from her hiding place behind the shower curtain, places a piano wire around the victim's neck and pulls. The victim tries to scream but it becomes only strangled croaking and the police constable outside the apartment door hears nothing.
 
 Stelia has the Initiative and succeeds at "Brawl" (hold - strangle) as the victim's Chance Defense fails. The damage becomes 23 stunning, but the victim passes his difficulty roll (Endurance). The victim's attempt to Strike Stelia fails. In the next round Stelia inflicts another 27 in stunning damage and the victim's Endurance roll fails, he becomes dazed and defenseless. In round three Stelia "executes" the victim. She succeeds exceptionally so he's inflicted 8 Wounds (8 + 8) and dies. Stelia quickly climbs out through the window, takes the fire escape down and disappears into the fog.
 
-**Oxygen Deprivation (p. 267)**
+### Oxygen Deprivation (p. 267)
+
 Serial killer Lagonda is executed by hanging outside the Justice Palace. When the floor disappears and the noose strangles shut, Lagonda, who has Endurance 9, gets by without damage for four rounds (9 / 2 = 4.5 = 4) since he's subjected to violence). In round five he receives B5T in damage value, as in each additional round until he becomes "dazed" and thus defenseless. Then he receives as many Wounds as the value on the highest die of two rolled each round until he dies, all the while the audience roars.
 
-**Endurance & Daze (p. 263)**
+### Endurance & Daze (p. 263)
+
 Favian has a total Daze of 10 after being shot by Anya. This means his difficulty roll gets a penalty (-1). He makes the difficulty roll and gets 1 and 1 on the dice. Together with an Endurance of 7 that gives the result 9. After the penalty for Daze the sum becomes 8 - an exceptional failure.
 
 In the story it's illustrated by Favian staggering and falling over a crate and hitting a cabinet where he collapses unconscious for the next ten minutes (10 = the value in Daze).
 
-**Recovery (p. 265)**
+### Recovery (p. 265)
+
 Jessca walks home after getting thoroughly beaten by gangster Gavilian's henchmen. Admittedly she broke free and slit both their throats, but before that they went at her with clubs and brass knuckles. In total Jessca has 98 in Daze and one Wound. She unlocks the door to her apartment, collapses into bed and falls asleep immediately.
 
 Four hours later she wakes with a start from the sound of sirens and screeching tires from outside. The pillow is completely bloodied, but she feels much better. Jessca's attribute value in Endurance is 15, so the Daze has decreased by 60 (15 points of recovery per hour, total 4 times during rest) points, to 38. When she has rested for a longer period it's checked whether the Wound heals.
 
 Quickly she gets hold of her knives and heads for the fire escape, with a mask of dried blood over her mouth and on her clothes.
 
-**Story:**
+### Story:
+
 **Name:**   **Concept:**
 **Character Traits:**   **Drives:**
 
@@ -12629,7 +13291,8 @@ Persuade  ( ) [  ]
 **Profile**
 **Limitations & Characteristics****Expertises**
 
-**Weapons**
+### Weapons
+
 Weapon Draw Hit Damage Range Precision Recoil Conceal Malfunction Magazine
 Unarmed _____    ____  __________
 ________________  ___ ____  __________  __________  _______ _____  ____ _____  ________
@@ -12693,7 +13356,8 @@ Catatonic (0) » −10
 Total Penalty:  ______________
 **Fate**
 
-**Experience**
+### Experience
+
 Learning: [    ] _____________
 Life Experience : ________________
 
