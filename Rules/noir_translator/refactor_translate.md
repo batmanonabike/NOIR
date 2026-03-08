@@ -230,6 +230,24 @@ Likely occupation: Boxer, bouncer, odd-jobs worker...
 Coordination (6); Close Combat (7)...
 ```
 
+### Rule 16 – Replace Angle-Bracket Placeholders with Parentheses
+
+The game uses angle brackets for fill-in placeholders in expertise lists and archetype descriptions:
+```
+Weapon Expert <a rifle with scope>
+Academic Focus: <something suitable for the profession>
+Technical Specialist: <same as Technical Focus>
+Amateur in <sport>
+```
+
+Replace all `<placeholder>` angle brackets with parentheses so Markdown does not misparse them as HTML tags (which causes everything following to render as a hyperlink):
+```
+Weapon Expert (a rifle with scope)
+Academic Focus: (something suitable for the profession)
+Technical Specialist: (same as Technical Focus)
+Amateur in (sport)
+```
+
 ---
 
 ## What NOT to Change
