@@ -230,6 +230,47 @@ Likely occupation: Boxer, bouncer, odd-jobs worker...
 Coordination (6); Close Combat (7)...
 ```
 
+### Rule 17 – Format Inline Section Headings as Markdown Subheadings
+
+Section and subsection headings in body text sometimes appear without proper Markdown heading syntax or surrounding blank lines — either as plain text or as bold text without a heading level:
+
+```
+...social safety nets whatsoever.
+Mood & Setup
+The goal with Noir is to create...
+```
+
+```
+**What Noir Is**
+Noir is a dystopian roleplaying game...
+```
+
+Convert both forms to `###` subheadings with a blank line before and after:
+
+```markdown
+...social safety nets whatsoever.
+
+### Mood & Setup
+
+The goal with Noir is to create...
+```
+
+```markdown
+### What Noir Is
+
+Noir is a dystopian roleplaying game...
+```
+
+Identify inline headings by:
+- A short line (1–6 words), no ending punctuation (no `.`, `?`, `!`, `:`)
+- Title case or bold-wrapped
+- Following a paragraph that ends with a full stop
+- Followed by a new paragraph of running text (not a list or table)
+
+Also ensure there is a blank line between every paragraph within a section. Where consecutive sentences appear without blank-line separation, insert paragraph breaks at natural topic boundaries (new argument, change of subject, shift in time or focus).
+
+---
+
 ### Rule 16 – Replace Angle-Bracket Placeholders with Parentheses
 
 The game uses angle brackets for fill-in placeholders in expertise lists and archetype descriptions:

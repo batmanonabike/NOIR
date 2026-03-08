@@ -215,6 +215,30 @@ if toc_end_pos != -1:
 
     text = toc_section + text[toc_end_pos:]
 
+# ── Rule 17: Promote standalone bold headings to ### subheadings ───────────
+# **Heading** preceded by a blank line → ### Heading (with blank lines around it).
+# This converts section headings like **What Noir Is** and **Sandukar** that
+# were bolded but not given a heading level by the translator.
+# Skipped when the heading is immediately followed by another bold line
+# (which indicates a credits/label list rather than a section heading).
+text = re.sub(
+    r'\n\n\*\*([^*\n]+)\*\*\n\n?(?=\S)',
+    lambda m: f'\n\n### {m.group(1)}\n\n',
+    text
+)
+
+# Known plain-text subsection headings that weren't bolded in the source
+# and so weren't caught by the rule above — add heading markup and spacing.
+PLAIN_HEADINGS = [
+    'Mood & Setup', 'Realism',
+]
+for h in PLAIN_HEADINGS:
+    text = re.sub(
+        r'\n(' + re.escape(h) + r')\n',
+        f'\n\n### {h}\n\n',
+        text
+    )
+
 # ── Rule 16: Replace angle-bracket placeholders with parentheses ──────────
 # Markdown parses <tag> as HTML, causing everything after to render as a link.
 text = re.sub(r'<([^>]+)>', lambda m: '(' + m.group(1) + ')', text)
