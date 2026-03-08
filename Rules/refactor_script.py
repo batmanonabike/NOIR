@@ -274,6 +274,68 @@ text = re.sub(
     flags=re.MULTILINE
 )
 
+# ── Convert "Likely nature:" and "Likely occupation:" comma-separated lists ─
+# Break up: "Likely nature: efficient, enthusiastic, jaded, ..." 
+# Into separate bullet points
+def format_likely_list(m):
+    prefix = m.group(1)  # "Likely nature:" or "Likely occupation:"
+    items_str = m.group(2)  # "efficient, enthusiastic, jaded, ..."
+    items = [item.strip() for item in items_str.split(',')]
+    formatted = f'{prefix}\n'
+    formatted += '\n'.join([f'- {item}' for item in items])
+    return formatted
+
+text = re.sub(
+    r'^(Likely (?:nature|occupation):)\s*(.+?)(?=\n(?:[A-Z]|\*\*|$))',
+    format_likely_list,
+    text,
+    flags=re.MULTILINE
+)
+
+# ── Format "Attributes & Abilities" and "Expertises" section items ────────
+# Add bullets to lines after these headers that have abilities/expertise items
+# Pattern: word(number) or word: description (word)
+def format_abilities_section(text):
+    # Find sections and add bullets to their items
+    pattern = r'((?:^|\n)(Attributes & Abilities|Expertises)\n)([^\n*]*(?:\([^\)]+\))?(?:\n(?![\n\*\-\#])[^\n*]+(?:\([^\)]+\))?)*)'
+    
+    def replacer(m):
+        header = m.group(1)
+        items_text = m.group(3)
+        # Split items and add bullets if not already there
+        lines = items_text.split('\n')
+        bulleted = []
+        for line in lines:
+            if line.strip() and not line.startswith('- ') and not line.startswith('*'):
+                bulleted.append(f'- {line}')
+            else:
+                bulleted.append(line)
+        return header + '\n' + '\n'.join(bulleted)
+    
+    return re.sub(pattern, replacer, text, flags=re.MULTILINE)
+
+text = format_abilities_section(text)
+
+# ── Format game session dialogue transcripts ──────────────────────────────
+# Convert "Speaker (Character): Dialogue" to proper dialogue format
+# Pattern: [Word] ([Word]): [Dialogue] → **Word (Character):** Dialogue
+# With line breaks between different speakers
+# First, handle the case where multiple speakers are on one line
+# Look for pattern: "punctuation Speaker (Character):"
+text = re.sub(
+    r'([.!?])\s+([A-Z][a-z]+)\s+\(([^)]+)\):\s*',
+    r'\1\n\n**\2 (\3):** ',
+    text
+)
+
+# Also handle beginning of text or after brackets
+text = re.sub(
+    r'(^|\]\s*)([A-Z][a-z]+)\s+\(([^)]+)\):\s*',
+    r'\1\n**\2 (\3):** ',
+    text,
+    flags=re.MULTILINE
+)
+
 # ── Rule 16: Replace angle-bracket placeholders with parentheses ──────────
 # Markdown parses <tag> as HTML, causing everything after to render as a link.
 text = re.sub(r'<([^>]+)>', lambda m: '(' + m.group(1) + ')', text)

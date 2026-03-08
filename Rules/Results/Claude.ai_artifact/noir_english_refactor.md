@@ -683,33 +683,33 @@ Feel no frustration over this but read on—and read the example again later whe
 
 Everything the protagonists say in the scene is written within quotation marks, as opposed to what the players say the protagonists do. All rules and die rolls are written within brackets.
 
-Petter (Narrator): The rain pours down over the city and threatens to flood the deserted and dark back alley where you stand. The clock approaches midnight this Monday evening.
+**Petter (Narrator):** The rain pours down over the city and threatens to flood the deserted and dark back alley where you stand. The clock approaches midnight this Monday evening.
 At the door stands Gabriel on his knees, determinedly focused on opening the lock in the rusty metal door into the workshop.
 What are the rest of you doing?
 
-Sarah (Anya): I keep watch backward so we don't get visitors. Also I flip up my coat collar and adjust my hat so I get as little wet as possible.
+**Sarah (Anya):** I keep watch backward so we don't get visitors. Also I flip up my coat collar and adjust my hat so I get as little wet as possible.
 
-Rikard (Mordekai): I don't give a shit about the rain and tiredly light another smoke.
+**Rikard (Mordekai):** I don't give a shit about the rain and tiredly light another smoke.
 
-Petter (Narrator): Okay. Gabriel, check how it goes with the lock. Roll a difficulty roll with Dexterity, don't forget the expertise you have in lockpicking.
+**Petter (Narrator):** Okay. Gabriel, check how it goes with the lock. Roll a difficulty roll with Dexterity, don't forget the expertise you have in lockpicking.
 
-Marco (Gabriel): Yes, I roll. I have skill twelve.
+**Marco (Gabriel):** Yes, I roll. I have skill twelve.
 [Marco rolls two ten-sided dice]. Yes, it's well over 20, probably 26, 27 something, do you need to know exactly?
 
-Petter (Narrator): Is the roll exceptional?
+**Petter (Narrator):** Is the roll exceptional?
 
-Marco (Gabriel): No.
+**Marco (Gabriel):** No.
 
-Petter (Narrator): It's okay, as long as it's successful.
+**Petter (Narrator):** It's okay, as long as it's successful.
 You reach the lock's challenge level. With a click you feel how the lock opens to your sensitive fingers.
 
-Marco (Gabriel): I whisper and wave to the others and put away the picks.
+**Marco (Gabriel):** I whisper and wave to the others and put away the picks.
 
-Rikard (Mordekai): I walk forward.
+**Rikard (Mordekai):** I walk forward.
 
-Sarah (Anya): I follow, but keep watch backward.
+**Sarah (Anya):** I follow, but keep watch backward.
 
-Petter (Narrator): You see nothing and hear nothing either. It's dead as the grave here.
+**Petter (Narrator):** You see nothing and hear nothing either. It's dead as the grave here.
 
 ### The Church
 
@@ -747,37 +747,62 @@ Summary – Roleplaying
 • Each main character in a story is described with game values in a form called the character file. The values are used when the main character's skills in different areas are assessed or need to be checked.
 • Game rules exist to represent the game world, create dramatic conditions, and handle the unpredictability that dice rolls bring.
 
-Marco (Gabriel): I try to get the door open as quietly as possible.
-Petter (Narrator): It's stiff and some creaking is impossible to avoid, but you do your best.
-Marco (Gabriel): I slip inside quietly.
-Rikard (Mordekai): I follow his example.
-Sarah (Anya): Me too.
-Petter (Narrator): Okay, can you all make a resistance roll with Agility to see how quietly you move, as it's quite poorly lit in here, or do you want to turn on the light?
+**Marco (Gabriel):** I try to get the door open as quietly as possible.
+
+**Petter (Narrator):** It's stiff and some creaking is impossible to avoid, but you do your best.
+
+**Marco (Gabriel):** I slip inside quietly.
+
+**Rikard (Mordekai):** I follow his example.
+
+**Sarah (Anya):** Me too.
+
+**Petter (Narrator):** Okay, can you all make a resistance roll with Agility to see how quietly you move, as it's quite poorly lit in here, or do you want to turn on the light?
 [All three players shake their heads and roll the dice]
-Sarah (Anya): I get a sum of 24.
-Marco (Gabriel): And I get 15.
-Rikard (Mordekai): Yippee, I got a total of 12, exceptional too, with double twos. So that's bound to fail...
+
+**Sarah (Anya):** I get a sum of 24.
+
+**Marco (Gabriel):** And I get 15.
+
+**Rikard (Mordekai):** Yippee, I got a total of 12, exceptional too, with double twos. So that's bound to fail...
 [The narrator makes a hidden roll]
-Petter (Narrator): You slowly enter the premises, among machines and tables with tools. It smells acrid of solvents and oil. The rain drums against the roof. Suddenly
+
+**Petter (Narrator):** You slowly enter the premises, among machines and tables with tools. It smells acrid of solvents and oil. The rain drums against the roof. Suddenly
 Mordekai bumps into a pile of tools whose handles stick out beyond the table edge. The tools fall onto the concrete floor with a terrible racket.
-Marco (Gabriel): I stop, crouch down, and try to take cover behind the nearest machine.
-Sarah (Anya): I sigh and draw my pistol.
-Rikard (Mordekai): And I curse like hell: "Fucking goddamn cursed shit-bastard, you shall die, for Satan's sake!" Then
+
+**Marco (Gabriel):** I stop, crouch down, and try to take cover behind the nearest machine.
+
+**Sarah (Anya):** I sigh and draw my pistol.
+
+**Rikard (Mordekai):** And I curse like hell: "Fucking goddamn cursed shit-bastard, you shall die, for Satan's sake!" Then
 I kick, in frustration, a wrench away so it slams into the far wall.
-Sarah (Anya): "But quiet, for fuck's sake!"
-Rikard (Mordekai): I give her the look. The look that says more than words.
-Sarah (Anya): I raise my left hand, disarmingly like that, it's calm, you know.
-Petter (Narrator): Gabriel, make a difficulty roll.
-Marco (Gabriel): Really? For what?
-Petter (Narrator): You don't know.
-Marco (Gabriel): Okay. [Rolls the dice] The result is
+
+**Sarah (Anya):** "But quiet, for fuck's sake!"
+
+**Rikard (Mordekai):** I give her the look. The look that says more than words.
+
+**Sarah (Anya):** I raise my left hand, disarmingly like that, it's calm, you know.
+
+**Petter (Narrator):** Gabriel, make a difficulty roll.
+
+**Marco (Gabriel):** Really? For what?
+
+**Petter (Narrator):** You don't know.
+
+**Marco (Gabriel):** Okay. [Rolls the dice] The result is
 15, an eight and a seven.
-Petter (Narrator): [Checks Gabriel's skill in Intuition that the narrator has written down and sees that the roll succeeded] Gabriel, even through all the racket and commotion you sense that you're not alone in here.
-Marco (Gabriel): Oh, I scan the premises and slowly draw my submachine gun with one hand. With the other hand I try to gesture to the others that something is up.
-Petter (Narrator): You others perceive that Gabriel seems to want something.
-Rikard (Mordekai): Really?
-Sarah (Anya): I look at him questioningly.
-Petter (Narrator): Suddenly the light comes on, the heavy fixtures are awakened with a hum to life over the course of a few seconds. Up on a platform, behind and above you, you see a grated floor with a spiral staircase up to an office behind glass panels. Now you also see how a work lamp seems to have been lit up there. On the grated floor stand three people: a man with a leather jacket and a cigarette in his mouth, another in a suit and glasses, and a third – a giant bruiser
+
+**Petter (Narrator):** [Checks Gabriel's skill in Intuition that the narrator has written down and sees that the roll succeeded] Gabriel, even through all the racket and commotion you sense that you're not alone in here.
+
+**Marco (Gabriel):** Oh, I scan the premises and slowly draw my submachine gun with one hand. With the other hand I try to gesture to the others that something is up.
+
+**Petter (Narrator):** You others perceive that Gabriel seems to want something.
+
+**Rikard (Mordekai):** Really?
+
+**Sarah (Anya):** I look at him questioningly.
+
+**Petter (Narrator):** Suddenly the light comes on, the heavy fixtures are awakened with a hum to life over the course of a few seconds. Up on a platform, behind and above you, you see a grated floor with a spiral staircase up to an office behind glass panels. Now you also see how a work lamp seems to have been lit up there. On the grated floor stand three people: a man with a leather jacket and a cigarette in his mouth, another in a suit and glasses, and a third – a giant bruiser
 
 equipment and are usually assigned the most dangerous missions, such as storming machine gun nests, advancing through minefields, or leading mass assaults against the trenches.
 
@@ -807,36 +832,58 @@ Empire, but in their hearts burns a supernatural faith. A hope for a better worl
 Rules in roleplaying are primarily used to create a fair balance in those moments where action and result need to be determined during the course of the story. They are used to simulate
 
 with bulging muscles under a dirty undershirt. The man in the suit speaks. "You have no business here, you're trespassing on private land and property. Who are you?"
-Sarah (Anya): I stand up and keep the pistol hidden behind my back. "We're from the police. We have suspicions of criminal activity here."
-Petter (Narrator): "Oh, the police. So, where is your search warrant?"
-Sarah (Anya): Damn, I knew we should have waited.
+
+**Sarah (Anya):** I stand up and keep the pistol hidden behind my back. "We're from the police. We have suspicions of criminal activity here."
+
+**Petter (Narrator):** "Oh, the police. So, where is your search warrant?"
+
+**Sarah (Anya):** Damn, I knew we should have waited.
 "It's on its way, sir...?"
-Rikard (Mordekai): I look for something big and heavy that I could throw at them.
-Petter (Narrator): Okay, you see a pipe wrench on a bench nearby, just a few steps away. "Young lady, on its way, you say? So you don't actually have it? So right now you're just simple burglars, which means I have full right to defend myself? Good." You see him turn around and nod at the other two, who immediately draw weapons. The muscle guy has a shotgun while the man in the leather jacket has two revolvers. Roll initiative. No one is considered surprised.
+
+**Rikard (Mordekai):** I look for something big and heavy that I could throw at them.
+
+**Petter (Narrator):** Okay, you see a pipe wrench on a bench nearby, just a few steps away. "Young lady, on its way, you say? So you don't actually have it? So right now you're just simple burglars, which means I have full right to defend myself? Good." You see him turn around and nod at the other two, who immediately draw weapons. The muscle guy has a shotgun while the man in the leather jacket has two revolvers. Roll initiative. No one is considered surprised.
 [Everyone involved rolls for Initiative.]
-Marco (Gabriel): Successful roll, 16.
-Rikard (Mordekai): The dice hate me tonight, I
+
+**Marco (Gabriel):** Successful roll, 16.
+
+**Rikard (Mordekai):** The dice hate me tonight, I
 get seven.
-Sarah (Anya): I know how it feels, I got nine...
-Petter (Narrator): The guy with the revolvers is first at 22, he aims at you, Anya.
-Sarah (Anya): I try to shoot back first. No, my initiative is too low for that. I defend myself.
-Petter (Narrator): Make a resistance roll – Defense ranged combat.
-Sarah (Anya): And I don't have any Fate either. [Rolls the dice] Let's see, sum 14, no 15.
-Petter (Narrator): [Also rolls] Higher. He empties both revolvers into you. [Rolls again]. You take 21 in
+
+**Sarah (Anya):** I know how it feels, I got nine...
+
+**Petter (Narrator):** The guy with the revolvers is first at 22, he aims at you, Anya.
+
+**Sarah (Anya):** I try to shoot back first. No, my initiative is too low for that. I defend myself.
+
+**Petter (Narrator):** Make a resistance roll – Defense ranged combat.
+
+**Sarah (Anya):** And I don't have any Fate either. [Rolls the dice] Let's see, sum 14, no 15.
+
+**Petter (Narrator):** [Also rolls] Higher. He empties both revolvers into you. [Rolls again]. You take 21 in
 Shock, I suspect that's also a Wound?
-Sarah (Anya): Damn, yes it is. I make the roll for
+
+**Sarah (Anya):** Damn, yes it is. I make the roll for
 Will to Live. [Rolls] But, it can't be true! I'm mortally wounded!
-Petter (Narrator): What's the result of both dice?
-Sarah (Anya): Eight.
-Petter (Narrator): Then you die in eight rounds...
+
+**Petter (Narrator):** What's the result of both dice?
+
+**Sarah (Anya):** Eight.
+
+**Petter (Narrator):** Then you die in eight rounds...
 Do you lose consciousness?
-Sarah (Anya): [Rolls dice] No.
-Petter (Narrator): You others see how Anya reads the situation too late. The guy with the revolvers laughs mockingly while he squeezes the triggers again and again.
+
+**Sarah (Anya):** [Rolls dice] No.
+
+**Petter (Narrator):** You others see how Anya reads the situation too late. The guy with the revolvers laughs mockingly while he squeezes the triggers again and again.
 The bullets whine around Anya, many ricochet off the machines around her, but several shots hit her in the body and arms. You see her fall backward in a fine mist of blood.
-Marco (Gabriel): "Nooooo!!" I awaken a drive:
+
+**Marco (Gabriel):** "Nooooo!!" I awaken a drive:
 Save Anya's life, level Burning, okay?
-Petter (Narrator): That feels reasonable given what just happened. Gabriel, it's your turn.
-Marco (Gabriel): I want to run crouched toward Anya, while I fire snap shots up at the platform and the revolver guy. I spend two Fate points and roll two extra dice, because I must succeed. I add my character trait Loving too, since I want to protect and
+
+**Petter (Narrator):** That feels reasonable given what just happened. Gabriel, it's your turn.
+
+**Marco (Gabriel):** I want to run crouched toward Anya, while I fire snap shots up at the platform and the revolver guy. I spend two Fate points and roll two extra dice, because I must succeed. I add my character trait Loving too, since I want to protect and
 
 different events in the world in a consistent and somewhat predictable way. Even the interaction between parts of the world and its inhabitants is governed by rules for the same reason.
 
@@ -864,35 +911,35 @@ The address to Noir's home on the Internet is: www.noir.nu
 
 save Anya. [Rolls the dice] I get 23 total with the two best dice results, after deduction for recoil.
 
-Petter (The Narrator): Good use of the character trait. [Rolls dice] You get higher than what the opponent gets on their chance defense, so it's you who describes the sequence.
+**Petter (The Narrator):** Good use of the character trait. [Rolls dice] You get higher than what the opponent gets on their chance defense, so it's you who describes the sequence.
 
-Marco (Gabriel): The pistol is emptied anyway—eight shots are used. [Rolls the dice] Damage effect is a bit over 20 so I suspect he's incapacitated, and I don't have to come up with the exact sum?
+**Marco (Gabriel):** The pistol is emptied anyway—eight shots are used. [Rolls the dice] Damage effect is a bit over 20 so I suspect he's incapacitated, and I don't have to come up with the exact sum?
 
-Petter (The Narrator): Correct, so what happens in the scene?
+**Petter (The Narrator):** Correct, so what happens in the scene?
 
-Marco (Gabriel): Okay. I desperately lunge toward Anya, with my gaze focused on her bloody body that just reaches the floor, and the blonde hair that flutters. At the same time I shoot as fast as I can with the pistol up at the landing, without really looking in that direction. Most of the bullets go astray, one shatters the glass window, but one hits the revolver man right in the head so the laughter abruptly falls silent. The body slowly slides over the railing and lands with a crash in a wooden crate full of scrap. Since my magazine is empty, I let the pistol fall to the floor and I take Anya's head in my hands, with tears in my eyes.
+**Marco (Gabriel):** Okay. I desperately lunge toward Anya, with my gaze focused on her bloody body that just reaches the floor, and the blonde hair that flutters. At the same time I shoot as fast as I can with the pistol up at the landing, without really looking in that direction. Most of the bullets go astray, one shatters the glass window, but one hits the revolver man right in the head so the laughter abruptly falls silent. The body slowly slides over the railing and lands with a crash in a wooden crate full of scrap. Since my magazine is empty, I let the pistol fall to the floor and I take Anya's head in my hands, with tears in my eyes.
 
-Petter (The Narrator): Nice. Mordekai?
+**Petter (The Narrator):** Nice. Mordekai?
 
-Rikard (Mordekai): Easy, I throw the pipe bomb at the guy with the shotgun. [Rolls dice] Yeah well, I get 33, I suspect I get the highest?
+**Rikard (Mordekai):** Easy, I throw the pipe bomb at the guy with the shotgun. [Rolls dice] Yeah well, I get 33, I suspect I get the highest?
 
-Petter (The Narrator): [Rolls dice] True. He fails exceptionally too, so he's not in on this.
+**Petter (The Narrator):** [Rolls dice] True. He fails exceptionally too, so he's not in on this.
 
-Rikard (Mordekai): [Rolls dice] Damage effect is, wow, that was high, maxed dice, a full 31, stunning admittedly but still.
+**Rikard (Mordekai):** [Rolls dice] Damage effect is, wow, that was high, maxed dice, a full 31, stunning admittedly but still.
 
 - Petter (The Narrator): He's incapacitated so you get to tell what happens.
 
-Rikard (Mordekai): Okay, the pipe bomb leaves my rough hands, rotates around its own center point in a circular motion and hits the surprised guy in the throat. The force of the impact breaks his neck and he stumbles backward, into the office, gurgling.
+**Rikard (Mordekai):** Okay, the pipe bomb leaves my rough hands, rotates around its own center point in a circular motion and hits the surprised guy in the throat. The force of the impact breaks his neck and he stumbles backward, into the office, gurgling.
 
-Petter (The Narrator): Lovely. A door slams somewhere. The glasses guy seems to have removed himself and you hear a car engine roaring to life outside, what do you do?
+**Petter (The Narrator):** Lovely. A door slams somewhere. The glasses guy seems to have removed himself and you hear a car engine roaring to life outside, what do you do?
 
-Sarah (Anya): "Help... me... Gabriel..." I cough and spit blood. I seek dimly for contact with Gabriel's gaze.
+**Sarah (Anya):** "Help... me... Gabriel..." I cough and spit blood. I seek dimly for contact with Gabriel's gaze.
 
-Marco (Gabriel): I stroke Anya soothingly over the bloody hair and at the same time try to find something I can use as a bandage for Anya, rags or an apron or something. I also shout to Mordekai. "Catch that bastard, I'll take care of Anya, get the hell out!"
+**Marco (Gabriel):** I stroke Anya soothingly over the bloody hair and at the same time try to find something I can use as a bandage for Anya, rags or an apron or something. I also shout to Mordekai. "Catch that bastard, I'll take care of Anya, get the hell out!"
 
-Rikard (Mordekai): I nod to Gabriel, draw my heavy revolver smiling and rush howling with excitement toward the motor sound.
+**Rikard (Mordekai):** I nod to Gabriel, draw my heavy revolver smiling and rush howling with excitement toward the motor sound.
 
-Petter (The Narrator): When you wrench open the door you are met by the rain and you see that...
+**Petter (The Narrator):** When you wrench open the door you are met by the rain and you see that...
 
 And there we leave the three protagonists to their fates.
 
@@ -1411,15 +1458,24 @@ Throwing weapons and Firearms. For seven points the skill
 value in Firearms is raised to 7. Five points remain.
 Four of these go to raising Manual dexterity to 4 and the last point raises Throwing weapons to 1.
 After Marco has gone through the rest of the attributes and skills, the point distribution looks as follows:
-Coordination (3): Melee (4), Reactions (1), Mobility (1)
-Build (4): Endurance (4), Strength (4), Tolerance (0)
-Motorics (6): Manual dexterity (4), Throwing weapons (1), Firearms (7)
-Education (3): Humanities (2), Medicine (2), Natural science (2)
-Creativity (3): Construction (1), Create (1), Deduction (4)
-Will (2): Determination (0), Resistance (1), Sense (3)
-Insight (4): Empathy (1), Oppose (3), Streetwise (4)
-Perception (4): Intuition (4), Vehicles (0), Awareness (4)
-Charisma (5): Charm (1), Leadership (4), Persuade (5)
+
+**Coordination (3):** Melee (4), Reactions (1), Mobility (1)
+
+**Build (4):** Endurance (4), Strength (4), Tolerance (0)
+
+**Motorics (6):** Manual dexterity (4), Throwing weapons (1), Firearms (7)
+
+**Education (3):** Humanities (2), Medicine (2), Natural science (2)
+
+**Creativity (3):** Construction (1), Create (1), Deduction (4)
+
+**Will (2):** Determination (0), Resistance (1), Sense (3)
+
+**Insight (4):** Empathy (1), Oppose (3), Streetwise (4)
+
+**Perception (4):** Intuition (4), Vehicles (0), Awareness (4)
+
+**Charisma (5):** Charm (1), Leadership (4), Persuade (5)
 That the skill values under Education are distributed evenly indicates a broad general basic knowledge.
 That Tolerance has 0 in skill value means that the protagonist's 
 body isn't particularly resistant to diseases, poisons or drugs—probably the protagonist 
@@ -1625,12 +1681,14 @@ Persuasive: Convince/beseech (+2 Persuade)
 Notable weakness: Women (Beautiful women): Penalty (−2) (Sense) when activated
 Significant fear: Dense fog/smoke/gas: Penalty (−5) (Resistance) when activated
 Nightmares: Penalty (−5) (Sense) during Well-Being recovery
-Indebted (Completely): 100% of Credit Rating utilized
+
+**Indebted (Completely):** 100% of Credit Rating utilized
 Basic code of honor (Not harm women or children): If broken, Shocking experience
 Sturdy (Size 21), height approx. 190 cm, weight approx. 90 kg
 Standard of Living 6: 25,000 cash, Credit 250,000
 Attractive appearance: Penalty/bonus (1) in social situations
-Hindrance (Sense): Double experience cost when increasing
+
+**Hindrance (Sense):** Double experience cost when increasing
 Charming: Impression +2
 Tough: Endurance +2
 Reputation: Noted (6): Underworld: Penalty/bonus (1) when used
@@ -1737,8 +1795,30 @@ But not even the most skilled lawyer can influence a legal case where the State 
 State's special police, the commissars, have the right to pass sentence on the spot without any legal review whatsoever. Despite this, lawyers constitute an important professional group within which the skilled can twist the law to their advantage in most legal cases.
 A lawyer has good insight into the state bureaucracy and its legal code—something that gives the lawyer great advantages in most bureaucratically difficult situations and makes them respected and feared. It is not uncommon for lawyers to take bribes to forget parts of the evidence or plant false evidence.
 Despite their advantageous position, the lawyer runs great risk of ending up in dangerous situations if they become involved in criminal cases where the accused are powerful and dangerous individuals who don't shy away from threats and violence.
-Likely nature: Corrupt, honorable, cunning, driven, knowledgeable, incompetent, bold, arrogant, insane, cowardly, dull, colorful, cynical, bitter, committed.
-Likely occupation: Prosecutor, defense attorney, judge, civil lawyer, state lawyer, military lawyer, advisor or schnapps lawyer.
+Likely nature:
+- Corrupt
+- honorable
+- cunning
+- driven
+- knowledgeable
+- incompetent
+- bold
+- arrogant
+- insane
+- cowardly
+- dull
+- colorful
+- cynical
+- bitter
+- committed.
+Likely occupation:
+- Prosecutor
+- defense attorney
+- judge
+- civil lawyer
+- state lawyer
+- military lawyer
+- advisor or schnapps lawyer.
 Attributes & Skills
 Coordination (3); Close Combat (0), Reactions (3), Mobility (3)
 Constitution (3); Endurance (2), Strength (1), Tolerance (3)
@@ -1767,8 +1847,54 @@ Dance'? Indeed, if you wait a moment, sir, I shall retrieve it from the safe. I'
 A sharp mind, cold nerves and a strong will are required to survive as a businessman in Sandukar's world. Businessmen and -women constantly work to manage their operations, negotiate with suppliers and improve their selection and try to reach and retain customers. It's also necessary to know who must be bribed, who must not be offended and who to hire to handle problems.
 If one is skilled, one can go far, but the more power and money one gets, the more hungry, envious eyes begin to watch. Some are content to keep their business at one and the same level while others strive to rise in society, with bold ventures and forceful expansion.
 The higher up one comes, the more versed one must be in the bureaucratic system that governs society, for the latter can at any time turn against you and crush you if you don't follow the paragraphs and ordinances that have been declared.
-Likely nature: Driven, greedy, efficient, accommodating, visionary, ruthless, exploiter, superficial, talkative, grandiose, cunning, shrewd, competent, corrupt, fair, considerate, vain.
-Likely occupation: Shop owner (tool shop, bookstore, antique dealer, specialty shop, retailer, butcher, pawnbroker, tailor, newsstand, etc.), entrepreneur, manufacturer, factory owner, merchant, restaurateur, broker, magnate, tycoon, banker, consultant, salesperson, director, financier, socialite, importer, exporter, transporter, black market shark, fence or gangster.
+Likely nature:
+- Driven
+- greedy
+- efficient
+- accommodating
+- visionary
+- ruthless
+- exploiter
+- superficial
+- talkative
+- grandiose
+- cunning
+- shrewd
+- competent
+- corrupt
+- fair
+- considerate
+- vain.
+Likely occupation:
+- Shop owner (tool shop
+- bookstore
+- antique dealer
+- specialty shop
+- retailer
+- butcher
+- pawnbroker
+- tailor
+- newsstand
+- etc.)
+- entrepreneur
+- manufacturer
+- factory owner
+- merchant
+- restaurateur
+- broker
+- magnate
+- tycoon
+- banker
+- consultant
+- salesperson
+- director
+- financier
+- socialite
+- importer
+- exporter
+- transporter
+- black market shark
+- fence or gangster.
 Attributes & Skills
 Coordination (2); Close Combat (0), Reactions (2), Mobility (2)
 Constitution (3); Endurance (2), Strength (2), Tolerance (2)
@@ -1798,8 +1924,31 @@ Convincing: Persuade/Plead (Persuade)
 Among dusty tomes, old writings and contemporary discoveries, the academic tries to expand their knowledge. Those who don't accept the State's description of the world or history but try to create their own picture of reality walk very dangerous paths. To defy the State's censorship and search for a different truth than the one given means risking arrest and execution for espionage and terrorism. Research often requires experimentation, which makes the need for laboratories present. Sometimes horrible experiments are carried out to achieve new knowledge, often with suffering and injury as a result.
 Horrific experiments occur in soundproofed rooms with steel gurneys and in attic rooms expeditions to forbidden ruined cities and lonely valleys are planned. In many academics the thirst for knowledge burns so strongly that they are prepared to sacrifice everything and defy all rules to find what they consider to be the truth.
 Many academics choose, however, to follow the State's worldview and often support themselves as teachers, librarians, researchers or similar.
-Likely nature: Shy, manic, intrusive, ruthless, insane, curious, boring, interested, dry, knowledge-thirsty, cowardly, arrogant.
-Likely occupation: Student, librarian, teacher, instructor, researcher, scientist, doctoral candidate, museum curator, psychologist, profiler, civil servant or bureaucrat.
+Likely nature:
+- Shy
+- manic
+- intrusive
+- ruthless
+- insane
+- curious
+- boring
+- interested
+- dry
+- knowledge-thirsty
+- cowardly
+- arrogant.
+Likely occupation:
+- Student
+- librarian
+- teacher
+- instructor
+- researcher
+- scientist
+- doctoral candidate
+- museum curator
+- psychologist
+- profiler
+- civil servant or bureaucrat.
 Attributes & Skills
 Coordination (3); Close Combat (0), Reactions (3), Mobility (3)
 Constitution (2); Endurance (1), Strength (0), Tolerance (3)
@@ -1828,8 +1977,30 @@ They are parts in a machinery of flesh, gristle and bone.
 Union control, workplace safety and rules about working conditions and hours barely exist in Sandukar. Wages are low and many have difficulty managing. However, there are those who have the luck to be employed by people who care about their staff and these can sometimes find contentment in their work and companionship with their coworkers.
 For it is the community that binds the workers together.
 The hard toil they share with their brothers and sisters. The shit-talking about the bosses and the low wages. The talk about dreams that will never be able to be fulfilled. For freedom is found only in one's fantasies, in simple pleasures and in family life. When the whistle sounds, the workers either head home to their families or stop by a smoky tavern to have a beer or two after the day's grind. Those who are born in worker families most often end up following in their parents' footsteps and sometimes entire families work at the same factory and drive the eternal machinery onward.
-Likely nature: Bored, resigned, engaged, lazy, professional, talkative, stupid, helpful, crude, villainous, corrupt.
-Likely occupation: Builder, industrial worker, transporter, plumber, electrician, welder, mechanic, craftsman, laborer, airship pilot, taxi driver or guard.
+Likely nature:
+- Bored
+- resigned
+- engaged
+- lazy
+- professional
+- talkative
+- stupid
+- helpful
+- crude
+- villainous
+- corrupt.
+Likely occupation:
+- Builder
+- industrial worker
+- transporter
+- plumber
+- electrician
+- welder
+- mechanic
+- craftsman
+- laborer
+- airship pilot
+- taxi driver or guard.
 Attributes & Skills
 Coordination (4); Close Combat (4), Reactions (2), Mobility (2)
 Constitution (6); Endurance (3), Strength (5), Tolerance (4)
@@ -1856,8 +2027,40 @@ Local Knowledge: (the neighborhood) (Worldliness)
 "She's pretty beautiful, isn't she? And what a voice she has! And her body... The dress she's wearing, it's anything but discreet! Oh yes, many men and women surely lust after her and the facade she's created around herself. But deep down she's surely just as rotten as the rest of us."
 By offering themselves, stepping into a role and exploiting their talents, the entertainer makes a living by evoking emotions in their audience. It could be anything from strong emotions like tragedy and fate-laden sorrow in theatrical epics to swinging song numbers at smoky nightclubs—a skilled enter-tainer should be able to produce both laughter and tears. With their presence on the silver screen, the stage or at the street corner, the entertainer tries to make the viewer forget, for a moment, the grey everyday reality, dream away and allow themselves to be seduced by his/her presence.
 The big, popular names attract a loyal audience, big money and many privileges. However, the profession is difficult. Only the truly talented, those with good connections or those willing to do anything to achieve success have the opportunity to go far; others must struggle along with jobs on the side, and for them the competition is fierce. Many turn to drugs to cope with the pressure and some become completely con-sumed by their roles and burn out at a young age.
-Likely nature: Passionate, serious, depressed, manic, insane, easygoing, superficial, vain, exhibitionistic, profound, flamboyant, withdrawn, open-hearted, stupid, brilliant, manipu-lative, intense, gloomy, irresponsible, arrogant, burned out.
-Likely occupation: Theater actor, film actor, musician, singer, comedian, club entertainer, varie-ty artist, magician, dancer, poet, model or mannequin.
+Likely nature:
+- Passionate
+- serious
+- depressed
+- manic
+- insane
+- easygoing
+- superficial
+- vain
+- exhibitionistic
+- profound
+- flamboyant
+- withdrawn
+- open-hearted
+- stupid
+- brilliant
+- manipu-lative
+- intense
+- gloomy
+- irresponsible
+- arrogant
+- burned out.
+Likely occupation:
+- Theater actor
+- film actor
+- musician
+- singer
+- comedian
+- club entertainer
+- varie-ty artist
+- magician
+- dancer
+- poet
+- model or mannequin.
 Attributes & Skills
 Coordination (4); Close Combat (1), Reactions (2), Mobility (5)
 Build (4); Stamina (4), Strength (1), Tolerance (3)
@@ -1884,8 +2087,38 @@ Yes, come on. That's it. That's it! Yes, 300! Well done, kid. One day it's you M
 The athlete chooses to specialize in one or several disci-plines, everything from fencing to track racing. Popular activities are track racing, boxing, running competitions, tennis, golf, rugby, basketball and rowing. High society favors polo or horse racing. The main thing is that the practitioner has devoted a large part of their time and dedication to a particular area to become as skilled as possible at it. Skilled athletes can achieve star sta-tus but most must struggle along and often have jobs on the side.
 When success comes, shady promoters, managers and agents emerge from the shadows wanting to sign contracts, where they promise money, power, luxury life, wine, women and song—the only thing the athlete must do is win the next competition, and the next, and the next... There's always someone younger, more skilled, faster, more enduring or more daring waiting for the athlete to mess up, so they can take over.
 Some choose to improve their results through drugs, bribes or cheating, but if discovered it can cost them dearly.
-Likely nature: Goal-oriented, driven, focused, lazy, aggressive, corrupt, dumb, vain, angry, friendly, generous, greedy, mean, has-been, newcomer, washed up, star, prodigy, shy, burned out.
-Likely occupation: Various disciplines (racing, running, swimming, boxing, fencing, gymnastics, football, basketball, rugby, etcetera).
+Likely nature:
+- Goal-oriented
+- driven
+- focused
+- lazy
+- aggressive
+- corrupt
+- dumb
+- vain
+- angry
+- friendly
+- generous
+- greedy
+- mean
+- has-been
+- newcomer
+- washed up
+- star
+- prodigy
+- shy
+- burned out.
+Likely occupation:
+- Various disciplines (racing
+- running
+- swimming
+- boxing
+- fencing
+- gymnastics
+- football
+- basketball
+- rugby
+- etcetera).
 Attributes & Skills
 Coordination (5); Close Combat (1), Reactions (2), Mobility (7)
 Build (6); Stamina (7), Strength (5), Tolerance (0)
@@ -1911,8 +2144,33 @@ Well-trained (Strength)*
 Here, there now, take my handkerchief, dry your tears and then tell me where your father keeps his notebook."
 Through cunning, manipulation and blackmail the con artist gets what he/she desires. That lives are ruined and families torn apart along the way is met with little sympathy—it's the punishment the victims get for allowing themselves to be deceived.
 Finding gullible victims' weaknesses and passions and then exploiting them to the fullest is the natural approach for a con artist. As well as finding the right individual for the con. It's precisely the ability to read individuals and the cold-bloodedness to treat them as objects that makes a con artist success-ful. Many become lost in the game with human emotions and find the hunt for control and humiliation as strong as the lust for wealth. There are con artists who have entire net-works of people under them, people they have leverage on, or who are completely captivated by them.
-Likely nature: Ice-cold, smart, calculating, charismatic, sadistic, charming, accommodating, understanding, appreciative, flattering, curious, bold, daring, manipulative, quick-witted.
-Likely occupation: Charlatan, snake-oil salesman, swindler, hustler, fortune hunter, opportunist, womanizer, seductress, cult leader, quack or blackmailer.
+Likely nature:
+- Ice-cold
+- smart
+- calculating
+- charismatic
+- sadistic
+- charming
+- accommodating
+- understanding
+- appreciative
+- flattering
+- curious
+- bold
+- daring
+- manipulative
+- quick-witted.
+Likely occupation:
+- Charlatan
+- snake-oil salesman
+- swindler
+- hustler
+- fortune hunter
+- opportunist
+- womanizer
+- seductress
+- cult leader
+- quack or blackmailer.
 Attributes & Skills
 Coordination (3); Close Combat (1), Reactions (2), Mobility (3)
 Build (3); Stamina (3), Strength (1), Tolerance (2)
@@ -1941,8 +2199,46 @@ Convincing: Persuade/implore (Persuade)
 In a harsh existence controlled by the State and by a brutal and corrupt police force, crime often seems to many to be the only way up out of misery. People toil day and night at factories and still can't support their families. Selfish-ness takes over then and you let other people suffer so your own needs can be fulfilled. Maybe you engage in something as simple as pickpocketing, burglary and robbery or you deal with a type of criminal activity that has branches in many parts of the city.
 Criminals form groups that can gain great influence.
 Some such groups grow into power factors and some-times have great control in parts of the city. The sense of community born from sharing a common livelihood can become very strong. However, you must be careful not to anger the wrong people, regardless of which side of the law. But with bribes, threats and deals you can go far as long as you respect those above you.
-Likely nature: Hardened, desperate, aggressive, psycho-tic, nervous, calculating, manipulative, power-hungry, greedy, sadistic, cocky, selfish, paranoid, suspicious, bold, kind-hearted, soft, cowardly.
-Likely occupation: Burglar, thief, robber, dealer, smuggler, snitch, gangster, gang member, petty crimi-nal, murderer, fugitive, collector, enforcer, infiltrator, loan shark, leg-breaker, boss, underboss, black market shark, fence or henchman.
+Likely nature:
+- Hardened
+- desperate
+- aggressive
+- psycho-tic
+- nervous
+- calculating
+- manipulative
+- power-hungry
+- greedy
+- sadistic
+- cocky
+- selfish
+- paranoid
+- suspicious
+- bold
+- kind-hearted
+- soft
+- cowardly.
+Likely occupation:
+- Burglar
+- thief
+- robber
+- dealer
+- smuggler
+- snitch
+- gangster
+- gang member
+- petty crimi-nal
+- murderer
+- fugitive
+- collector
+- enforcer
+- infiltrator
+- loan shark
+- leg-breaker
+- boss
+- underboss
+- black market shark
+- fence or henchman.
 Attributes & Skills
 Coordination (5); Close Combat (4), Reactions (4), Mobility (2)
 Build (4); Stamina (2), Strength (4), Tolerance (2)
@@ -1972,20 +2268,44 @@ Sandukar's vast machinery requires its cogs and wheels. These hard-working indiv
 
 There are, however, some who try to take shortcuts by keeping on good terms with people within the clans or smearing their colleagues—but these play a dangerous game. Actions that can lead them to influential positions in society can just as easily plunge them into ruin if their schemes are revealed. Thus most bureaucrats choose to go the legal and bureaucratic route but bend the rules just enough to make it as advantageous as possible for them.
 
-Likely nature: Meticulous, formal, helpful, smug, pragmatic, strict, obedient, dry, orderly, cowed, bored, vindictive, scheming, suspicious.
+Likely nature:
+- Meticulous
+- formal
+- helpful
+- smug
+- pragmatic
+- strict
+- obedient
+- dry
+- orderly
+- cowed
+- bored
+- vindictive
+- scheming
+- suspicious.
 
-Likely occupation: Bureaucrat, archivist, clerk, courier, inspector, controller, auditor, examiner, coordinator or planner.
+Likely occupation:
+- Bureaucrat
+- archivist
+- clerk
+- courier
+- inspector
+- controller
+- auditor
+- examiner
+- coordinator or planner.
 
 Attributes & Abilities
-Coordination (3); Close Combat (0), Reactions (3), Mobility (3)
-Build (3); Stamina (2), Strength (1), Tolerance (3)
-Motor Skills (2); Manual Dexterity (3), Throwing (1), Firearms (0)
-Education (5); Humanities (5), Medicine (1), Natural Science (4)
-Creativity (4); Construction (0), Create (0), Deduction (8)
-Will (6); Determination (7), Resistance (2), Sense (3)
-Insight (3); Empathy (1), Oppose (4), Worldliness (1)
-Perception (4); Intuition (1), Vehicles (1), Awareness (6)
-Charisma (4); Charm (2), Leadership (2), Persuasion (4)
+
+- Coordination (3); Close Combat (0), Reactions (3), Mobility (3)
+- Build (3); Stamina (2), Strength (1), Tolerance (3)
+- Motor Skills (2); Manual Dexterity (3), Throwing (1), Firearms (0)
+- Education (5); Humanities (5), Medicine (1), Natural Science (4)
+- Creativity (4); Construction (0), Create (0), Deduction (8)
+- Will (6); Determination (7), Resistance (2), Sense (3)
+- Insight (3); Empathy (1), Oppose (4), Worldliness (1)
+- Perception (4); Intuition (1), Vehicles (1), Awareness (6)
+- Charisma (4); Charm (2), Leadership (2), Persuasion (4)
 
 ### Expertises
 
@@ -2009,20 +2329,46 @@ Lone wolves usually support themselves through odd jobs, criminal activities, or
 
 It's not uncommon for the lone wolf to be a wanderer who moves through the city and stays only a short time in any one place.
 
-Likely nature: Bitter, cynical, hopeful, dejected, sarcastic, taciturn, evasive, restless, insane, aggressive, self-destructive, manic, distrustful, desperate.
+Likely nature:
+- Bitter
+- cynical
+- hopeful
+- dejected
+- sarcastic
+- taciturn
+- evasive
+- restless
+- insane
+- aggressive
+- self-destructive
+- manic
+- distrustful
+- desperate.
 
-Likely occupation: Vagabond, outcast, fugitive, criminal, unemployed, hunter, survival expert, odd-jobber, murderer, mentally ill, avenger or crime fighter.
+Likely occupation:
+- Vagabond
+- outcast
+- fugitive
+- criminal
+- unemployed
+- hunter
+- survival expert
+- odd-jobber
+- murderer
+- mentally ill
+- avenger or crime fighter.
 
 Attributes & Abilities
-Coordination (4); Close Combat (4), Reactions (1), Mobility (3)
-Build (4); Stamina (2), Strength (1), Tolerance (5)
-Motor Skills (3); Manual Dexterity (4), Throwing (2), Firearms (0)
-Education (3); Humanities (3), Medicine (1), Natural Science (2)
-Creativity (5); Construction (4), Create (3), Deduction (3)
-Will (6); Determination (5), Resistance (7), Sense (0)
-Insight (4); Empathy (1), Oppose (4), Worldliness (3)
-Perception (3); Intuition (2), Vehicles (1), Awareness (3)
-Charisma (2); Charm (1), Leadership (0), Persuasion (3)
+
+- Coordination (4); Close Combat (4), Reactions (1), Mobility (3)
+- Build (4); Stamina (2), Strength (1), Tolerance (5)
+- Motor Skills (3); Manual Dexterity (4), Throwing (2), Firearms (0)
+- Education (3); Humanities (3), Medicine (1), Natural Science (2)
+- Creativity (5); Construction (4), Create (3), Deduction (3)
+- Will (6); Determination (5), Resistance (7), Sense (0)
+- Insight (4); Empathy (1), Oppose (4), Worldliness (3)
+- Perception (3); Intuition (2), Vehicles (1), Awareness (3)
+- Charisma (2); Charm (1), Leadership (0), Persuasion (3)
 
 ### Expertises
 
@@ -2043,20 +2389,49 @@ She knows what she wants and stops at nothing to get it. Manipulating, nagging, 
 
 Some femmes fatales use manipulation to survive, others deceive and betray merely for their own pleasure. On the street and in criminal organizations women have learned the art of seduction to be able to work their way up, but must always be vigilant and cautious as it's a dangerous game they play. Among the clans, seduction is an art form and there it's more about cruel games. A woman who has learned to twist her victims around her fingers has a powerful tool at her disposal, and many times her manipulative charm can be just as deadly as a lead bullet as it often strikes the heart.
 
-Likely nature: Ice-cold, smart, ensnaring, calculating, sadistic, masochistic, charming, understanding, appreciative, flattering, curious, bold, vulnerable, manipulative, quick-witted, passionate, sexy, irresponsible.
+Likely nature:
+- Ice-cold
+- smart
+- ensnaring
+- calculating
+- sadistic
+- masochistic
+- charming
+- understanding
+- appreciative
+- flattering
+- curious
+- bold
+- vulnerable
+- manipulative
+- quick-witted
+- passionate
+- sexy
+- irresponsible.
 
-Likely occupation: Housewife, seductress, thief, fugitive, model, upper-class dame, heist planner, avenger, crime victim, madame or mistress.
+Likely occupation:
+- Housewife
+- seductress
+- thief
+- fugitive
+- model
+- upper-class dame
+- heist planner
+- avenger
+- crime victim
+- madame or mistress.
 
 Attributes & Abilities
-Coordination (3); Close Combat (1), Reactions (2), Mobility (3)
-Build (3); Stamina (3), Strength (1), Tolerance (2)
-Motor Skills (2); Manual Dexterity (3), Throwing (0), Firearms (1)
-Education (3); Humanities (4), Medicine (1), Natural Science (1)
-Creativity (4); Construction (1), Create (2), Deduction (5)
-Will (4); Determination (4), Resistance (0), Sense (4)
-Insight (5); Empathy (1), Oppose (4), Worldliness (5)
-Perception (4); Intuition (5), Vehicles (0), Awareness (3)
-Charisma (6); Charm (7), Leadership (0), Persuasion (5)
+
+- Coordination (3); Close Combat (1), Reactions (2), Mobility (3)
+- Build (3); Stamina (3), Strength (1), Tolerance (2)
+- Motor Skills (2); Manual Dexterity (3), Throwing (0), Firearms (1)
+- Education (3); Humanities (4), Medicine (1), Natural Science (1)
+- Creativity (4); Construction (1), Create (2), Deduction (5)
+- Will (4); Determination (4), Resistance (0), Sense (4)
+- Insight (5); Empathy (1), Oppose (4), Worldliness (5)
+- Perception (4); Intuition (5), Vehicles (0), Awareness (3)
+- Charisma (6); Charm (7), Leadership (0), Persuasion (5)
 
 ### Expertises
 
@@ -2080,20 +2455,50 @@ Many specialize in a specific area such as weapons, drugs, slaves, transport, in
 
 Many fixers begin with time to see the entire social world as a collection of services and favors. If an acquaintance becomes too demanding these disillusioned individuals don't hesitate to terminate it or to sell their former friends to someone who offers some form of payment.
 
-Likely nature: Suspicious, superficial, talkative, pushy, curious, secretive, personal, ice-cold, boastful, slimy, ingratiating, surly, manic, nervous, greedy, spacey.
+Likely nature:
+- Suspicious
+- superficial
+- talkative
+- pushy
+- curious
+- secretive
+- personal
+- ice-cold
+- boastful
+- slimy
+- ingratiating
+- surly
+- manic
+- nervous
+- greedy
+- spacey.
 
-Likely occupation: Fence, small business owner, consultant, forger, odd-jobber, dealer, pawnbroker, smuggler, bartender, bookmaker, snitch, informant, procurer or slaver.
+Likely occupation:
+- Fence
+- small business owner
+- consultant
+- forger
+- odd-jobber
+- dealer
+- pawnbroker
+- smuggler
+- bartender
+- bookmaker
+- snitch
+- informant
+- procurer or slaver.
 
 Attributes & Abilities
-Coordination (3); Close Combat (1), Reactions (3), Mobility (2)
-Build (4); Stamina (3), Strength (3), Tolerance (2)
-Motor Skills (2); Manual Dexterity (1), Throwing (0), Firearms (3)
-Education (3); Humanities (3), Medicine (1), Natural Science (2)
-Creativity (3); Construction (1), Create (0), Deduction (5)
-Will (4); Determination (5), Resistance (2), Sense (1)
-Insight (6); Empathy (1), Oppose (2), Worldliness (9)
-Perception (4); Intuition (4), Vehicles (0), Awareness (4)
-Charisma (5); Charm (4), Leadership (0), Persuasion (6)
+
+- Coordination (3); Close Combat (1), Reactions (3), Mobility (2)
+- Build (4); Stamina (3), Strength (3), Tolerance (2)
+- Motor Skills (2); Manual Dexterity (1), Throwing (0), Firearms (3)
+- Education (3); Humanities (3), Medicine (1), Natural Science (2)
+- Creativity (3); Construction (1), Create (0), Deduction (5)
+- Will (4); Determination (5), Resistance (2), Sense (1)
+- Insight (6); Empathy (1), Oppose (2), Worldliness (9)
+- Perception (4); Intuition (4), Vehicles (0), Awareness (4)
+- Charisma (5); Charm (4), Leadership (0), Persuasion (6)
 
 ### Expertises
 
@@ -2112,20 +2517,56 @@ Convincing: Negotiate/haggle (Persuasion)
 
 The freelancer is a person who goes their own way or lets themselves be hired for services or substantial sums of money. However, they want to be their own and avoid becoming too closely tied to a particular organization. Many times the freelancer is hired to carry out distasteful, illegal and brutal assignments only to disappear afterward. One can find freelancers in many parts of society. It could be anything from private detectives who don't hesitate to take morally questionable assignments to professional killers in the underworld who have made killing their art. Violence and death seem to seek out freelancers and many become notorious and feared. But life is hard and as if it weren't enough that the degenerate experiences risk tearing their minds apart, freelancers can at any moment be subjected to assassination attempts from former antagonists or employers.
 
-Likely nature: Honorable, moody, cold, selfish, efficient, compassionate, diligent, detached, secretive, curious, superficial, bold, brave, idealistic, dishonest, liar, braggart, meticulous, principled, cocky, suspicious, cynical.
+Likely nature:
+- Honorable
+- moody
+- cold
+- selfish
+- efficient
+- compassionate
+- diligent
+- detached
+- secretive
+- curious
+- superficial
+- bold
+- brave
+- idealistic
+- dishonest
+- liar
+- braggart
+- meticulous
+- principled
+- cocky
+- suspicious
+- cynical.
 
-Likely occupation: Debt collector, bounty hunter, bodyguard, professional killer, odd-jobber, enforcer, guard, private detective, protector, courier, adventurer, daredevil, bouncer or problem-solver.
+Likely occupation:
+- Debt collector
+- bounty hunter
+- bodyguard
+- professional killer
+- odd-jobber
+- enforcer
+- guard
+- private detective
+- protector
+- courier
+- adventurer
+- daredevil
+- bouncer or problem-solver.
 
 Attributes & Abilities
-Coordination (6); Close Combat (5), Reactions (4), Mobility (3)
-Physique (4); Stamina (3), Strength (4), Tolerance (1)
-Motor Skills (5); Dexterity (1), Throwing Weapons (2), Firearms (7)
-Education (3); Humanities (2), Medicine (1), Natural Science (3)
-Creativity (3); Construction (1), Create (1), Deduction (4)
-Willpower (4); Determination (3), Resistance (4), Sense (1)
-Insight (3); Empathy (0), Withstand (2), Worldly (4)
-Perception (4); Intuition (2), Vehicles (1), Awareness (5)
-Charisma (2); Charm (0), Leadership (0), Persuade (4)
+
+- Coordination (6); Close Combat (5), Reactions (4), Mobility (3)
+- Physique (4); Stamina (3), Strength (4), Tolerance (1)
+- Motor Skills (5); Dexterity (1), Throwing Weapons (2), Firearms (7)
+- Education (3); Humanities (2), Medicine (1), Natural Science (3)
+- Creativity (3); Construction (1), Create (1), Deduction (4)
+- Willpower (4); Determination (3), Resistance (4), Sense (1)
+- Insight (3); Empathy (0), Withstand (2), Worldly (4)
+- Perception (4); Intuition (2), Vehicles (1), Awareness (5)
+- Charisma (2); Charm (0), Leadership (0), Persuade (4)
 
 ### Expertises
 
@@ -2148,20 +2589,51 @@ The street vagrant lives outside the system. They support themselves by begging,
 
 The street vagrants live in many ways in their own world, in the shadow of humanity and the eternal city. There they wait, watch and fight for their survival. Among them one can find fallen prophets, mad leaders, visionaries and lunatics. They fight among themselves over food scraps from dumpsters and hide from the police's searchlights to avoid beatings or execution. Hunger, alienation and cheap liquor cause their psyche to break down and they have difficulty distinguishing dream from reality. Many die after only a few years on the street, frozen to death during winter nights or beaten to death in the search for something to eat.
 
-Likely nature: Manic, depressed, insane, taciturn, submissive, aggressive, intrusive, evasive, unpleasant, sarcastic, ruthless, curious, hopeful, bitter, cynical.
+Likely nature:
+- Manic
+- depressed
+- insane
+- taciturn
+- submissive
+- aggressive
+- intrusive
+- evasive
+- unpleasant
+- sarcastic
+- ruthless
+- curious
+- hopeful
+- bitter
+- cynical.
 
-Likely occupation: Homeless, vagrant, bum, addict, unemployed, petty criminal, snitch, fence, beggar, drifter, street musician, odd-jobber, street child, mentally ill, runaway or refugee.
+Likely occupation:
+- Homeless
+- vagrant
+- bum
+- addict
+- unemployed
+- petty criminal
+- snitch
+- fence
+- beggar
+- drifter
+- street musician
+- odd-jobber
+- street child
+- mentally ill
+- runaway or refugee.
 
 Attributes & Abilities
-Coordination (5); Close Combat (4), Reactions (2), Mobility (4)
-Physique (4); Stamina (1), Strength (2), Tolerance (5)
-Motor Skills (3); Dexterity (6), Throwing Weapons (0), Firearms (0)
-Education (3); Humanities (3), Medicine (1), Natural Science (2)
-Creativity (4); Construction (3), Create (3), Deduction (2)
-Willpower (2); Determination (1), Resistance (3), Sense (0)
-Insight (4); Empathy (0), Withstand (3), Worldly (5)
-Perception (6); Intuition (5), Vehicles (0), Awareness (7)
-Charisma (3); Charm (0), Leadership (0), Persuade (6)
+
+- Coordination (5); Close Combat (4), Reactions (2), Mobility (4)
+- Physique (4); Stamina (1), Strength (2), Tolerance (5)
+- Motor Skills (3); Dexterity (6), Throwing Weapons (0), Firearms (0)
+- Education (3); Humanities (3), Medicine (1), Natural Science (2)
+- Creativity (4); Construction (3), Create (3), Deduction (2)
+- Willpower (2); Determination (1), Resistance (3), Sense (0)
+- Insight (4); Empathy (0), Withstand (3), Worldly (5)
+- Perception (6); Intuition (5), Vehicles (0), Awareness (7)
+- Charisma (3); Charm (0), Leadership (0), Persuade (6)
 
 ### Expertises
 
@@ -2181,20 +2653,44 @@ Persuasive: Persuade/implore (Persuade)
 
 Tactical officers are cold-blooded and combat-ready individuals deployed when the police force expects heavy resistance or needs to clean up dangerous areas. They can almost be likened to a military force within the police. They are often considered lacking in finesse and have the mentality of shoot first and ask questions later, but in their profession this is usually a requirement to survive. Some are driven entirely by aggression and adrenaline during missions, others by a sense of bringing justice, but all are marked in one way or another by the violence. Constantly encountering desperate people seconds before they behold death wears on the peace of mind and many seek destructive paths to relax and release the pressure.
 
-Likely nature: Efficient, hardened, bitter, cynical, judgmental, narrow-minded, categorical, aggressive, tired, authoritarian, contemplative, principled, convinced, corrupt, sadistic, lone wolf, driven, burned out.
+Likely nature:
+- Efficient
+- hardened
+- bitter
+- cynical
+- judgmental
+- narrow-minded
+- categorical
+- aggressive
+- tired
+- authoritarian
+- contemplative
+- principled
+- convinced
+- corrupt
+- sadistic
+- lone wolf
+- driven
+- burned out.
 
-Likely occupation: Tactical officer, riot police, sewer hound, security troops, state protection unit or escort force.
+Likely occupation:
+- Tactical officer
+- riot police
+- sewer hound
+- security troops
+- state protection unit or escort force.
 
 Attributes & Abilities
-Coordination (5); Close Combat (4), Reactions (4), Mobility (2)
-Physique (4); Stamina (4), Strength (4), Tolerance (0)
-Motor Skills (6); Dexterity (1), Throwing Weapons (2), Firearms (9)
-Education (3); Humanities (1), Natural Science (1), Medicine (4)
-Creativity (4); Construction (3), Create (2), Deduction (3)
-Willpower (4); Determination (3), Resistance (4), Sense (1)
-Insight (3); Empathy (0), Withstand (5), Worldly (1)
-Perception (3); Intuition (2), Vehicles (0), Awareness (4)
-Charisma (2); Charm (0), Leadership (4), Persuade (0)
+
+- Coordination (5); Close Combat (4), Reactions (4), Mobility (2)
+- Physique (4); Stamina (4), Strength (4), Tolerance (0)
+- Motor Skills (6); Dexterity (1), Throwing Weapons (2), Firearms (9)
+- Education (3); Humanities (1), Natural Science (1), Medicine (4)
+- Creativity (4); Construction (3), Create (2), Deduction (3)
+- Willpower (4); Determination (3), Resistance (4), Sense (1)
+- Insight (3); Empathy (0), Withstand (5), Worldly (1)
+- Perception (3); Intuition (2), Vehicles (0), Awareness (4)
+- Charisma (2); Charm (0), Leadership (4), Persuade (0)
 
 ### Expertises
 
@@ -2218,20 +2714,43 @@ The world is observed, filtered and recreated through the artist. Impressions ar
 
 These creative people rarely fit the societal mold and many have difficulty supporting themselves. State censorship also complicates free thinking and many let their creation happen in secret and expose themselves only to a smaller audience. Some artists specialize in the generally accepted and popular and can succeed in living off their profession even if the creative side isn't satisfied. Others let the works take macabre forms, difficult for many to understand, but somewhere in the incomprehensible truth and insight can reveal themselves.
 
-Likely nature: Manic, depressed, melancholic, trying, engaged, shy, pompous, arrogant, interested, curious, secretive, spacey, difficult, talkative, strange.
+Likely nature:
+- Manic
+- depressed
+- melancholic
+- trying
+- engaged
+- shy
+- pompous
+- arrogant
+- interested
+- curious
+- secretive
+- spacey
+- difficult
+- talkative
+- strange.
 
-Likely occupation: Author, painter, artist, composer, writer, sculptor, photographer or poet.
+Likely occupation:
+- Author
+- painter
+- artist
+- composer
+- writer
+- sculptor
+- photographer or poet.
 
 Attributes & Abilities
-Coordination (3); Close Combat (0), Reactions (3), Mobility (3)
-Physique (4); Stamina (3), Strength (2), Tolerance (3)
-Motor Skills (2); Dexterity (3), Throwing Weapons (1), Firearms (0)
-Education (4); Humanities (5), Medicine (1), Natural Science (2)
-Creativity (6); Construction (2), Create (9), Deduction (1)
-Willpower (5); Determination (5), Resistance (1), Sense (4)
-Insight (3); Empathy (4), Withstand (1), Worldly (1)
-Perception (4); Intuition (4), Vehicles (1), Awareness (3)
-Charisma (3); Charm (4), Leadership (0), Persuade (2)
+
+- Coordination (3); Close Combat (0), Reactions (3), Mobility (3)
+- Physique (4); Stamina (3), Strength (2), Tolerance (3)
+- Motor Skills (2); Dexterity (3), Throwing Weapons (1), Firearms (0)
+- Education (4); Humanities (5), Medicine (1), Natural Science (2)
+- Creativity (6); Construction (2), Create (9), Deduction (1)
+- Willpower (5); Determination (5), Resistance (1), Sense (4)
+- Insight (3); Empathy (4), Withstand (1), Worldly (1)
+- Perception (4); Intuition (4), Vehicles (1), Awareness (3)
+- Charisma (3); Charm (4), Leadership (0), Persuade (2)
 
 ### Expertises
 
@@ -2252,9 +2771,39 @@ the law and the law doesn't care about scum like you."
 
 As a cop you get to experience the violence, misery, terror, and the most unspeakable of perversions only to then return to your normal life, with family and colleagues who tackle the same terrible experiences. Not many manage this balancing act without being dragged down into depression and the feeling of helplessness. Many become desensitized and emotionally cold, others try to suppress the experiences through substance abuse. Being forced to experience the worst in all people can crush the strongest. However, there are those who keep their spirits up, don't let themselves be corrupted and actually see that their efforts make a difference, that they succeed in saving lives, helping fellow human beings and putting scoundrels behind bars. Yet it's hard to stay on the right side of the law, even for its guardians, especially when the criminals often have better resources, more money and contacts all the way up to the cabinet, the courts and the ministries.
 
-Likely nature: Efficient, enthusiastic, jaded, bitter, cynical, judgmental, narrow-minded, hateful, aggressive, understanding, tired, authoritarian, insightful, wise, principled, convinced, corrupt, sadistic, lone wolf, rule-breaker, scared, cowardly, resigned, helpful, driven, burned out.
+Likely nature:
+- Efficient
+- enthusiastic
+- jaded
+- bitter
+- cynical
+- judgmental
+- narrow-minded
+- hateful
+- aggressive
+- understanding
+- tired
+- authoritarian
+- insightful
+- wise
+- principled
+- convinced
+- corrupt
+- sadistic
+- lone wolf
+- rule-breaker
+- scared
+- cowardly
+- resigned
+- helpful
+- driven
+- burned out.
 
-Likely occupation: Radio car cop, patrolling police constable, guard, crime fighter or citizen guardsman.
+Likely occupation:
+- Radio car cop
+- patrolling police constable
+- guard
+- crime fighter or citizen guardsman.
 
 Attributes & Skills
 Coordination (4); Close Combat (4), Reactions (2), Mobility (2)
@@ -2287,9 +2836,33 @@ Many use drugs to numb the experiences and most are subordinated to pimps who ta
 
 Self-destructiveness and ever-expanding boundaries for which services are performed for payment lead to few prostitutes succeeding in leaving their profession. However, there are those who manage to establish a somewhat tolerable existence together with their sisters or brothers as family. A small clique that has been blessed with looks and aptitude may come to reach positions as kept mistresses for rich and/or famous individuals, and maintain their own apartment and pocket money.
 
-Likely nature: Resigned, kind-hearted, cynical, bitter, suicidal, sadistic, masochist, self-loathing, passive, action-oriented, proud, rough, sarcastic, crude, distrustful.
+Likely nature:
+- Resigned
+- kind-hearted
+- cynical
+- bitter
+- suicidal
+- sadistic
+- masochist
+- self-loathing
+- passive
+- action-oriented
+- proud
+- rough
+- sarcastic
+- crude
+- distrustful.
 
-Likely occupation: Stripper, street whore, brothel trash, escort, callgirl, luxury prostitute, porn star, mistress, kept woman or arm candy.
+Likely occupation:
+- Stripper
+- street whore
+- brothel trash
+- escort
+- callgirl
+- luxury prostitute
+- porn star
+- mistress
+- kept woman or arm candy.
 
 Attributes & Skills
 Coordination (4); Close Combat (2), Reactions (2), Mobility (4)
@@ -2324,9 +2897,34 @@ The State has in many ways made it more difficult for the church and made people
 
 The priests represent the ancient, a different perspective and the dream that somewhere beyond the human there is something greater. Beyond the cold and hard world there is joy and salvation for those who strive to work hard and do good. This very fact, that something would be greater and more powerful than the State, is in itself provocative for many. But people want to have something to believe in. They want hope.
 
-Likely nature: Kind-hearted, false, believing, fanatic, doubting, insane, taciturn, weak-willed, helping, narrow-minded, bitter, self-sacrificing, idealist.
+Likely nature:
+- Kind-hearted
+- false
+- believing
+- fanatic
+- doubting
+- insane
+- taciturn
+- weak-willed
+- helping
+- narrow-minded
+- bitter
+- self-sacrificing
+- idealist.
 
-Likely occupation: Priest, exorcist, preacher, benefactor, doomsday prophet, bishop, cardinal, clerk, volunteer worker, truth-seeker, researcher, witch hunter or savior.
+Likely occupation:
+- Priest
+- exorcist
+- preacher
+- benefactor
+- doomsday prophet
+- bishop
+- cardinal
+- clerk
+- volunteer worker
+- truth-seeker
+- researcher
+- witch hunter or savior.
 
 Attributes & Skills
 Coordination (3); Close Combat (0), Reactions (3), Mobility (3)
@@ -2363,9 +2961,33 @@ In a society where all news is under strict censorship, where complaints against
 A reporter has good insight into the part of the city he/
 she is located in, and plenty of contacts and sources. Moreover, he/she has access to masses of archive material at the editorial office and stumbles now and then upon unpleasant conspiracies and strange events.
 
-Likely nature: Curious, bitter, cynical, inquisitive, dreamer, idealist, angry, driving, engaged, tired, daring, rule-breaker, compassionate, principled, honest, corrupt, burned out.
+Likely nature:
+- Curious
+- bitter
+- cynical
+- inquisitive
+- dreamer
+- idealist
+- angry
+- driving
+- engaged
+- tired
+- daring
+- rule-breaker
+- compassionate
+- principled
+- honest
+- corrupt
+- burned out.
 
-Likely occupation: Newspaperman, correspondent, photographer, editor, searcher, freelance reporter, documenter or investigative journalist.
+Likely occupation:
+- Newspaperman
+- correspondent
+- photographer
+- editor
+- searcher
+- freelance reporter
+- documenter or investigative journalist.
 
 Attributes & Skills
 Coordination (3); Close Combat (1), Reactions (4), Mobility (1)
@@ -2396,18 +3018,42 @@ Convincing: Convince/implore (Persuade)
 The Brawler makes a living fighting for various reasons. Being constantly in brawls or messy situations is his/her life. It could be a way to make ends meet, for example through illegal boxing matches or death fights. Or it's just that the language of fists comes naturally to the person, perhaps due to long-term bullying during upbringing, chaotic conditions, petty crime, or other factors that created a need for the ability to defend oneself. The
 Brawler's life is often marked by injuries and scars from fights, and he/she frequently suffers permanent damage, memory problems, or a smashed-in face. To numb the pain, many choose to turn to painkillers or alcohol.
 Few brawlers manage to live a normal life. Some try to settle down, find honest work, and perhaps even start a family, but the violence in their past has left its mark and it's hard not to fall back into it. Enemies from before who suddenly appear, frustrating situations, and mockery from bosses or colleagues can be very difficult to ignore when the fists are so eager to speak. The Brawler wages a constant battle against himself, his animalistic side, and his own aggression. Violence seems to have taken root forever, and many brawlers eventually give themselves over to it completely.
-Likely nature: Taciturn, survivor, bully, aggressive, single-minded, stupid, emotionally disturbed, self-assertive, sadistic, brutal, bitter, burnt out, disturbed, driven.
-Likely occupation: Boxer, bouncer, odd-jobs worker, petty criminal, laborer, bodyguard, enforcer, unemployed, or martial artist.
+Likely nature:
+- Taciturn
+- survivor
+- bully
+- aggressive
+- single-minded
+- stupid
+- emotionally disturbed
+- self-assertive
+- sadistic
+- brutal
+- bitter
+- burnt out
+- disturbed
+- driven.
+Likely occupation:
+- Boxer
+- bouncer
+- odd-jobs worker
+- petty criminal
+- laborer
+- bodyguard
+- enforcer
+- unemployed
+- or martial artist.
 Attributes & Abilities
-Coordination (6); Close Combat (7), Reactions (4), Mobility (1)
-Build (5); Endurance (3), Strength (7), Tolerance (0)
-Motor Skills (3); Manual Dexterity (2), Throwing (2), Firearms (2)
-Education (2); Humanities (1), Medicine (2), Natural Science (1)
-Creativity (4); Construction (3), Create (3), Deduction (2)
-Will (4); Determination (2), Resistance (4), Sense (2)
-Insight (3); Empathy (1), Oppose (1), Streetwise (4)
-Perception (4); Intuition (2), Vehicles (2), Awareness (4)
-Presence (3); Charm (1), Leadership (2), Persuade (3)
+
+- Coordination (6); Close Combat (7), Reactions (4), Mobility (1)
+- Build (5); Endurance (3), Strength (7), Tolerance (0)
+- Motor Skills (3); Manual Dexterity (2), Throwing (2), Firearms (2)
+- Education (2); Humanities (1), Medicine (2), Natural Science (1)
+- Creativity (4); Construction (3), Create (3), Deduction (2)
+- Will (4); Determination (2), Resistance (4), Sense (2)
+- Insight (3); Empathy (1), Oppose (1), Streetwise (4)
+- Perception (4); Intuition (2), Vehicles (2), Awareness (4)
+- Presence (3); Charm (1), Leadership (2), Persuade (3)
 **Expertises**
 Amateur Boxing (Close Combat)
 Professional Boxing (Close Combat)
@@ -2423,18 +3069,44 @@ Cursed enemy, I hate you! Well great, just what I needed—mud splatter in my fo
 The State needs fodder for war's meat grinders, and it's the soldiers who are devoured. As a soldier, you get lousy compensation for defending your country, your way of life, and your ideals against the enemy. Usually the circumstances are terrible.
 Death stinks in the trenches while machine guns roar, gas grenades detonate, and orders are screamed. If the enemy's bullets don't finish off the soldier, the environment does its best, with starvation, diseases, infections, and madness. As a soldier, you've seen most of the worst that's hidden in man's interior.
 Virtually no one who joins the army returns home without being changed. Some suffer from physical and psychological damage. Others are hardened and cold, and some long to return to the trenches where life is mapped out and simple when you just follow orders. Fellowship with people who haven't experienced war's horrors is difficult to maintain as you live in different worlds. Something in soldiers dies among barbed wire and minefields. Virtue is lost forever.
-Likely nature: Idealist, cynical, sentimental, war-damaged, fearful, slovenly, heroic, cold-blooded, insane, violent, brutal, calm, broken, patriotic.
-Likely occupation: Private, officer, staff member, intelligence agent, courier, specialist, commando, engineer, strategist, interrogator, or pilot.
+Likely nature:
+- Idealist
+- cynical
+- sentimental
+- war-damaged
+- fearful
+- slovenly
+- heroic
+- cold-blooded
+- insane
+- violent
+- brutal
+- calm
+- broken
+- patriotic.
+Likely occupation:
+- Private
+- officer
+- staff member
+- intelligence agent
+- courier
+- specialist
+- commando
+- engineer
+- strategist
+- interrogator
+- or pilot.
 Attributes & Abilities
-Coordination (4); Close Combat (4), Reactions (3), Mobility (1)
-Build (5); Endurance (4), Strength (2), Tolerance (4)
-Motor Skills (6); Manual Dexterity (1), Throwing (4), Firearms (7)
-Education (3); Humanities (2), Medicine (2), Natural Science (2)
-Creativity (3); Construction (3), Create (1), Deduction (2)
-Will (4); Determination (1), Resistance (7), Sense (0)
-Insight (2); Empathy (1), Oppose (2), Streetwise (1)
-Perception (4); Intuition (3), Vehicles (1), Awareness (4)
-Presence (3); Charm (1), Leadership (2), Persuade (3)
+
+- Coordination (4); Close Combat (4), Reactions (3), Mobility (1)
+- Build (5); Endurance (4), Strength (2), Tolerance (4)
+- Motor Skills (6); Manual Dexterity (1), Throwing (4), Firearms (7)
+- Education (3); Humanities (2), Medicine (2), Natural Science (2)
+- Creativity (3); Construction (3), Create (1), Deduction (2)
+- Will (4); Determination (1), Resistance (7), Sense (0)
+- Insight (2); Empathy (1), Oppose (2), Streetwise (1)
+- Perception (4); Intuition (3), Vehicles (1), Awareness (4)
+- Presence (3); Charm (1), Leadership (2), Persuade (3)
 **Expertises**
 Throwing Technique: Hand Grenades (Throwing)
 March (Endurance)
@@ -2455,18 +3127,38 @@ Without maintenance and the technicians' brains, Sandukar would be a silent and 
 By using their hands and their minds, the technician can create fantastic mechanical inventions that can result in everything from brutal war machines to precise clockworks.
 However, one must follow state laws and there are a handful of areas within technical research that must not be entered.
 Crossing these boundaries means being counted as a terrorist and thus risking execution. Exactly why these areas are forbidden is not explained, but most people value their lives and follow the templates the State has provided for how technological innovations should look.
-Likely nature: Fanatical, goal-oriented, gruff, shy, manic, efficient, perfectionist, cheerful, clumsy, clever, focused, cowardly, curious.
-Likely occupation: Inventor, constructor, engineer, repairman, mechanic, or locksmith.
+Likely nature:
+- Fanatical
+- goal-oriented
+- gruff
+- shy
+- manic
+- efficient
+- perfectionist
+- cheerful
+- clumsy
+- clever
+- focused
+- cowardly
+- curious.
+Likely occupation:
+- Inventor
+- constructor
+- engineer
+- repairman
+- mechanic
+- or locksmith.
 Attributes & Abilities
-Coordination (3); Close Combat (0), Reactions (3), Mobility (3)
-Build (4); Endurance (3), Strength (3), Tolerance (2)
-Motor Skills (3); Manual Dexterity (3), Throwing (3), Firearms (0)
-Education (5); Humanities (2), Medicine (0), Natural Science (8)
-Creativity (6); Construction (8), Create (0), Deduction (4)
-Will (4); Determination (5), Resistance (0), Sense (3)
-Insight (2); Empathy (0), Oppose (4), Streetwise (0)
-Perception (4); Intuition (1), Vehicles (3), Awareness (4)
-Presence (3); Charm (2), Leadership (0), Persuade (4)
+
+- Coordination (3); Close Combat (0), Reactions (3), Mobility (3)
+- Build (4); Endurance (3), Strength (3), Tolerance (2)
+- Motor Skills (3); Manual Dexterity (3), Throwing (3), Firearms (0)
+- Education (5); Humanities (2), Medicine (0), Natural Science (8)
+- Creativity (6); Construction (8), Create (0), Deduction (4)
+- Will (4); Determination (5), Resistance (0), Sense (3)
+- Insight (2); Empathy (0), Oppose (4), Streetwise (0)
+- Perception (4); Intuition (1), Vehicles (3), Awareness (4)
+- Presence (3); Charm (2), Leadership (0), Persuade (4)
 **Expertises**
 Quick Study (Determination)
 Technical Focus: (choose an appropriate field) (Construction)
@@ -2485,18 +3177,48 @@ Persuasive: Negotiate/haggle (Persuade)
 Do I have to break more of your ribs before you cough up the money? You're the one who gambled it away, you're the one who spits it back up! Don't give me that old story again, wife and kids, bah! Next time it's your wife I'll kick the shit out of, so you better pay up before the week's over. Then it'll be your kids. Rulov's generosity has limits, and you passed them long ago. So now you're crying, you weak bastard!"
 When someone needs to be threatened, beaten, or killed, the enforcer is called in. This cold-hearted individual makes a living by destroying lives and collecting debts for payment. The enforcer usually has a criminal past and has usually grown up in a world of violence and lies. This has hardened him/her to the degree that he/she now no longer hesitates to perform the most distasteful acts for a sum of money. Often the enforcer works for an organization in the underworld, but he/she can also function as a freelancer who is contacted when needed.
 Many enforcers are alcoholic brutes who've been forced into the only work they're capable of performing. They tell themselves they are without guilt as they only follow orders, but deep down many suffer. But there are also those who see killing as an art, who find pleasure in breaking ribs and squeezing people for money. These dangerous individuals have already stared down into the abyss and no longer fear its darkness.
-Likely nature: Taciturn, aggressive, efficient, talkative, loyal, corrupt, reliable, dutiful, polite, goal-oriented, attentive, resourceful, patient, perfectionist, sadistic, ingratiating, blunt, honest, dishonest.
-Likely occupation: Enforcer, collector, thug, bodyguard, hired muscle, debt collector, killer, bone-breaker, arsonist, or assassin.
+Likely nature:
+- Taciturn
+- aggressive
+- efficient
+- talkative
+- loyal
+- corrupt
+- reliable
+- dutiful
+- polite
+- goal-oriented
+- attentive
+- resourceful
+- patient
+- perfectionist
+- sadistic
+- ingratiating
+- blunt
+- honest
+- dishonest.
+Likely occupation:
+- Enforcer
+- collector
+- thug
+- bodyguard
+- hired muscle
+- debt collector
+- killer
+- bone-breaker
+- arsonist
+- or assassin.
 Attributes & Abilities
-Coordination (5); Close Combat (7), Reactions (2), Mobility (1)
-Build (4); Endurance (1), Strength (7), Tolerance (0)
-Motor Skills (6); Manual Dexterity (4), Throwing (1), Firearms (7)
-Education (2); Humanities (2), Medicine (1), Natural Science (1)
-Creativity (3); Construction (2), Create (1), Deduction (3)
-Will (4); Determination (2), Resistance (4), Sense (2)
-Insight (3); Empathy (0), Oppose (2), Streetwise (4)
-Perception (4); Intuition (3), Vehicles (2), Awareness (3)
-Presence (3); Charm (0), Leadership (2), Persuade (4)
+
+- Coordination (5); Close Combat (7), Reactions (2), Mobility (1)
+- Build (4); Endurance (1), Strength (7), Tolerance (0)
+- Motor Skills (6); Manual Dexterity (4), Throwing (1), Firearms (7)
+- Education (2); Humanities (2), Medicine (1), Natural Science (1)
+- Creativity (3); Construction (2), Create (1), Deduction (3)
+- Will (4); Determination (2), Resistance (4), Sense (2)
+- Insight (3); Empathy (0), Oppose (2), Streetwise (4)
+- Perception (4); Intuition (3), Vehicles (2), Awareness (3)
+- Presence (3); Charm (0), Leadership (2), Persuade (4)
 **Expertises**
 Lock Picking: Door Locks (Manual Dexterity)
 Brawling (Close Combat)
@@ -2514,18 +3236,58 @@ Persuasive: Threaten/intimidate/harass (Persuade)
 "When my flashlight illuminated the bloody symbols on the tiled wall, I realized I had found a new clue. Here, in this insane pattern, were the traces that would lead me to the murderer. He's luring me in and I'm now too deep in to resist, even though the investigation has officially been shut down. He's trying to tell me something, something I've missed. But I'll have to turn over every stone again and go through evidence and testimony one more time. I'll get you, you bastard!"
 An investigator is a person who spends their time interpreting clues, solving problems and searching for answers and people. Exactly what profession the investigator has can vary, he/she can be a police captain, hired consultant, problem-solver or private detective. Many investigators work for private individuals or companies.
 A corrupt police force that doesn't have the time or resources to conduct proper investigations, along with the need to have certain more illegal assignments carried out, means that the investigator fills an important function. Many assignments are simple and time-consuming, for example finding missing persons, finding evidence of infidelity and the like. However, it happens that the investigator stumbles into truly dangerous situations when trails turn out to lead to conspira-cies and high-level conflicts. Many investigators have a past in the police force (if they're not still there) and have contacts on the street.
-Likely nature: Efficient, enthusiastic, jaded, bitter, cynical, judgmental, narrow-minded, aggressive, understanding, tired, insightful, wise, principled, convinced, corrupt, sadistic, lone wolf, rule-breaker, afraid, cowardly, resigned, helpful, dri-ven, burned out, committed, personal, relaxed.
-Likely occupation: Criminal police, security police, crime scene technician, interrogation leader, negotiator, profiler, infiltrator, surveillance officer, private investigator, government investigator, insurance investigator, private detective.
+Likely nature:
+- Efficient
+- enthusiastic
+- jaded
+- bitter
+- cynical
+- judgmental
+- narrow-minded
+- aggressive
+- understanding
+- tired
+- insightful
+- wise
+- principled
+- convinced
+- corrupt
+- sadistic
+- lone wolf
+- rule-breaker
+- afraid
+- cowardly
+- resigned
+- helpful
+- dri-ven
+- burned out
+- committed
+- personal
+- relaxed.
+Likely occupation:
+- Criminal police
+- security police
+- crime scene technician
+- interrogation leader
+- negotiator
+- profiler
+- infiltrator
+- surveillance officer
+- private investigator
+- government investigator
+- insurance investigator
+- private detective.
 Attributes & Abilities
-Coordination (2); Close Combat (2), Reactions (1), Mobility (1)
-Physique (3); Endurance (3), Strength (2), Tolerance (1)
-Motor Skills (3); Dexterity (2), Throwing (0), Firearms (4)
-Learning (4); Humanities (4), Medicine (2), Natural Science (2)
-Creativity (4); Construction (0), Create (1), Deduction (7)
-Willpower (3); Determination (2), Resistance (2), Sense (2)
-Insight (5); Empathy (2), Withstand (4), Worldliness (4)
-Perception (6); Intuition (5), Vehicles (2), Awareness (5)
-Presence (4); Charm (1), Leadership (3), Persuade (4)
+
+- Coordination (2); Close Combat (2), Reactions (1), Mobility (1)
+- Physique (3); Endurance (3), Strength (2), Tolerance (1)
+- Motor Skills (3); Dexterity (2), Throwing (0), Firearms (4)
+- Learning (4); Humanities (4), Medicine (2), Natural Science (2)
+- Creativity (4); Construction (0), Create (1), Deduction (7)
+- Willpower (3); Determination (2), Resistance (2), Sense (2)
+- Insight (5); Empathy (2), Withstand (4), Worldliness (4)
+- Perception (6); Intuition (5), Vehicles (2), Awareness (5)
+- Presence (4); Charm (1), Leadership (3), Persuade (4)
 **Expertises**
 Studious (Determination)
 Instinct (Intuition)
@@ -2541,18 +3303,51 @@ Persuasive: Interrogate/interview (Persuade)
 I cannot stop being fascinated by her thoughts."
 Illness, madness and human suffering have always exis-ted and in Sandukar's society it exists in abundance. There are however those who have chosen to focus on helping the sick and vulnerable. As a caretaker one encounters many individuals some of whom carry permanent injuries to both body and soul. But despite the horrors caretakers encounter, there are many who feel satisfaction from seeing the fruit of their labor, the souls they've saved, the epidemics they've stopped. Others have given up in the face of the cruel world that constantly strikes the innocent, that takes the lives of young people needlessly, or where meaninglessly random violence strikes against the good.
 Caretakers exist in all parts of society, among the families one finds skilled private physicians who run luxurious clinics and in the slums there are doctors who struggle to cure those in need or who squeeze money out of those who ask for help. Many have realized the importance of having contact with skilled caretakers, as this can mean life and death for those who have been seriously injured or ill.
-Likely nature: Doubter, committed, detached, numbed, skilled, devoted, considerate, burned out, corrupt, friendly, cold, efficient, accommodating, superior, disintere-sted, principled, idealistic, braggart, talkative, incompetent.
-Likely occupation: Doctor, paramedic, mili-tary doctor, surgeon, researcher, medical examiner, psychologist, counselor, therapist, psychiatric nurse, nurse, pharmacologist.
+Likely nature:
+- Doubter
+- committed
+- detached
+- numbed
+- skilled
+- devoted
+- considerate
+- burned out
+- corrupt
+- friendly
+- cold
+- efficient
+- accommodating
+- superior
+- disintere-sted
+- principled
+- idealistic
+- braggart
+- talkative
+- incompetent.
+Likely occupation:
+- Doctor
+- paramedic
+- mili-tary doctor
+- surgeon
+- researcher
+- medical examiner
+- psychologist
+- counselor
+- therapist
+- psychiatric nurse
+- nurse
+- pharmacologist.
 Attributes & Abilities
-Coordination (3); Close Combat (1), Reactions (3), Mobility (2)
-Physique (3); Endurance (1), Strength (1), Tolerance (4)
-Motor Skills (3); Dexterity (5), Throwing (1), Firearms (0)
-Learning (6); Humanities (1), Medicine (10), Natural Science (1)
-Creativity (4); Construction (0), Create (1), Deduction (7)
-Willpower (5); Determination (4), Resistance (2), Sense (4)
-Insight (4); Empathy (5), Withstand (2), Worldliness (1)
-Perception (2); Intuition (1), Vehicles (1), Awareness (2)
-Presence (4); Charm (1), Leadership (4), Persuade (3)
+
+- Coordination (3); Close Combat (1), Reactions (3), Mobility (2)
+- Physique (3); Endurance (1), Strength (1), Tolerance (4)
+- Motor Skills (3); Dexterity (5), Throwing (1), Firearms (0)
+- Learning (6); Humanities (1), Medicine (10), Natural Science (1)
+- Creativity (4); Construction (0), Create (1), Deduction (7)
+- Willpower (5); Determination (4), Resistance (2), Sense (4)
+- Insight (4); Empathy (5), Withstand (2), Worldliness (1)
+- Perception (2); Intuition (1), Vehicles (1), Awareness (2)
+- Presence (4); Charm (1), Leadership (4), Persuade (3)
 **Expertises**
 Studious (Determination)
 Understanding (Empathy)
@@ -8232,23 +9027,33 @@ He first came to a mining village up in the snow-covered mountains and walked in
 
 The members of House Todescu had carefully planned an uprising, and during the darkest and coldest of winter months, they struck. Their troops succeeded with sabotage and well-planned attacks to take out almost all the military forces loyal to the State in less than a week. Com-
 
-PI A. Malov (#I-40955): And then you saw the suspect?
+PI A.
+
+**Malov (#I-40955):** And then you saw the suspect?
 
 (Confidential information): Yeah, then I saw the fucking asshole knock 'er down with an iron pipe. Just went clonk!
 
-PI A. Malov (#I-40955): And by "the fucking asshole" you mean the suspect, Argan Jakovlev?
+PI A.
+
+**Malov (#I-40955):** And by "the fucking asshole" you mean the suspect, Argan Jakovlev?
 
 (Confidential information): Yep, sure as amen in church.
 
-PI A. Malov (#I-40955): Right. How did you recognize the suspect?
+PI A.
+
+**Malov (#I-40955):** Right. How did you recognize the suspect?
 
 (Confidential information): Dead easy. He was lit up by a passing car. The whole mug was white on 'im. Well, except for the blood splatter.
 
-PI A. Malov (#I-40955): Okay, thank you for your cooperation. Is there anything you'd like to add?
+PI A.
+
+**Malov (#I-40955):** Okay, thank you for your cooperation. Is there anything you'd like to add?
 
 (Confidential information): Just that I've never been questioned by a pudding before. Say, when do you get off?
 
-PI A. Malov (#I-40955): Never. The interrogation is concluded. The time is 03:57.
+PI A.
+
+**Malov (#I-40955):** Never. The interrogation is concluded. The time is 03:57.
 
 End of interrogation with witness SA-Ik-933 4443 5577 332
 
