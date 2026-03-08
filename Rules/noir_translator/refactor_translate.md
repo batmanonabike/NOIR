@@ -38,6 +38,12 @@ brick building in red. The windows were
 barred. The building had previously
 been a police station
 ```
+Or:
+```
+The person is knowledgeable in the art of effectively preventing an
+enemy from acting offensively.
+```
+
 Join such lines into a single continuous paragraph. A line break is mid-sentence if:
 - The line does not end with a full stop, question mark, exclamation mark, colon, or em-dash, AND
 - The next line does not start with a capital letter that begins a new sentence, AND
@@ -48,19 +54,22 @@ Do NOT join lines when:
 - The next line is a heading, bullet point, or blockquote.
 - The line is part of a list, table, or character sheet section.
 
-### Rule 4 – Remove Stray Page Numbers
+**Be aggressive about joining mid-sentence breaks** — the PDF extraction often broke lines unnecessarily within sentences.
+
+### Rule 4 – Remove Stray Page Numbers and Numeric Prefixes
 Remove bare page numbers that appear alone on a line (residual print page numbers):
 ```
 9
 
 <!-- Page 10 -->
 ```
-Also fix page numbers that have been concatenated with chapter headings:
+Also fix page numbers or numeric prefixes that have been concatenated with text:
 ```
 15chapter 1 – introduction
 56 chapter 2 – The Protagonist
+47chapter 2 � The Protagonist
 ```
-Strip the leading number and fix capitalisation (see Rule 6 for heading format).
+Strip the leading number and fix the text. If it's a chapter heading, apply proper formatting (see Rule 6).
 
 ### Rule 5 – Remove HTML Page Marker Comments
 Remove all HTML comments that are PDF page markers. These look like:
@@ -171,6 +180,55 @@ If this is inside a character sheet section, it is covered by Rule 9. If it appe
 - The word `Sida` (Swedish for "page") should only appear in `<!-- Sida N -->` comments, which Rule 5 removes. If it appears elsewhere, remove it.
 - **Keep all in-world proper nouns** unchanged: `Sandukar`, `zovrins`, `Redovs`, `Donner`, `Chacha Club`, character names, place names, faction names.
 - **Keep all game-system terms** unchanged: ability names, skill names, attribute names.
+
+### Rule 14 – Fix Garbled Special Characters
+PDF extraction sometimes produces garbled characters, especially for em-dashes and special symbols:
+```
+Chapter 8 � The Experience
+47chapter 2 � The Protagonist
+10�19 � -1
+```
+Replace `�` with the appropriate character:
+- When between chapter number and title: use em-dash `–`
+- When in ranges or penalties: use proper dash or arrow `–` or `»`
+- Common replacements: `�` → `–`, `�` → `—`, `�` → `»`
+
+### Rule 15 – Add Paragraph Breaks in Massive Text Walls
+Some sections (especially archetype/background descriptions) have been concatenated into massive single paragraphs without line breaks. These typically combine:
+- Opening quote dialogue
+- Background description
+- Character motivations/traits 
+- Likely occupations
+- Attribute tables
+- Expertise lists
+
+When you encounter a text wall longer than 15-20 lines without breaks, insert paragraph breaks at logical boundaries:
+- After opening quote dialogue
+- Between conceptual sections (description → traits → occupations)
+- Before attribute/ability sections
+- Before expertise lists
+- Between "Likely nature:" and "Likely occupation:"
+- After each major topic shift
+
+Example transformation:
+```
+Brawler "You might not get it, but you're not getting in here! [200 words]... Likely nature: Taciturn, survivor... Likely occupation: Boxer, bouncer... Attributes & Abilities Coordination (6); Close Combat (7)...
+```
+Should become:
+```
+**Brawler**
+
+"You might not get it, but you're not getting in here! [dialogue]..."
+
+The Brawler makes a living fighting... [description paragraph]
+
+Likely nature: Taciturn, survivor, bully...
+
+Likely occupation: Boxer, bouncer, odd-jobs worker...
+
+**Attributes & Abilities**
+Coordination (6); Close Combat (7)...
+```
 
 ---
 
