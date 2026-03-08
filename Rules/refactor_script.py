@@ -62,7 +62,7 @@ text = re.sub(r'\*\*([^*\n]+)\*\*\n([a-z][^\n]+)', fix_bold_artifact, text)
 # ── Rule 3: Join mid-sentence line breaks ──────────────────────────────────
 # Lines ending with lowercase letter, comma, or semicolon, followed by
 # a line starting with lowercase – are mid-sentence breaks from PDF columns.
-# Multiple passes handle cascaded breaks.
+# Multiple passes handle cascaded breaks. With space between.
 for _ in range(8):
     prev = text
     text = re.sub(r'([a-z,;])\n([a-z])', r'\1 \2', text)
@@ -335,6 +335,206 @@ text = re.sub(
     text,
     flags=re.MULTILINE
 )
+
+# ── Convert attribute/skill proficiency tables ──────────────────────────────
+# Detect table patterns like lines of: "Name Value Calculation"
+# e.g., "Determination 2 2+0" "Charm 6 5+1" etc.
+def format_proficiency_table(text):
+    # Find sections that look like proficiency tables
+    # Header: "Attribute value" followed by "Skill Proficiency + Skill value"
+    # Then rows of: "AttributeName Number Number+Number"
+    header_pattern = r'(\n\*\*Attribute value\*\*\s*\nSkill Proficiency \+ Skill value)\n((?:[A-Z][^\n]*?\s+\d+\s+\d+\+\d+\n?)+)'
+    
+    def table_replacer(m):
+        header = m.group(1)
+        data_lines = m.group(2).strip()
+        
+        # Parse rows
+        rows = []
+        row_pattern = r'^([A-Za-z\s]+?)\s+(\d+)\s+(\d+\+\d+)$'
+        
+        for line in data_lines.split('\n'):
+            line = line.strip()
+            if not line:
+                continue
+            match = re.match(row_pattern, line)
+            if match:
+                name = match.group(1).strip()
+                value = match.group(2)
+                proficiency = match.group(3)
+                rows.append((name, value, proficiency))
+        
+        if rows:
+            # Build markdown table
+            table_lines = [
+                '| Attribute/Skill | Attribute Value | Proficiency |',
+                '|---|---|---|'
+            ]
+            for name, value, prof in rows:
+                table_lines.append(f'| {name} | {value} | {prof} |')
+            table = '\n'.join(table_lines) + '\n'
+            return header + '\n\n' + table
+        return m.group(0)
+    
+    text = re.sub(header_pattern, table_replacer, text, flags=re.MULTILINE)
+    
+    # Also handle proficiency table rows that appear inline (not after header)
+    # "Oppose 7 4+3 Natural science 5 3+2 Melee 7 3+4" → convert to table
+    inline_pattern = r'(?:^|\n)([A-Z][a-z][^\n]*?\s+\d+\s+\d+\+\d+(?:\s+[A-Z][a-z][^\n]*?\s+\d+\s+\d+\+\d+)+)\n'
+    
+    def inline_replacer(m):
+        data_str = m.group(1)
+        rows = []
+        row_pattern = r'([A-Za-z\s]+?)\s+(\d+)\s+(\d+\+\d+)'
+        
+        for match in re.finditer(row_pattern, data_str):
+            name = match.group(1).strip()
+            value = match.group(2)
+            proficiency = match.group(3)
+            if name and len(name) > 2:  # Avoid matching single letters
+                rows.append((name, value, proficiency))
+        
+        if len(rows) > 3:  # Only convert if we have enough rows for a table
+            table_lines = [
+                '| Attribute/Skill | Attribute Value | Proficiency |',
+                '|---|---|---|'
+            ]
+            for name, value, prof in rows:
+                table_lines.append(f'| {name} | {value} | {prof} |')
+            table = '\n' + '\n'.join(table_lines) + '\n'
+            return table
+        return m.group(0)
+    
+    text = re.sub(inline_pattern, inline_replacer, text, flags=re.MULTILINE)
+    
+    return text
+
+text = format_proficiency_table(text)
+
+# ── Convert expertise tables ──────────────────────────────────────────────
+# Pattern: "Skill Skill value Expertises" header followed by rows like:
+# "Manual dexterity 4 1—Lock picking: Door locks (p. 63)"
+def format_expertise_table(text):
+    # Find expertise table header and the following data block
+    # The section ends when we hit "Table" or a section heading or significant text change
+    pattern = r'\*?\*?Skill\s+Skill value\s+Expertises\*?\*?\n((?:[^\n]*\n?)*?)(?=Table\s+\d:|Step\s+\d+:|\n\n[A-Z][a-z]+ was chosen)'
+    
+    def replacer(m):
+        data_section = m.group(1)
+        
+        rows = []
+        lines = data_section.split('\n')
+        i = 0
+        while i < len(lines):
+            line = lines[i].rstrip()
+            
+            if not line.strip():
+                i += 1
+                continue
+            
+            # Look for pattern: SkillName Number Number—Description
+            # SkillName can be multiple words, Number is single digit
+            match = re.match(r'^(.+?)\s+(\d)\s+(\d+—.+?)$', line)
+            
+            if match:
+                skill = match.group(1).strip()
+                value = match.group(2)
+                expertise = match.group(3)
+                
+                # Collect continuation lines (those that don't start a new entry)
+                i += 1
+                while i < len(lines):
+                    next_line = lines[i].rstrip().strip()
+                    # Stop if we hit a new entry (starts with skill name + number+number—)
+                    if re.match(r'^[A-Z][a-z]+.*\d\s+\d+—', next_line):
+                        break
+                    # Stop if empty or Table marker
+                    if not next_line or next_line.startswith('Table '):
+                        i += 1
+                        break
+                    # Otherwise it's a continuation
+                    expertise += ' ' + next_line
+                    i += 1
+                
+                rows.append((skill, value, expertise))
+            else:
+                i += 1
+        
+        if rows:
+            table_lines = [
+                '| Skill | Skill Value | Expertises |',
+                '|---|---|---|'
+            ]
+            for skill, value, expertise in rows:
+                table_lines.append(f'| {skill} | {value} | {expertise} |')
+            result = '\n' + '\n'.join(table_lines) + '\n'
+            return result
+        return m.group(0)
+    
+    text = re.sub(pattern, replacer, text, flags=re.MULTILINE | re.DOTALL)
+    return text
+
+text = format_expertise_table(text)
+
+# ── Rule 15a: Convert expertise reference tables to Markdown ────────────────
+# These are lists of expertises with format: "Name [Complexity] Requirement Page#"
+# Examples: "Gut Feeling [2] Intuition 4+ 64"
+# They appear in blocks separated by blank lines and should become Markdown tables
+def format_expertise_reference_tables(text):
+    # Find blocks of expertise reference lines (consecutive lines with [N] pattern)
+    # Each line: "Text [Number] Requirement PageNum"
+    lines = text.split('\n')
+    result = []
+    i = 0
+    
+    while i < len(lines):
+        line = lines[i]
+        
+        # Check if this line matches expertise reference pattern: text [N] ... number
+        # Must have: [...] pattern with closing bracket followed by content and a page number at end
+        if re.match(r'^.+\s+\[\d+\].+\s+\d+\s*$', line.strip()):
+            # Start of expertise reference block
+            table_rows = []
+            
+            # Collect consecutive expertise reference lines
+            while i < len(lines):
+                line = lines[i].strip()
+                if not line:
+                    i += 1
+                    break
+                
+                if re.match(r'^.+\s+\[\d+\].+\s+\d+\s*$', line):
+                    # Parse the line: Name [Complexity] Requirement Page
+                    match = re.match(r'^(.+?)\s+\[(\d+)\]\s+(.+?)\s+(\d+)\s*$', line)
+                    if match:
+                        name = match.group(1).strip()
+                        complexity = f"[{match.group(2)}]"
+                        requirement = match.group(3).strip()
+                        page = match.group(4).strip()
+                        table_rows.append((name, complexity, requirement, page))
+                    i += 1
+                else:
+                    break
+            
+            # If we found table rows, convert to Markdown table
+            if table_rows:
+                result.append('| Expertise | Complexity | Requirement | Page |')
+                result.append('|---|---|---|---|')
+                for name, complexity, requirement, page in table_rows:
+                    result.append(f'| {name} | {complexity} | {requirement} | {page} |')
+                result.append('')  # Blank line after table
+        else:
+            result.append(line)
+            i += 1
+    
+    return '\n'.join(result)
+
+text = format_expertise_reference_tables(text)
+
+# ── Rule 15b: Add spacing before archetype section headings ───────────────
+# Ensures "Attributes & Skills" and other sections have blank lines before them
+# Pattern: word/period/colon at end of line, then "Attributes & Skills" on next line
+text = re.sub(r'([.\)])\n(Attributes & Skills|Expertises)', r'\1\n\n\2', text)
 
 # ── Rule 16: Replace angle-bracket placeholders with parentheses ──────────
 # Markdown parses <tag> as HTML, causing everything after to render as a link.

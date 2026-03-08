@@ -1490,53 +1490,58 @@ Proficiencies are obtained by summing the respective skill value with the govern
 The protagonist's proficiencies in Marco's case are shown in table 1:7.
 **Attribute value**
 Skill Proficiency + Skill value
-Determination 2 2+0
-Charm 6 5+1
-Empathy 5 4+1
-Manual dexterity 10 6+4
-Vehicles 4 4+0
-Humanities 5 3+2
-Intuition 8 4+4
-Throwing weapons 7 6+1
-Endurance 8 4+4
-Construction 4 3+1
-Leadership 9 5+4
-Medicine 5 3+2
+
+| Attribute/Skill | Attribute Value | Proficiency |
+|---|---|---|
+| Determination | 2 | 2+0 |
+| Charm | 6 | 5+1 |
+| Empathy | 5 | 4+1 |
+| Manual dexterity | 10 | 6+4 |
+| Vehicles | 4 | 4+0 |
+| Humanities | 5 | 3+2 |
+| Intuition | 8 | 4+4 |
+| Throwing weapons | 7 | 6+1 |
+| Endurance | 8 | 4+4 |
+| Construction | 4 | 3+1 |
+| Leadership | 9 | 5+4 |
+| Medicine | 5 | 3+2 |
 **The table continues on the next page**
 
-Oppose 7 4+3
-Natural science 5 3+2
-Melee 7 3+4
-Reactions 4 3+1
-Resistance 3 2+1
-Mobility 4 3+1
-Sense 5 2+3
-Create 4 3+1
-Firearms 13 6+7
-Deduction 7 3+4
-Strength 8 4+4
-Tolerance 4 4+0
-Awareness 8 4+4
-Streetwise 8 4+4
-Persuade 10 5+5
+| Attribute/Skill | Attribute Value | Proficiency |
+|---|---|---|
+| Oppose | 7 | 4+3 |
+| Natural science | 5 | 3+2 |
+| Melee | 7 | 3+4 |
+| Reactions | 4 | 3+1 |
+| Resistance | 3 | 2+1 |
+| Mobility | 4 | 3+1 |
+| Sense | 5 | 2+3 |
+| Create | 4 | 3+1 |
+| Firearms | 13 | 6+7 |
+| Deduction | 7 | 3+4 |
+| Strength | 8 | 4+4 |
+| Tolerance | 4 | 4+0 |
+| Awareness | 8 | 4+4 |
+| Streetwise | 8 | 4+4 |
+| Persuade | 10 | 5+5 |
 Table 1:7
 Step 8: Expertises (p. 28)
 Expertise is specialized competence or specialization within a skill. All skills that have a skill value between 
 4–6 get one expertise, and those with skill value 7+ get two expertises. In Marco's case this means that the protagonist gets expertises in the skills indicated in table 1:8. The table also shows the chosen expertises.
-**Skill Skill value Expertises**
-Manual dexterity 4 1—Lock picking: Door locks (p. 63)
-Intuition 4 1—Instinct (p. 64)
-Endurance 4 1—Good shape (p. 66)
-Leadership 4 1—Rhetoric: The army (p. 68)
-Melee 4 1—Amateur boxing (p. 69)
-Firearms 7 2—Battle-tested (p. 75),
-Weapon handling: Pistol (p. 75)
-Deduction 4 1—Clear-minded: Tactics/strategy (p. 75)
-Strength 4 1—Well-trained (p. 77)
-Awareness 4 1—Observant: Notice discrepancies/details (p. 78)
-Streetwise 4 1—Knows the score (p. 78)
-Persuade 5 1—Persuasive: Convince/plead
-(p. 79)
+
+| Skill | Skill Value | Expertises |
+|---|---|---|
+| Manual dexterity | 4 | 1—Lock picking: Door locks (p. 63) |
+| Intuition | 4 | 1—Instinct (p. 64) |
+| Endurance | 4 | 1—Good shape (p. 66) |
+| Leadership | 4 | 1—Rhetoric: The army (p. 68) |
+| Melee | 4 | 1—Amateur boxing (p. 69) |
+| Firearms | 7 | 2—Battle-tested (p. 75), Weapon handling: Pistol (p. 75) |
+| Deduction | 4 | 1—Clear-minded: Tactics/strategy (p. 75) |
+| Strength | 4 | 1—Well-trained (p. 77) |
+| Awareness | 4 | 1—Observant: Notice discrepancies/details (p. 78) |
+| Streetwise | 4 | 1—Knows the score (p. 78) |
+| Persuade | 5 | 1—Persuasive: Convince/plead (p. 79) |
 Table 1:8
 The expertises were chosen based on the image of the protagonist; a former officer in the army (Rhetoric: The army, Weapon handling: 
 Pistol, Battle-tested, Clear-minded: Tactics/strategy), a guy who keeps his body in shape (Well-trained, Good shape, Amateur 
@@ -1819,6 +1824,7 @@ Likely occupation:
 - state lawyer
 - military lawyer
 - advisor or schnapps lawyer.
+
 Attributes & Skills
 Coordination (3); Close Combat (0), Reactions (3), Mobility (3)
 Constitution (3); Endurance (2), Strength (1), Tolerance (3)
@@ -1895,6 +1901,7 @@ Likely occupation:
 - transporter
 - black market shark
 - fence or gangster.
+
 Attributes & Skills
 Coordination (2); Close Combat (0), Reactions (2), Mobility (2)
 Constitution (3); Endurance (2), Strength (2), Tolerance (2)
@@ -1949,6 +1956,7 @@ Likely occupation:
 - psychologist
 - profiler
 - civil servant or bureaucrat.
+
 Attributes & Skills
 Coordination (3); Close Combat (0), Reactions (3), Mobility (3)
 Constitution (2); Endurance (1), Strength (0), Tolerance (3)
@@ -2001,6 +2009,7 @@ Likely occupation:
 - laborer
 - airship pilot
 - taxi driver or guard.
+
 Attributes & Skills
 Coordination (4); Close Combat (4), Reactions (2), Mobility (2)
 Constitution (6); Endurance (3), Strength (5), Tolerance (4)
@@ -2061,6 +2070,7 @@ Likely occupation:
 - dancer
 - poet
 - model or mannequin.
+
 Attributes & Skills
 Coordination (4); Close Combat (1), Reactions (2), Mobility (5)
 Build (4); Stamina (4), Strength (1), Tolerance (3)
@@ -2071,6 +2081,7 @@ Willpower (3); Determination (4), Resistance (0), Sense (2)
 Insight (4); Empathy (2), Withstand (2), Worldliness (4)
 Perception (2); Intuition (2), Vehicles (1), Awareness (1)
 Charisma (6); Charm (8), Leadership (1), Persuade (3)
+
 Expertises:
 Focus (Determination)
 Charismatic: (something appropriate for the profession) (Charm)
@@ -2119,6 +2130,7 @@ Likely occupation:
 - basketball
 - rugby
 - etcetera).
+
 Attributes & Skills
 Coordination (5); Close Combat (1), Reactions (2), Mobility (7)
 Build (6); Stamina (7), Strength (5), Tolerance (0)
@@ -2171,6 +2183,7 @@ Likely occupation:
 - seductress
 - cult leader
 - quack or blackmailer.
+
 Attributes & Skills
 Coordination (3); Close Combat (1), Reactions (2), Mobility (3)
 Build (3); Stamina (3), Strength (1), Tolerance (2)
@@ -2239,6 +2252,7 @@ Likely occupation:
 - underboss
 - black market shark
 - fence or henchman.
+
 Attributes & Skills
 Coordination (5); Close Combat (4), Reactions (4), Mobility (2)
 Build (4); Stamina (2), Strength (4), Tolerance (2)
@@ -4207,269 +4221,333 @@ Then use the reference section to get more detailed information about each exper
 To directly use the reference section to see the connections and links between different expertises can easily seem unmanageable — then use the table for overview.
 
 Expertise [Complexity] Requirement Page
-Amateur in (sport) [1] (Ability) 4+ 79
-Practitioner in (sport) [1] (Ability) 7+, Amateur in (sport) 79
-Professional in (sport) [2] (Ability) 10+, Practitioner in (sport) 79
+| Expertise | Complexity | Requirement | Page |
+|---|---|---|---|
+| Amateur in (sport) | [1] | (Ability) 4+ | 79 |
+| Practitioner in (sport) | [1] | (Ability) 7+, Amateur in (sport) | 79 |
+| Professional in (sport) | [2] | (Ability) 10+, Practitioner in (sport) | 79 |
 
-Focus [2] Resolve 4+ 59
-Quick Learner [2] Resolve 4+ 59
-Alert [3] Resolve 7+, Quick Learner 59
-"It's Just a Flesh Wound..." [3] Resolve 7+ 59
-Stubborn [2] Resolve 7+ 59
-Stubborn as Sin [3] Resolve 10+, "It's Just a Flesh Wound..." 59
-High Performer [3] Resolve 10+, Alert 59
-Persistent [3] Resolve 10+, Stubborn 59
-Endure Hardship [3] Resolve 10+ 59
-Obstinate [4] Resolve 13+, Persistent 59
+| Expertise | Complexity | Requirement | Page |
+|---|---|---|---|
+| Focus | [2] | Resolve 4+ | 59 |
+| Quick Learner | [2] | Resolve 4+ | 59 |
+| Alert | [3] | Resolve 7+, Quick Learner | 59 |
+| "It's Just a Flesh Wound..." | [3] | Resolve 7+ | 59 |
+| Stubborn | [2] | Resolve 7+ | 59 |
+| Stubborn as Sin | [3] | Resolve 10+, "It's Just a Flesh Wound..." | 59 |
+| High Performer | [3] | Resolve 10+, Alert | 59 |
+| Persistent | [3] | Resolve 10+, Stubborn | 59 |
+| Endure Hardship | [3] | Resolve 10+ | 59 |
+| Obstinate | [4] | Resolve 13+, Persistent | 59 |
 
-Charismatic [2] Charm 4+ 62
-Very Charismatic [2] Charm 7+, Charismatic (within sphere) 62
-Exceptionally Charismatic [3] Charm 10+, Very Charismatic (within sphere) 62
+| Expertise | Complexity | Requirement | Page |
+|---|---|---|---|
+| Charismatic | [2] | Charm 4+ | 62 |
+| Very Charismatic | [2] | Charm 7+, Charismatic (within sphere) | 62 |
+| Exceptionally Charismatic | [3] | Charm 10+, Very Charismatic (within sphere) | 62 |
 
-Read Person [2] Empathy 4+ 62
-Animal Friend [3] Empathy 4+ 62
-Understanding [2] Empathy 4+ 62
-Sympathetic [2] Empathy 7+, Understanding 62
-Comfort & Calm [2] Empathy 4+ 62
-Intuitive [4] Empathy 7+ 62
-Tangible Reading [2] Empathy 7+, Read Person 62
-Intense Reading [4] Empathy 10+, Tangible Reading 62
+| Expertise | Complexity | Requirement | Page |
+|---|---|---|---|
+| Read Person | [2] | Empathy 4+ | 62 |
+| Animal Friend | [3] | Empathy 4+ | 62 |
+| Understanding | [2] | Empathy 4+ | 62 |
+| Sympathetic | [2] | Empathy 7+, Understanding | 62 |
+| Comfort & Calm | [2] | Empathy 4+ | 62 |
+| Intuitive | [4] | Empathy 7+ | 62 |
+| Tangible Reading | [2] | Empathy 7+, Read Person | 62 |
+| Intense Reading | [4] | Empathy 10+, Tangible Reading | 62 |
 
-Pickpocket [2] Manual Dexterity 4+ 63
-Lockpicking [2] Manual Dexterity 4+ 63
-Tricks [1] Manual Dexterity 4+ 63
-Experienced Pickpocket [2] Manual Dexterity 7+, Pickpocket 62
-Improvised Picking [3] Manual Dexterity 7+, Locksmith 63
-Locksmith [2] Manual Dexterity 7+, Lockpicking 63
-Conjuror [2] Manual Dexterity 7+, Tricks 63
-Illusionist [3] Manual Dexterity 10+, Conjuror 63
-Lock Specialist [3] Manual Dexterity 10+, Locksmith 63
-Master Pickpocket [3] Manual Dexterity 10+, Experienced Pickpocket 63
+| Expertise | Complexity | Requirement | Page |
+|---|---|---|---|
+| Pickpocket | [2] | Manual Dexterity 4+ | 63 |
+| Lockpicking | [2] | Manual Dexterity 4+ | 63 |
+| Tricks | [1] | Manual Dexterity 4+ | 63 |
+| Experienced Pickpocket | [2] | Manual Dexterity 7+, Pickpocket | 62 |
+| Improvised Picking | [3] | Manual Dexterity 7+, Locksmith | 63 |
+| Locksmith | [2] | Manual Dexterity 7+, Lockpicking | 63 |
+| Conjuror | [2] | Manual Dexterity 7+, Tricks | 63 |
+| Illusionist | [3] | Manual Dexterity 10+, Conjuror | 63 |
+| Lock Specialist | [3] | Manual Dexterity 10+, Locksmith | 63 |
+| Master Pickpocket | [3] | Manual Dexterity 10+, Experienced Pickpocket | 63 |
 
-Driver [1] Vehicles 4+ 63
-Locomotive Engineer [1] Vehicles 4+ 63
-Airman [1] Vehicles 4+ 64
-Pilot [2] Vehicles 4+ 64
-Skipper [1] Vehicles 4+ 64
-Experienced Driver [2] Vehicles 7+, Driver 63
-Veteran [3] Vehicles 7+, Pilot 64
-Master Driver [3] Vehicles 10+, Experienced Driver 64
-Ace [3] Vehicles 10+, Veteran 64
+| Expertise | Complexity | Requirement | Page |
+|---|---|---|---|
+| Driver | [1] | Vehicles 4+ | 63 |
+| Locomotive Engineer | [1] | Vehicles 4+ | 63 |
+| Airman | [1] | Vehicles 4+ | 64 |
+| Pilot | [2] | Vehicles 4+ | 64 |
+| Skipper | [1] | Vehicles 4+ | 64 |
+| Experienced Driver | [2] | Vehicles 7+, Driver | 63 |
+| Veteran | [3] | Vehicles 7+, Pilot | 64 |
+| Master Driver | [3] | Vehicles 10+, Experienced Driver | 64 |
+| Ace | [3] | Vehicles 10+, Veteran | 64 |
 
-Academic Specialization [2] Humanities 4+ 64
-Linguist [2] Humanities 4+ 64
-Academic Specialist [2] Humanities 7+, Academic Specialization (within field) 64
-Academic Authority [3] Humanities 10+, Academic Specialist (within field) 64
+| Expertise | Complexity | Requirement | Page |
+|---|---|---|---|
+| Academic Specialization | [2] | Humanities 4+ | 64 |
+| Linguist | [2] | Humanities 4+ | 64 |
+| Academic Specialist | [2] | Humanities 7+, Academic Specialization (within field) | 64 |
+| Academic Authority | [3] | Humanities 10+, Academic Specialist (within field) | 64 |
 
-Gut Feeling [2] Intuition 4+ 64
-Inspiration [2] Intuition 4+ 64
-Instinct [2] Intuition 4+ 64
-Sense of Direction [1] Intuition 4+ 64
-Eyes in the Back of Your Head [2] Intuition 4+ 65
-"Something's Wrong" [2] Intuition 7+, Instinct 65
-See Through Person [3] Intuition 7+, Instinct 65
-Self-Preservation Instinct [3] Intuition 7+, Instinct 65
-Vigilant [2] Intuition 7+, Eyes in the Back of Your Head 65
-Sixth Sense [4] Intuition 10+, Vigilant 65
+| Expertise | Complexity | Requirement | Page |
+|---|---|---|---|
+| Gut Feeling | [2] | Intuition 4+ | 64 |
+| Inspiration | [2] | Intuition 4+ | 64 |
+| Instinct | [2] | Intuition 4+ | 64 |
+| Sense of Direction | [1] | Intuition 4+ | 64 |
+| Eyes in the Back of Your Head | [2] | Intuition 4+ | 65 |
+| "Something's Wrong" | [2] | Intuition 7+, Instinct | 65 |
+| See Through Person | [3] | Intuition 7+, Instinct | 65 |
+| Self-Preservation Instinct | [3] | Intuition 7+, Instinct | 65 |
+| Vigilant | [2] | Intuition 7+, Eyes in the Back of Your Head | 65 |
+| Sixth Sense | [4] | Intuition 10+, Vigilant | 65 |
+
 Expertise [Complexity] Requirement Page
-Throwing Technique [2] Throwing Weapons 4+ 65
-Combat Ready [2] Throwing Weapons 4+ 66
-Avoid [2] Throwing Weapons 4+ 66
-Sidestep [3] Throwing Weapons 7+ 66
-Draw and Throw [3] Throwing Weapons 7+, Throwing Specialist 65
-"Bullseye" [3] Throwing Weapons 7+, Throwing Specialist 65
-Throwing Specialist [2] Throwing Weapons 7+, Throwing Technique (type of throwing weapon) 65
-Precision Throw [2] Throwing Weapons 7+, Throwing Technique (type of throwing weapon) 66
-Double Throw [3] Throwing Weapons 10+, Throwing Specialist 65
-Repetition [2] Throwing Weapons 10+, Draw and Throw 66
-Killing Throw [4] Throwing Weapons 13+, "Bullseye" 65
-Double Targets [3] Throwing Weapons 13+, Double Throw 65
-Master Sidestep [3] Throwing Weapons 13+, Sidestep 66
+| Expertise | Complexity | Requirement | Page |
+|---|---|---|---|
+| Throwing Technique | [2] | Throwing Weapons 4+ | 65 |
+| Combat Ready | [2] | Throwing Weapons 4+ | 66 |
+| Avoid | [2] | Throwing Weapons 4+ | 66 |
+| Sidestep | [3] | Throwing Weapons 7+ | 66 |
+| Draw and Throw | [3] | Throwing Weapons 7+, Throwing Specialist | 65 |
+| "Bullseye" | [3] | Throwing Weapons 7+, Throwing Specialist | 65 |
+| Throwing Specialist | [2] | Throwing Weapons 7+, Throwing Technique (type of throwing weapon) | 65 |
+| Precision Throw | [2] | Throwing Weapons 7+, Throwing Technique (type of throwing weapon) | 66 |
+| Double Throw | [3] | Throwing Weapons 10+, Throwing Specialist | 65 |
+| Repetition | [2] | Throwing Weapons 10+, Draw and Throw | 66 |
+| Killing Throw | [4] | Throwing Weapons 13+, "Bullseye" | 65 |
+| Double Targets | [3] | Throwing Weapons 13+, Double Throw | 65 |
+| Master Sidestep | [3] | Throwing Weapons 13+, Sidestep | 66 |
 
-Diving [2] Stamina 4+, Swimming 66
-Good Shape [2] Stamina 4+ 66
-March [1] Stamina 4+ 66
-Swimming [1] Stamina 4+ 66
-Sprint [1] Stamina 4+ 66
-Very Good Shape [2] Stamina 7+, Good Shape 66
-Tenacious [2] Stamina 7+ 66
-Strong Lungs [2] Stamina 7+ 66
-Exceptionally Good Shape [3] Stamina 10+, Very Good Shape 66
-Very Tenacious [3] Stamina 10+, Tenacious 66
-Take It Like a Man [4] Stamina 10+ 66
-Extremely Tenacious [3] Stamina 13+, Tenacious 66
-Fantastically Good Shape [4] Stamina 13+, Exceptionally Good Shape 66
+| Expertise | Complexity | Requirement | Page |
+|---|---|---|---|
+| Diving | [2] | Stamina 4+, Swimming | 66 |
+| Good Shape | [2] | Stamina 4+ | 66 |
+| March | [1] | Stamina 4+ | 66 |
+| Swimming | [1] | Stamina 4+ | 66 |
+| Sprint | [1] | Stamina 4+ | 66 |
+| Very Good Shape | [2] | Stamina 7+, Good Shape | 66 |
+| Tenacious | [2] | Stamina 7+ | 66 |
+| Strong Lungs | [2] | Stamina 7+ | 66 |
+| Exceptionally Good Shape | [3] | Stamina 10+, Very Good Shape | 66 |
+| Very Tenacious | [3] | Stamina 10+, Tenacious | 66 |
+| Take It Like a Man | [4] | Stamina 10+ | 66 |
+| Extremely Tenacious | [3] | Stamina 13+, Tenacious | 66 |
+| Fantastically Good Shape | [4] | Stamina 13+, Exceptionally Good Shape | 66 |
 
-Technical Specialization [2] Engineering 4+ 67
-Technical Specialist [2] Engineering 7+, Technical Specialization (within area) 67
-Technical Authority [3] Engineering 10+, Technical Specialist (within area) 67
+| Expertise | Complexity | Requirement | Page |
+|---|---|---|---|
+| Technical Specialization | [2] | Engineering 4+ | 67 |
+| Technical Specialist | [2] | Engineering 7+, Technical Specialization (within area) | 67 |
+| Technical Authority | [3] | Engineering 10+, Technical Specialist (within area) | 67 |
 
-Animal Trainer [2] Leadership 4+ 67
-Presence [2] Leadership 4+ 68
-Rhetoric [2] Leadership 4+ 68
-Teach [2] Leadership 4+ 68
-Gravitas [2] Leadership 7+, Rhetoric (grouping) 68
-Commanding Respect [2] Leadership 7+, Presence 68
-Intimidating [2] Leadership 7+, Rhetoric 68
-Train [2] Leadership 7+, Teach 68
-Control [3] Leadership 10+, Gravitas (grouping) 67
-Brilliant Pedagogue [3] Leadership 10+, Train 67
+| Expertise | Complexity | Requirement | Page |
+|---|---|---|---|
+| Animal Trainer | [2] | Leadership 4+ | 67 |
+| Presence | [2] | Leadership 4+ | 68 |
+| Rhetoric | [2] | Leadership 4+ | 68 |
+| Teach | [2] | Leadership 4+ | 68 |
+| Gravitas | [2] | Leadership 7+, Rhetoric (grouping) | 68 |
+| Commanding Respect | [2] | Leadership 7+, Presence | 68 |
+| Intimidating | [2] | Leadership 7+, Rhetoric | 68 |
+| Train | [2] | Leadership 7+, Teach | 68 |
+| Control | [3] | Leadership 10+, Gravitas (grouping) | 67 |
+| Brilliant Pedagogue | [3] | Leadership 10+, Train | 67 |
 
-Medical Specialization [2] Medicine 4+ 68
-Medical Specialist [2] Medicine 7+, Medical Specialization (within area) 68
-Medical Authority [3] Medicine 10+, Medical Specialist (within area) 68
+| Expertise | Complexity | Requirement | Page |
+|---|---|---|---|
+| Medical Specialization | [2] | Medicine 4+ | 68 |
+| Medical Specialist | [2] | Medicine 7+, Medical Specialization (within area) | 68 |
+| Medical Authority | [3] | Medicine 10+, Medical Specialist (within area) | 68 |
 
-Perceptive [2] Resist 4+ 68
-Very Perceptive [2] Resist 7+, Perceptive 68
-Exceptionally Perceptive [3] Resist 10+, Very Perceptive 68
+| Expertise | Complexity | Requirement | Page |
+|---|---|---|---|
+| Perceptive | [2] | Resist 4+ | 68 |
+| Very Perceptive | [2] | Resist 7+, Perceptive | 68 |
+| Exceptionally Perceptive | [3] | Resist 10+, Very Perceptive | 68 |
 
-Natural Science Specialization [2] Natural Science 4+ 69
-Natural Science Specialist [2] Natural Science 7+, Natural Science Specialization (within field) 69
-Natural Science Authority [3] Natural Science 10+, Natural Science Specialist (within field) 68
+| Expertise | Complexity | Requirement | Page |
+|---|---|---|---|
+| Natural Science Specialization | [2] | Natural Science 4+ | 69 |
+| Natural Science Specialist | [2] | Natural Science 7+, Natural Science Specialization (within field) | 69 |
+| Natural Science Authority | [3] | Natural Science 10+, Natural Science Specialist (within field) | 68 |
 
-Amateur Boxing [2] Melee 4+ 69
-Martial Arts Trained [2] Melee 4+ 69
-Melee Weapons [2] Melee 4+ 69
-Self-Defense [2] Melee 4+ 70
-Brawl [2] Melee 4+ 70
-Combat Prepared [2] Melee 4+ 70
-Wrestling [2] Melee 7+, Brawl 69
-Defensive Techniques [3] Melee 7+, Martial Arts Trained 70
-Counterattack [3] Melee 7+ 69
-Offensive Techniques [3] Melee 7+, Martial Arts Trained 69
+| Expertise | Complexity | Requirement | Page |
+|---|---|---|---|
+| Amateur Boxing | [2] | Melee 4+ | 69 |
+| Martial Arts Trained | [2] | Melee 4+ | 69 |
+| Melee Weapons | [2] | Melee 4+ | 69 |
+| Self-Defense | [2] | Melee 4+ | 70 |
+| Brawl | [2] | Melee 4+ | 70 |
+| Combat Prepared | [2] | Melee 4+ | 70 |
+| Wrestling | [2] | Melee 7+, Brawl | 69 |
+| Defensive Techniques | [3] | Melee 7+, Martial Arts Trained | 70 |
+| Counterattack | [3] | Melee 7+ | 69 |
+| Offensive Techniques | [3] | Melee 7+, Martial Arts Trained | 69 |
+
 **List of All Expertises**
 
 Expertise [Complexity] Requirement Page
-Parry [2] Melee 7+, Melee Weapons (type of melee weapon) 69
-Professional Boxing [3] Melee 7+, Amateur Boxing 70
-Slugger [2] Melee 7+, Brawl 70
-Chokehold [4] Melee 7+ 70
-Two-Weapon Practitioner [3] Melee 7+, Weapon Master 70
-Weapon Master [2] Melee 7+, Melee Weapons (type of melee weapon) 70
-Block [2] Melee 10+, Defensive Techniques 69
-Draw and Attack [2] Melee 10+, Weapon Master 69
-Knockout Blow [3] Melee 10+, Professional Boxing 69
-Clean Strikes [3] Melee 10+, Weapon Master 70
-Strike Sequences [2] Melee 10+, Offensive Techniques 70
-Superiority [2] Melee 10+, Defensive Techniques 70
-Neutralize [3] Melee 13+, Defensive Techniques 69
-Precision Attacks [3] Melee 13+, Strike Sequences 70
-Two-Weapon Master [3] Melee 13+, Two-Weapon Practitioner 70
+| Expertise | Complexity | Requirement | Page |
+|---|---|---|---|
+| Parry | [2] | Melee 7+, Melee Weapons (type of melee weapon) | 69 |
+| Professional Boxing | [3] | Melee 7+, Amateur Boxing | 70 |
+| Slugger | [2] | Melee 7+, Brawl | 70 |
+| Chokehold | [4] | Melee 7+ | 70 |
+| Two-Weapon Practitioner | [3] | Melee 7+, Weapon Master | 70 |
+| Weapon Master | [2] | Melee 7+, Melee Weapons (type of melee weapon) | 70 |
+| Block | [2] | Melee 10+, Defensive Techniques | 69 |
+| Draw and Attack | [2] | Melee 10+, Weapon Master | 69 |
+| Knockout Blow | [3] | Melee 10+, Professional Boxing | 69 |
+| Clean Strikes | [3] | Melee 10+, Weapon Master | 70 |
+| Strike Sequences | [2] | Melee 10+, Offensive Techniques | 70 |
+| Superiority | [2] | Melee 10+, Defensive Techniques | 70 |
+| Neutralize | [3] | Melee 13+, Defensive Techniques | 69 |
+| Precision Attacks | [3] | Melee 13+, Strike Sequences | 70 |
+| Two-Weapon Master | [3] | Melee 13+, Two-Weapon Practitioner | 70 |
 
-Duck [2] Reactions 4+ 70
-Blast Sense [2] Reactions 4+ 70
-Nimble [2] Reactions 4+ 71
-Quick Reactions [2] Reactions 4+ 71
-Lightning Parry [2] Reactions 7+ 70
-Rapid Movement [2] Reactions 7+ 71
-See Opportunities [3] Reactions 7+ 71
-Spinal Reflex [2] Reactions 7+ 71
-Combat Impulses [2] Reactions 7+, Quick Reactions 71
-Combat Reflexes [3] Reactions 10+, Combat Impulses 71
-Exploit the Situation [3] Reactions 10+, See Opportunities 71
+| Expertise | Complexity | Requirement | Page |
+|---|---|---|---|
+| Duck | [2] | Reactions 4+ | 70 |
+| Blast Sense | [2] | Reactions 4+ | 70 |
+| Nimble | [2] | Reactions 4+ | 71 |
+| Quick Reactions | [2] | Reactions 4+ | 71 |
+| Lightning Parry | [2] | Reactions 7+ | 70 |
+| Rapid Movement | [2] | Reactions 7+ | 71 |
+| See Opportunities | [3] | Reactions 7+ | 71 |
+| Spinal Reflex | [2] | Reactions 7+ | 71 |
+| Combat Impulses | [2] | Reactions 7+, Quick Reactions | 71 |
+| Combat Reflexes | [3] | Reactions 10+, Combat Impulses | 71 |
+| Exploit the Situation | [3] | Reactions 10+, See Opportunities | 71 |
 
-Jaded [2] Resistance 4+ 71
-Fearless [3] Resistance 4+ 71
-Very Jaded [2] Resistance 7+, Jaded 71
-Extremely Jaded [3] Resistance 10+, Very Jaded 71
-Nerves of Steel [2] Resistance 10+ 71
-Insensitive to Pain [4] Resistance 13+ 71
+| Expertise | Complexity | Requirement | Page |
+|---|---|---|---|
+| Jaded | [2] | Resistance 4+ | 71 |
+| Fearless | [3] | Resistance 4+ | 71 |
+| Very Jaded | [2] | Resistance 7+, Jaded | 71 |
+| Extremely Jaded | [3] | Resistance 10+, Very Jaded | 71 |
+| Nerves of Steel | [2] | Resistance 10+ | 71 |
+| Insensitive to Pain | [4] | Resistance 13+ | 71 |
 
-Agile [1] Mobility 4+ 72
-Breakfall Technique [2] Mobility 7+ 71
-Flexible [2] Mobility 7+, Agile (within area) 72
-Fast [2] Mobility 7+ 72
-Fleet-Footed [2] Mobility 10+, Fast 71
-Graceful [3] Mobility 10+, Flexible (within area) 71
+| Expertise | Complexity | Requirement | Page |
+|---|---|---|---|
+| Agile | [1] | Mobility 4+ | 72 |
+| Breakfall Technique | [2] | Mobility 7+ | 71 |
+| Flexible | [2] | Mobility 7+, Agile (within area) | 72 |
+| Fast | [2] | Mobility 7+ | 72 |
+| Fleet-Footed | [2] | Mobility 10+, Fast | 71 |
+| Graceful | [3] | Mobility 10+, Flexible (within area) | 71 |
 
-Aura of Calm [2] Sanity 4+ 72
-Ice Cold [3] Sanity 4+ 72
-Self-Discipline [3] Sanity 4+ 73
-Inner Reserve [2] Sanity 7+, Self-Discipline 72
-Strong-Willed [3] Sanity 7+ 73
-Balanced Psyche [4] Sanity 10+, Self-Discipline 72
-Inner Calm [3] Sanity 10+, Strong-Willed 72
-Come to One's Senses [2] Sanity 10+, Self-Discipline 72
-Wellspring [3] Sanity 10+, Inner Reserve 73
-Play Dead [4] Sanity 10+, Self-Discipline 73
-Cheat Death [5] Sanity 13+, Self-Discipline 73
-Self-Healing [5] Sanity 13+, Self-Discipline 73
+| Expertise | Complexity | Requirement | Page |
+|---|---|---|---|
+| Aura of Calm | [2] | Sanity 4+ | 72 |
+| Ice Cold | [3] | Sanity 4+ | 72 |
+| Self-Discipline | [3] | Sanity 4+ | 73 |
+| Inner Reserve | [2] | Sanity 7+, Self-Discipline | 72 |
+| Strong-Willed | [3] | Sanity 7+ | 73 |
+| Balanced Psyche | [4] | Sanity 10+, Self-Discipline | 72 |
+| Inner Calm | [3] | Sanity 10+, Strong-Willed | 72 |
+| Come to One's Senses | [2] | Sanity 10+, Self-Discipline | 72 |
+| Wellspring | [3] | Sanity 10+, Inner Reserve | 73 |
+| Play Dead | [4] | Sanity 10+, Self-Discipline | 73 |
+| Cheat Death | [5] | Sanity 13+, Self-Discipline | 73 |
+| Self-Healing | [5] | Sanity 13+, Self-Discipline | 73 |
 
-Creator [2] Create 4+ 73
-Outstanding Creator [2] Create 7+, Creator (within area) 73
-Virtuoso [3] Create 10+, Outstanding Creator (within area) 73
+| Expertise | Complexity | Requirement | Page |
+|---|---|---|---|
+| Creator | [2] | Create 4+ | 73 |
+| Outstanding Creator | [2] | Create 7+, Creator (within area) | 73 |
+| Virtuoso | [3] | Create 10+, Outstanding Creator (within area) | 73 |
 
-Much Lead in the Air [2] Firearms 4+, Weapon Handling (correct weapon category) 74
-Suppressive Fire [2] Firearms 4+, Weapon Handling (correct weapon category) 74
-Battle Hardened [2] Firearms 4+ 75
-Take Cover [2] Firearms 4+ 75
-Weapon Expert [1] Firearms 4+, Weapon Handling (correct weapon category) 75
-Weapon Handling [2] Firearms 4+ 75
+| Expertise | Complexity | Requirement | Page |
+|---|---|---|---|
+| Much Lead in the Air | [2] | Firearms 4+, Weapon Handling (correct weapon category) | 74 |
+| Suppressive Fire | [2] | Firearms 4+, Weapon Handling (correct weapon category) | 74 |
+| Battle Hardened | [2] | Firearms 4+ | 75 |
+| Take Cover | [2] | Firearms 4+ | 75 |
+| Weapon Expert | [1] | Firearms 4+, Weapon Handling (correct weapon category) | 75 |
+| Weapon Handling | [2] | Firearms 4+ | 75 |
+
 Expertise [Complexity] Requirement Page
-Hail of Bullets [2] Firearms 7+, Much Lead in the Air 74
-Massive Return Fire [3] Firearms 7+, Two-Gun Shooting 74
-Return Fire [3] Firearms 7+, Weapon Expert 74
-Marksmanship [3] Firearms 7+, Weapon Expert (a rifle with scope) 74
-Shot Placement [2] Firearms 7+, Weapon Expert 74
-Heavy Weapons Specialist [4] Firearms 7+, Weapon Expert (a heavy weapon) 75
-"Take Cover!" [2] Firearms 7+ 75
-Two-Gun Shooting [3] Firearms 7+, Weapon Expert (some one-handed firearm) 75
-Controlled Fire [3] Firearms 10+, Weapon Expert 73
-Double Reload [2] Firearms 10+, Two-Gun Shooting 74
-Double Tap [3] Firearms 10+, Weapon Expert (some one-handed firearm) 74
-Multiple Targets [3] Firearms 10+, Two-Gun Shooting 74
-"Close Only Counts in Horseshoes!" [3] Firearms 10+, "Take Cover!" 74
-Quick Draw [2] Firearms 10+, Weapon Expert 75
-Critical Hits [2] Firearms 10+, Shot Placement 74
-Escape [2] Firearms 10+, "Take Cover!" 75
-Gun Play [2] Firearms 10+, Weapon Expert 75
-Executioner [4] Firearms 13+, Weapon Expert 73
-Many Targets [4] Firearms 13+, Multiple Targets 74
-"Two in the Head and One in the Chest" [4] Firearms 13+, Weapon Expert 75
+| Expertise | Complexity | Requirement | Page |
+|---|---|---|---|
+| Hail of Bullets | [2] | Firearms 7+, Much Lead in the Air | 74 |
+| Massive Return Fire | [3] | Firearms 7+, Two-Gun Shooting | 74 |
+| Return Fire | [3] | Firearms 7+, Weapon Expert | 74 |
+| Marksmanship | [3] | Firearms 7+, Weapon Expert (a rifle with scope) | 74 |
+| Shot Placement | [2] | Firearms 7+, Weapon Expert | 74 |
+| Heavy Weapons Specialist | [4] | Firearms 7+, Weapon Expert (a heavy weapon) | 75 |
+| "Take Cover!" | [2] | Firearms 7+ | 75 |
+| Two-Gun Shooting | [3] | Firearms 7+, Weapon Expert (some one-handed firearm) | 75 |
+| Controlled Fire | [3] | Firearms 10+, Weapon Expert | 73 |
+| Double Reload | [2] | Firearms 10+, Two-Gun Shooting | 74 |
+| Double Tap | [3] | Firearms 10+, Weapon Expert (some one-handed firearm) | 74 |
+| Multiple Targets | [3] | Firearms 10+, Two-Gun Shooting | 74 |
+| "Close Only Counts in Horseshoes!" | [3] | Firearms 10+, "Take Cover!" | 74 |
+| Quick Draw | [2] | Firearms 10+, Weapon Expert | 75 |
+| Critical Hits | [2] | Firearms 10+, Shot Placement | 74 |
+| Escape | [2] | Firearms 10+, "Take Cover!" | 75 |
+| Gun Play | [2] | Firearms 10+, Weapon Expert | 75 |
+| Executioner | [4] | Firearms 13+, Weapon Expert | 73 |
+| Many Targets | [4] | Firearms 13+, Multiple Targets | 74 |
+| "Two in the Head and One in the Chest" | [4] | Firearms 13+, Weapon Expert | 75 |
 
-Clear-Minded [2] Deduction 4+ 75
-Smart [2] Deduction 7+, Clear-Minded (within area) 75
-Genius [3] Deduction 10+, Smart (within area) 75
+| Expertise | Complexity | Requirement | Page |
+|---|---|---|---|
+| Clear-Minded | [2] | Deduction 4+ | 75 |
+| Smart | [2] | Deduction 7+, Clear-Minded (within area) | 75 |
+| Genius | [3] | Deduction 10+, Smart (within area) | 75 |
 
-Lift/Drag [1] Strength 4+ 77
-Well-Trained [2] Strength 4+ 77
-Beefy [2] Strength 7+, Well-Trained 77
-Lead Fists [2] Strength 7+ 77
-Menacing [2] Strength 7+, Beefy 77
-Iron Fists [2] Strength 10+, Lead Fists 77
-Muscular [3] Strength 10+, Beefy 77
-Robust [3] Strength 10+, Beefy 77
-Strike/Break Objects [3] Strength 10+, Lead Fists 77
-Enormously Strong [3] Strength 13+, Muscular 77
-Pulverize/Tear Apart Objects [4] Strength 13+, Strike/Break Objects 77
-Steel Fists [3] Strength 13+, Iron Fists 77
+| Expertise | Complexity | Requirement | Page |
+|---|---|---|---|
+| Lift/Drag | [1] | Strength 4+ | 77 |
+| Well-Trained | [2] | Strength 4+ | 77 |
+| Beefy | [2] | Strength 7+, Well-Trained | 77 |
+| Lead Fists | [2] | Strength 7+ | 77 |
+| Menacing | [2] | Strength 7+, Beefy | 77 |
+| Iron Fists | [2] | Strength 10+, Lead Fists | 77 |
+| Muscular | [3] | Strength 10+, Beefy | 77 |
+| Robust | [3] | Strength 10+, Beefy | 77 |
+| Strike/Break Objects | [3] | Strength 10+, Lead Fists | 77 |
+| Enormously Strong | [3] | Strength 13+, Muscular | 77 |
+| Pulverize/Tear Apart Objects | [4] | Strength 13+, Strike/Break Objects | 77 |
+| Steel Fists | [3] | Strength 13+, Iron Fists | 77 |
 
-Resilient [2] Tolerance 4+ 77
-Withdrawal Control [2] Tolerance 7+ 77
-Very Resilient [2] Tolerance 7+, Resilient 77
-Exceptionally Resilient [3] Tolerance 10+, Very Resilient 77
+| Expertise | Complexity | Requirement | Page |
+|---|---|---|---|
+| Resilient | [2] | Tolerance 4+ | 77 |
+| Withdrawal Control | [2] | Tolerance 7+ | 77 |
+| Very Resilient | [2] | Tolerance 7+, Resilient | 77 |
+| Exceptionally Resilient | [3] | Tolerance 10+, Very Resilient | 77 |
 
-Observant [2] Awareness 4+ 78
-Very Observant [2] Awareness 7+, Observant (within area) 78
-Extremely Observant [3] Awareness 10+, Very Observant (within area) 77
+| Expertise | Complexity | Requirement | Page |
+|---|---|---|---|
+| Observant | [2] | Awareness 4+ | 78 |
+| Very Observant | [2] | Awareness 7+, Observant (within area) | 78 |
+| Extremely Observant | [3] | Awareness 10+, Very Observant (within area) | 77 |
 
-Polite [2] Streetwise 4+ 78
-Well-Versed [1] Streetwise 4+ 78
-Know the Situation [2] Streetwise 4+ 78
-Local Knowledge [1] Streetwise 4+ 78
-Gambler [1] Streetwise 4+ 79
-Well-Dressed [2] Streetwise 4+ 79
-Fixer [3] Streetwise 7+, Know the Situation 78
-In-Depth Local Knowledge [2] Streetwise 7+, Local Knowledge 78
-Very Well-Versed [2] Streetwise 7+, Well-Versed (grouping) 78
-Skilled Gambler [2] Streetwise 7+, Gambler (type of game) 79
-Style & Taste [2] Streetwise 7+, Well-Dressed 79
-Extremely Well-Versed [3] Streetwise 10+, Very Well-Versed (grouping) 78
-Very Skilled Gambler [2] Streetwise 10+, Skilled Gambler (type of game) 78
+| Expertise | Complexity | Requirement | Page |
+|---|---|---|---|
+| Polite | [2] | Streetwise 4+ | 78 |
+| Well-Versed | [1] | Streetwise 4+ | 78 |
+| Know the Situation | [2] | Streetwise 4+ | 78 |
+| Local Knowledge | [1] | Streetwise 4+ | 78 |
+| Gambler | [1] | Streetwise 4+ | 79 |
+| Well-Dressed | [2] | Streetwise 4+ | 79 |
+| Fixer | [3] | Streetwise 7+, Know the Situation | 78 |
+| In-Depth Local Knowledge | [2] | Streetwise 7+, Local Knowledge | 78 |
+| Very Well-Versed | [2] | Streetwise 7+, Well-Versed (grouping) | 78 |
+| Skilled Gambler | [2] | Streetwise 7+, Gambler (type of game) | 79 |
+| Style & Taste | [2] | Streetwise 7+, Well-Dressed | 79 |
+| Extremely Well-Versed | [3] | Streetwise 10+, Very Well-Versed (grouping) | 78 |
+| Very Skilled Gambler | [2] | Streetwise 10+, Skilled Gambler (type of game) | 78 |
 
-Convincing [2] Persuade 4+ 79
-Very Convincing [2] Persuade 7+, Convincing (within sphere) 79
-Extremely Convincing [3] Persuade 10+, Very Convincing (within sphere) 79
+| Expertise | Complexity | Requirement | Page |
+|---|---|---|---|
+| Convincing | [2] | Persuade 4+ | 79 |
+| Very Convincing | [2] | Persuade 7+, Convincing (within sphere) | 79 |
+| Extremely Convincing | [3] | Persuade 10+, Very Convincing (within sphere) | 79 |
+
 **List of All Expertises**
 
 **Requirements:** Empathy 10+, Tangible Reading
